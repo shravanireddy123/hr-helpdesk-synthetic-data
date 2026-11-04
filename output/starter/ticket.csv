@@ -1,0 +1,501 @@
+ticket_id,employee_id,category_id,subject,created_at,priority,is_sensitive,is_ambiguous,missing_context
+TKT-2026-000001,EMP-000181,CAT-LEAVE,Maternity leave eligibility and notice period,2026-01-05T16:03:45,P3,False,False,False
+TKT-2026-000002,EMP-000039,CAT-BENEFITS,Claiming my wellness allowance,2026-01-05T16:51:01,P3,False,False,False
+TKT-2026-000003,EMP-000143,CAT-PAYROLL,Something is wrong with my pay,2026-01-07T14:28:15,P2,False,True,False
+TKT-2026-000004,EMP-000173,CAT-ONBOARDING,Background verification status,2026-01-08T10:20:40,P3,False,False,False
+TKT-2026-000005,EMP-000082,CAT-LEAVE,Carry forward of unused leave to next year,2026-01-08T14:26:34,P3,False,False,False
+TKT-2026-000006,EMP-000093,CAT-PAYROLL,My salary was short this month,2026-01-09T10:11:36,P2,False,False,False
+TKT-2026-000007,EMP-000137,CAT-PAYROLL,Tax declaration proof submission deadline,2026-01-09T12:24:26,P2,False,False,False
+TKT-2026-000008,EMP-000147,CAT-ONBOARDING,Documents needed for joining formalities,2026-01-12T12:17:02,P3,False,False,False
+TKT-2026-000009,EMP-000176,CAT-LEAVE,How many annual leave days do I have left?,2026-01-12T14:49:23,P3,False,False,False
+TKT-2026-000010,EMP-000091,CAT-ONBOARDING,Laptop not delivered before joining date,2026-01-13T10:08:33,P3,False,False,False
+TKT-2026-000011,EMP-000164,CAT-PAYROLL,Bonus payout date query,2026-01-13T10:18:34,P2,False,False,False
+TKT-2026-000012,EMP-000037,CAT-LEAVE,Medical leave certificate requirement,2026-01-13T15:21:03,P1,True,False,False
+TKT-2026-000013,EMP-000194,CAT-ONBOARDING,Induction schedule for first week,2026-01-13T18:53:24,P3,False,False,False
+TKT-2026-000014,EMP-000058,CAT-ONBOARDING,Background verification status,2026-01-14T09:53:20,P3,False,False,False
+TKT-2026-000015,EMP-000013,CAT-BENEFITS,Adding a dependent to group health insurance,2026-01-14T14:59:48,P3,False,False,False
+TKT-2026-000016,EMP-000149,CAT-BENEFITS,Meal card top-up not received,2026-01-14T18:57:32,P3,False,False,False
+TKT-2026-000017,EMP-000095,CAT-ONBOARDING,Induction schedule for first week,2026-01-15T09:06:30,P3,False,False,False
+TKT-2026-000018,EMP-000170,CAT-LEAVE,Question about my leave,2026-01-15T10:15:22,P3,False,True,False
+TKT-2026-000019,EMP-000132,CAT-BENEFITS,Adding a dependent to group health insurance,2026-01-15T13:22:39,P3,False,False,False
+TKT-2026-000020,EMP-000147,CAT-ONBOARDING,Background verification status,2026-01-15T14:57:54,P3,False,False,False
+TKT-2026-000021,EMP-000101,CAT-BENEFITS,Adding a dependent to group health insurance,2026-01-15T18:15:13,P3,False,False,False
+TKT-2026-000022,EMP-000039,CAT-GENERAL,Visitor registration for the office,2026-01-16T14:27:57,P3,False,False,False
+TKT-2026-000023,EMP-000154,CAT-ONBOARDING,Induction schedule for first week,2026-01-16T20:57:53,P3,False,False,False
+TKT-2026-000024,EMP-000147,CAT-BENEFITS,Meal card top-up not received,2026-01-18T13:40:19,P3,False,False,False
+TKT-2026-000025,EMP-000191,CAT-ONBOARDING,VPN access request for new joiner,2026-01-19T09:51:31,P3,False,False,False
+TKT-2026-000026,EMP-000036,CAT-LEAVE,How many annual leave days do I have left?,2026-01-19T14:01:42,P3,False,False,False
+TKT-2026-000027,EMP-000116,CAT-GENERAL,Work from home days allowed per week,2026-01-19T16:22:59,P3,False,False,False
+TKT-2026-000028,EMP-000131,CAT-BENEFITS,Need help with my benefits,2026-01-19T17:35:06,P3,False,True,False
+TKT-2026-000029,EMP-000019,CAT-BENEFITS,Need help with my benefits,2026-01-19T17:53:58,P3,False,True,False
+TKT-2026-000030,EMP-000105,CAT-LEAVE,Maternity leave eligibility and notice period,2026-01-20T09:23:29,P3,False,False,False
+TKT-2026-000031,EMP-000028,CAT-PAYROLL,Tax declaration proof submission deadline,2026-01-20T10:06:47,P2,False,False,False
+TKT-2026-000032,EMP-000086,CAT-LEAVE,Medical leave certificate requirement,2026-01-20T15:39:47,P1,True,False,False
+TKT-2026-000033,EMP-000158,CAT-GENERAL,Employee referral bonus query,2026-01-21T13:30:03,P3,False,False,False
+TKT-2026-000034,EMP-000141,CAT-LEAVE,Medical leave certificate requirement,2026-01-22T10:19:44,P1,True,False,False
+TKT-2026-000035,EMP-000160,CAT-LEAVE,Sick leave balance for this year,2026-01-22T12:57:59,P3,False,False,False
+TKT-2026-000036,EMP-000099,CAT-LEAVE,Question about my leave,2026-01-22T14:36:51,P3,False,True,False
+TKT-2026-000037,EMP-000120,CAT-PAYROLL,Reimbursement claim still pending,2026-01-23T09:41:55,P2,False,False,False
+TKT-2026-000038,EMP-000120,CAT-PAYROLL,My salary was short this month,2026-01-23T10:46:47,P2,False,False,False
+TKT-2026-000039,EMP-000126,CAT-ONBOARDING,VPN access request for new joiner,2026-01-23T17:23:09,P3,False,False,False
+TKT-2026-000040,EMP-000036,CAT-PAYROLL,My salary was short this month,2026-01-24T14:33:51,P2,False,False,False
+TKT-2026-000041,EMP-000011,CAT-ER,Request for medical accommodation at work,2026-01-25T13:37:34,P1,True,False,False
+TKT-2026-000042,EMP-000196,CAT-BENEFITS,Learning budget reimbursement process,2026-01-27T15:55:35,P3,False,False,False
+TKT-2026-000043,EMP-000161,CAT-LEAVE,Applying for compensatory off,2026-01-28T12:23:05,P3,False,False,False
+TKT-2026-000044,EMP-000042,CAT-LEAVE,Medical leave certificate requirement,2026-01-29T12:09:07,P1,True,False,False
+TKT-2026-000045,EMP-000182,CAT-LEAVE,Leave not showing correctly,2026-01-29T13:55:21,P3,False,False,True
+TKT-2026-000046,EMP-000036,CAT-ONBOARDING,Laptop not delivered before joining date,2026-01-29T14:31:26,P3,False,False,False
+TKT-2026-000047,EMP-000140,CAT-LEAVE,Maternity leave eligibility and notice period,2026-01-29T15:38:39,P3,False,False,False
+TKT-2026-000048,EMP-000105,CAT-ONBOARDING,Need help with joining,2026-01-29T17:42:21,P3,False,True,False
+TKT-2026-000049,EMP-000013,CAT-LEAVE,Applying for compensatory off,2026-01-29T18:11:28,P3,False,False,False
+TKT-2026-000050,EMP-000154,CAT-LEAVE,Applying for compensatory off,2026-01-30T13:56:38,P3,False,False,False
+TKT-2026-000051,EMP-000127,CAT-LEAVE,Sick leave balance for this year,2026-01-30T18:24:54,P3,False,False,False
+TKT-2026-000052,EMP-000167,CAT-BENEFITS,Learning budget reimbursement process,2026-01-31T17:41:33,P3,False,False,False
+TKT-2026-000053,EMP-000128,CAT-BENEFITS,Need help with my benefits,2026-02-02T10:43:54,P3,False,True,False
+TKT-2026-000054,EMP-000162,CAT-BENEFITS,Provident fund VPF contribution change,2026-02-02T11:38:04,P3,False,False,False
+TKT-2026-000055,EMP-000102,CAT-LEAVE,Carry forward of unused leave to next year,2026-02-02T13:33:29,P3,False,False,False
+TKT-2026-000056,EMP-000011,CAT-LEAVE,Maternity leave eligibility and notice period,2026-02-02T15:17:01,P3,False,False,False
+TKT-2026-000057,EMP-000197,CAT-BENEFITS,My claim was rejected,2026-02-03T17:45:19,P3,False,False,True
+TKT-2026-000058,EMP-000063,CAT-ONBOARDING,VPN access request for new joiner,2026-02-05T13:33:16,P3,False,False,False
+TKT-2026-000059,EMP-000015,CAT-LEAVE,Medical leave certificate requirement,2026-02-05T16:26:07,P1,True,False,False
+TKT-2026-000060,EMP-000126,CAT-PAYROLL,Something is wrong with my pay,2026-02-06T09:39:53,P2,False,True,False
+TKT-2026-000061,EMP-000178,CAT-LEAVE,Leave not showing correctly,2026-02-08T15:11:25,P3,False,False,True
+TKT-2026-000062,EMP-000106,CAT-LEAVE,Sick leave balance for this year,2026-02-09T15:35:45,P3,False,False,False
+TKT-2026-000063,EMP-000026,CAT-LEAVE,Leave not showing correctly,2026-02-10T18:26:39,P3,False,False,True
+TKT-2026-000064,EMP-000188,CAT-PAYROLL,Payslip for last month not available,2026-02-11T18:25:38,P2,False,False,False
+TKT-2026-000065,EMP-000116,CAT-LEAVE,Applying for compensatory off,2026-02-12T12:00:18,P3,False,False,False
+TKT-2026-000066,EMP-000012,CAT-LEAVE,Leave not showing correctly,2026-02-12T16:33:25,P3,False,False,True
+TKT-2026-000067,EMP-000027,CAT-ONBOARDING,VPN access request for new joiner,2026-02-12T17:01:06,P3,False,False,False
+TKT-2026-000068,EMP-000066,CAT-LEAVE,Question about my leave,2026-02-12T18:29:56,P3,False,True,False
+TKT-2026-000069,EMP-000161,CAT-PAYROLL,Reimbursement claim still pending,2026-02-13T16:17:59,P2,False,False,False
+TKT-2026-000070,EMP-000131,CAT-BENEFITS,Adding a dependent to group health insurance,2026-02-15T17:59:51,P3,False,False,False
+TKT-2026-000071,EMP-000061,CAT-GENERAL,Dress code for client days,2026-02-16T09:05:25,P3,False,False,False
+TKT-2026-000072,EMP-000192,CAT-PAYROLL,Reimbursement claim still pending,2026-02-16T17:14:11,P2,False,False,False
+TKT-2026-000073,EMP-000122,CAT-ONBOARDING,Need help with joining,2026-02-16T17:55:48,P3,False,True,False
+TKT-2026-000074,EMP-000047,CAT-BENEFITS,Claiming my wellness allowance,2026-02-17T12:36:29,P3,False,False,False
+TKT-2026-000075,EMP-000127,CAT-ONBOARDING,Need help with joining,2026-02-17T14:53:17,P3,False,True,False
+TKT-2026-000076,EMP-000066,CAT-LEAVE,How many annual leave days do I have left?,2026-02-17T16:41:50,P3,False,False,False
+TKT-2026-000077,EMP-000157,CAT-LEAVE,Sick leave balance for this year,2026-02-18T12:19:06,P3,False,False,False
+TKT-2026-000078,EMP-000033,CAT-BENEFITS,Claiming my wellness allowance,2026-02-19T14:36:58,P3,False,False,False
+TKT-2026-000079,EMP-000156,CAT-ER,Harassment complaint about a colleague,2026-02-19T18:21:22,P1,True,False,False
+TKT-2026-000080,EMP-000114,CAT-LEAVE,Applying for compensatory off,2026-02-20T05:21:30,P3,False,False,False
+TKT-2026-000081,EMP-000180,CAT-LEAVE,How many annual leave days do I have left?,2026-02-20T09:29:00,P3,False,False,False
+TKT-2026-000082,EMP-000159,CAT-LEAVE,Medical leave certificate requirement,2026-02-20T17:58:21,P1,True,False,False
+TKT-2026-000083,EMP-000007,CAT-LEAVE,Applying for compensatory off,2026-02-22T17:25:00,P3,False,False,False
+TKT-2026-000084,EMP-000027,CAT-LEAVE,Carry forward of unused leave to next year,2026-02-23T17:08:43,P3,False,False,False
+TKT-2026-000085,EMP-000058,CAT-PAYROLL,Reimbursement claim still pending,2026-02-25T11:11:02,P2,False,False,False
+TKT-2026-000086,EMP-000098,CAT-PAYROLL,Something is wrong with my pay,2026-02-25T11:50:08,P2,False,True,False
+TKT-2026-000087,EMP-000106,CAT-ONBOARDING,Access to email account not working,2026-02-25T16:18:29,P3,False,False,False
+TKT-2026-000088,EMP-000174,CAT-PAYROLL,Tax declaration proof submission deadline,2026-02-25T17:05:13,P2,False,False,False
+TKT-2026-000089,EMP-000128,CAT-LEAVE,Carry forward of unused leave to next year,2026-02-25T18:02:09,P3,False,False,False
+TKT-2026-000090,EMP-000133,CAT-PAYROLL,Payslip for last month not available,2026-02-26T10:22:47,P2,False,False,False
+TKT-2026-000091,EMP-000015,CAT-PAYROLL,My salary was short this month,2026-02-26T16:36:37,P2,False,False,False
+TKT-2026-000092,EMP-000065,CAT-LEAVE,Medical leave certificate requirement,2026-02-26T17:17:14,P1,True,False,False
+TKT-2026-000093,EMP-000121,CAT-BENEFITS,Provident fund VPF contribution change,2026-02-27T10:27:00,P3,False,False,False
+TKT-2026-000094,EMP-000010,CAT-BENEFITS,Provident fund VPF contribution change,2026-02-27T14:31:01,P3,False,False,False
+TKT-2026-000095,EMP-000193,CAT-ONBOARDING,Need help with joining,2026-02-28T15:29:15,P3,False,True,False
+TKT-2026-000096,EMP-000185,CAT-PAYROLL,Tax declaration proof submission deadline,2026-03-02T09:56:23,P2,False,False,False
+TKT-2026-000097,EMP-000165,CAT-ONBOARDING,Access to email account not working,2026-03-02T15:26:21,P3,False,False,False
+TKT-2026-000098,EMP-000154,CAT-BENEFITS,Learning budget reimbursement process,2026-03-03T10:15:31,P3,False,False,False
+TKT-2026-000099,EMP-000035,CAT-LEAVE,How many annual leave days do I have left?,2026-03-05T09:07:17,P3,False,False,False
+TKT-2026-000100,EMP-000094,CAT-LEAVE,Leave not showing correctly,2026-03-05T10:57:28,P3,False,False,True
+TKT-2026-000101,EMP-000198,CAT-BENEFITS,Need help with my benefits,2026-03-05T12:22:19,P3,False,True,False
+TKT-2026-000102,EMP-000032,CAT-LEAVE,Sick leave balance for this year,2026-03-06T14:31:20,P3,False,False,False
+TKT-2026-000103,EMP-000159,CAT-GENERAL,Dress code for client days,2026-03-06T16:53:11,P3,False,False,False
+TKT-2026-000104,EMP-000163,CAT-BENEFITS,Adding a dependent to group health insurance,2026-03-09T23:25:15,P3,False,False,False
+TKT-2026-000105,EMP-000035,CAT-LEAVE,Maternity leave eligibility and notice period,2026-03-10T09:22:03,P3,False,False,False
+TKT-2026-000106,EMP-000016,CAT-ER,Grievance about my appraisal rating,2026-03-10T14:12:18,P1,True,False,False
+TKT-2026-000107,EMP-000093,CAT-LEAVE,Sick leave balance for this year,2026-03-10T14:59:53,P3,False,False,False
+TKT-2026-000108,EMP-000148,CAT-LEAVE,Question about my leave,2026-03-11T08:08:39,P3,False,True,False
+TKT-2026-000109,EMP-000016,CAT-LEAVE,Maternity leave eligibility and notice period,2026-03-11T12:07:47,P3,False,False,False
+TKT-2026-000110,EMP-000137,CAT-ONBOARDING,Induction schedule for first week,2026-03-11T13:35:44,P3,False,False,False
+TKT-2026-000111,EMP-000150,CAT-BENEFITS,Meal card top-up not received,2026-03-12T03:44:59,P3,False,False,False
+TKT-2026-000112,EMP-000047,CAT-LEAVE,Leave not showing correctly,2026-03-12T12:41:15,P3,False,False,True
+TKT-2026-000113,EMP-000046,CAT-PAYROLL,Payslip for last month not available,2026-03-12T16:21:39,P2,False,False,False
+TKT-2026-000114,EMP-000190,CAT-LEAVE,Carry forward of unused leave to next year,2026-03-12T17:53:16,P3,False,False,False
+TKT-2026-000115,EMP-000127,CAT-ONBOARDING,Laptop not delivered before joining date,2026-03-13T11:20:06,P3,False,False,False
+TKT-2026-000116,EMP-000149,CAT-PAYROLL,Tax declaration proof submission deadline,2026-03-13T11:42:55,P2,False,False,False
+TKT-2026-000117,EMP-000124,CAT-LEAVE,Carry forward of unused leave to next year,2026-03-13T12:29:05,P3,False,False,False
+TKT-2026-000118,EMP-000160,CAT-ONBOARDING,Background verification status,2026-03-13T13:00:00,P3,False,False,False
+TKT-2026-000119,EMP-000167,CAT-BENEFITS,My claim was rejected,2026-03-13T14:23:56,P3,False,False,True
+TKT-2026-000120,EMP-000153,CAT-ONBOARDING,Documents needed for joining formalities,2026-03-13T18:32:55,P3,False,False,False
+TKT-2026-000121,EMP-000016,CAT-BENEFITS,Provident fund VPF contribution change,2026-03-13T21:51:54,P3,False,False,False
+TKT-2026-000122,EMP-000097,CAT-LEAVE,Leave not showing correctly,2026-03-16T10:22:07,P3,False,False,True
+TKT-2026-000123,EMP-000121,CAT-PAYROLL,Something is wrong with my pay,2026-03-16T10:25:09,P2,False,True,False
+TKT-2026-000124,EMP-000110,CAT-LEAVE,Applying for compensatory off,2026-03-16T12:29:43,P3,False,False,False
+TKT-2026-000125,EMP-000187,CAT-GENERAL,Dress code for client days,2026-03-17T16:48:11,P3,False,False,False
+TKT-2026-000126,EMP-000022,CAT-BENEFITS,Meal card top-up not received,2026-03-18T16:00:47,P3,False,False,False
+TKT-2026-000127,EMP-000088,CAT-LEAVE,How many annual leave days do I have left?,2026-03-19T11:22:41,P3,False,False,False
+TKT-2026-000128,EMP-000193,CAT-ER,Request for medical accommodation at work,2026-03-19T12:50:10,P1,True,False,False
+TKT-2026-000129,EMP-000012,CAT-ONBOARDING,Access to email account not working,2026-03-20T10:01:29,P3,False,False,False
+TKT-2026-000130,EMP-000005,CAT-PAYROLL,Tax declaration proof submission deadline,2026-03-23T11:50:38,P2,False,False,False
+TKT-2026-000131,EMP-000022,CAT-PAYROLL,Deduction in my salary,2026-03-23T12:43:21,P2,False,False,True
+TKT-2026-000132,EMP-000018,CAT-LEAVE,Carry forward of unused leave to next year,2026-03-23T13:35:42,P3,False,False,False
+TKT-2026-000133,EMP-000049,CAT-ONBOARDING,VPN access request for new joiner,2026-03-23T14:44:39,P3,False,False,False
+TKT-2026-000134,EMP-000008,CAT-LEAVE,Medical leave certificate requirement,2026-03-24T10:20:22,P1,True,False,False
+TKT-2026-000135,EMP-000091,CAT-ONBOARDING,VPN access request for new joiner,2026-03-24T11:01:07,P3,False,False,False
+TKT-2026-000136,EMP-000072,CAT-ER,Misconduct report involving my team,2026-03-24T12:06:30,P1,True,False,False
+TKT-2026-000137,EMP-000192,CAT-PAYROLL,Bonus payout date query,2026-03-24T16:50:17,P2,False,False,False
+TKT-2026-000138,EMP-000149,CAT-PAYROLL,Tax declaration proof submission deadline,2026-03-25T14:58:39,P2,False,False,False
+TKT-2026-000139,EMP-000019,CAT-BENEFITS,Meal card top-up not received,2026-03-26T14:19:08,P3,False,False,False
+TKT-2026-000140,EMP-000107,CAT-PAYROLL,Tax declaration proof submission deadline,2026-03-26T15:27:49,P2,False,False,False
+TKT-2026-000141,EMP-000082,CAT-BENEFITS,Need help with my benefits,2026-03-26T23:47:09,P3,False,True,False
+TKT-2026-000142,EMP-000183,CAT-PAYROLL,Reimbursement claim still pending,2026-03-27T09:05:46,P2,False,False,False
+TKT-2026-000143,EMP-000051,CAT-PAYROLL,Tax declaration proof submission deadline,2026-03-27T13:21:46,P2,False,False,False
+TKT-2026-000144,EMP-000182,CAT-ER,Harassment complaint about a colleague,2026-03-27T17:24:48,P1,True,False,False
+TKT-2026-000145,EMP-000112,CAT-BENEFITS,Provident fund VPF contribution change,2026-03-27T17:55:38,P3,False,False,False
+TKT-2026-000146,EMP-000087,CAT-ER,Misconduct report involving my team,2026-03-27T18:38:40,P1,True,False,False
+TKT-2026-000147,EMP-000163,CAT-LEAVE,Carry forward of unused leave to next year,2026-03-28T13:26:58,P3,False,False,False
+TKT-2026-000148,EMP-000078,CAT-ER,Misconduct report involving my team,2026-03-30T11:11:11,P1,True,False,False
+TKT-2026-000149,EMP-000043,CAT-ONBOARDING,Background verification status,2026-03-31T13:10:31,P3,False,False,False
+TKT-2026-000150,EMP-000147,CAT-ONBOARDING,VPN access request for new joiner,2026-03-31T16:09:45,P3,False,False,False
+TKT-2026-000151,EMP-000075,CAT-GENERAL,Visitor registration for the office,2026-04-01T12:29:01,P3,False,False,False
+TKT-2026-000152,EMP-000107,CAT-ONBOARDING,My documents were not accepted,2026-04-01T12:44:40,P3,False,False,True
+TKT-2026-000153,EMP-000024,CAT-LEAVE,Leave not showing correctly,2026-04-01T15:09:59,P3,False,False,True
+TKT-2026-000154,EMP-000072,CAT-LEAVE,Leave not showing correctly,2026-04-01T17:00:16,P3,False,False,True
+TKT-2026-000155,EMP-000077,CAT-LEAVE,Maternity leave eligibility and notice period,2026-04-01T18:45:23,P3,False,False,False
+TKT-2026-000156,EMP-000116,CAT-LEAVE,How many annual leave days do I have left?,2026-04-02T09:32:40,P3,False,False,False
+TKT-2026-000157,EMP-000172,CAT-PAYROLL,Reimbursement claim still pending,2026-04-02T10:36:47,P2,False,False,False
+TKT-2026-000158,EMP-000073,CAT-LEAVE,Applying for compensatory off,2026-04-02T17:53:25,P3,False,False,False
+TKT-2026-000159,EMP-000124,CAT-PAYROLL,Something is wrong with my pay,2026-04-06T15:42:23,P2,False,True,False
+TKT-2026-000160,EMP-000126,CAT-ONBOARDING,Documents needed for joining formalities,2026-04-06T17:42:39,P3,False,False,False
+TKT-2026-000161,EMP-000073,CAT-BENEFITS,Need help with my benefits,2026-04-07T13:12:29,P3,False,True,False
+TKT-2026-000162,EMP-000200,CAT-PAYROLL,Something is wrong with my pay,2026-04-08T11:18:10,P2,False,True,False
+TKT-2026-000163,EMP-000073,CAT-LEAVE,Sick leave balance for this year,2026-04-08T13:06:26,P3,False,False,False
+TKT-2026-000164,EMP-000164,CAT-ONBOARDING,My documents were not accepted,2026-04-08T13:28:03,P3,False,False,True
+TKT-2026-000165,EMP-000012,CAT-ER,Grievance about my appraisal rating,2026-04-08T16:45:18,P1,True,False,False
+TKT-2026-000166,EMP-000127,CAT-PAYROLL,My salary was short this month,2026-04-09T13:51:28,P2,False,False,False
+TKT-2026-000167,EMP-000102,CAT-LEAVE,Sick leave balance for this year,2026-04-09T18:35:01,P3,False,False,False
+TKT-2026-000168,EMP-000181,CAT-BENEFITS,Need help with my benefits,2026-04-10T09:53:55,P3,False,True,False
+TKT-2026-000169,EMP-000064,CAT-BENEFITS,Claiming my wellness allowance,2026-04-10T10:10:39,P3,False,False,False
+TKT-2026-000170,EMP-000063,CAT-ONBOARDING,Induction schedule for first week,2026-04-13T07:17:40,P3,False,False,False
+TKT-2026-000171,EMP-000094,CAT-BENEFITS,My claim was rejected,2026-04-14T17:10:36,P3,False,False,True
+TKT-2026-000172,EMP-000003,CAT-LEAVE,How many annual leave days do I have left?,2026-04-16T14:42:03,P3,False,False,False
+TKT-2026-000173,EMP-000098,CAT-BENEFITS,Meal card top-up not received,2026-04-16T18:44:29,P3,False,False,False
+TKT-2026-000174,EMP-000143,CAT-LEAVE,Maternity leave eligibility and notice period,2026-04-17T10:41:29,P3,False,False,False
+TKT-2026-000175,EMP-000123,CAT-PAYROLL,Reimbursement claim still pending,2026-04-17T18:14:19,P2,False,False,False
+TKT-2026-000176,EMP-000002,CAT-LEAVE,Carry forward of unused leave to next year,2026-04-19T17:43:24,P3,False,False,False
+TKT-2026-000177,EMP-000027,CAT-LEAVE,Maternity leave eligibility and notice period,2026-04-20T11:39:27,P3,False,False,False
+TKT-2026-000178,EMP-000018,CAT-PAYROLL,Payslip for last month not available,2026-04-20T13:38:32,P2,False,False,False
+TKT-2026-000179,EMP-000158,CAT-LEAVE,Question about my leave,2026-04-21T09:30:44,P3,False,True,False
+TKT-2026-000180,EMP-000185,CAT-ER,Harassment complaint about a colleague,2026-04-21T14:16:12,P1,True,False,False
+TKT-2026-000181,EMP-000088,CAT-PAYROLL,Payslip for last month not available,2026-04-21T16:48:21,P2,False,False,False
+TKT-2026-000182,EMP-000198,CAT-BENEFITS,Learning budget reimbursement process,2026-04-22T15:18:27,P3,False,False,False
+TKT-2026-000183,EMP-000007,CAT-LEAVE,Carry forward of unused leave to next year,2026-04-23T05:04:27,P3,False,False,False
+TKT-2026-000184,EMP-000053,CAT-GENERAL,My request was not approved,2026-04-24T10:07:55,P3,False,False,True
+TKT-2026-000185,EMP-000009,CAT-LEAVE,Medical leave certificate requirement,2026-04-24T12:32:02,P1,True,False,False
+TKT-2026-000186,EMP-000019,CAT-LEAVE,Maternity leave eligibility and notice period,2026-04-24T13:28:44,P3,False,False,False
+TKT-2026-000187,EMP-000112,CAT-ONBOARDING,Access to email account not working,2026-04-27T14:36:52,P3,False,False,False
+TKT-2026-000188,EMP-000134,CAT-BENEFITS,Need help with my benefits,2026-04-27T15:12:17,P3,False,True,False
+TKT-2026-000189,EMP-000017,CAT-PAYROLL,Bonus payout date query,2026-04-28T09:58:11,P2,False,False,False
+TKT-2026-000190,EMP-000096,CAT-ONBOARDING,Laptop not delivered before joining date,2026-04-28T16:02:51,P3,False,False,False
+TKT-2026-000191,EMP-000161,CAT-BENEFITS,Claiming my wellness allowance,2026-04-28T16:20:35,P3,False,False,False
+TKT-2026-000192,EMP-000058,CAT-BENEFITS,Adding a dependent to group health insurance,2026-04-28T18:14:58,P3,False,False,False
+TKT-2026-000193,EMP-000142,CAT-PAYROLL,Tax declaration proof submission deadline,2026-04-28T18:38:23,P2,False,False,False
+TKT-2026-000194,EMP-000157,CAT-PAYROLL,Reimbursement claim still pending,2026-04-29T15:39:54,P2,False,False,False
+TKT-2026-000195,EMP-000101,CAT-BENEFITS,My claim was rejected,2026-04-30T04:29:37,P3,False,False,True
+TKT-2026-000196,EMP-000034,CAT-PAYROLL,Bonus payout date query,2026-04-30T09:13:49,P2,False,False,False
+TKT-2026-000197,EMP-000073,CAT-BENEFITS,Learning budget reimbursement process,2026-05-03T18:04:51,P3,False,False,False
+TKT-2026-000198,EMP-000070,CAT-PAYROLL,Bonus payout date query,2026-05-04T11:09:20,P2,False,False,False
+TKT-2026-000199,EMP-000176,CAT-GENERAL,Visitor registration for the office,2026-05-05T10:39:17,P3,False,False,False
+TKT-2026-000200,EMP-000043,CAT-PAYROLL,Tax declaration proof submission deadline,2026-05-05T12:50:53,P2,False,False,False
+TKT-2026-000201,EMP-000163,CAT-ER,Harassment complaint about a colleague,2026-05-05T15:03:12,P1,True,False,False
+TKT-2026-000202,EMP-000003,CAT-GENERAL,Work from home days allowed per week,2026-05-05T15:35:26,P3,False,False,False
+TKT-2026-000203,EMP-000029,CAT-BENEFITS,Meal card top-up not received,2026-05-05T22:28:02,P3,False,False,False
+TKT-2026-000204,EMP-000131,CAT-ONBOARDING,Background verification status,2026-05-06T13:00:47,P3,False,False,False
+TKT-2026-000205,EMP-000184,CAT-LEAVE,Carry forward of unused leave to next year,2026-05-06T13:06:33,P3,False,False,False
+TKT-2026-000206,EMP-000173,CAT-BENEFITS,Provident fund VPF contribution change,2026-05-06T13:44:18,P3,False,False,False
+TKT-2026-000207,EMP-000094,CAT-LEAVE,Leave not showing correctly,2026-05-06T16:46:02,P3,False,False,True
+TKT-2026-000208,EMP-000008,CAT-GENERAL,Dress code for client days,2026-05-07T13:31:52,P3,False,False,False
+TKT-2026-000209,EMP-000025,CAT-BENEFITS,Need help with my benefits,2026-05-07T13:51:40,P3,False,True,False
+TKT-2026-000210,EMP-000162,CAT-BENEFITS,Meal card top-up not received,2026-05-07T14:19:46,P3,False,False,False
+TKT-2026-000211,EMP-000073,CAT-BENEFITS,Claiming my wellness allowance,2026-05-07T15:47:13,P3,False,False,False
+TKT-2026-000212,EMP-000113,CAT-ONBOARDING,Induction schedule for first week,2026-05-07T16:05:33,P3,False,False,False
+TKT-2026-000213,EMP-000007,CAT-PAYROLL,Bonus payout date query,2026-05-07T17:13:03,P2,False,False,False
+TKT-2026-000214,EMP-000050,CAT-ER,Misconduct report involving my team,2026-05-08T18:54:02,P1,True,False,False
+TKT-2026-000215,EMP-000016,CAT-ONBOARDING,Induction schedule for first week,2026-05-11T11:32:20,P3,False,False,False
+TKT-2026-000216,EMP-000123,CAT-PAYROLL,My salary was short this month,2026-05-11T13:07:09,P2,False,False,False
+TKT-2026-000217,EMP-000160,CAT-LEAVE,Maternity leave eligibility and notice period,2026-05-11T18:47:59,P3,False,False,False
+TKT-2026-000218,EMP-000077,CAT-ER,Harassment complaint about a colleague,2026-05-12T11:26:09,P1,True,False,False
+TKT-2026-000219,EMP-000004,CAT-LEAVE,How many annual leave days do I have left?,2026-05-12T13:50:40,P3,False,False,False
+TKT-2026-000220,EMP-000022,CAT-LEAVE,Applying for compensatory off,2026-05-12T16:34:26,P3,False,False,False
+TKT-2026-000221,EMP-000115,CAT-ER,Harassment complaint about a colleague,2026-05-14T13:00:58,P1,True,False,False
+TKT-2026-000222,EMP-000081,CAT-LEAVE,Medical leave certificate requirement,2026-05-14T14:28:28,P1,True,False,False
+TKT-2026-000223,EMP-000174,CAT-PAYROLL,Tax declaration proof submission deadline,2026-05-14T17:28:22,P2,False,False,False
+TKT-2026-000224,EMP-000182,CAT-PAYROLL,Payslip for last month not available,2026-05-14T19:40:20,P2,False,False,False
+TKT-2026-000225,EMP-000107,CAT-BENEFITS,Adding a dependent to group health insurance,2026-05-15T09:37:57,P3,False,False,False
+TKT-2026-000226,EMP-000003,CAT-ONBOARDING,VPN access request for new joiner,2026-05-15T12:28:05,P3,False,False,False
+TKT-2026-000227,EMP-000029,CAT-ONBOARDING,Need help with joining,2026-05-15T12:37:46,P3,False,True,False
+TKT-2026-000228,EMP-000186,CAT-ONBOARDING,Laptop not delivered before joining date,2026-05-15T13:14:06,P3,False,False,False
+TKT-2026-000229,EMP-000086,CAT-BENEFITS,Learning budget reimbursement process,2026-05-15T15:18:25,P3,False,False,False
+TKT-2026-000230,EMP-000071,CAT-PAYROLL,Bonus payout date query,2026-05-18T12:19:43,P2,False,False,False
+TKT-2026-000231,EMP-000112,CAT-LEAVE,How many annual leave days do I have left?,2026-05-19T10:28:05,P3,False,False,False
+TKT-2026-000232,EMP-000039,CAT-PAYROLL,Bonus payout date query,2026-05-20T15:50:55,P2,False,False,False
+TKT-2026-000233,EMP-000182,CAT-BENEFITS,Adding a dependent to group health insurance,2026-05-20T17:39:31,P3,False,False,False
+TKT-2026-000234,EMP-000059,CAT-ONBOARDING,Need help with joining,2026-05-21T14:58:14,P3,False,True,False
+TKT-2026-000235,EMP-000039,CAT-LEAVE,Maternity leave eligibility and notice period,2026-05-21T15:17:54,P3,False,False,False
+TKT-2026-000236,EMP-000189,CAT-LEAVE,Maternity leave eligibility and notice period,2026-05-21T18:23:51,P3,False,False,False
+TKT-2026-000237,EMP-000153,CAT-PAYROLL,Something is wrong with my pay,2026-05-21T18:35:19,P2,False,True,False
+TKT-2026-000238,EMP-000033,CAT-PAYROLL,Tax declaration proof submission deadline,2026-05-22T13:53:09,P2,False,False,False
+TKT-2026-000239,EMP-000140,CAT-BENEFITS,Claiming my wellness allowance,2026-05-25T10:51:20,P3,False,False,False
+TKT-2026-000240,EMP-000097,CAT-PAYROLL,Reimbursement claim still pending,2026-05-25T13:09:47,P2,False,False,False
+TKT-2026-000241,EMP-000184,CAT-LEAVE,Question about my leave,2026-05-26T11:57:09,P3,False,True,False
+TKT-2026-000242,EMP-000011,CAT-LEAVE,How many annual leave days do I have left?,2026-05-26T15:46:10,P3,False,False,False
+TKT-2026-000243,EMP-000097,CAT-LEAVE,Applying for compensatory off,2026-05-26T17:47:54,P3,False,False,False
+TKT-2026-000244,EMP-000004,CAT-LEAVE,Medical leave certificate requirement,2026-05-27T09:03:26,P1,True,False,False
+TKT-2026-000245,EMP-000148,CAT-PAYROLL,Bonus payout date query,2026-05-27T16:41:08,P2,False,False,False
+TKT-2026-000246,EMP-000156,CAT-PAYROLL,My salary was short this month,2026-05-28T17:33:20,P2,False,False,False
+TKT-2026-000247,EMP-000155,CAT-LEAVE,Sick leave balance for this year,2026-05-28T17:42:57,P3,False,False,False
+TKT-2026-000248,EMP-000124,CAT-LEAVE,Carry forward of unused leave to next year,2026-05-29T09:58:53,P3,False,False,False
+TKT-2026-000249,EMP-000144,CAT-PAYROLL,Reimbursement claim still pending,2026-05-29T12:52:02,P2,False,False,False
+TKT-2026-000250,EMP-000039,CAT-GENERAL,Need clarification on a policy,2026-06-01T09:17:47,P3,False,True,False
+TKT-2026-000251,EMP-000025,CAT-ONBOARDING,Documents needed for joining formalities,2026-06-01T19:39:33,P3,False,False,False
+TKT-2026-000252,EMP-000038,CAT-PAYROLL,Reimbursement claim still pending,2026-06-02T17:20:54,P2,False,False,False
+TKT-2026-000253,EMP-000063,CAT-ONBOARDING,Background verification status,2026-06-03T11:17:00,P3,False,False,False
+TKT-2026-000254,EMP-000087,CAT-GENERAL,Visitor registration for the office,2026-06-03T14:07:06,P3,False,False,False
+TKT-2026-000255,EMP-000102,CAT-BENEFITS,Adding a dependent to group health insurance,2026-06-03T15:00:23,P3,False,False,False
+TKT-2026-000256,EMP-000107,CAT-PAYROLL,Something is wrong with my pay,2026-06-03T15:24:35,P2,False,True,False
+TKT-2026-000257,EMP-000031,CAT-LEAVE,Sick leave balance for this year,2026-06-04T09:04:57,P3,False,False,False
+TKT-2026-000258,EMP-000101,CAT-LEAVE,Applying for compensatory off,2026-06-04T16:52:08,P3,False,False,False
+TKT-2026-000259,EMP-000082,CAT-LEAVE,Sick leave balance for this year,2026-06-04T23:01:01,P3,False,False,False
+TKT-2026-000260,EMP-000164,CAT-GENERAL,Dress code for client days,2026-06-06T09:17:09,P3,False,False,False
+TKT-2026-000261,EMP-000184,CAT-PAYROLL,My salary was short this month,2026-06-08T09:21:40,P2,False,False,False
+TKT-2026-000262,EMP-000046,CAT-ER,Harassment complaint about a colleague,2026-06-08T18:17:42,P1,True,False,False
+TKT-2026-000263,EMP-000067,CAT-GENERAL,Employee referral bonus query,2026-06-09T19:48:14,P3,False,False,False
+TKT-2026-000264,EMP-000198,CAT-BENEFITS,Learning budget reimbursement process,2026-06-10T16:30:26,P3,False,False,False
+TKT-2026-000265,EMP-000046,CAT-BENEFITS,Meal card top-up not received,2026-06-11T12:00:46,P3,False,False,False
+TKT-2026-000266,EMP-000085,CAT-LEAVE,Carry forward of unused leave to next year,2026-06-12T13:47:11,P3,False,False,False
+TKT-2026-000267,EMP-000049,CAT-ONBOARDING,Documents needed for joining formalities,2026-06-12T22:35:21,P3,False,False,False
+TKT-2026-000268,EMP-000068,CAT-LEAVE,Carry forward of unused leave to next year,2026-06-15T10:18:12,P3,False,False,False
+TKT-2026-000269,EMP-000176,CAT-LEAVE,Applying for compensatory off,2026-06-15T12:14:25,P3,False,False,False
+TKT-2026-000270,EMP-000164,CAT-BENEFITS,Meal card top-up not received,2026-06-15T17:06:40,P3,False,False,False
+TKT-2026-000271,EMP-000149,CAT-BENEFITS,Meal card top-up not received,2026-06-16T09:54:25,P3,False,False,False
+TKT-2026-000272,EMP-000183,CAT-ONBOARDING,Background verification status,2026-06-16T10:14:25,P3,False,False,False
+TKT-2026-000273,EMP-000051,CAT-PAYROLL,Reimbursement claim still pending,2026-06-16T11:30:13,P2,False,False,False
+TKT-2026-000274,EMP-000050,CAT-PAYROLL,Something is wrong with my pay,2026-06-17T14:44:07,P2,False,True,False
+TKT-2026-000275,EMP-000032,CAT-BENEFITS,Need help with my benefits,2026-06-18T10:33:58,P3,False,True,False
+TKT-2026-000276,EMP-000037,CAT-BENEFITS,Claiming my wellness allowance,2026-06-18T15:25:00,P3,False,False,False
+TKT-2026-000277,EMP-000010,CAT-BENEFITS,Need help with my benefits,2026-06-18T17:09:27,P3,False,True,False
+TKT-2026-000278,EMP-000078,CAT-LEAVE,Question about my leave,2026-06-19T10:17:30,P3,False,True,False
+TKT-2026-000279,EMP-000040,CAT-LEAVE,Sick leave balance for this year,2026-06-19T12:37:31,P3,False,False,False
+TKT-2026-000280,EMP-000137,CAT-PAYROLL,Deduction in my salary,2026-06-22T14:11:13,P2,False,False,True
+TKT-2026-000281,EMP-000033,CAT-ONBOARDING,VPN access request for new joiner,2026-06-24T05:21:18,P3,False,False,False
+TKT-2026-000282,EMP-000071,CAT-BENEFITS,Provident fund VPF contribution change,2026-06-24T09:04:19,P3,False,False,False
+TKT-2026-000283,EMP-000016,CAT-BENEFITS,Adding a dependent to group health insurance,2026-06-24T15:43:36,P3,False,False,False
+TKT-2026-000284,EMP-000020,CAT-ONBOARDING,Induction schedule for first week,2026-06-24T18:39:33,P3,False,False,False
+TKT-2026-000285,EMP-000161,CAT-PAYROLL,Bonus payout date query,2026-06-25T15:24:33,P2,False,False,False
+TKT-2026-000286,EMP-000063,CAT-ONBOARDING,VPN access request for new joiner,2026-06-26T18:15:13,P3,False,False,False
+TKT-2026-000287,EMP-000064,CAT-ONBOARDING,Laptop not delivered before joining date,2026-06-28T17:41:59,P3,False,False,False
+TKT-2026-000288,EMP-000013,CAT-ONBOARDING,Background verification status,2026-06-29T03:47:54,P3,False,False,False
+TKT-2026-000289,EMP-000047,CAT-ER,Misconduct report involving my team,2026-06-29T09:13:57,P1,True,False,False
+TKT-2026-000290,EMP-000189,CAT-LEAVE,Medical leave certificate requirement,2026-06-29T17:13:34,P1,True,False,False
+TKT-2026-000291,EMP-000085,CAT-BENEFITS,Provident fund VPF contribution change,2026-06-30T09:42:38,P3,False,False,False
+TKT-2026-000292,EMP-000143,CAT-ONBOARDING,Access to email account not working,2026-06-30T17:42:04,P3,False,False,False
+TKT-2026-000293,EMP-000148,CAT-ONBOARDING,Documents needed for joining formalities,2026-07-01T10:41:27,P3,False,False,False
+TKT-2026-000294,EMP-000031,CAT-PAYROLL,Payslip for last month not available,2026-07-01T16:47:31,P2,False,False,False
+TKT-2026-000295,EMP-000143,CAT-LEAVE,Sick leave balance for this year,2026-07-01T18:14:14,P3,False,False,False
+TKT-2026-000296,EMP-000080,CAT-PAYROLL,Payslip for last month not available,2026-07-02T13:45:42,P2,False,False,False
+TKT-2026-000297,EMP-000097,CAT-ONBOARDING,Documents needed for joining formalities,2026-07-02T14:07:29,P3,False,False,False
+TKT-2026-000298,EMP-000107,CAT-ER,Misconduct report involving my team,2026-07-02T17:55:43,P1,True,False,False
+TKT-2026-000299,EMP-000101,CAT-LEAVE,How many annual leave days do I have left?,2026-07-03T06:44:56,P3,False,False,False
+TKT-2026-000300,EMP-000059,CAT-LEAVE,Carry forward of unused leave to next year,2026-07-03T09:44:13,P3,False,False,False
+TKT-2026-000301,EMP-000147,CAT-LEAVE,Sick leave balance for this year,2026-07-03T15:40:50,P3,False,False,False
+TKT-2026-000302,EMP-000140,CAT-BENEFITS,Meal card top-up not received,2026-07-03T17:23:16,P3,False,False,False
+TKT-2026-000303,EMP-000154,CAT-LEAVE,How many annual leave days do I have left?,2026-07-03T17:34:15,P3,False,False,False
+TKT-2026-000304,EMP-000163,CAT-GENERAL,Work from home days allowed per week,2026-07-04T21:45:54,P3,False,False,False
+TKT-2026-000305,EMP-000156,CAT-PAYROLL,Bonus payout date query,2026-07-06T18:15:19,P2,False,False,False
+TKT-2026-000306,EMP-000082,CAT-LEAVE,Medical leave certificate requirement,2026-07-07T11:05:27,P1,True,False,False
+TKT-2026-000307,EMP-000139,CAT-BENEFITS,Learning budget reimbursement process,2026-07-07T12:34:45,P3,False,False,False
+TKT-2026-000308,EMP-000098,CAT-BENEFITS,Adding a dependent to group health insurance,2026-07-07T12:39:46,P3,False,False,False
+TKT-2026-000309,EMP-000105,CAT-BENEFITS,Learning budget reimbursement process,2026-07-07T18:12:46,P3,False,False,False
+TKT-2026-000310,EMP-000096,CAT-LEAVE,Question about my leave,2026-07-08T14:46:09,P3,False,True,False
+TKT-2026-000311,EMP-000025,CAT-ONBOARDING,Need help with joining,2026-07-08T14:52:41,P3,False,True,False
+TKT-2026-000312,EMP-000041,CAT-LEAVE,How many annual leave days do I have left?,2026-07-08T16:58:48,P3,False,False,False
+TKT-2026-000313,EMP-000187,CAT-LEAVE,Maternity leave eligibility and notice period,2026-07-09T11:27:13,P3,False,False,False
+TKT-2026-000314,EMP-000144,CAT-LEAVE,Sick leave balance for this year,2026-07-10T10:40:05,P3,False,False,False
+TKT-2026-000315,EMP-000155,CAT-BENEFITS,Need help with my benefits,2026-07-10T13:25:08,P3,False,True,False
+TKT-2026-000316,EMP-000029,CAT-LEAVE,Leave not showing correctly,2026-07-13T09:36:26,P3,False,False,True
+TKT-2026-000317,EMP-000105,CAT-BENEFITS,My claim was rejected,2026-07-13T11:09:40,P3,False,False,True
+TKT-2026-000318,EMP-000135,CAT-LEAVE,Question about my leave,2026-07-13T15:28:07,P3,False,True,False
+TKT-2026-000319,EMP-000031,CAT-PAYROLL,Payslip for last month not available,2026-07-14T10:20:53,P2,False,False,False
+TKT-2026-000320,EMP-000121,CAT-ONBOARDING,Documents needed for joining formalities,2026-07-15T15:31:16,P3,False,False,False
+TKT-2026-000321,EMP-000113,CAT-LEAVE,Question about my leave,2026-07-16T18:45:00,P3,False,True,False
+TKT-2026-000322,EMP-000070,CAT-PAYROLL,My salary was short this month,2026-07-17T10:50:13,P2,False,False,False
+TKT-2026-000323,EMP-000019,CAT-PAYROLL,Something is wrong with my pay,2026-07-17T11:23:54,P2,False,True,False
+TKT-2026-000324,EMP-000196,CAT-BENEFITS,Provident fund VPF contribution change,2026-07-17T18:54:15,P3,False,False,False
+TKT-2026-000325,EMP-000068,CAT-BENEFITS,Learning budget reimbursement process,2026-07-19T09:26:10,P3,False,False,False
+TKT-2026-000326,EMP-000040,CAT-ONBOARDING,VPN access request for new joiner,2026-07-20T10:34:56,P3,False,False,False
+TKT-2026-000327,EMP-000186,CAT-PAYROLL,Reimbursement claim still pending,2026-07-20T13:54:08,P2,False,False,False
+TKT-2026-000328,EMP-000099,CAT-ER,Grievance about my appraisal rating,2026-07-20T13:59:08,P1,True,False,False
+TKT-2026-000329,EMP-000050,CAT-GENERAL,Work from home days allowed per week,2026-07-21T09:15:36,P3,False,False,False
+TKT-2026-000330,EMP-000110,CAT-LEAVE,Sick leave balance for this year,2026-07-21T09:40:39,P3,False,False,False
+TKT-2026-000331,EMP-000109,CAT-ONBOARDING,Access to email account not working,2026-07-21T16:54:31,P3,False,False,False
+TKT-2026-000332,EMP-000001,CAT-ONBOARDING,Laptop not delivered before joining date,2026-07-22T07:59:49,P3,False,False,False
+TKT-2026-000333,EMP-000120,CAT-ONBOARDING,Documents needed for joining formalities,2026-07-22T11:48:05,P3,False,False,False
+TKT-2026-000334,EMP-000163,CAT-LEAVE,How many annual leave days do I have left?,2026-07-22T18:12:13,P3,False,False,False
+TKT-2026-000335,EMP-000004,CAT-BENEFITS,Provident fund VPF contribution change,2026-07-23T09:03:47,P3,False,False,False
+TKT-2026-000336,EMP-000095,CAT-BENEFITS,Provident fund VPF contribution change,2026-07-24T12:48:22,P3,False,False,False
+TKT-2026-000337,EMP-000056,CAT-LEAVE,How many annual leave days do I have left?,2026-07-24T16:36:55,P3,False,False,False
+TKT-2026-000338,EMP-000154,CAT-PAYROLL,My salary was short this month,2026-07-27T11:25:10,P2,False,False,False
+TKT-2026-000339,EMP-000068,CAT-PAYROLL,Deduction in my salary,2026-07-27T16:35:04,P2,False,False,True
+TKT-2026-000340,EMP-000088,CAT-ONBOARDING,Need help with joining,2026-07-27T18:40:09,P3,False,True,False
+TKT-2026-000341,EMP-000072,CAT-BENEFITS,Claiming my wellness allowance,2026-07-28T09:00:45,P3,False,False,False
+TKT-2026-000342,EMP-000075,CAT-PAYROLL,Payslip for last month not available,2026-07-28T09:08:47,P2,False,False,False
+TKT-2026-000343,EMP-000075,CAT-PAYROLL,My salary was short this month,2026-07-28T16:22:18,P2,False,False,False
+TKT-2026-000344,EMP-000155,CAT-ONBOARDING,Background verification status,2026-07-28T20:32:58,P3,False,False,False
+TKT-2026-000345,EMP-000191,CAT-PAYROLL,My salary was short this month,2026-07-29T10:37:42,P2,False,False,False
+TKT-2026-000346,EMP-000167,CAT-LEAVE,How many annual leave days do I have left?,2026-07-29T12:02:37,P3,False,False,False
+TKT-2026-000347,EMP-000118,CAT-ONBOARDING,VPN access request for new joiner,2026-07-30T12:51:38,P3,False,False,False
+TKT-2026-000348,EMP-000056,CAT-LEAVE,How many annual leave days do I have left?,2026-07-30T14:08:49,P3,False,False,False
+TKT-2026-000349,EMP-000043,CAT-BENEFITS,Provident fund VPF contribution change,2026-07-30T15:07:15,P3,False,False,False
+TKT-2026-000350,EMP-000048,CAT-GENERAL,Visitor registration for the office,2026-07-31T09:36:03,P3,False,False,False
+TKT-2026-000351,EMP-000060,CAT-PAYROLL,Bonus payout date query,2026-07-31T12:02:26,P2,False,False,False
+TKT-2026-000352,EMP-000064,CAT-PAYROLL,Reimbursement claim still pending,2026-07-31T12:41:22,P2,False,False,False
+TKT-2026-000353,EMP-000080,CAT-LEAVE,Carry forward of unused leave to next year,2026-08-03T10:52:13,P3,False,False,False
+TKT-2026-000354,EMP-000095,CAT-LEAVE,Maternity leave eligibility and notice period,2026-08-03T13:03:16,P3,False,False,False
+TKT-2026-000355,EMP-000059,CAT-BENEFITS,My claim was rejected,2026-08-03T13:15:23,P3,False,False,True
+TKT-2026-000356,EMP-000182,CAT-LEAVE,Applying for compensatory off,2026-08-03T13:56:11,P3,False,False,False
+TKT-2026-000357,EMP-000164,CAT-LEAVE,Carry forward of unused leave to next year,2026-08-03T16:44:30,P3,False,False,False
+TKT-2026-000358,EMP-000027,CAT-GENERAL,Work from home days allowed per week,2026-08-04T18:27:21,P3,False,False,False
+TKT-2026-000359,EMP-000008,CAT-ONBOARDING,Laptop not delivered before joining date,2026-08-05T11:10:52,P3,False,False,False
+TKT-2026-000360,EMP-000041,CAT-BENEFITS,Provident fund VPF contribution change,2026-08-05T16:59:19,P3,False,False,False
+TKT-2026-000361,EMP-000090,CAT-BENEFITS,Learning budget reimbursement process,2026-08-06T16:23:22,P3,False,False,False
+TKT-2026-000362,EMP-000150,CAT-LEAVE,Applying for compensatory off,2026-08-07T14:02:48,P3,False,False,False
+TKT-2026-000363,EMP-000115,CAT-GENERAL,Visitor registration for the office,2026-08-07T14:13:30,P3,False,False,False
+TKT-2026-000364,EMP-000061,CAT-BENEFITS,Learning budget reimbursement process,2026-08-07T15:16:40,P3,False,False,False
+TKT-2026-000365,EMP-000046,CAT-PAYROLL,Something is wrong with my pay,2026-08-10T04:13:55,P2,False,True,False
+TKT-2026-000366,EMP-000095,CAT-LEAVE,Carry forward of unused leave to next year,2026-08-10T10:37:40,P3,False,False,False
+TKT-2026-000367,EMP-000165,CAT-LEAVE,Sick leave balance for this year,2026-08-11T05:20:40,P3,False,False,False
+TKT-2026-000368,EMP-000148,CAT-ER,I need to discuss something confidential,2026-08-11T09:58:54,P1,True,True,False
+TKT-2026-000369,EMP-000034,CAT-BENEFITS,Claiming my wellness allowance,2026-08-11T12:07:21,P3,False,False,False
+TKT-2026-000370,EMP-000042,CAT-PAYROLL,Deduction in my salary,2026-08-11T15:37:17,P2,False,False,True
+TKT-2026-000371,EMP-000075,CAT-BENEFITS,My claim was rejected,2026-08-11T16:24:37,P3,False,False,True
+TKT-2026-000372,EMP-000162,CAT-GENERAL,Work from home days allowed per week,2026-08-11T17:59:23,P3,False,False,False
+TKT-2026-000373,EMP-000018,CAT-ONBOARDING,Access to email account not working,2026-08-11T18:18:06,P3,False,False,False
+TKT-2026-000374,EMP-000167,CAT-PAYROLL,Bonus payout date query,2026-08-12T09:06:48,P2,False,False,False
+TKT-2026-000375,EMP-000168,CAT-PAYROLL,Reimbursement claim still pending,2026-08-12T10:41:02,P2,False,False,False
+TKT-2026-000376,EMP-000115,CAT-ONBOARDING,VPN access request for new joiner,2026-08-12T12:15:29,P3,False,False,False
+TKT-2026-000377,EMP-000163,CAT-LEAVE,Sick leave balance for this year,2026-08-12T13:43:58,P3,False,False,False
+TKT-2026-000378,EMP-000183,CAT-LEAVE,Maternity leave eligibility and notice period,2026-08-13T11:50:30,P3,False,False,False
+TKT-2026-000379,EMP-000020,CAT-ONBOARDING,Need help with joining,2026-08-13T12:06:58,P3,False,True,False
+TKT-2026-000380,EMP-000046,CAT-ER,Grievance about my appraisal rating,2026-08-13T18:41:45,P1,True,False,False
+TKT-2026-000381,EMP-000113,CAT-BENEFITS,Meal card top-up not received,2026-08-14T10:24:15,P3,False,False,False
+TKT-2026-000382,EMP-000016,CAT-ER,I need to discuss something confidential,2026-08-14T14:38:32,P1,True,True,False
+TKT-2026-000383,EMP-000161,CAT-PAYROLL,My salary was short this month,2026-08-14T14:40:37,P2,False,False,False
+TKT-2026-000384,EMP-000151,CAT-LEAVE,Question about my leave,2026-08-14T15:19:57,P3,False,True,False
+TKT-2026-000385,EMP-000194,CAT-ONBOARDING,VPN access request for new joiner,2026-08-14T17:29:54,P3,False,False,False
+TKT-2026-000386,EMP-000075,CAT-PAYROLL,My salary was short this month,2026-08-15T17:05:25,P2,False,False,False
+TKT-2026-000387,EMP-000132,CAT-ONBOARDING,Induction schedule for first week,2026-08-17T15:24:45,P3,False,False,False
+TKT-2026-000388,EMP-000085,CAT-LEAVE,Maternity leave eligibility and notice period,2026-08-18T10:36:54,P3,False,False,False
+TKT-2026-000389,EMP-000144,CAT-LEAVE,How many annual leave days do I have left?,2026-08-18T10:42:00,P3,False,False,False
+TKT-2026-000390,EMP-000181,CAT-BENEFITS,Need help with my benefits,2026-08-18T12:51:26,P3,False,True,False
+TKT-2026-000391,EMP-000013,CAT-PAYROLL,Tax declaration proof submission deadline,2026-08-18T15:12:56,P2,False,False,False
+TKT-2026-000392,EMP-000070,CAT-LEAVE,Maternity leave eligibility and notice period,2026-08-18T16:20:03,P3,False,False,False
+TKT-2026-000393,EMP-000067,CAT-PAYROLL,Bonus payout date query,2026-08-18T16:24:29,P2,False,False,False
+TKT-2026-000394,EMP-000111,CAT-GENERAL,My request was not approved,2026-08-18T16:43:03,P3,False,False,True
+TKT-2026-000395,EMP-000056,CAT-LEAVE,Sick leave balance for this year,2026-08-18T18:58:44,P3,False,False,False
+TKT-2026-000396,EMP-000050,CAT-GENERAL,Visitor registration for the office,2026-08-19T10:06:58,P3,False,False,False
+TKT-2026-000397,EMP-000040,CAT-LEAVE,Applying for compensatory off,2026-08-19T12:20:32,P3,False,False,False
+TKT-2026-000398,EMP-000159,CAT-LEAVE,Leave not showing correctly,2026-08-19T13:49:55,P3,False,False,True
+TKT-2026-000399,EMP-000007,CAT-GENERAL,Dress code for client days,2026-08-20T16:24:45,P3,False,False,False
+TKT-2026-000400,EMP-000135,CAT-BENEFITS,Meal card top-up not received,2026-08-20T18:21:19,P3,False,False,False
+TKT-2026-000401,EMP-000010,CAT-LEAVE,Maternity leave eligibility and notice period,2026-08-20T18:50:22,P3,False,False,False
+TKT-2026-000402,EMP-000082,CAT-LEAVE,Medical leave certificate requirement,2026-08-21T15:04:32,P1,True,False,False
+TKT-2026-000403,EMP-000131,CAT-PAYROLL,Payslip for last month not available,2026-08-21T15:50:58,P2,False,False,False
+TKT-2026-000404,EMP-000041,CAT-BENEFITS,Adding a dependent to group health insurance,2026-08-23T13:59:00,P3,False,False,False
+TKT-2026-000405,EMP-000077,CAT-ER,Harassment complaint about a colleague,2026-08-24T10:37:28,P1,True,False,False
+TKT-2026-000406,EMP-000190,CAT-PAYROLL,Bonus payout date query,2026-08-24T16:13:21,P2,False,False,False
+TKT-2026-000407,EMP-000107,CAT-LEAVE,Maternity leave eligibility and notice period,2026-08-24T16:38:30,P3,False,False,False
+TKT-2026-000408,EMP-000150,CAT-PAYROLL,My salary was short this month,2026-08-25T00:43:51,P2,False,False,False
+TKT-2026-000409,EMP-000123,CAT-LEAVE,How many annual leave days do I have left?,2026-08-25T11:30:45,P3,False,False,False
+TKT-2026-000410,EMP-000050,CAT-ER,Request for medical accommodation at work,2026-08-25T16:20:24,P1,True,False,False
+TKT-2026-000411,EMP-000115,CAT-BENEFITS,Adding a dependent to group health insurance,2026-08-26T09:50:34,P3,False,False,False
+TKT-2026-000412,EMP-000089,CAT-ONBOARDING,Background verification status,2026-08-26T09:59:33,P3,False,False,False
+TKT-2026-000413,EMP-000008,CAT-PAYROLL,Deduction in my salary,2026-08-26T10:08:32,P2,False,False,True
+TKT-2026-000414,EMP-000001,CAT-PAYROLL,Reimbursement claim still pending,2026-08-26T10:43:40,P2,False,False,False
+TKT-2026-000415,EMP-000114,CAT-PAYROLL,Payslip for last month not available,2026-08-27T09:41:25,P2,False,False,False
+TKT-2026-000416,EMP-000114,CAT-PAYROLL,Tax declaration proof submission deadline,2026-08-27T11:16:58,P2,False,False,False
+TKT-2026-000417,EMP-000014,CAT-ONBOARDING,Induction schedule for first week,2026-08-27T12:24:12,P3,False,False,False
+TKT-2026-000418,EMP-000164,CAT-BENEFITS,Claiming my wellness allowance,2026-08-27T14:18:47,P3,False,False,False
+TKT-2026-000419,EMP-000028,CAT-BENEFITS,Provident fund VPF contribution change,2026-08-27T15:02:42,P3,False,False,False
+TKT-2026-000420,EMP-000187,CAT-BENEFITS,Meal card top-up not received,2026-08-27T15:05:36,P3,False,False,False
+TKT-2026-000421,EMP-000177,CAT-GENERAL,Dress code for client days,2026-08-28T16:52:45,P3,False,False,False
+TKT-2026-000422,EMP-000014,CAT-PAYROLL,Bonus payout date query,2026-08-28T18:16:09,P2,False,False,False
+TKT-2026-000423,EMP-000132,CAT-BENEFITS,Learning budget reimbursement process,2026-08-29T12:03:50,P3,False,False,False
+TKT-2026-000424,EMP-000071,CAT-PAYROLL,Tax declaration proof submission deadline,2026-08-29T12:59:32,P2,False,False,False
+TKT-2026-000425,EMP-000053,CAT-BENEFITS,Claiming my wellness allowance,2026-08-31T07:44:52,P3,False,False,False
+TKT-2026-000426,EMP-000037,CAT-PAYROLL,Deduction in my salary,2026-08-31T12:33:52,P2,False,False,True
+TKT-2026-000427,EMP-000089,CAT-PAYROLL,Bonus payout date query,2026-08-31T13:13:09,P2,False,False,False
+TKT-2026-000428,EMP-000080,CAT-PAYROLL,Something is wrong with my pay,2026-08-31T17:56:10,P2,False,True,False
+TKT-2026-000429,EMP-000142,CAT-ONBOARDING,Need help with joining,2026-09-01T12:33:52,P3,False,True,False
+TKT-2026-000430,EMP-000184,CAT-PAYROLL,Bonus payout date query,2026-09-01T18:32:16,P2,False,False,False
+TKT-2026-000431,EMP-000009,CAT-ONBOARDING,Background verification status,2026-09-03T15:56:23,P3,False,False,False
+TKT-2026-000432,EMP-000121,CAT-ONBOARDING,VPN access request for new joiner,2026-09-04T09:29:24,P3,False,False,False
+TKT-2026-000433,EMP-000133,CAT-GENERAL,Work from home days allowed per week,2026-09-04T09:38:47,P3,False,False,False
+TKT-2026-000434,EMP-000045,CAT-ONBOARDING,Documents needed for joining formalities,2026-09-04T10:23:21,P3,False,False,False
+TKT-2026-000435,EMP-000155,CAT-BENEFITS,Provident fund VPF contribution change,2026-09-07T06:03:22,P3,False,False,False
+TKT-2026-000436,EMP-000161,CAT-PAYROLL,Reimbursement claim still pending,2026-09-07T09:37:15,P2,False,False,False
+TKT-2026-000437,EMP-000078,CAT-BENEFITS,Adding a dependent to group health insurance,2026-09-07T12:41:59,P3,False,False,False
+TKT-2026-000438,EMP-000150,CAT-ONBOARDING,My documents were not accepted,2026-09-07T14:38:24,P3,False,False,True
+TKT-2026-000439,EMP-000139,CAT-LEAVE,Medical leave certificate requirement,2026-09-07T15:20:21,P1,True,False,False
+TKT-2026-000440,EMP-000094,CAT-PAYROLL,My salary was short this month,2026-09-08T10:46:15,P2,False,False,False
+TKT-2026-000441,EMP-000154,CAT-ER,Grievance about my appraisal rating,2026-09-08T13:49:17,P1,True,False,False
+TKT-2026-000442,EMP-000066,CAT-PAYROLL,Reimbursement claim still pending,2026-09-08T14:34:46,P2,False,False,False
+TKT-2026-000443,EMP-000185,CAT-PAYROLL,Tax declaration proof submission deadline,2026-09-08T15:06:38,P2,False,False,False
+TKT-2026-000444,EMP-000137,CAT-LEAVE,Leave not showing correctly,2026-09-08T18:03:06,P3,False,False,True
+TKT-2026-000445,EMP-000149,CAT-PAYROLL,Tax declaration proof submission deadline,2026-09-08T18:35:12,P2,False,False,False
+TKT-2026-000446,EMP-000105,CAT-ER,Misconduct report involving my team,2026-09-09T16:18:03,P1,True,False,False
+TKT-2026-000447,EMP-000016,CAT-BENEFITS,Adding a dependent to group health insurance,2026-09-10T12:07:12,P3,False,False,False
+TKT-2026-000448,EMP-000050,CAT-BENEFITS,Claiming my wellness allowance,2026-09-10T17:44:55,P3,False,False,False
+TKT-2026-000449,EMP-000194,CAT-BENEFITS,Meal card top-up not received,2026-09-10T18:51:30,P3,False,False,False
+TKT-2026-000450,EMP-000185,CAT-LEAVE,How many annual leave days do I have left?,2026-09-11T15:52:18,P3,False,False,False
+TKT-2026-000451,EMP-000089,CAT-BENEFITS,Adding a dependent to group health insurance,2026-09-11T16:28:20,P3,False,False,False
+TKT-2026-000452,EMP-000163,CAT-ONBOARDING,Induction schedule for first week,2026-09-15T10:03:41,P3,False,False,False
+TKT-2026-000453,EMP-000162,CAT-BENEFITS,Need help with my benefits,2026-09-15T17:25:50,P3,False,True,False
+TKT-2026-000454,EMP-000036,CAT-LEAVE,Question about my leave,2026-09-15T17:51:32,P3,False,True,False
+TKT-2026-000455,EMP-000001,CAT-PAYROLL,My salary was short this month,2026-09-15T18:52:47,P2,False,False,False
+TKT-2026-000456,EMP-000087,CAT-PAYROLL,Tax declaration proof submission deadline,2026-09-16T12:36:02,P2,False,False,False
+TKT-2026-000457,EMP-000040,CAT-LEAVE,Question about my leave,2026-09-16T13:35:12,P3,False,True,False
+TKT-2026-000458,EMP-000139,CAT-PAYROLL,Bonus payout date query,2026-09-16T18:13:31,P2,False,False,False
+TKT-2026-000459,EMP-000155,CAT-ONBOARDING,Laptop not delivered before joining date,2026-09-17T14:38:06,P3,False,False,False
+TKT-2026-000460,EMP-000118,CAT-ONBOARDING,Access to email account not working,2026-09-18T04:31:13,P3,False,False,False
+TKT-2026-000461,EMP-000089,CAT-ER,Misconduct report involving my team,2026-09-18T09:04:39,P1,True,False,False
+TKT-2026-000462,EMP-000140,CAT-PAYROLL,My salary was short this month,2026-09-18T16:57:10,P2,False,False,False
+TKT-2026-000463,EMP-000057,CAT-BENEFITS,Adding a dependent to group health insurance,2026-09-18T18:11:34,P3,False,False,False
+TKT-2026-000464,EMP-000072,CAT-LEAVE,Maternity leave eligibility and notice period,2026-09-21T14:36:00,P3,False,False,False
+TKT-2026-000465,EMP-000136,CAT-PAYROLL,Tax declaration proof submission deadline,2026-09-21T15:33:07,P2,False,False,False
+TKT-2026-000466,EMP-000085,CAT-LEAVE,Carry forward of unused leave to next year,2026-09-22T13:11:24,P3,False,False,False
+TKT-2026-000467,EMP-000157,CAT-PAYROLL,My salary was short this month,2026-09-23T15:35:29,P2,False,False,False
+TKT-2026-000468,EMP-000004,CAT-BENEFITS,Need help with my benefits,2026-09-23T18:19:23,P3,False,True,False
+TKT-2026-000469,EMP-000049,CAT-BENEFITS,Meal card top-up not received,2026-09-24T10:45:01,P3,False,False,False
+TKT-2026-000470,EMP-000016,CAT-ER,Misconduct report involving my team,2026-09-24T11:00:26,P1,True,False,False
+TKT-2026-000471,EMP-000136,CAT-LEAVE,Sick leave balance for this year,2026-09-24T15:26:18,P3,False,False,False
+TKT-2026-000472,EMP-000086,CAT-BENEFITS,Need help with my benefits,2026-09-24T18:11:29,P3,False,True,False
+TKT-2026-000473,EMP-000008,CAT-LEAVE,Applying for compensatory off,2026-09-24T18:16:12,P3,False,False,False
+TKT-2026-000474,EMP-000103,CAT-PAYROLL,Bonus payout date query,2026-09-25T12:21:44,P2,False,False,False
+TKT-2026-000475,EMP-000086,CAT-ONBOARDING,Induction schedule for first week,2026-09-28T09:45:08,P3,False,False,False
+TKT-2026-000476,EMP-000088,CAT-PAYROLL,Bonus payout date query,2026-09-28T12:39:13,P2,False,False,False
+TKT-2026-000477,EMP-000001,CAT-PAYROLL,Reimbursement claim still pending,2026-09-28T15:33:07,P2,False,False,False
+TKT-2026-000478,EMP-000042,CAT-LEAVE,Maternity leave eligibility and notice period,2026-09-29T19:32:25,P3,False,False,False
+TKT-2026-000479,EMP-000163,CAT-ONBOARDING,Induction schedule for first week,2026-09-30T10:54:18,P3,False,False,False
+TKT-2026-000480,EMP-000011,CAT-LEAVE,Medical leave certificate requirement,2026-09-30T13:34:44,P1,True,False,False
+TKT-2026-000481,EMP-000069,CAT-LEAVE,Medical leave certificate requirement,2026-10-01T10:33:08,P1,True,False,False
+TKT-2026-000482,EMP-000039,CAT-GENERAL,Dress code for client days,2026-10-01T11:08:11,P3,False,False,False
+TKT-2026-000483,EMP-000094,CAT-BENEFITS,Learning budget reimbursement process,2026-10-05T09:24:22,P3,False,False,False
+TKT-2026-000484,EMP-000180,CAT-BENEFITS,Provident fund VPF contribution change,2026-10-05T10:02:23,P3,False,False,False
+TKT-2026-000485,EMP-000032,CAT-GENERAL,My request was not approved,2026-10-05T10:17:41,P3,False,False,True
+TKT-2026-000486,EMP-000002,CAT-PAYROLL,Something is wrong with my pay,2026-10-05T10:41:07,P2,False,True,False
+TKT-2026-000487,EMP-000188,CAT-BENEFITS,My claim was rejected,2026-10-06T14:20:10,P3,False,False,True
+TKT-2026-000488,EMP-000070,CAT-PAYROLL,My salary was short this month,2026-10-06T14:51:33,P2,False,False,False
+TKT-2026-000489,EMP-000147,CAT-BENEFITS,Provident fund VPF contribution change,2026-10-06T18:31:02,P3,False,False,False
+TKT-2026-000490,EMP-000011,CAT-BENEFITS,Claiming my wellness allowance,2026-10-07T14:46:39,P3,False,False,False
+TKT-2026-000491,EMP-000193,CAT-PAYROLL,My salary was short this month,2026-10-08T09:50:06,P2,False,False,False
+TKT-2026-000492,EMP-000176,CAT-ER,Harassment complaint about a colleague,2026-10-08T16:11:23,P1,True,False,False
+TKT-2026-000493,EMP-000093,CAT-PAYROLL,Bonus payout date query,2026-10-09T01:16:14,P2,False,False,False
+TKT-2026-000494,EMP-000075,CAT-BENEFITS,Need help with my benefits,2026-10-09T16:43:27,P3,False,True,False
+TKT-2026-000495,EMP-000178,CAT-PAYROLL,Tax declaration proof submission deadline,2026-10-09T23:05:21,P2,False,False,False
+TKT-2026-000496,EMP-000161,CAT-LEAVE,Maternity leave eligibility and notice period,2026-10-13T14:48:48,P3,False,False,False
+TKT-2026-000497,EMP-000182,CAT-LEAVE,Applying for compensatory off,2026-10-13T16:10:13,P3,False,False,False
+TKT-2026-000498,EMP-000007,CAT-PAYROLL,Tax declaration proof submission deadline,2026-10-14T04:22:16,P2,False,False,False
+TKT-2026-000499,EMP-000126,CAT-LEAVE,Question about my leave,2026-10-14T16:00:04,P3,False,True,False
+TKT-2026-000500,EMP-000096,CAT-LEAVE,Maternity leave eligibility and notice period,2026-10-15T17:23:56,P3,False,False,False

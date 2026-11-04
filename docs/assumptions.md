@@ -39,3 +39,5 @@ About 2% of eligible tickets per type are corrupted AFTER valid data is built: O
 - English-only, template-based message text; no real NLP.
 - One assignee at a time per ticket; reassignment history kept in Assignment.
 - Holiday list is a single fixed 2026 list.
+Candidates’ hire_date is their offer-acceptance date (Nov to Dec 2025). The ticket step must skip exited employees as ticket raisers.
+“HR lead” means an hr_partner employee.

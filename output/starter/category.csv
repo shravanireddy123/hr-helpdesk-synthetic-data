@@ -1,0 +1,7 @@
+category_id,name,default_queue,is_sensitive,default_priority
+CAT-LEAVE,Leave,LEAVE,False,P3
+CAT-BENEFITS,Benefits,BENEFITS,False,P3
+CAT-PAYROLL,Payroll,PAYROLL,False,P2
+CAT-ONBOARDING,Onboarding,GENERAL,False,P3
+CAT-ER,Employee Relations,ER_CONFIDENTIAL,True,P1
+CAT-GENERAL,General HR,GENERAL,False,P3

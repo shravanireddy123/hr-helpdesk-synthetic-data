@@ -1,0 +1,13 @@
+policy_id,title,category_id,audience,owner_department_id
+POL-HR-2026-001,Annual Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-002,Sick Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-003,Maternity Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-004,Group Health Insurance Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-005,Provident Fund Contribution Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-006,Salary Payment Schedule,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-007,Expense Reimbursement Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-008,Tax Declaration and TDS Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-009,New Joiner Onboarding Checklist,CAT-ONBOARDING,all,DEPT-001
+POL-HR-2026-010,IT Equipment and Access Provisioning,CAT-ONBOARDING,all,DEPT-001
+POL-HR-2026-011,Anti-Harassment and POSH Policy,CAT-ER,all,DEPT-002
+POL-HR-2026-012,Work From Home Policy,CAT-GENERAL,employee,DEPT-001

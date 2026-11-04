@@ -1,0 +1,41 @@
+policy_id,title,category_id,audience,owner_department_id
+POL-HR-2026-001,Annual Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-002,Sick Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-003,Maternity Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-004,Group Health Insurance Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-005,Provident Fund Contribution Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-006,Salary Payment Schedule,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-007,Expense Reimbursement Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-008,Tax Declaration and TDS Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-009,New Joiner Onboarding Checklist,CAT-ONBOARDING,all,DEPT-001
+POL-HR-2026-010,IT Equipment and Access Provisioning,CAT-ONBOARDING,all,DEPT-001
+POL-HR-2026-011,Anti-Harassment and POSH Policy,CAT-ER,all,DEPT-002
+POL-HR-2026-012,Work From Home Policy,CAT-GENERAL,employee,DEPT-001
+POL-HR-2026-013,Paternity Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-014,Leave Encashment Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-015,Compensatory Off Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-016,Bereavement Leave Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-017,Unpaid Leave and Sabbatical Policy,CAT-LEAVE,employee,DEPT-001
+POL-HR-2026-018,Public and Optional Holiday Policy,CAT-LEAVE,all,DEPT-001
+POL-HR-2026-019,Gratuity Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-020,Wellness Allowance Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-021,Meal Card Benefit,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-022,Learning and Development Reimbursement,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-023,Relocation Assistance Policy,CAT-BENEFITS,employee,DEPT-004
+POL-HR-2026-024,Employee Assistance Programme,CAT-BENEFITS,all,DEPT-004
+POL-HR-2026-025,Overtime and Shift Allowance Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-026,Salary Advance Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-027,Bonus and Incentive Payout Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-028,Payslip and Form 16 Access,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-029,Full and Final Settlement Policy,CAT-PAYROLL,employee,DEPT-003
+POL-HR-2026-030,Background Verification Policy,CAT-ONBOARDING,candidate,DEPT-001
+POL-HR-2026-031,Probation and Confirmation Policy,CAT-ONBOARDING,employee,DEPT-001
+POL-HR-2026-032,Offer Letter and Documentation Policy,CAT-ONBOARDING,candidate,DEPT-001
+POL-HR-2026-033,Buddy and Induction Programme,CAT-ONBOARDING,all,DEPT-001
+POL-HR-2026-034,Grievance Redressal Policy,CAT-ER,all,DEPT-002
+POL-HR-2026-035,Code of Conduct and Disciplinary Policy,CAT-ER,all,DEPT-002
+POL-HR-2026-036,Whistleblower Protection Policy,CAT-ER,all,DEPT-002
+POL-HR-2026-037,Medical Accommodation Policy,CAT-ER,all,DEPT-002
+POL-HR-2026-038,Employee Referral Programme,CAT-GENERAL,employee,DEPT-001
+POL-HR-2026-039,Dress Code and Office Conduct,CAT-GENERAL,all,DEPT-001
+POL-HR-2026-040,Office Access and Visitor Policy,CAT-GENERAL,all,DEPT-001

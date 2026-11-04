@@ -2,10 +2,13 @@ import argparse
 import random
 from pathlib import Path
 
+import pandas as pd
 from faker import Faker
 
 from . import ids
 from .config import DEFAULT_SEED, SCALES
+from .master_data import build_master_data
+from .tickets import build_tickets
 
 
 def main() -> None:
@@ -26,6 +29,16 @@ def main() -> None:
     print(f"Generating '{scale.name}' with seed {args.seed} into {out}")
     print("Example IDs:", ids.ticket_id(1), ids.version_id(ids.policy_id(1), 1),
           ids.message_id(ids.ticket_id(1), 1))
+
+    tables = build_master_data(rng, fake, scale)
+    tables.update(build_tickets(rng, tables["employee"], scale))
+    for name, rows in tables.items():
+        # TEMPORARY: export.py (Stage 9) will replace these CSV lines.
+        pd.DataFrame(rows).to_csv(out / f"{name}.csv", index=False, lineterminator="\n")
+        print(f"  {name}: {len(rows)} rows")
+
+    sensitive = sum(1 for t in tables["ticket"] if t["is_sensitive"])
+    print(f"  (sensitive tickets: {sensitive})")
 
 
 if __name__ == "__main__":
