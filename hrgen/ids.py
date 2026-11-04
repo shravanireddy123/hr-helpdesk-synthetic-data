@@ -1,0 +1,7 @@
+def department_id(n: int) -> str: return f"DEPT-{n:03d}"
+def employee_id(n: int) -> str: return f"EMP-{n:06d}"
+def policy_id(n: int) -> str: return f"POL-HR-2026-{n:03d}"
+def version_id(policy_id: str, n: int) -> str: return f"VER-{policy_id}-{n:02d}"
+def kb_id(n: int) -> str: return f"KB-{n:06d}"
+def ticket_id(n: int) -> str: return f"TKT-2026-{n:06d}"
+def message_id(ticket_id: str, n: int) -> str: return f"MSG-{ticket_id}-{n:03d}"
