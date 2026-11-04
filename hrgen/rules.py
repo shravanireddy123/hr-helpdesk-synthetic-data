@@ -77,3 +77,20 @@ def priority_for(category_id: str, sensitive: bool) -> str:
     if category_id == "CAT-PAYROLL":
         return "P2"
     return "P3"
+def find_effective_version(versions: list[dict], on_date: str) -> dict | None:
+    """The policy version in force on `on_date` (YYYY-MM-DD string).
+
+    `versions` are all versions of ONE policy. effective_to is the inclusive
+    last day; an empty value means the version is still current.
+    """
+    for v in versions:
+        if v["effective_from"] <= on_date and (v["effective_to"] is None or v["effective_to"] >= on_date):
+            return v
+    return None
+
+
+def audience_allowed(policy_audience: str, employee_role: str) -> bool:
+    """Candidates only see policies for 'all' or 'candidate'; others see 'all', 'employee', 'manager'."""
+    if employee_role == "candidate":
+        return policy_audience in ("all", "candidate")
+    return policy_audience in ("all", "employee", "manager")
