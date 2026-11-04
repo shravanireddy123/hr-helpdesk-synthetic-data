@@ -8,6 +8,8 @@ from faker import Faker
 from . import ids
 from .config import DEFAULT_SEED, SCALES
 from .master_data import build_master_data
+from .messages import build_messages
+from .sla import build_sla
 from .tickets import build_tickets
 
 
@@ -32,13 +34,20 @@ def main() -> None:
 
     tables = build_master_data(rng, fake, scale)
     tables.update(build_tickets(rng, tables["employee"], scale))
+    msg = build_messages(rng, tables, tables, scale)
+    tables["message"] = msg["message"]
+    tables["message_citation"] = msg["message_citation"]
+    tables["ticket_status_event"] = sorted(
+        tables["ticket_status_event"] + msg["new_events"], key=lambda e: e["event_id"])
+    tables.update(build_sla(tables))      # derived: no rng; adds escalations
+
     for name, rows in tables.items():
-        # TEMPORARY: export.py (Stage 9) will replace these CSV lines.
+        # TEMPORARY: export.py will replace these CSV lines.
         pd.DataFrame(rows).to_csv(out / f"{name}.csv", index=False, lineterminator="\n")
         print(f"  {name}: {len(rows)} rows")
 
-    sensitive = sum(1 for t in tables["ticket"] if t["is_sensitive"])
-    print(f"  (sensitive tickets: {sensitive})")
+    escalated = sum(1 for a in tables["assignment"] if a["queue"] == "HR_LEAD")
+    print(f"  (escalated tickets: {escalated})")
 
 
 if __name__ == "__main__":
