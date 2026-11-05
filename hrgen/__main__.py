@@ -6,6 +6,7 @@ from .config import DEFAULT_SEED, SCALES
 from .export import GROUND_TRUTH_TABLES, TABLE_ORDER, export_all
 from .metrics import compute_metrics, format_metrics
 from .pipeline import generate
+from .validate import validate_dir, write_summary
 
 
 def main() -> None:
@@ -32,6 +33,16 @@ def main() -> None:
         print(f"  ground_truth/{name}: {manifest['ground_truth_row_counts'][name]} rows")
     print(format_metrics(metrics))
     print(f"Wrote {len(manifest['files']) + 1} files (see {out / 'manifest.json'})")
+
+    checks, ok = validate_dir(out)           # validates the files just written
+    write_summary(out, checks)
+    failed = [c for c in checks if not c["ok"]]
+    print(f"Validation: {'PASS' if ok else 'FAIL'} ({len(checks)} checks, {len(failed)} failed) "
+          f"-> {out / 'validation_summary.md'}")
+    if not ok:
+        for c in failed:
+            print(f"  FAILED [{c['kind']}] {c['name']}: {c['detail']}")
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
