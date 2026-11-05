@@ -36,7 +36,7 @@ Current status = latest `ticket_status_event`; never stored on Ticket.
 | role | enum | Y | role list | N |
 | employment_type | enum | Y | list above | N |
 | location | string | Y | non-empty | N |
-| hire_date | date | Y | <= reference date | N |
+| hire_date | date | Y | <= reference date (for candidates: offer-acceptance date) | N |
 | status | enum | Y | list above | N |
 
 ## Category (PK `category_id`)
@@ -64,7 +64,7 @@ Current status = latest `ticket_status_event`; never stored on Ticket.
 | policy_id | string | Y | FK PolicyDocument | N |
 | version_no | int | Y | 1-4, consecutive per policy | N (unique with policy_id) |
 | effective_from | date | Y | < effective_to | N |
-| effective_to | date | N | empty only on the latest version; no overlaps | N |
+| effective_to | date | N | empty only on the latest version; inclusive last day; no overlaps | N |
 | key_rules | JSON string | Y | small dict of facts, differs between versions | N |
 | summary | string | Y | non-empty | N |
 
@@ -125,20 +125,21 @@ Both FK columns required; pair unique; each article links to at least one versio
 |---|---|---|---|
 | sla_id, ticket_id | string | Y | ticket_id unique, FK Ticket |
 | priority | enum | Y | equals ticket priority |
-| first_response_due, resolution_due | datetime | Y | created_at + target business minutes (+ paused) |
+| first_response_due, resolution_due | datetime | Y | created_at + target business minutes (+ paused for resolution) |
 | paused_minutes | int | Y | >= 0, business minutes in pending_employee |
-| first_responded_at | datetime | N | first HR message time |
-| business_minutes_to_first_response | int | N | derived |
-| first_response_met, resolution_met | bool | N | derived from timestamps |
+| first_responded_at | datetime | Y | first HR message time |
+| business_minutes_to_first_response | int | Y | derived |
+| first_response_met | bool | Y | derived from timestamps |
+| resolution_met | bool | N | derived; empty for no_response tickets |
 
-## Resolution (PK `resolution_id` RES-TKT-2026-000001; 0..1 per Ticket)
+## Resolution (PK `resolution_id` RES-TKT-2026-000001; 1 per Ticket)
 | Field | Type | Req | Rule |
 |---|---|---|---|
 | resolution_id, ticket_id | string | Y | ticket_id unique, FK Ticket |
 | resolved_at | datetime | Y | >= created_at |
 | resolution_code | enum | Y | list above |
-| cited_version_id | string | N | FK PolicyVersion |
-| business_minutes_to_resolve | int | Y | derived |
+| cited_version_id | string | N | FK PolicyVersion; empty for no_response |
+| business_minutes_to_resolve | int | Y | derived: business minutes from created_at to resolved_at |
 
 ## ticket_status_event (PK `event_id` EVT-TKT-2026-000001-01)
 | Field | Type | Req | Rule |

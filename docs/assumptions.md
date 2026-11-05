@@ -41,3 +41,15 @@ About 2% of eligible tickets per type are corrupted AFTER valid data is built: O
 - Holiday list is a single fixed 2026 list.
 Candidates’ hire_date is their offer-acceptance date (Nov to Dec 2025). The ticket step must skip exited employees as ticket raisers.
 “HR lead” means an hr_partner employee.
+## Added during the build
+- Candidates' `hire_date` is their offer-acceptance date; `exited` employees never raise tickets. "HR lead" means an `hr_partner`.
+- Each ticket starts with two events: (none)->new by the employee, and new->assigned by an admin account acting as the routing system. Ambiguous and missing-context are mutually exclusive.
+- About 10% of tickets are sensitive: the ER category (6%) plus keyword matches such as "medical leave".
+- Resolution rows are derived from the final events. Follow-up messages are spread over answered tickets so message totals match the scale exactly.
+- Escalation is recorded when a ticket first enters `in_progress`. P1 trigger: no HR message within 2 business hours. P2/P3 trigger: first-response SLA breach. The escalation Assignment goes to the `HR_LEAD` queue, to a different `hr_partner`. Tickets closed as `no_response` never escalate.
+- The SLA pause starts at the clarification request (which is also the first response), so first-response due times are never adjusted. `resolution_met` is empty for `no_response` tickets.
+- Resolution code priority: no_response, escalated_resolved, referred (sensitive), policy_clarified (ambiguous or missing context), answered.
+- P1 agent delay ranges are cut to a quarter, so P1 first-response attainment is 100%. SLA attainment is high by design; P2 first response is the main source of breaches.
+- Anomalies are injected after all valid data exists: about 2% of eligible tickets per type (minimum 3), at most one per ticket. The eligible pool differs by type, so counts differ (OBSOLETE_CITATION is 82 at full scale).
+- Export conventions: CSV uses true/false and empty for NULL; JSON uses booleans and null; SQL stores booleans as 0/1. Files are sorted by primary key, UTF-8, `\n` line endings. The manifest records the command without `--out`.
+- Validation reads the exported CSVs. Structural checks must pass. Rule checks must fail exactly on the labelled ground-truth records. `validation_summary.md` is written into each output folder and is not listed in the manifest.
