@@ -110,7 +110,7 @@ MSG-TKT-2026-000110-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget 
 MSG-TKT-2026-000111-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-000112-002,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-000113-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
-MSG-TKT-2026-000114-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
+MSG-TKT-2026-000114-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-000115-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-000116-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
 MSG-TKT-2026-000117-004,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
@@ -148,7 +148,7 @@ MSG-TKT-2026-000149-002,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-000150-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-000151-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-000152-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
-MSG-TKT-2026-000153-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
+MSG-TKT-2026-000153-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-000154-002,VER-POL-HR-2026-011-02,,complaint ack days is 5; inquiry completion days is 100
 MSG-TKT-2026-000155-004,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-000156-002,VER-POL-HR-2026-021-03,,meal card inr per month is 2200
@@ -487,7 +487,7 @@ MSG-TKT-2026-000502-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 3
 MSG-TKT-2026-000503-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-000504-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000505-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
-MSG-TKT-2026-000506-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
+MSG-TKT-2026-000506-002,VER-POL-HR-2026-022-01,KB-000022,annual learning budget inr is 20000
 MSG-TKT-2026-000507-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000508-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
 MSG-TKT-2026-000509-002,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
@@ -562,7 +562,7 @@ MSG-TKT-2026-000578-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 3
 MSG-TKT-2026-000579-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-000580-004,VER-POL-HR-2026-011-03,,complaint ack days is 3; inquiry completion days is 90
 MSG-TKT-2026-000581-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
-MSG-TKT-2026-000582-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
+MSG-TKT-2026-000582-002,VER-POL-HR-2026-015-01,,comp off validity days is 30
 MSG-TKT-2026-000583-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-000584-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-000585-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
@@ -610,7 +610,7 @@ MSG-TKT-2026-000628-002,VER-POL-HR-2026-039-02,,casual days per week is 2
 MSG-TKT-2026-000629-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-000630-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-000631-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
-MSG-TKT-2026-000632-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
+MSG-TKT-2026-000632-002,VER-POL-HR-2026-015-01,,comp off validity days is 30
 MSG-TKT-2026-000633-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000634-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
 MSG-TKT-2026-000635-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
@@ -655,7 +655,7 @@ MSG-TKT-2026-000674-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month
 MSG-TKT-2026-000675-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-000676-004,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-000677-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
-MSG-TKT-2026-000678-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
+MSG-TKT-2026-000678-002,VER-POL-HR-2026-027-01,,bonus payout after close days is 60
 MSG-TKT-2026-000679-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-000680-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-000681-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
@@ -664,7 +664,7 @@ MSG-TKT-2026-000683-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-000684-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-000685-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-000686-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
-MSG-TKT-2026-000687-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-000687-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-000688-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000689-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-000690-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
@@ -682,7 +682,7 @@ MSG-TKT-2026-000701-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-000702-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
 MSG-TKT-2026-000703-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000704-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
-MSG-TKT-2026-000705-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
+MSG-TKT-2026-000705-002,VER-POL-HR-2026-015-01,,comp off validity days is 30
 MSG-TKT-2026-000706-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
 MSG-TKT-2026-000707-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000708-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
@@ -723,7 +723,7 @@ MSG-TKT-2026-000742-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-000743-004,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-000744-004,VER-POL-HR-2026-011-03,,complaint ack days is 3; inquiry completion days is 90
 MSG-TKT-2026-000745-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-000746-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
+MSG-TKT-2026-000746-002,VER-POL-HR-2026-027-01,,bonus payout after close days is 60
 MSG-TKT-2026-000747-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-000748-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-000749-002,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
@@ -896,7 +896,7 @@ MSG-TKT-2026-000922-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window
 MSG-TKT-2026-000923-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-000924-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-000925-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
-MSG-TKT-2026-000926-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
+MSG-TKT-2026-000926-002,VER-POL-HR-2026-015-01,,comp off validity days is 30
 MSG-TKT-2026-000927-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-000928-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000929-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
@@ -905,14 +905,14 @@ MSG-TKT-2026-000931-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-000932-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-000933-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-000934-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
-MSG-TKT-2026-000936-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
+MSG-TKT-2026-000936-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-000937-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-000938-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-000939-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-000940-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
 MSG-TKT-2026-000941-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
 MSG-TKT-2026-000942-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
-MSG-TKT-2026-000943-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-000943-002,VER-POL-HR-2026-002-01,,medical certificate after days is 4; sick leave days is 8
 MSG-TKT-2026-000944-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-000945-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-000946-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -950,7 +950,7 @@ MSG-TKT-2026-000977-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr 
 MSG-TKT-2026-000978-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-000979-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-000980-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
-MSG-TKT-2026-000981-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-000981-002,VER-POL-HR-2026-002-01,,medical certificate after days is 4; sick leave days is 8
 MSG-TKT-2026-000982-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-000983-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-000984-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -1028,7 +1028,7 @@ MSG-TKT-2026-001057-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum ins
 MSG-TKT-2026-001058-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001059-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
 MSG-TKT-2026-001060-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
-MSG-TKT-2026-001061-002,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
+MSG-TKT-2026-001061-002,VER-POL-HR-2026-011-01,,complaint ack days is 7; inquiry completion days is 120
 MSG-TKT-2026-001062-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-001063-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-001064-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -1080,7 +1080,7 @@ MSG-TKT-2026-001111-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-001112-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001113-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-001114-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
-MSG-TKT-2026-001115-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-001115-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-001116-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-001117-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001118-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
@@ -1106,7 +1106,7 @@ MSG-TKT-2026-001137-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001138-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-001139-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-001140-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-001141-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
+MSG-TKT-2026-001141-002,VER-POL-HR-2026-022-01,KB-000022,annual learning budget inr is 20000
 MSG-TKT-2026-001142-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001143-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001144-002,VER-POL-HR-2026-039-02,,casual days per week is 2
@@ -1129,7 +1129,7 @@ MSG-TKT-2026-001160-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-001161-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001162-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001163-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
-MSG-TKT-2026-001164-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
+MSG-TKT-2026-001164-002,VER-POL-HR-2026-005-01,KB-000125,vpf max percent is 20
 MSG-TKT-2026-001165-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001166-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001167-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
@@ -1149,8 +1149,8 @@ MSG-TKT-2026-001180-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt
 MSG-TKT-2026-001181-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-001182-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-001183-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
-MSG-TKT-2026-001184-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
-MSG-TKT-2026-001185-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
+MSG-TKT-2026-001184-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
+MSG-TKT-2026-001185-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-001186-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-001187-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-001188-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -1175,7 +1175,7 @@ MSG-TKT-2026-001206-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt
 MSG-TKT-2026-001207-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001208-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
 MSG-TKT-2026-001209-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
-MSG-TKT-2026-001210-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
+MSG-TKT-2026-001210-002,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-001211-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-001212-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001213-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -1192,7 +1192,7 @@ MSG-TKT-2026-001225-002,VER-POL-HR-2026-040-01,KB-000040,visitor pre registratio
 MSG-TKT-2026-001226-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
 MSG-TKT-2026-001227-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-001228-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-001229-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-001229-004,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-001230-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001231-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001232-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review days is 10
@@ -1222,7 +1222,7 @@ MSG-TKT-2026-001255-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities day
 MSG-TKT-2026-001256-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-001257-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001258-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
-MSG-TKT-2026-001259-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
+MSG-TKT-2026-001259-002,VER-POL-HR-2026-005-01,KB-000125,vpf max percent is 20
 MSG-TKT-2026-001260-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001261-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001262-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
@@ -1257,7 +1257,7 @@ MSG-TKT-2026-001291-002,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2
 MSG-TKT-2026-001292-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001293-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-001294-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
-MSG-TKT-2026-001295-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
+MSG-TKT-2026-001295-002,VER-POL-HR-2026-015-01,,comp off validity days is 30
 MSG-TKT-2026-001296-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001297-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-001298-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
@@ -1278,7 +1278,7 @@ MSG-TKT-2026-001313-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-001314-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-001315-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001316-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
-MSG-TKT-2026-001317-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
+MSG-TKT-2026-001317-002,VER-POL-HR-2026-022-01,KB-000022,annual learning budget inr is 20000
 MSG-TKT-2026-001318-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-001319-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
 MSG-TKT-2026-001320-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -1330,7 +1330,7 @@ MSG-TKT-2026-001365-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-001366-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review days is 10
 MSG-TKT-2026-001367-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001368-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
-MSG-TKT-2026-001369-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
+MSG-TKT-2026-001369-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-001370-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001371-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001372-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -1350,7 +1350,7 @@ MSG-TKT-2026-001386-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001387-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001388-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001389-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
-MSG-TKT-2026-001390-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-001390-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-001391-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001392-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001393-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review days is 10
@@ -1385,7 +1385,7 @@ MSG-TKT-2026-001423-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum ins
 MSG-TKT-2026-001424-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001425-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-001426-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
-MSG-TKT-2026-001427-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
+MSG-TKT-2026-001427-002,VER-POL-HR-2026-005-01,KB-000125,vpf max percent is 20
 MSG-TKT-2026-001428-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001429-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001430-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
@@ -1450,7 +1450,7 @@ MSG-TKT-2026-001489-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget 
 MSG-TKT-2026-001490-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-001491-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001492-002,VER-POL-HR-2026-008-03,,proof submission window days is 25
-MSG-TKT-2026-001493-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review days is 10
+MSG-TKT-2026-001493-002,VER-POL-HR-2026-037-01,,accommodation review days is 14
 MSG-TKT-2026-001494-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001495-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-001496-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
@@ -1555,7 +1555,7 @@ MSG-TKT-2026-001598-004,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-001599-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-001600-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001601-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
-MSG-TKT-2026-001602-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-001602-002,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-001603-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review days is 10
 MSG-TKT-2026-001604-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001605-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
@@ -1565,13 +1565,13 @@ MSG-TKT-2026-001608-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate aft
 MSG-TKT-2026-001609-002,VER-POL-HR-2026-008-03,,proof submission window days is 25
 MSG-TKT-2026-001610-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-001611-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
-MSG-TKT-2026-001612-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-001612-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-001613-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
 MSG-TKT-2026-001614-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-001615-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-001616-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-001617-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-001618-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
+MSG-TKT-2026-001617-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
+MSG-TKT-2026-001618-002,VER-POL-HR-2026-015-01,,comp off validity days is 30
 MSG-TKT-2026-001619-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001620-002,VER-POL-HR-2026-007-02,KB-000007,claim window days is 45; receipt required above inr is 1000
 MSG-TKT-2026-001621-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
@@ -1815,7 +1815,7 @@ MSG-TKT-2026-001864-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-001866-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001867-002,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-001868-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
-MSG-TKT-2026-001869-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
+MSG-TKT-2026-001869-002,VER-POL-HR-2026-021-03,,meal card inr per month is 2200
 MSG-TKT-2026-001870-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001871-002,VER-POL-HR-2026-040-01,KB-000040,visitor pre registration hours is 24
 MSG-TKT-2026-001872-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
@@ -1835,7 +1835,7 @@ MSG-TKT-2026-001885-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities day
 MSG-TKT-2026-001886-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-001887-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001888-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
-MSG-TKT-2026-001889-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
+MSG-TKT-2026-001889-002,VER-POL-HR-2026-010-01,,access setup hours is 72; laptop delivery days is 7
 MSG-TKT-2026-001890-002,VER-POL-HR-2026-003-01,KB-000003,maternity leave weeks is 12; notice period days is 30
 MSG-TKT-2026-001891-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-001892-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
@@ -1844,7 +1844,7 @@ MSG-TKT-2026-001894-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-001895-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-001896-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-001897-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
-MSG-TKT-2026-001898-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-001898-004,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-001899-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-001900-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-001901-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
@@ -1859,7 +1859,7 @@ MSG-TKT-2026-001910-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget 
 MSG-TKT-2026-001911-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-001912-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001913-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
-MSG-TKT-2026-001914-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
+MSG-TKT-2026-001914-002,VER-POL-HR-2026-022-01,KB-000022,annual learning budget inr is 20000
 MSG-TKT-2026-001915-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-001916-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-001917-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
@@ -2043,7 +2043,7 @@ MSG-TKT-2026-002099-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after clos
 MSG-TKT-2026-002100-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-002101-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-002102-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
-MSG-TKT-2026-002103-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
+MSG-TKT-2026-002103-004,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-002104-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-002105-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-002106-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
@@ -2220,7 +2220,7 @@ MSG-TKT-2026-002282-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum ins
 MSG-TKT-2026-002283-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-002285-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-002286-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
-MSG-TKT-2026-002287-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-002287-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-002288-002,VER-POL-HR-2026-008-03,,proof submission window days is 25
 MSG-TKT-2026-002289-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-002291-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -2259,14 +2259,14 @@ MSG-TKT-2026-002327-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-002328-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-002329-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-002330-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
-MSG-TKT-2026-002331-002,VER-POL-HR-2026-008-03,,proof submission window days is 25
+MSG-TKT-2026-002331-002,VER-POL-HR-2026-008-01,,proof submission window days is 15
 MSG-TKT-2026-002332-002,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-002333-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-002334-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-002335-002,VER-POL-HR-2026-007-02,KB-000007,claim window days is 45; receipt required above inr is 1000
 MSG-TKT-2026-002336-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-002337-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
-MSG-TKT-2026-002338-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-002338-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-002339-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-002340-002,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-002341-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -2500,7 +2500,7 @@ MSG-TKT-2026-002576-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate aft
 MSG-TKT-2026-002577-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-002578-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-002579-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
-MSG-TKT-2026-002580-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
+MSG-TKT-2026-002580-002,VER-POL-HR-2026-008-02,KB-000128,proof submission window days is 20
 MSG-TKT-2026-002582-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-002583-002,VER-POL-HR-2026-007-02,KB-000007,claim window days is 45; receipt required above inr is 1000
 MSG-TKT-2026-002584-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
@@ -2618,7 +2618,7 @@ MSG-TKT-2026-002702-002,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2
 MSG-TKT-2026-002703-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-002704-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-002705-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
-MSG-TKT-2026-002706-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
+MSG-TKT-2026-002706-002,VER-POL-HR-2026-022-01,KB-000022,annual learning budget inr is 20000
 MSG-TKT-2026-002707-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-002708-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-002709-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
@@ -2635,7 +2635,7 @@ MSG-TKT-2026-002720-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr 
 MSG-TKT-2026-002721-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-002722-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-002723-002,VER-POL-HR-2026-039-03,KB-000119,casual days per week is 3
-MSG-TKT-2026-002724-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-002724-002,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-002725-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-002726-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-002727-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
@@ -2747,7 +2747,7 @@ MSG-TKT-2026-002835-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month
 MSG-TKT-2026-002836-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-002837-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-002838-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-002839-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-002839-002,VER-POL-HR-2026-002-01,,medical certificate after days is 4; sick leave days is 8
 MSG-TKT-2026-002840-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-002841-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-002842-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
@@ -2769,14 +2769,14 @@ MSG-TKT-2026-002858-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 2
 MSG-TKT-2026-002859-002,VER-POL-HR-2026-027-02,KB-000027,bonus payout after close days is 45
 MSG-TKT-2026-002860-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-002861-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-002862-002,VER-POL-HR-2026-007-02,KB-000007,claim window days is 45; receipt required above inr is 1000
+MSG-TKT-2026-002862-002,VER-POL-HR-2026-007-01,,claim window days is 30; receipt required above inr is 500
 MSG-TKT-2026-002863-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-002864-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-002865-002,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-002866-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-002867-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-002868-004,VER-POL-HR-2026-006-03,,salary credit day is 26
-MSG-TKT-2026-002869-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
+MSG-TKT-2026-002869-002,VER-POL-HR-2026-035-01,KB-000035,disciplinary notice days is 3
 MSG-TKT-2026-002870-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-002871-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-002872-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
@@ -3048,7 +3048,7 @@ MSG-TKT-2026-003143-004,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-003144-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003145-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003146-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
-MSG-TKT-2026-003147-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
+MSG-TKT-2026-003147-002,VER-POL-HR-2026-008-01,,proof submission window days is 15
 MSG-TKT-2026-003148-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-003149-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
 MSG-TKT-2026-003150-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -3061,7 +3061,7 @@ MSG-TKT-2026-003156-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-003157-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-003158-002,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-003159-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
-MSG-TKT-2026-003160-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
+MSG-TKT-2026-003160-002,VER-POL-HR-2026-010-03,KB-000130,access setup hours is 36; laptop delivery days is 3
 MSG-TKT-2026-003161-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-003162-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-003163-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
@@ -3121,9 +3121,9 @@ MSG-TKT-2026-003218-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate aft
 MSG-TKT-2026-003219-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
 MSG-TKT-2026-003220-002,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-003221-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
-MSG-TKT-2026-003222-002,VER-POL-HR-2026-006-03,,salary credit day is 26
+MSG-TKT-2026-003222-002,VER-POL-HR-2026-006-01,KB-000126,salary credit day is 30
 MSG-TKT-2026-003223-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-003224-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-003224-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-003225-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003226-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-003227-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
@@ -3204,7 +3204,7 @@ MSG-TKT-2026-003304-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr 
 MSG-TKT-2026-003305-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-003306-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-003307-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
-MSG-TKT-2026-003308-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-003308-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-003309-002,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-003310-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
 MSG-TKT-2026-003312-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -3232,7 +3232,7 @@ MSG-TKT-2026-003333-002,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-003334-004,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-003335-004,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-003337-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
-MSG-TKT-2026-003338-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-003338-002,VER-POL-HR-2026-002-01,,medical certificate after days is 4; sick leave days is 8
 MSG-TKT-2026-003339-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-003340-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003341-002,VER-POL-HR-2026-006-03,,salary credit day is 26
@@ -3392,7 +3392,7 @@ MSG-TKT-2026-003501-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days 
 MSG-TKT-2026-003502-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003503-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003504-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
-MSG-TKT-2026-003505-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-003505-002,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-003506-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
 MSG-TKT-2026-003507-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-003508-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -3426,7 +3426,7 @@ MSG-TKT-2026-003535-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by da
 MSG-TKT-2026-003536-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-003537-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-003538-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-003539-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
+MSG-TKT-2026-003539-004,VER-POL-HR-2026-011-03,,complaint ack days is 3; inquiry completion days is 90
 MSG-TKT-2026-003540-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
 MSG-TKT-2026-003541-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003542-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
@@ -3470,7 +3470,7 @@ MSG-TKT-2026-003580-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days 
 MSG-TKT-2026-003581-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-003582-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-003583-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-003584-002,VER-POL-HR-2026-039-04,KB-000039,casual days per week is 5
+MSG-TKT-2026-003584-002,VER-POL-HR-2026-039-01,KB-000039,casual days per week is 1
 MSG-TKT-2026-003585-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003586-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-003587-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
@@ -3512,7 +3512,7 @@ MSG-TKT-2026-003623-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days 
 MSG-TKT-2026-003624-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-003625-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
 MSG-TKT-2026-003626-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
-MSG-TKT-2026-003627-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-003627-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-003628-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003629-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
 MSG-TKT-2026-003630-004,VER-POL-HR-2026-006-03,,salary credit day is 26
@@ -3602,7 +3602,7 @@ MSG-TKT-2026-003717-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks i
 MSG-TKT-2026-003718-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003719-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003720-002,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
-MSG-TKT-2026-003721-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-003721-002,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-003722-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-003723-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-003724-002,VER-POL-HR-2026-034-03,KB-000034,grievance ack days is 3
@@ -3635,7 +3635,7 @@ MSG-TKT-2026-003750-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-003751-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003752-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
 MSG-TKT-2026-003753-002,VER-POL-HR-2026-006-03,,salary credit day is 26
-MSG-TKT-2026-003754-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-003754-004,VER-POL-HR-2026-001-02,,annual leave days is 20; carry forward days is 6
 MSG-TKT-2026-003755-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
 MSG-TKT-2026-003756-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-003757-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
@@ -3668,7 +3668,7 @@ MSG-TKT-2026-003783-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review da
 MSG-TKT-2026-003784-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003785-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003786-004,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
-MSG-TKT-2026-003787-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-003787-002,VER-POL-HR-2026-002-01,,medical certificate after days is 4; sick leave days is 8
 MSG-TKT-2026-003789-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003790-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-003792-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
@@ -3692,7 +3692,7 @@ MSG-TKT-2026-003809-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-003810-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-003811-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003812-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-003813-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
+MSG-TKT-2026-003813-002,VER-POL-HR-2026-021-01,,meal card inr per month is 1500
 MSG-TKT-2026-003814-004,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-003815-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-003816-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
@@ -3743,7 +3743,7 @@ MSG-TKT-2026-003863-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum ins
 MSG-TKT-2026-003864-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-003865-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-003866-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
-MSG-TKT-2026-003867-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-003867-002,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-003868-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-003869-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-003870-002,VER-POL-HR-2026-006-03,,salary credit day is 26
@@ -3879,7 +3879,7 @@ MSG-TKT-2026-004000-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum ins
 MSG-TKT-2026-004001-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-004002-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-004003-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
-MSG-TKT-2026-004004-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
+MSG-TKT-2026-004004-002,VER-POL-HR-2026-022-01,KB-000022,annual learning budget inr is 20000
 MSG-TKT-2026-004005-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-004006-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004007-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
@@ -3989,7 +3989,7 @@ MSG-TKT-2026-004111-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-004112-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004114-002,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004115-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
-MSG-TKT-2026-004116-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
+MSG-TKT-2026-004116-002,VER-POL-HR-2026-021-01,,meal card inr per month is 1500
 MSG-TKT-2026-004117-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
 MSG-TKT-2026-004118-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004119-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
@@ -4026,7 +4026,7 @@ MSG-TKT-2026-004150-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window
 MSG-TKT-2026-004151-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
 MSG-TKT-2026-004152-002,VER-POL-HR-2026-037-02,KB-000037,accommodation review days is 10
 MSG-TKT-2026-004153-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-004154-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
+MSG-TKT-2026-004154-002,VER-POL-HR-2026-028-01,KB-000068,payslip available by day is 7
 MSG-TKT-2026-004155-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-004156-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-004157-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
@@ -4052,7 +4052,7 @@ MSG-TKT-2026-004176-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities day
 MSG-TKT-2026-004177-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
 MSG-TKT-2026-004178-002,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004180-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
-MSG-TKT-2026-004181-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
+MSG-TKT-2026-004181-002,VER-POL-HR-2026-021-03,,meal card inr per month is 2200
 MSG-TKT-2026-004182-002,VER-POL-HR-2026-039-04,KB-000039,casual days per week is 5
 MSG-TKT-2026-004184-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004185-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
@@ -4094,13 +4094,13 @@ MSG-TKT-2026-004220-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 2
 MSG-TKT-2026-004221-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004222-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
 MSG-TKT-2026-004223-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-004224-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
+MSG-TKT-2026-004224-002,VER-POL-HR-2026-027-01,,bonus payout after close days is 60
 MSG-TKT-2026-004225-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
 MSG-TKT-2026-004226-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
-MSG-TKT-2026-004227-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
+MSG-TKT-2026-004227-002,VER-POL-HR-2026-010-02,,access setup hours is 48; laptop delivery days is 5
 MSG-TKT-2026-004228-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-004229-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-004230-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-004230-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-004231-002,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
 MSG-TKT-2026-004232-002,VER-POL-HR-2026-034-03,KB-000034,grievance ack days is 3
 MSG-TKT-2026-004233-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
@@ -4276,7 +4276,7 @@ MSG-TKT-2026-004406-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities day
 MSG-TKT-2026-004407-002,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004408-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
 MSG-TKT-2026-004409-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-004410-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
+MSG-TKT-2026-004410-002,VER-POL-HR-2026-005-01,KB-000125,vpf max percent is 20
 MSG-TKT-2026-004411-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-004412-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004413-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
@@ -4307,7 +4307,7 @@ MSG-TKT-2026-004438-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after clos
 MSG-TKT-2026-004439-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
 MSG-TKT-2026-004440-002,VER-POL-HR-2026-003-02,KB-000003,maternity leave weeks is 18; notice period days is 45
 MSG-TKT-2026-004441-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-004442-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-004442-002,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-004443-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004444-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004445-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -4326,7 +4326,7 @@ MSG-TKT-2026-004457-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 2
 MSG-TKT-2026-004458-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-004459-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-004460-002,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
-MSG-TKT-2026-004461-004,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
+MSG-TKT-2026-004461-004,VER-POL-HR-2026-006-02,KB-000086,salary credit day is 28
 MSG-TKT-2026-004462-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004463-002,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
 MSG-TKT-2026-004464-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -4340,7 +4340,7 @@ MSG-TKT-2026-004471-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget 
 MSG-TKT-2026-004472-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004473-002,VER-POL-HR-2026-039-04,KB-000039,casual days per week is 5
 MSG-TKT-2026-004474-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
-MSG-TKT-2026-004475-002,VER-POL-HR-2026-034-03,KB-000034,grievance ack days is 3
+MSG-TKT-2026-004475-002,VER-POL-HR-2026-034-01,KB-000074,grievance ack days is 7
 MSG-TKT-2026-004476-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004477-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004478-004,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
@@ -4362,7 +4362,7 @@ MSG-TKT-2026-004493-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after clos
 MSG-TKT-2026-004494-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004495-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004496-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
-MSG-TKT-2026-004497-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
+MSG-TKT-2026-004497-002,VER-POL-HR-2026-009-01,KB-000009,joining formalities days is 10
 MSG-TKT-2026-004498-004,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
 MSG-TKT-2026-004499-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1
 MSG-TKT-2026-004500-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
@@ -4382,7 +4382,7 @@ MSG-TKT-2026-004515-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22
 MSG-TKT-2026-004517-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004518-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
 MSG-TKT-2026-004519-004,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
-MSG-TKT-2026-004520-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
+MSG-TKT-2026-004520-002,VER-POL-HR-2026-005-01,KB-000125,vpf max percent is 20
 MSG-TKT-2026-004521-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-004522-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-004523-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
@@ -4407,7 +4407,7 @@ MSG-TKT-2026-004543-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-004544-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004545-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
 MSG-TKT-2026-004546-002,VER-POL-HR-2026-022-02,KB-000022,annual learning budget inr is 30000
-MSG-TKT-2026-004547-004,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
+MSG-TKT-2026-004547-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-004548-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-004549-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
 MSG-TKT-2026-004550-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
@@ -4434,7 +4434,7 @@ MSG-TKT-2026-004570-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 2
 MSG-TKT-2026-004571-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
 MSG-TKT-2026-004572-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-004573-002,VER-POL-HR-2026-008-04,KB-000008,proof submission window days is 30
-MSG-TKT-2026-004574-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
+MSG-TKT-2026-004574-002,VER-POL-HR-2026-005-01,KB-000125,vpf max percent is 20
 MSG-TKT-2026-004575-002,VER-POL-HR-2026-035-02,KB-000035,disciplinary notice days is 5
 MSG-TKT-2026-004576-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr per year is 9000
 MSG-TKT-2026-004577-002,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -4470,12 +4470,12 @@ MSG-TKT-2026-004608-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days 
 MSG-TKT-2026-004609-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004610-002,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004611-004,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
-MSG-TKT-2026-004612-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
+MSG-TKT-2026-004612-002,VER-POL-HR-2026-001-01,KB-000081,annual leave days is 18; carry forward days is 5
 MSG-TKT-2026-004613-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004614-002,VER-POL-HR-2026-007-03,KB-000007,claim window days is 60; receipt required above inr is 1500
 MSG-TKT-2026-004615-002,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
 MSG-TKT-2026-004616-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
-MSG-TKT-2026-004617-002,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
+MSG-TKT-2026-004617-002,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-004618-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004619-002,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004620-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
@@ -4529,7 +4529,7 @@ MSG-TKT-2026-004667-004,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2
 MSG-TKT-2026-004668-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
 MSG-TKT-2026-004669-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004670-004,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
-MSG-TKT-2026-004671-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
+MSG-TKT-2026-004671-002,VER-POL-HR-2026-002-02,KB-000002,medical certificate after days is 3; sick leave days is 10
 MSG-TKT-2026-004672-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
 MSG-TKT-2026-004673-004,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
 MSG-TKT-2026-004674-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
@@ -4611,7 +4611,7 @@ MSG-TKT-2026-004751-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month
 MSG-TKT-2026-004752-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
 MSG-TKT-2026-004753-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month is 2500
 MSG-TKT-2026-004754-004,VER-POL-HR-2026-012-03,KB-000012,wfh days per week is 3
-MSG-TKT-2026-004755-002,VER-POL-HR-2026-006-04,KB-000006,salary credit day is 25
+MSG-TKT-2026-004755-002,VER-POL-HR-2026-006-03,,salary credit day is 26
 MSG-TKT-2026-004756-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
 MSG-TKT-2026-004757-004,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004758-002,VER-POL-HR-2026-002-03,KB-000002,medical certificate after days is 3; sick leave days is 12
@@ -4661,7 +4661,7 @@ MSG-TKT-2026-004801-002,VER-POL-HR-2026-021-04,KB-000021,meal card inr per month
 MSG-TKT-2026-004802-002,VER-POL-HR-2026-027-03,KB-000027,bonus payout after close days is 30
 MSG-TKT-2026-004803-002,VER-POL-HR-2026-028-02,KB-000028,payslip available by day is 5
 MSG-TKT-2026-004804-002,VER-POL-HR-2026-015-02,KB-000015,comp off validity days is 45
-MSG-TKT-2026-004805-004,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
+MSG-TKT-2026-004805-004,VER-POL-HR-2026-004-01,,dependents covered is 2; sum insured inr is 300000
 MSG-TKT-2026-004806-004,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004807-002,VER-POL-HR-2026-011-04,KB-000011,complaint ack days is 2; inquiry completion days is 75
 MSG-TKT-2026-004808-004,VER-POL-HR-2026-009-02,KB-000009,joining formalities days is 7
@@ -4822,7 +4822,7 @@ MSG-TKT-2026-004966-002,VER-POL-HR-2026-020-02,KB-000020,wellness allowance inr 
 MSG-TKT-2026-004967-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004968-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
 MSG-TKT-2026-004969-002,VER-POL-HR-2026-005-02,KB-000005,vpf max percent is 25
-MSG-TKT-2026-004970-002,VER-POL-HR-2026-010-04,KB-000010,access setup hours is 24; laptop delivery days is 2
+MSG-TKT-2026-004970-002,VER-POL-HR-2026-010-01,,access setup hours is 72; laptop delivery days is 7
 MSG-TKT-2026-004971-004,VER-POL-HR-2026-004-02,KB-000004,dependents covered is 3; sum insured inr is 400000
 MSG-TKT-2026-004972-002,VER-POL-HR-2026-001-03,KB-000001,annual leave days is 22; carry forward days is 8
 MSG-TKT-2026-004973-002,VER-POL-HR-2026-033-01,KB-000033,induction days is 1

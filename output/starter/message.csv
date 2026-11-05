@@ -130,7 +130,7 @@ MSG-TKT-2026-000033-002,TKT-2026-000033,EMP-000166,hr_agent,hr_answer,2026-01-22
 MSG-TKT-2026-000033-003,TKT-2026-000033,EMP-000158,employee,follow_up,2026-01-22T17:07:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000033-004,TKT-2026-000033,EMP-000166,hr_agent,resolution_note,2026-01-22T17:44:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000034-001,TKT-2026-000034,EMP-000141,employee,employee_question,2026-01-22T10:20:44,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000034-002,TKT-2026-000034,EMP-000130,hr_er_specialist,hr_answer,2026-01-22T15:24:44,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000034-002,TKT-2026-000034,EMP-000130,hr_er_specialist,hr_answer,2026-01-22T15:24:44,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 1): medical certificate after days is 4; sick leave days is 8.
 MSG-TKT-2026-000034-003,TKT-2026-000034,EMP-000130,hr_er_specialist,resolution_note,2026-01-22T16:13:44,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000035-001,TKT-2026-000035,EMP-000160,employee,employee_question,2026-01-22T12:58:59,Sick leave balance for this year. Please help.
 MSG-TKT-2026-000035-002,TKT-2026-000035,EMP-000195,hr_agent,hr_answer,2026-01-22T17:25:59,Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
@@ -143,7 +143,7 @@ MSG-TKT-2026-000036-004,TKT-2026-000036,EMP-000006,hr_agent,hr_answer,2026-01-28
 MSG-TKT-2026-000036-005,TKT-2026-000036,EMP-000099,employee,follow_up,2026-01-28T14:38:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000036-006,TKT-2026-000036,EMP-000006,hr_agent,resolution_note,2026-01-28T17:51:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000037-001,TKT-2026-000037,EMP-000120,employee,employee_question,2026-01-23T09:42:55,Reimbursement claim still pending. Please help.
-MSG-TKT-2026-000037-002,TKT-2026-000037,EMP-000146,hr_agent,hr_answer,2026-01-23T14:35:55,Under the Expense Reimbursement Policy (version 2): claim window days is 45; receipt required above inr is 1000.
+MSG-TKT-2026-000037-002,TKT-2026-000037,EMP-000146,hr_agent,hr_answer,2026-01-23T14:35:55,Under the Expense Reimbursement Policy (version 1): claim window days is 30; receipt required above inr is 500.
 MSG-TKT-2026-000037-003,TKT-2026-000037,EMP-000120,employee,follow_up,2026-01-23T15:44:55,Thanks. I have one more question about this.
 MSG-TKT-2026-000037-004,TKT-2026-000037,EMP-000146,hr_agent,resolution_note,2026-01-23T17:00:55,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000038-001,TKT-2026-000038,EMP-000120,employee,employee_question,2026-01-23T10:47:47,My salary was short this month. Please help.
@@ -169,7 +169,7 @@ MSG-TKT-2026-000043-002,TKT-2026-000043,EMP-000171,hr_agent,hr_answer,2026-01-28
 MSG-TKT-2026-000043-003,TKT-2026-000043,EMP-000161,employee,follow_up,2026-01-28T16:56:05,Thanks. I have one more question about this.
 MSG-TKT-2026-000043-004,TKT-2026-000043,EMP-000171,hr_agent,resolution_note,2026-01-29T12:21:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000044-001,TKT-2026-000044,EMP-000042,employee,employee_question,2026-01-29T12:10:07,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000044-002,TKT-2026-000044,EMP-000152,hr_er_specialist,hr_answer,2026-01-30T10:40:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000044-002,TKT-2026-000044,EMP-000152,hr_er_specialist,hr_answer,2026-01-30T10:40:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10. Contract staff have exactly the same entitlement as permanent staff.
 MSG-TKT-2026-000044-003,TKT-2026-000044,EMP-000042,employee,follow_up,2026-02-02T09:54:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000044-004,TKT-2026-000044,EMP-000152,hr_er_specialist,resolution_note,2026-02-02T10:49:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000045-001,TKT-2026-000045,EMP-000182,employee,employee_question,2026-01-29T13:56:21,Leave not showing correctly. Please help.
@@ -351,7 +351,7 @@ MSG-TKT-2026-000089-002,TKT-2026-000089,EMP-000052,hr_agent,hr_answer,2026-02-26
 MSG-TKT-2026-000089-003,TKT-2026-000089,EMP-000128,employee,follow_up,2026-02-27T11:34:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000089-004,TKT-2026-000089,EMP-000052,hr_agent,resolution_note,2026-02-27T12:10:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000090-001,TKT-2026-000090,EMP-000133,employee,employee_question,2026-02-26T10:23:47,Payslip for last month not available. Please help.
-MSG-TKT-2026-000090-002,TKT-2026-000090,EMP-000052,hr_agent,hr_answer,2026-02-27T10:49:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
+MSG-TKT-2026-000090-002,TKT-2026-000090,EMP-000052,hr_agent,hr_answer,2026-02-27T10:49:00,Under the Salary Payment Schedule (version 2): salary credit day is 28. All reimbursement claims are paid within 24 hours.
 MSG-TKT-2026-000090-003,TKT-2026-000090,EMP-000133,employee,follow_up,2026-02-27T15:15:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000090-004,TKT-2026-000090,EMP-000052,hr_agent,resolution_note,2026-02-27T15:59:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000091-001,TKT-2026-000091,EMP-000015,employee,employee_question,2026-02-26T16:37:37,My salary was short this month. Please help.
@@ -529,7 +529,7 @@ MSG-TKT-2026-000133-002,TKT-2026-000133,EMP-000138,it_ops_partner,hr_answer,2026
 MSG-TKT-2026-000133-003,TKT-2026-000133,EMP-000049,employee,follow_up,2026-03-25T12:11:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000133-004,TKT-2026-000133,EMP-000138,it_ops_partner,resolution_note,2026-03-25T15:56:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000134-001,TKT-2026-000134,EMP-000008,employee,employee_question,2026-03-24T10:21:22,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000134-002,TKT-2026-000134,EMP-000152,hr_er_specialist,hr_answer,2026-03-24T17:41:22,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000134-002,TKT-2026-000134,EMP-000152,hr_er_specialist,hr_answer,2026-03-24T17:41:22,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10. Contract staff have exactly the same entitlement as permanent staff.
 MSG-TKT-2026-000134-003,TKT-2026-000134,EMP-000008,employee,follow_up,2026-03-25T10:03:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000134-004,TKT-2026-000134,EMP-000152,hr_er_specialist,resolution_note,2026-03-25T12:35:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000135-001,TKT-2026-000135,EMP-000091,employee,employee_question,2026-03-24T11:02:07,VPN access request for new joiner. Please help.
@@ -570,7 +570,7 @@ MSG-TKT-2026-000143-002,TKT-2026-000143,EMP-000171,hr_agent,hr_answer,2026-03-30
 MSG-TKT-2026-000143-003,TKT-2026-000143,EMP-000051,employee,follow_up,2026-03-31T09:39:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000143-004,TKT-2026-000143,EMP-000171,hr_agent,resolution_note,2026-03-31T12:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000144-001,TKT-2026-000144,EMP-000182,employee,employee_question,2026-03-27T17:25:48,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000144-002,TKT-2026-000144,EMP-000030,hr_er_specialist,hr_answer,2026-03-30T14:05:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000144-002,TKT-2026-000144,EMP-000030,hr_er_specialist,hr_answer,2026-03-30T14:05:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90. Employees also receive 30 days of paid leave every year.
 MSG-TKT-2026-000144-003,TKT-2026-000144,EMP-000182,employee,follow_up,2026-03-31T11:06:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000144-004,TKT-2026-000144,EMP-000030,hr_er_specialist,resolution_note,2026-03-31T12:28:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000145-001,TKT-2026-000145,EMP-000112,employee,employee_question,2026-03-27T17:56:38,Provident fund VPF contribution change. Please help.
@@ -685,7 +685,7 @@ MSG-TKT-2026-000170-004,TKT-2026-000170,EMP-000052,hr_agent,resolution_note,2026
 MSG-TKT-2026-000171-001,TKT-2026-000171,EMP-000094,employee,employee_question,2026-04-14T17:11:36,My claim was rejected. Please help.
 MSG-TKT-2026-000171-002,TKT-2026-000171,EMP-000171,hr_agent,clarification_request,2026-04-15T12:19:00,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000171-003,TKT-2026-000171,EMP-000094,employee,employee_reply,2026-04-17T15:13:00,Here are the details you asked for. Thank you.
-MSG-TKT-2026-000171-004,TKT-2026-000171,EMP-000171,hr_agent,hr_answer,2026-04-20T12:27:00,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
+MSG-TKT-2026-000171-004,TKT-2026-000171,EMP-000171,hr_agent,hr_answer,2026-04-20T12:27:00,Under the Group Health Insurance Policy (version 2): dependents covered is 3; sum insured inr is 400000.
 MSG-TKT-2026-000171-005,TKT-2026-000171,EMP-000171,hr_agent,resolution_note,2026-04-20T15:46:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000172-001,TKT-2026-000172,EMP-000003,employee,employee_question,2026-04-16T14:43:03,How many annual leave days do I have left?. Please help.
 MSG-TKT-2026-000172-002,TKT-2026-000172,EMP-000171,hr_agent,hr_answer,2026-04-17T13:30:00,Under the Annual Leave Policy (version 1): annual leave days is 18; carry forward days is 5.
@@ -813,7 +813,7 @@ MSG-TKT-2026-000204-002,TKT-2026-000204,EMP-000052,hr_agent,hr_answer,2026-05-06
 MSG-TKT-2026-000204-003,TKT-2026-000204,EMP-000131,employee,follow_up,2026-05-07T12:37:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000204-004,TKT-2026-000204,EMP-000052,hr_agent,resolution_note,2026-05-07T16:22:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000205-001,TKT-2026-000205,EMP-000184,employee,employee_question,2026-05-06T13:07:33,Carry forward of unused leave to next year. Please help.
-MSG-TKT-2026-000205-002,TKT-2026-000205,EMP-000166,hr_agent,hr_answer,2026-05-06T17:54:33,Under the Annual Leave Policy (version 2): annual leave days is 20; carry forward days is 6.
+MSG-TKT-2026-000205-002,TKT-2026-000205,EMP-000166,hr_agent,hr_answer,2026-05-06T17:54:33,Under the Annual Leave Policy (version 2): annual leave days is 20; carry forward days is 6. Unused benefits are automatically converted to cash every March.
 MSG-TKT-2026-000205-003,TKT-2026-000205,EMP-000184,employee,follow_up,2026-05-07T17:57:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000205-004,TKT-2026-000205,EMP-000166,hr_agent,resolution_note,2026-05-08T12:56:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000206-001,TKT-2026-000206,EMP-000173,employee,employee_question,2026-05-06T13:45:18,Provident fund VPF contribution change. Please help.
@@ -881,7 +881,7 @@ MSG-TKT-2026-000222-002,TKT-2026-000222,EMP-000152,hr_er_specialist,hr_answer,20
 MSG-TKT-2026-000222-003,TKT-2026-000222,EMP-000081,employee,follow_up,2026-05-15T16:16:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000222-004,TKT-2026-000222,EMP-000152,hr_er_specialist,resolution_note,2026-05-15T17:11:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000223-001,TKT-2026-000223,EMP-000174,employee,employee_question,2026-05-14T17:29:22,Tax declaration proof submission deadline. Please help.
-MSG-TKT-2026-000223-002,TKT-2026-000223,EMP-000006,hr_agent,hr_answer,2026-05-15T14:04:00,Under the Tax Declaration and TDS Policy (version 2): proof submission window days is 20.
+MSG-TKT-2026-000223-002,TKT-2026-000223,EMP-000006,hr_agent,hr_answer,2026-05-15T14:04:00,Under the Tax Declaration and TDS Policy (version 1): proof submission window days is 15.
 MSG-TKT-2026-000223-003,TKT-2026-000223,EMP-000174,employee,follow_up,2026-05-18T11:26:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000223-004,TKT-2026-000223,EMP-000006,hr_agent,resolution_note,2026-05-18T11:52:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000224-001,TKT-2026-000224,EMP-000182,employee,employee_question,2026-05-14T19:41:20,Payslip for last month not available. Please help.
@@ -917,7 +917,7 @@ MSG-TKT-2026-000231-001,TKT-2026-000231,EMP-000112,employee,employee_question,20
 MSG-TKT-2026-000231-002,TKT-2026-000231,EMP-000006,hr_agent,hr_answer,2026-05-20T09:58:00,Under the Annual Leave Policy (version 2): annual leave days is 20; carry forward days is 6.
 MSG-TKT-2026-000231-003,TKT-2026-000231,EMP-000006,hr_agent,resolution_note,2026-05-20T11:07:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000232-001,TKT-2026-000232,EMP-000039,employee,employee_question,2026-05-20T15:51:55,Bonus payout date query. Please help.
-MSG-TKT-2026-000232-002,TKT-2026-000232,EMP-000171,hr_agent,hr_answer,2026-05-21T13:08:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
+MSG-TKT-2026-000232-002,TKT-2026-000232,EMP-000171,hr_agent,hr_answer,2026-05-21T13:08:00,Under the Salary Payment Schedule (version 2): salary credit day is 28. Unused benefits are automatically converted to cash every March.
 MSG-TKT-2026-000232-003,TKT-2026-000232,EMP-000039,employee,follow_up,2026-05-21T15:30:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000232-004,TKT-2026-000232,EMP-000171,hr_agent,resolution_note,2026-05-21T16:12:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000233-001,TKT-2026-000233,EMP-000182,employee,employee_question,2026-05-20T17:40:31,Adding a dependent to group health insurance. Please help.
@@ -1083,7 +1083,7 @@ MSG-TKT-2026-000271-001,TKT-2026-000271,EMP-000149,employee,employee_question,20
 MSG-TKT-2026-000271-002,TKT-2026-000271,EMP-000195,hr_agent,hr_answer,2026-06-16T14:19:25,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
 MSG-TKT-2026-000271-003,TKT-2026-000271,EMP-000195,hr_agent,resolution_note,2026-06-16T14:40:25,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000272-001,TKT-2026-000272,EMP-000183,employee,employee_question,2026-06-16T10:15:25,Background verification status. Please help.
-MSG-TKT-2026-000272-002,TKT-2026-000272,EMP-000006,hr_agent,hr_answer,2026-06-16T14:19:25,Under the New Joiner Onboarding Checklist (version 3): joining formalities days is 5.
+MSG-TKT-2026-000272-002,TKT-2026-000272,EMP-000006,hr_agent,hr_answer,2026-06-16T14:19:25,Under the New Joiner Onboarding Checklist (version 2): joining formalities days is 7.
 MSG-TKT-2026-000272-003,TKT-2026-000272,EMP-000183,employee,follow_up,2026-06-17T12:13:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000272-004,TKT-2026-000272,EMP-000006,hr_agent,resolution_note,2026-06-17T13:19:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000273-001,TKT-2026-000273,EMP-000051,employee,employee_question,2026-06-16T11:31:13,Reimbursement claim still pending. Please help.
@@ -1215,7 +1215,7 @@ MSG-TKT-2026-000307-002,TKT-2026-000307,EMP-000195,hr_agent,hr_answer,2026-07-07
 MSG-TKT-2026-000307-003,TKT-2026-000307,EMP-000139,employee,follow_up,2026-07-08T16:48:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000307-004,TKT-2026-000307,EMP-000195,hr_agent,resolution_note,2026-07-09T12:07:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000308-001,TKT-2026-000308,EMP-000098,employee,employee_question,2026-07-07T12:40:46,Adding a dependent to group health insurance. Please help.
-MSG-TKT-2026-000308-002,TKT-2026-000308,EMP-000006,hr_agent,hr_answer,2026-07-07T17:37:46,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
+MSG-TKT-2026-000308-002,TKT-2026-000308,EMP-000006,hr_agent,hr_answer,2026-07-07T17:37:46,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000. Employees also receive 30 days of paid leave every year.
 MSG-TKT-2026-000308-003,TKT-2026-000308,EMP-000098,employee,follow_up,2026-07-08T09:48:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000308-004,TKT-2026-000308,EMP-000006,hr_agent,resolution_note,2026-07-08T10:09:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000309-001,TKT-2026-000309,EMP-000105,employee,employee_question,2026-07-07T18:13:46,Learning budget reimbursement process. Please help.
@@ -1560,13 +1560,13 @@ MSG-TKT-2026-000392-002,TKT-2026-000392,EMP-000006,hr_agent,hr_answer,2026-08-19
 MSG-TKT-2026-000392-003,TKT-2026-000392,EMP-000070,employee,follow_up,2026-08-19T13:49:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000392-004,TKT-2026-000392,EMP-000006,hr_agent,resolution_note,2026-08-19T17:27:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000393-001,TKT-2026-000393,EMP-000067,employee,employee_question,2026-08-18T16:25:29,Bonus payout date query. Please help.
-MSG-TKT-2026-000393-002,TKT-2026-000393,EMP-000052,hr_agent,hr_answer,2026-08-19T12:28:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
+MSG-TKT-2026-000393-002,TKT-2026-000393,EMP-000052,hr_agent,hr_answer,2026-08-19T12:28:00,Under the Salary Payment Schedule (version 2): salary credit day is 28. All reimbursement claims are paid within 24 hours.
 MSG-TKT-2026-000393-003,TKT-2026-000393,EMP-000067,employee,follow_up,2026-08-20T10:03:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000393-004,TKT-2026-000393,EMP-000052,hr_agent,resolution_note,2026-08-20T12:24:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000394-001,TKT-2026-000394,EMP-000111,employee,employee_question,2026-08-18T16:44:03,My request was not approved. Please help.
 MSG-TKT-2026-000394-002,TKT-2026-000394,EMP-000146,hr_agent,clarification_request,2026-08-19T11:53:00,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000394-003,TKT-2026-000394,EMP-000111,employee,employee_reply,2026-08-21T17:08:00,Here are the details you asked for. Thank you.
-MSG-TKT-2026-000394-004,TKT-2026-000394,EMP-000146,hr_agent,hr_answer,2026-08-24T10:11:00,Under the Work From Home Policy (version 2): wfh days per week is 2.
+MSG-TKT-2026-000394-004,TKT-2026-000394,EMP-000146,hr_agent,hr_answer,2026-08-24T10:11:00,Under the Work From Home Policy (version 1): wfh days per week is 1.
 MSG-TKT-2026-000394-005,TKT-2026-000394,EMP-000111,employee,follow_up,2026-08-24T17:14:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000394-006,TKT-2026-000394,EMP-000146,hr_agent,resolution_note,2026-08-25T10:11:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000395-001,TKT-2026-000395,EMP-000056,employee,employee_question,2026-08-18T18:59:44,Sick leave balance for this year. Please help.
@@ -1691,7 +1691,7 @@ MSG-TKT-2026-000425-003,TKT-2026-000425,EMP-000171,hr_agent,resolution_note,2026
 MSG-TKT-2026-000426-001,TKT-2026-000426,EMP-000037,employee,employee_question,2026-08-31T12:34:52,Deduction in my salary. Please help.
 MSG-TKT-2026-000426-002,TKT-2026-000426,EMP-000166,hr_agent,clarification_request,2026-08-31T15:12:52,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000426-003,TKT-2026-000426,EMP-000037,employee,employee_reply,2026-09-01T16:04:00,Here are the details you asked for. Thank you.
-MSG-TKT-2026-000426-004,TKT-2026-000426,EMP-000166,hr_agent,hr_answer,2026-09-02T10:37:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
+MSG-TKT-2026-000426-004,TKT-2026-000426,EMP-000166,hr_agent,hr_answer,2026-09-02T10:37:00,Under the Salary Payment Schedule (version 2): salary credit day is 28. All reimbursement claims are paid within 24 hours.
 MSG-TKT-2026-000426-005,TKT-2026-000426,EMP-000037,employee,follow_up,2026-09-03T10:36:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000426-006,TKT-2026-000426,EMP-000166,hr_agent,resolution_note,2026-09-03T12:51:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000427-001,TKT-2026-000427,EMP-000089,employee,employee_question,2026-08-31T13:14:09,Bonus payout date query. Please help.
@@ -1701,7 +1701,7 @@ MSG-TKT-2026-000427-004,TKT-2026-000427,EMP-000195,hr_agent,resolution_note,2026
 MSG-TKT-2026-000428-001,TKT-2026-000428,EMP-000080,employee,employee_question,2026-08-31T17:57:10,Something is wrong with my pay. Please help.
 MSG-TKT-2026-000428-002,TKT-2026-000428,EMP-000006,hr_agent,clarification_request,2026-09-01T12:11:00,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000428-003,TKT-2026-000428,EMP-000080,employee,employee_reply,2026-09-02T16:11:00,Here are the details you asked for. Thank you.
-MSG-TKT-2026-000428-004,TKT-2026-000428,EMP-000006,hr_agent,hr_answer,2026-09-03T13:18:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
+MSG-TKT-2026-000428-004,TKT-2026-000428,EMP-000006,hr_agent,hr_answer,2026-09-03T13:18:00,Under the Salary Payment Schedule (version 1): salary credit day is 30.
 MSG-TKT-2026-000428-005,TKT-2026-000428,EMP-000080,employee,follow_up,2026-09-03T15:20:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000428-006,TKT-2026-000428,EMP-000006,hr_agent,resolution_note,2026-09-04T10:50:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000429-001,TKT-2026-000429,EMP-000142,employee,employee_question,2026-09-01T12:34:52,Need help with joining. Please help.
@@ -1774,7 +1774,7 @@ MSG-TKT-2026-000444-004,TKT-2026-000444,EMP-000195,hr_agent,hr_answer,2026-09-10
 MSG-TKT-2026-000444-005,TKT-2026-000444,EMP-000137,employee,follow_up,2026-09-11T09:44:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000444-006,TKT-2026-000444,EMP-000195,hr_agent,resolution_note,2026-09-11T13:26:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000445-001,TKT-2026-000445,EMP-000149,employee,employee_question,2026-09-08T18:36:12,Tax declaration proof submission deadline. Please help.
-MSG-TKT-2026-000445-002,TKT-2026-000445,EMP-000171,hr_agent,hr_answer,2026-09-09T11:38:00,Under the Tax Declaration and TDS Policy (version 2): proof submission window days is 20.
+MSG-TKT-2026-000445-002,TKT-2026-000445,EMP-000171,hr_agent,hr_answer,2026-09-09T11:38:00,Under the Tax Declaration and TDS Policy (version 1): proof submission window days is 15.
 MSG-TKT-2026-000445-003,TKT-2026-000445,EMP-000149,employee,follow_up,2026-09-09T13:58:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000445-004,TKT-2026-000445,EMP-000171,hr_agent,resolution_note,2026-09-09T14:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000446-001,TKT-2026-000446,EMP-000105,employee,employee_question,2026-09-09T16:19:03,Misconduct report involving my team. Please help.
