@@ -96,7 +96,7 @@
   "ticket_id": "TKT-2026-000012"
  },
  {
-  "assigned_at": "2026-01-14T09:53:00",
+  "assigned_at": "2026-01-13T17:21:03",
   "assignee_id": "EMP-000006",
   "assignment_id": "ASG-TKT-2026-000012-02",
   "queue": "HR_LEAD",
@@ -264,14 +264,6 @@
   "ticket_id": "TKT-2026-000032"
  },
  {
-  "assigned_at": "2026-01-20T17:39:47",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000032-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000032"
- },
- {
   "assigned_at": "2026-01-21T13:33:03",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000033-01",
@@ -285,14 +277,6 @@
   "assignment_id": "ASG-TKT-2026-000034-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000034"
- },
- {
-  "assigned_at": "2026-01-22T12:32:44",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000034-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000034"
  },
  {
@@ -352,14 +336,6 @@
   "ticket_id": "TKT-2026-000041"
  },
  {
-  "assigned_at": "2026-01-27T11:30:00",
-  "assignee_id": "EMP-000195",
-  "assignment_id": "ASG-TKT-2026-000041-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000041"
- },
- {
   "assigned_at": "2026-01-27T15:58:35",
   "assignee_id": "EMP-000052",
   "assignment_id": "ASG-TKT-2026-000042-01",
@@ -381,14 +357,6 @@
   "assignment_id": "ASG-TKT-2026-000044-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000044"
- },
- {
-  "assigned_at": "2026-01-29T14:09:07",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000044-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000044"
  },
  {
@@ -509,14 +477,6 @@
   "assignment_id": "ASG-TKT-2026-000059-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000059"
- },
- {
-  "assigned_at": "2026-02-06T09:57:00",
-  "assignee_id": "EMP-000195",
-  "assignment_id": "ASG-TKT-2026-000059-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000059"
  },
  {
@@ -688,14 +648,6 @@
   "ticket_id": "TKT-2026-000079"
  },
  {
-  "assigned_at": "2026-02-20T13:07:00",
-  "assignee_id": "EMP-000052",
-  "assignment_id": "ASG-TKT-2026-000079-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000079"
- },
- {
   "assigned_at": "2026-02-20T05:28:30",
   "assignee_id": "EMP-000006",
   "assignment_id": "ASG-TKT-2026-000080-01",
@@ -717,14 +669,6 @@
   "assignment_id": "ASG-TKT-2026-000082-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000082"
- },
- {
-  "assigned_at": "2026-02-23T12:18:00",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000082-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000082"
  },
  {
@@ -816,7 +760,7 @@
   "ticket_id": "TKT-2026-000092"
  },
  {
-  "assigned_at": "2026-02-27T11:48:00",
+  "assigned_at": "2026-02-27T10:48:00",
   "assignee_id": "EMP-000146",
   "assignment_id": "ASG-TKT-2026-000092-02",
   "queue": "HR_LEAD",
@@ -941,14 +885,6 @@
   "assignment_id": "ASG-TKT-2026-000106-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000106"
- },
- {
-  "assigned_at": "2026-03-10T16:36:18",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000106-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000106"
  },
  {
@@ -1128,14 +1064,6 @@
   "ticket_id": "TKT-2026-000128"
  },
  {
-  "assigned_at": "2026-03-19T14:50:10",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000128-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000128"
- },
- {
   "assigned_at": "2026-03-20T10:09:29",
   "assignee_id": "EMP-000023",
   "assignment_id": "ASG-TKT-2026-000129-01",
@@ -1184,14 +1112,6 @@
   "ticket_id": "TKT-2026-000134"
  },
  {
-  "assigned_at": "2026-03-24T12:20:22",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000134-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000134"
- },
- {
   "assigned_at": "2026-03-24T11:11:07",
   "assignee_id": "EMP-000023",
   "assignment_id": "ASG-TKT-2026-000135-01",
@@ -1205,14 +1125,6 @@
   "assignment_id": "ASG-TKT-2026-000136-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000136"
- },
- {
-  "assigned_at": "2026-03-24T14:06:30",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000136-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000136"
  },
  {
@@ -1288,14 +1200,6 @@
   "ticket_id": "TKT-2026-000144"
  },
  {
-  "assigned_at": "2026-03-30T10:55:00",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000144-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000144"
- },
- {
   "assigned_at": "2026-03-27T18:02:38",
   "assignee_id": "EMP-000195",
   "assignment_id": "ASG-TKT-2026-000145-01",
@@ -1312,14 +1216,6 @@
   "ticket_id": "TKT-2026-000146"
  },
  {
-  "assigned_at": "2026-03-30T11:30:00",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000146-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000146"
- },
- {
   "assigned_at": "2026-03-28T13:30:58",
   "assignee_id": "EMP-000146",
   "assignment_id": "ASG-TKT-2026-000147-01",
@@ -1333,14 +1229,6 @@
   "assignment_id": "ASG-TKT-2026-000148-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000148"
- },
- {
-  "assigned_at": "2026-03-30T13:43:11",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000148-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000148"
  },
  {
@@ -1480,14 +1368,6 @@
   "ticket_id": "TKT-2026-000165"
  },
  {
-  "assigned_at": "2026-04-09T11:21:00",
-  "assignee_id": "EMP-000166",
-  "assignment_id": "ASG-TKT-2026-000165-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000165"
- },
- {
   "assigned_at": "2026-04-09T14:01:28",
   "assignee_id": "EMP-000171",
   "assignment_id": "ASG-TKT-2026-000166-01",
@@ -1608,14 +1488,6 @@
   "ticket_id": "TKT-2026-000180"
  },
  {
-  "assigned_at": "2026-04-21T18:00:12",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000180-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000180"
- },
- {
   "assigned_at": "2026-04-21T16:58:21",
   "assignee_id": "EMP-000171",
   "assignment_id": "ASG-TKT-2026-000181-01",
@@ -1656,7 +1528,7 @@
   "ticket_id": "TKT-2026-000185"
  },
  {
-  "assigned_at": "2026-04-24T15:20:02",
+  "assigned_at": "2026-04-24T14:32:02",
   "assignee_id": "EMP-000195",
   "assignment_id": "ASG-TKT-2026-000185-02",
   "queue": "HR_LEAD",
@@ -1792,14 +1664,6 @@
   "ticket_id": "TKT-2026-000201"
  },
  {
-  "assigned_at": "2026-05-05T17:03:12",
-  "assignee_id": "EMP-000166",
-  "assignment_id": "ASG-TKT-2026-000201-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000201"
- },
- {
   "assigned_at": "2026-05-05T15:43:26",
   "assignee_id": "EMP-000006",
   "assignment_id": "ASG-TKT-2026-000202-01",
@@ -1904,14 +1768,6 @@
   "ticket_id": "TKT-2026-000214"
  },
  {
-  "assigned_at": "2026-05-11T11:30:00",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000214-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000214"
- },
- {
   "assigned_at": "2026-05-11T11:37:20",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000215-01",
@@ -1944,7 +1800,7 @@
   "ticket_id": "TKT-2026-000218"
  },
  {
-  "assigned_at": "2026-05-12T15:31:09",
+  "assigned_at": "2026-05-12T13:26:09",
   "assignee_id": "EMP-000146",
   "assignment_id": "ASG-TKT-2026-000218-02",
   "queue": "HR_LEAD",
@@ -1976,27 +1832,11 @@
   "ticket_id": "TKT-2026-000221"
  },
  {
-  "assigned_at": "2026-05-14T15:00:58",
-  "assignee_id": "EMP-000195",
-  "assignment_id": "ASG-TKT-2026-000221-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000221"
- },
- {
   "assigned_at": "2026-05-14T14:36:28",
   "assignee_id": "EMP-000152",
   "assignment_id": "ASG-TKT-2026-000222-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000222"
- },
- {
-  "assigned_at": "2026-05-14T16:42:28",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000222-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000222"
  },
  {
@@ -2192,7 +2032,7 @@
   "ticket_id": "TKT-2026-000244"
  },
  {
-  "assigned_at": "2026-05-27T12:23:00",
+  "assigned_at": "2026-05-27T11:30:00",
   "assignee_id": "EMP-000171",
   "assignment_id": "ASG-TKT-2026-000244-02",
   "queue": "HR_LEAD",
@@ -2341,14 +2181,6 @@
   "assignment_id": "ASG-TKT-2026-000262-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000262"
- },
- {
-  "assigned_at": "2026-06-09T12:28:00",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000262-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000262"
  },
  {
@@ -2568,27 +2400,11 @@
   "ticket_id": "TKT-2026-000289"
  },
  {
-  "assigned_at": "2026-06-29T11:30:00",
-  "assignee_id": "EMP-000052",
-  "assignment_id": "ASG-TKT-2026-000289-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000289"
- },
- {
   "assigned_at": "2026-06-29T17:21:34",
   "assignee_id": "EMP-000130",
   "assignment_id": "ASG-TKT-2026-000290-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000290"
- },
- {
-  "assigned_at": "2026-06-30T10:48:00",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000290-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000290"
  },
  {
@@ -2656,14 +2472,6 @@
   "ticket_id": "TKT-2026-000298"
  },
  {
-  "assigned_at": "2026-07-03T11:26:00",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000298-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000298"
- },
- {
   "assigned_at": "2026-07-03T06:45:56",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000299-01",
@@ -2725,14 +2533,6 @@
   "assignment_id": "ASG-TKT-2026-000306-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000306"
- },
- {
-  "assigned_at": "2026-07-07T13:31:27",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000306-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000306"
  },
  {
@@ -2917,14 +2717,6 @@
   "assignment_id": "ASG-TKT-2026-000328-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000328"
- },
- {
-  "assigned_at": "2026-07-20T15:59:08",
-  "assignee_id": "EMP-000171",
-  "assignment_id": "ASG-TKT-2026-000328-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000328"
  },
  {
@@ -3272,14 +3064,6 @@
   "ticket_id": "TKT-2026-000368"
  },
  {
-  "assigned_at": "2026-08-12T17:57:00",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000368-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000368"
- },
- {
   "assigned_at": "2026-08-11T12:10:21",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000369-01",
@@ -3373,14 +3157,6 @@
   "assignment_id": "ASG-TKT-2026-000380-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000380"
- },
- {
-  "assigned_at": "2026-08-14T11:30:00",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000380-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000380"
  },
  {
@@ -3568,14 +3344,6 @@
   "ticket_id": "TKT-2026-000402"
  },
  {
-  "assigned_at": "2026-08-24T10:41:00",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000402-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000402"
- },
- {
   "assigned_at": "2026-08-21T15:53:58",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000403-01",
@@ -3600,7 +3368,7 @@
   "ticket_id": "TKT-2026-000405"
  },
  {
-  "assigned_at": "2026-08-24T14:36:28",
+  "assigned_at": "2026-08-24T12:37:28",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000405-02",
   "queue": "HR_LEAD",
@@ -3648,7 +3416,7 @@
   "ticket_id": "TKT-2026-000410"
  },
  {
-  "assigned_at": "2026-08-26T11:36:00",
+  "assigned_at": "2026-08-26T09:51:00",
   "assignee_id": "EMP-000146",
   "assignment_id": "ASG-TKT-2026-000410-02",
   "queue": "HR_LEAD",
@@ -3888,14 +3656,6 @@
   "ticket_id": "TKT-2026-000439"
  },
  {
-  "assigned_at": "2026-09-08T10:13:00",
-  "assignee_id": "EMP-000052",
-  "assignment_id": "ASG-TKT-2026-000439-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000439"
- },
- {
   "assigned_at": "2026-09-08T10:52:15",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000440-01",
@@ -3917,14 +3677,6 @@
   "assignment_id": "ASG-TKT-2026-000441-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000441"
- },
- {
-  "assigned_at": "2026-09-08T15:49:17",
-  "assignee_id": "EMP-000166",
-  "assignment_id": "ASG-TKT-2026-000441-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000441"
  },
  {
@@ -3965,14 +3717,6 @@
   "assignment_id": "ASG-TKT-2026-000446-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000446"
- },
- {
-  "assigned_at": "2026-09-10T11:32:00",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000446-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000446"
  },
  {
@@ -4096,14 +3840,6 @@
   "ticket_id": "TKT-2026-000461"
  },
  {
-  "assigned_at": "2026-09-18T13:27:00",
-  "assignee_id": "EMP-000195",
-  "assignment_id": "ASG-TKT-2026-000461-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000461"
- },
- {
   "assigned_at": "2026-09-18T17:07:10",
   "assignee_id": "EMP-000166",
   "assignment_id": "ASG-TKT-2026-000462-01",
@@ -4173,14 +3909,6 @@
   "assignment_id": "ASG-TKT-2026-000470-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000470"
- },
- {
-  "assigned_at": "2026-09-24T13:41:26",
-  "assignee_id": "EMP-000146",
-  "assignment_id": "ASG-TKT-2026-000470-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000470"
  },
  {
@@ -4264,27 +3992,11 @@
   "ticket_id": "TKT-2026-000480"
  },
  {
-  "assigned_at": "2026-09-30T15:34:44",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000480-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
-  "ticket_id": "TKT-2026-000480"
- },
- {
   "assigned_at": "2026-10-01T10:39:08",
   "assignee_id": "EMP-000130",
   "assignment_id": "ASG-TKT-2026-000481-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000481"
- },
- {
-  "assigned_at": "2026-10-01T12:33:08",
-  "assignee_id": "EMP-000052",
-  "assignment_id": "ASG-TKT-2026-000481-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000481"
  },
  {
@@ -4373,14 +4085,6 @@
   "assignment_id": "ASG-TKT-2026-000492-01",
   "queue": "ER_CONFIDENTIAL",
   "reason": "initial routing to ER_CONFIDENTIAL",
-  "ticket_id": "TKT-2026-000492"
- },
- {
-  "assigned_at": "2026-10-09T10:55:00",
-  "assignee_id": "EMP-000006",
-  "assignment_id": "ASG-TKT-2026-000492-02",
-  "queue": "HR_LEAD",
-  "reason": "escalation: P1 ticket untouched for 2 business hours",
   "ticket_id": "TKT-2026-000492"
  },
  {

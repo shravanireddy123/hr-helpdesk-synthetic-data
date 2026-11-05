@@ -1,14 +1,14 @@
 {
   "files": {
     "assignment.csv": {
-      "bytes": 60045,
-      "rows": 556,
-      "sha256": "4f05dde1ae9d7a5f42e811e4217b949bcacc51a21e23de778c41f2a3f310b539"
+      "bytes": 55198,
+      "rows": 519,
+      "sha256": "5c091791c9068b7d8d68530bc0aa7b8cffdd8d682a8e7902dccbef40895256a3"
     },
     "assignment.json": {
-      "bytes": 123927,
-      "rows": 556,
-      "sha256": "98e0e60a8ce7eff6d1d4f121098c0d46d9ad3c2412a40798902e1d24a3484b1d"
+      "bytes": 114825,
+      "rows": 519,
+      "sha256": "b3b13b6f7105342c2c3eccc46a058d06f808aca35b770127bd6ca2b2b03d3595"
     },
     "category.csv": {
       "bytes": 302,
@@ -83,12 +83,12 @@
     "message.csv": {
       "bytes": 328984,
       "rows": 2000,
-      "sha256": "bb09b5ed7f869bf56a82ba83f4e6953340c74115adaae31a089b9d75918324ff"
+      "sha256": "99a52daece1d91dea43fc65c354fb3a83b7efa0fd33dea46fccce7342b14ab1b"
     },
     "message.json": {
       "bytes": 590738,
       "rows": 2000,
-      "sha256": "b111e8fc1679b2880ba356825a58b33c4aca3e2c75192433a946912174711f0f"
+      "sha256": "de94be217d55866dc162cd1f39b330191a12e9c5c786da3325f3c11b7ce0ec04"
     },
     "message_citation.csv": {
       "bytes": 47520,
@@ -101,9 +101,9 @@
       "sha256": "437edd76f6b7a1d836de9b30839bf1cc64c8b6a0e83c0f347ac60ee479b9ed9d"
     },
     "metrics.json": {
-      "bytes": 992,
+      "bytes": 991,
       "rows": null,
-      "sha256": "42fac91ecea22e0e242e061825e056d1ba56bb49da8e195d20488ed87ebc4d1f"
+      "sha256": "d087b9f90abb6543a79990ec82c3f5110e7a73d58ba08e4c0de48c0a0d11f63a"
     },
     "policy_document.csv": {
       "bytes": 924,
@@ -126,29 +126,29 @@
       "sha256": "c1e1e023e0e6ea0424233d537896401ee04924cfba3fbc93fda9609c9e1a5ce2"
     },
     "resolution.csv": {
-      "bytes": 46982,
+      "bytes": 46607,
       "rows": 500,
-      "sha256": "39b81a799e00980ac29a2cc6e5260125c2750ab22c232c2e1e7ff8d5bffe063e"
+      "sha256": "36a1b39867eb38aa78b3a5dbb13f119238dfdfdf4a19ceb40aaa79da218449b7"
     },
     "resolution.json": {
-      "bytes": 121426,
+      "bytes": 121051,
       "rows": 500,
-      "sha256": "eb63985756aa11a0c0b627497b2adac89c1cef5b9921716319ddeaaf91378dc2"
+      "sha256": "848732b6e3176ca0f7445468f1b60940a442f20f143e776e6a42aed6572ab4fa"
     },
     "seed.sql": {
-      "bytes": 1227622,
+      "bytes": 1209792,
       "rows": null,
-      "sha256": "fb31b3842fd76ee37e00d406915dd0badcfd8c64623a4589bbded37c98968ddb"
+      "sha256": "7fe8fcf8fc35a3c3106bf19d717bf1c05c1e87bd1636a6e274ae942143e7553e"
     },
     "sla.csv": {
-      "bytes": 57839,
+      "bytes": 57767,
       "rows": 500,
-      "sha256": "e86f5484ec8f3a060c8fa42a6dbff9f40f597deec095b5bd0e5d8b4dc8792626"
+      "sha256": "ac924be99a19eaef1d601caab5e210891ef9402376e0480bb20748fe1e49b5de"
     },
     "sla.json": {
-      "bytes": 178255,
+      "bytes": 178183,
       "rows": 500,
-      "sha256": "d1851c5b584c42ef87284ef2a4a6c7d691b7fdd624be111e867701fca9efa2e6"
+      "sha256": "f443f8c09bf65320c857f0498675ed5b1e19cf049bc88eeba7e0561306bc7244"
     },
     "ticket.csv": {
       "bytes": 57175,
@@ -161,14 +161,14 @@
       "sha256": "f224805d3c8bed4eac7085cee679206227a15e35bbb9afb503c5a04e90544741"
     },
     "ticket_status_event.csv": {
-      "bytes": 229265,
-      "rows": 2664,
-      "sha256": "8b6348b9f38fe256d196cfbab1f6971924b4777bb4ee75f2bb12b5acb0d2583f"
+      "bytes": 222457,
+      "rows": 2590,
+      "sha256": "c19b978728a9578bc96da6557db26215996e008efe4bfed37478702da74087b2"
     },
     "ticket_status_event.json": {
-      "bytes": 531241,
-      "rows": 2664,
-      "sha256": "85a5dd0a38b79830c489b12f6cd8be9ed36e9257e949104f483da99566346dd6"
+      "bytes": 516071,
+      "rows": 2590,
+      "sha256": "3e09bcbd51d556f4786c72925920b98ecc267129c63c5094a9873669f99f9e91"
     }
   },
   "generator_command": "python -m hrgen --scale starter --seed 20261022",
@@ -178,7 +178,7 @@
   },
   "reference_date": "2026-10-31",
   "row_counts": {
-    "assignment": 556,
+    "assignment": 519,
     "category": 6,
     "department": 8,
     "employee": 200,
@@ -191,7 +191,7 @@
     "resolution": 500,
     "sla": 500,
     "ticket": 500,
-    "ticket_status_event": 2664
+    "ticket_status_event": 2590
   },
   "scale": "starter",
   "seed": 20261022

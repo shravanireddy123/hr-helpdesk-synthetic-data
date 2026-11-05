@@ -7,6 +7,7 @@ Script per ticket (times strictly increase, all delays are BUSINESS minutes):
   or, if the employee never replies: question -> clarification_request, then
             the ticket closes as no_response after 5 business days.
 Follow-ups are added to answered tickets so the total hits scale.messages exactly.
+P1 tickets get shorter agent delays before the first HR message (see _scaled).
 """
 import json
 from datetime import datetime, timedelta
@@ -68,6 +69,11 @@ def _iso(dt: datetime) -> str:
 def _delay(rng: Random, at: datetime, lo: int, hi: int) -> datetime:
     """`at` plus a random number of BUSINESS minutes in [lo, hi]."""
     return add_business_minutes(at, rng.randint(lo, hi))
+
+
+def _scaled(t: dict, lo: int, hi: int) -> tuple[int, int]:
+    """P1 tickets are handled faster: delay ranges are cut to a quarter."""
+    return (max(1, lo // 4), max(2, hi // 4)) if t["priority"] == "P1" else (lo, hi)
 
 
 class _Timeline:
@@ -148,7 +154,7 @@ def build_messages(rng: Random, master: dict, tix: dict, scale: Scale) -> dict[s
         now = datetime.fromisoformat(asg["assigned_at"])
 
         if unclear:
-            now = _delay(rng, now, 30, 300)
+            now = _delay(rng, now, *_scaled(t, 30, 300))          # P1: faster
             tl.msg(agent_id, agent_role, "clarification_request", now,
                    "Could you share more details, such as dates, amounts or the policy "
                    "you are asking about, so we can answer accurately?")
@@ -162,7 +168,7 @@ def build_messages(rng: Random, master: dict, tix: dict, scale: Scale) -> dict[s
                    "Here are the details you asked for. Thank you.")
             tl.evt("pending_employee", "in_progress", now, employee_id)
         else:
-            now = _delay(rng, now, 20, 240)
+            now = _delay(rng, now, *_scaled(t, 20, 240))          # P1: faster
             tl.evt("assigned", "in_progress", now, agent_id)
 
         # The answer cites the version in force on the ticket's creation date.
@@ -174,7 +180,7 @@ def build_messages(rng: Random, master: dict, tix: dict, scale: Scale) -> dict[s
                           for k, v in sorted(json.loads(version["key_rules"]).items()))
         intro = ("Thank you for reaching out. Your case is confidential and handled by the "
                  "Employee Relations team. " if t["is_sensitive"] else "")
-        now = _delay(rng, now, 30, 360)
+        now = _delay(rng, now, *_scaled(t, 30, 360))              # P1: faster
         answer_id = tl.msg(agent_id, agent_role, "hr_answer", now,
                            f"{intro}Under the {policy['title']} (version {version['version_no']}): {facts}.")
         citations.append({"message_id": answer_id, "version_id": version["version_id"],

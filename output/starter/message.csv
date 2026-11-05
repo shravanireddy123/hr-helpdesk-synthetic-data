@@ -38,25 +38,25 @@ MSG-TKT-2026-000011-001,TKT-2026-000011,EMP-000164,employee,employee_question,20
 MSG-TKT-2026-000011-002,TKT-2026-000011,EMP-000166,hr_agent,hr_answer,2026-01-13T17:08:34,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000011-003,TKT-2026-000011,EMP-000166,hr_agent,resolution_note,2026-01-14T12:38:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000012-001,TKT-2026-000012,EMP-000037,employee,employee_question,2026-01-13T15:22:03,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000012-002,TKT-2026-000012,EMP-000130,hr_er_specialist,hr_answer,2026-01-14T11:38:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000012-003,TKT-2026-000012,EMP-000037,employee,follow_up,2026-01-14T16:01:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000012-004,TKT-2026-000012,EMP-000130,hr_er_specialist,resolution_note,2026-01-14T17:24:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000012-002,TKT-2026-000012,EMP-000130,hr_er_specialist,hr_answer,2026-01-13T17:49:03,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000012-003,TKT-2026-000012,EMP-000037,employee,follow_up,2026-01-14T12:22:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000012-004,TKT-2026-000012,EMP-000130,hr_er_specialist,resolution_note,2026-01-14T15:16:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000013-001,TKT-2026-000013,EMP-000194,employee,employee_question,2026-01-13T18:54:24,Induction schedule for first week. Please help.
-MSG-TKT-2026-000013-002,TKT-2026-000013,EMP-000006,hr_agent,hr_answer,2026-01-14T13:45:00,Under the New Joiner Onboarding Checklist (version 2): joining formalities days is 7.
-MSG-TKT-2026-000013-003,TKT-2026-000013,EMP-000194,employee,follow_up,2026-01-14T14:27:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000013-004,TKT-2026-000013,EMP-000006,hr_agent,resolution_note,2026-01-15T09:50:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000013-002,TKT-2026-000013,EMP-000006,hr_agent,hr_answer,2026-01-14T13:30:00,Under the New Joiner Onboarding Checklist (version 2): joining formalities days is 7.
+MSG-TKT-2026-000013-003,TKT-2026-000013,EMP-000194,employee,follow_up,2026-01-15T11:07:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000013-004,TKT-2026-000013,EMP-000006,hr_agent,resolution_note,2026-01-15T12:22:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000014-001,TKT-2026-000014,EMP-000058,employee,employee_question,2026-01-14T09:54:20,Background verification status. Please help.
-MSG-TKT-2026-000014-002,TKT-2026-000014,EMP-000195,hr_agent,hr_answer,2026-01-14T13:33:20,Under the New Joiner Onboarding Checklist (version 2): joining formalities days is 7.
-MSG-TKT-2026-000014-003,TKT-2026-000014,EMP-000058,employee,follow_up,2026-01-14T16:55:20,Thanks. I have one more question about this.
-MSG-TKT-2026-000014-004,TKT-2026-000014,EMP-000195,hr_agent,resolution_note,2026-01-15T11:24:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000014-002,TKT-2026-000014,EMP-000195,hr_agent,hr_answer,2026-01-14T16:24:20,Under the New Joiner Onboarding Checklist (version 2): joining formalities days is 7.
+MSG-TKT-2026-000014-003,TKT-2026-000014,EMP-000058,employee,follow_up,2026-01-15T13:44:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000014-004,TKT-2026-000014,EMP-000195,hr_agent,resolution_note,2026-01-15T14:43:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000015-001,TKT-2026-000015,EMP-000013,employee,employee_question,2026-01-14T15:00:48,Adding a dependent to group health insurance. Please help.
-MSG-TKT-2026-000015-002,TKT-2026-000015,EMP-000195,hr_agent,hr_answer,2026-01-15T10:13:00,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
-MSG-TKT-2026-000015-003,TKT-2026-000015,EMP-000013,employee,follow_up,2026-01-15T16:22:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000015-004,TKT-2026-000015,EMP-000195,hr_agent,resolution_note,2026-01-15T16:47:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000015-002,TKT-2026-000015,EMP-000195,hr_agent,hr_answer,2026-01-15T14:37:00,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
+MSG-TKT-2026-000015-003,TKT-2026-000015,EMP-000013,employee,follow_up,2026-01-15T15:23:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000015-004,TKT-2026-000015,EMP-000195,hr_agent,resolution_note,2026-01-15T17:02:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000016-001,TKT-2026-000016,EMP-000149,employee,employee_question,2026-01-14T18:58:32,Meal card top-up not received. Please help.
-MSG-TKT-2026-000016-002,TKT-2026-000016,EMP-000166,hr_agent,hr_answer,2026-01-15T14:37:00,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
-MSG-TKT-2026-000016-003,TKT-2026-000016,EMP-000149,employee,follow_up,2026-01-16T12:02:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000016-004,TKT-2026-000016,EMP-000166,hr_agent,resolution_note,2026-01-16T15:19:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000016-002,TKT-2026-000016,EMP-000166,hr_agent,hr_answer,2026-01-15T13:47:00,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
+MSG-TKT-2026-000016-003,TKT-2026-000016,EMP-000149,employee,follow_up,2026-01-16T11:12:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000016-004,TKT-2026-000016,EMP-000166,hr_agent,resolution_note,2026-01-16T14:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000017-001,TKT-2026-000017,EMP-000095,employee,employee_question,2026-01-15T09:07:30,Induction schedule for first week. Please help.
 MSG-TKT-2026-000017-002,TKT-2026-000017,EMP-000171,hr_agent,hr_answer,2026-01-15T17:29:00,Under the New Joiner Onboarding Checklist (version 2): joining formalities days is 7.
 MSG-TKT-2026-000017-003,TKT-2026-000017,EMP-000095,employee,follow_up,2026-01-16T11:45:00,Thanks. I have one more question about this.
@@ -122,16 +122,16 @@ MSG-TKT-2026-000031-002,TKT-2026-000031,EMP-000166,hr_agent,hr_answer,2026-01-20
 MSG-TKT-2026-000031-003,TKT-2026-000031,EMP-000028,employee,follow_up,2026-01-21T13:24:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000031-004,TKT-2026-000031,EMP-000166,hr_agent,resolution_note,2026-01-21T15:00:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000032-001,TKT-2026-000032,EMP-000086,employee,employee_question,2026-01-20T15:40:47,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000032-002,TKT-2026-000032,EMP-000030,hr_er_specialist,hr_answer,2026-01-21T12:37:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000032-003,TKT-2026-000032,EMP-000086,employee,follow_up,2026-01-21T15:15:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000032-004,TKT-2026-000032,EMP-000030,hr_er_specialist,resolution_note,2026-01-21T15:34:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000032-002,TKT-2026-000032,EMP-000030,hr_er_specialist,hr_answer,2026-01-20T17:04:47,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000032-003,TKT-2026-000032,EMP-000086,employee,follow_up,2026-01-21T11:13:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000032-004,TKT-2026-000032,EMP-000030,hr_er_specialist,resolution_note,2026-01-21T11:32:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000033-001,TKT-2026-000033,EMP-000158,employee,employee_question,2026-01-21T13:31:03,Employee referral bonus query. Please help.
 MSG-TKT-2026-000033-002,TKT-2026-000033,EMP-000166,hr_agent,hr_answer,2026-01-22T11:48:00,Under the Work From Home Policy (version 2): wfh days per week is 2.
 MSG-TKT-2026-000033-003,TKT-2026-000033,EMP-000158,employee,follow_up,2026-01-22T17:07:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000033-004,TKT-2026-000033,EMP-000166,hr_agent,resolution_note,2026-01-22T17:44:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000034-001,TKT-2026-000034,EMP-000141,employee,employee_question,2026-01-22T10:20:44,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000034-002,TKT-2026-000034,EMP-000130,hr_er_specialist,hr_answer,2026-01-22T15:24:44,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 1): medical certificate after days is 4; sick leave days is 8.
-MSG-TKT-2026-000034-003,TKT-2026-000034,EMP-000130,hr_er_specialist,resolution_note,2026-01-22T16:13:44,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000034-002,TKT-2026-000034,EMP-000130,hr_er_specialist,hr_answer,2026-01-22T11:40:44,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 1): medical certificate after days is 4; sick leave days is 8.
+MSG-TKT-2026-000034-003,TKT-2026-000034,EMP-000130,hr_er_specialist,resolution_note,2026-01-22T12:29:44,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000035-001,TKT-2026-000035,EMP-000160,employee,employee_question,2026-01-22T12:58:59,Sick leave balance for this year. Please help.
 MSG-TKT-2026-000035-002,TKT-2026-000035,EMP-000195,hr_agent,hr_answer,2026-01-22T17:25:59,Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
 MSG-TKT-2026-000035-003,TKT-2026-000035,EMP-000160,employee,follow_up,2026-01-23T15:22:00,Thanks. I have one more question about this.
@@ -158,9 +158,9 @@ MSG-TKT-2026-000040-001,TKT-2026-000040,EMP-000036,employee,employee_question,20
 MSG-TKT-2026-000040-002,TKT-2026-000040,EMP-000052,hr_agent,hr_answer,2026-01-27T15:26:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000040-003,TKT-2026-000040,EMP-000052,hr_agent,resolution_note,2026-01-27T16:34:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000041-001,TKT-2026-000041,EMP-000011,employee,employee_question,2026-01-25T13:38:34,Request for medical accommodation at work. Please help.
-MSG-TKT-2026-000041-002,TKT-2026-000041,EMP-000152,hr_er_specialist,hr_answer,2026-01-27T14:26:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 2): complaint ack days is 5; inquiry completion days is 100.
-MSG-TKT-2026-000041-003,TKT-2026-000041,EMP-000011,employee,follow_up,2026-01-28T11:57:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000041-004,TKT-2026-000041,EMP-000152,hr_er_specialist,resolution_note,2026-01-28T15:38:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000041-002,TKT-2026-000041,EMP-000152,hr_er_specialist,hr_answer,2026-01-27T10:43:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 2): complaint ack days is 5; inquiry completion days is 100.
+MSG-TKT-2026-000041-003,TKT-2026-000041,EMP-000011,employee,follow_up,2026-01-27T16:44:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000041-004,TKT-2026-000041,EMP-000152,hr_er_specialist,resolution_note,2026-01-28T11:55:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000042-001,TKT-2026-000042,EMP-000196,employee,employee_question,2026-01-27T15:56:35,Learning budget reimbursement process. Please help.
 MSG-TKT-2026-000042-002,TKT-2026-000042,EMP-000052,hr_agent,hr_answer,2026-01-28T12:02:00,Under the Expense Reimbursement Policy (version 2): claim window days is 45; receipt required above inr is 1000.
 MSG-TKT-2026-000042-003,TKT-2026-000042,EMP-000052,hr_agent,resolution_note,2026-01-28T12:20:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -169,9 +169,9 @@ MSG-TKT-2026-000043-002,TKT-2026-000043,EMP-000171,hr_agent,hr_answer,2026-01-28
 MSG-TKT-2026-000043-003,TKT-2026-000043,EMP-000161,employee,follow_up,2026-01-28T16:56:05,Thanks. I have one more question about this.
 MSG-TKT-2026-000043-004,TKT-2026-000043,EMP-000171,hr_agent,resolution_note,2026-01-29T12:21:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000044-001,TKT-2026-000044,EMP-000042,employee,employee_question,2026-01-29T12:10:07,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000044-002,TKT-2026-000044,EMP-000152,hr_er_specialist,hr_answer,2026-01-30T10:40:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10. Contract staff have exactly the same entitlement as permanent staff.
-MSG-TKT-2026-000044-003,TKT-2026-000044,EMP-000042,employee,follow_up,2026-02-02T09:54:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000044-004,TKT-2026-000044,EMP-000152,hr_er_specialist,resolution_note,2026-02-02T10:49:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000044-002,TKT-2026-000044,EMP-000152,hr_er_specialist,hr_answer,2026-01-29T13:58:07,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10. Contract staff have exactly the same entitlement as permanent staff.
+MSG-TKT-2026-000044-003,TKT-2026-000044,EMP-000042,employee,follow_up,2026-01-30T13:13:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000044-004,TKT-2026-000044,EMP-000152,hr_er_specialist,resolution_note,2026-01-30T14:08:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000045-001,TKT-2026-000045,EMP-000182,employee,employee_question,2026-01-29T13:56:21,Leave not showing correctly. Please help.
 MSG-TKT-2026-000045-002,TKT-2026-000045,EMP-000006,hr_agent,clarification_request,2026-01-29T16:35:21,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000046-001,TKT-2026-000046,EMP-000036,employee,employee_question,2026-01-29T14:32:26,Laptop not delivered before joining date. Please help.
@@ -228,9 +228,9 @@ MSG-TKT-2026-000058-002,TKT-2026-000058,EMP-000023,it_ops_partner,hr_answer,2026
 MSG-TKT-2026-000058-003,TKT-2026-000058,EMP-000063,employee,follow_up,2026-02-09T10:48:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000058-004,TKT-2026-000058,EMP-000023,it_ops_partner,resolution_note,2026-02-09T12:06:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000059-001,TKT-2026-000059,EMP-000015,employee,employee_question,2026-02-05T16:27:07,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000059-002,TKT-2026-000059,EMP-000130,hr_er_specialist,hr_answer,2026-02-06T14:06:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000059-003,TKT-2026-000059,EMP-000015,employee,follow_up,2026-02-06T16:00:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000059-004,TKT-2026-000059,EMP-000130,hr_er_specialist,resolution_note,2026-02-09T10:16:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000059-002,TKT-2026-000059,EMP-000130,hr_er_specialist,hr_answer,2026-02-06T09:31:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000059-003,TKT-2026-000059,EMP-000015,employee,follow_up,2026-02-06T11:25:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000059-004,TKT-2026-000059,EMP-000130,hr_er_specialist,resolution_note,2026-02-06T14:11:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000060-001,TKT-2026-000060,EMP-000126,employee,employee_question,2026-02-06T09:40:53,Something is wrong with my pay. Please help.
 MSG-TKT-2026-000060-002,TKT-2026-000060,EMP-000052,hr_agent,clarification_request,2026-02-06T13:40:53,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000060-003,TKT-2026-000060,EMP-000126,employee,employee_reply,2026-02-09T12:57:00,Here are the details you asked for. Thank you.
@@ -312,9 +312,9 @@ MSG-TKT-2026-000078-002,TKT-2026-000078,EMP-000195,hr_agent,hr_answer,2026-02-20
 MSG-TKT-2026-000078-003,TKT-2026-000078,EMP-000033,employee,follow_up,2026-02-23T11:39:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000078-004,TKT-2026-000078,EMP-000195,hr_agent,resolution_note,2026-02-23T12:08:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000079-001,TKT-2026-000079,EMP-000156,employee,employee_question,2026-02-19T18:22:22,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000079-002,TKT-2026-000079,EMP-000152,hr_er_specialist,hr_answer,2026-02-20T17:33:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 2): complaint ack days is 5; inquiry completion days is 100.
-MSG-TKT-2026-000079-003,TKT-2026-000079,EMP-000156,employee,follow_up,2026-02-23T11:20:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000079-004,TKT-2026-000079,EMP-000152,hr_er_specialist,resolution_note,2026-02-23T14:47:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000079-002,TKT-2026-000079,EMP-000152,hr_er_specialist,hr_answer,2026-02-20T11:30:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 2): complaint ack days is 5; inquiry completion days is 100.
+MSG-TKT-2026-000079-003,TKT-2026-000079,EMP-000156,employee,follow_up,2026-02-20T13:47:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000079-004,TKT-2026-000079,EMP-000152,hr_er_specialist,resolution_note,2026-02-20T17:14:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000080-001,TKT-2026-000080,EMP-000114,employee,employee_question,2026-02-20T05:22:30,Applying for compensatory off. Please help.
 MSG-TKT-2026-000080-002,TKT-2026-000080,EMP-000006,hr_agent,hr_answer,2026-02-20T17:16:00,Under the Annual Leave Policy (version 1): annual leave days is 18; carry forward days is 5.
 MSG-TKT-2026-000080-003,TKT-2026-000080,EMP-000006,hr_agent,resolution_note,2026-02-23T11:34:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -322,9 +322,9 @@ MSG-TKT-2026-000081-001,TKT-2026-000081,EMP-000180,employee,employee_question,20
 MSG-TKT-2026-000081-002,TKT-2026-000081,EMP-000146,hr_agent,hr_answer,2026-02-20T13:58:00,Under the Annual Leave Policy (version 1): annual leave days is 18; carry forward days is 5.
 MSG-TKT-2026-000081-003,TKT-2026-000081,EMP-000146,hr_agent,resolution_note,2026-02-20T14:35:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000082-001,TKT-2026-000082,EMP-000159,employee,employee_question,2026-02-20T17:59:21,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000082-002,TKT-2026-000082,EMP-000152,hr_er_specialist,hr_answer,2026-02-23T13:15:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000082-003,TKT-2026-000082,EMP-000159,employee,follow_up,2026-02-24T10:45:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000082-004,TKT-2026-000082,EMP-000152,hr_er_specialist,resolution_note,2026-02-24T12:17:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000082-002,TKT-2026-000082,EMP-000152,hr_er_specialist,hr_answer,2026-02-23T10:25:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000082-003,TKT-2026-000082,EMP-000159,employee,follow_up,2026-02-23T16:25:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000082-004,TKT-2026-000082,EMP-000152,hr_er_specialist,resolution_note,2026-02-23T17:57:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000083-001,TKT-2026-000083,EMP-000007,employee,employee_question,2026-02-22T17:26:00,Applying for compensatory off. Please help.
 MSG-TKT-2026-000083-002,TKT-2026-000083,EMP-000006,hr_agent,hr_answer,2026-02-23T13:06:00,Under the Annual Leave Policy (version 1): annual leave days is 18; carry forward days is 5.
 MSG-TKT-2026-000083-003,TKT-2026-000083,EMP-000006,hr_agent,resolution_note,2026-02-23T15:31:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -359,8 +359,8 @@ MSG-TKT-2026-000091-002,TKT-2026-000091,EMP-000146,hr_agent,hr_answer,2026-02-27
 MSG-TKT-2026-000091-003,TKT-2026-000091,EMP-000015,employee,follow_up,2026-03-02T11:36:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000091-004,TKT-2026-000091,EMP-000146,hr_agent,resolution_note,2026-03-02T12:11:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000092-001,TKT-2026-000092,EMP-000065,employee,employee_question,2026-02-26T17:18:14,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000092-002,TKT-2026-000092,EMP-000130,hr_er_specialist,hr_answer,2026-02-27T17:46:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000092-003,TKT-2026-000092,EMP-000130,hr_er_specialist,resolution_note,2026-03-02T11:30:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000092-002,TKT-2026-000092,EMP-000130,hr_er_specialist,hr_answer,2026-02-27T11:07:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000092-003,TKT-2026-000092,EMP-000130,hr_er_specialist,resolution_note,2026-02-27T13:21:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000093-001,TKT-2026-000093,EMP-000121,employee,employee_question,2026-02-27T10:28:00,Provident fund VPF contribution change. Please help.
 MSG-TKT-2026-000093-002,TKT-2026-000093,EMP-000166,hr_agent,hr_answer,2026-02-27T14:48:00,Under the Provident Fund Contribution Policy (version 3): vpf max percent is 30.
 MSG-TKT-2026-000093-003,TKT-2026-000093,EMP-000121,employee,follow_up,2026-03-02T14:50:00,Thanks. I have one more question about this.
@@ -417,9 +417,9 @@ MSG-TKT-2026-000105-002,TKT-2026-000105,EMP-000171,hr_agent,hr_answer,2026-03-10
 MSG-TKT-2026-000105-003,TKT-2026-000105,EMP-000035,employee,follow_up,2026-03-10T17:39:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000105-004,TKT-2026-000105,EMP-000171,hr_agent,resolution_note,2026-03-11T12:48:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000106-001,TKT-2026-000106,EMP-000016,employee,employee_question,2026-03-10T14:13:18,Grievance about my appraisal rating. Please help.
-MSG-TKT-2026-000106-002,TKT-2026-000106,EMP-000030,hr_er_specialist,hr_answer,2026-03-11T10:43:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000106-003,TKT-2026-000106,EMP-000016,employee,follow_up,2026-03-12T10:31:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000106-004,TKT-2026-000106,EMP-000030,hr_er_specialist,resolution_note,2026-03-12T10:46:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000106-002,TKT-2026-000106,EMP-000030,hr_er_specialist,hr_answer,2026-03-10T15:32:18,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000106-003,TKT-2026-000106,EMP-000016,employee,follow_up,2026-03-11T15:21:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000106-004,TKT-2026-000106,EMP-000030,hr_er_specialist,resolution_note,2026-03-11T15:36:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000107-001,TKT-2026-000107,EMP-000093,employee,employee_question,2026-03-10T15:00:53,Sick leave balance for this year. Please help.
 MSG-TKT-2026-000107-002,TKT-2026-000107,EMP-000195,hr_agent,hr_answer,2026-03-11T12:32:00,Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
 MSG-TKT-2026-000107-003,TKT-2026-000107,EMP-000093,employee,follow_up,2026-03-12T12:20:00,Thanks. I have one more question about this.
@@ -507,9 +507,9 @@ MSG-TKT-2026-000127-002,TKT-2026-000127,EMP-000006,hr_agent,hr_answer,2026-03-19
 MSG-TKT-2026-000127-003,TKT-2026-000127,EMP-000088,employee,follow_up,2026-03-19T17:49:41,Thanks. I have one more question about this.
 MSG-TKT-2026-000127-004,TKT-2026-000127,EMP-000006,hr_agent,resolution_note,2026-03-20T11:53:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000128-001,TKT-2026-000128,EMP-000193,employee,employee_question,2026-03-19T12:51:10,Request for medical accommodation at work. Please help.
-MSG-TKT-2026-000128-002,TKT-2026-000128,EMP-000030,hr_er_specialist,hr_answer,2026-03-20T11:13:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000128-003,TKT-2026-000128,EMP-000193,employee,follow_up,2026-03-23T09:40:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000128-004,TKT-2026-000128,EMP-000030,hr_er_specialist,resolution_note,2026-03-23T11:42:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000128-002,TKT-2026-000128,EMP-000030,hr_er_specialist,hr_answer,2026-03-19T14:32:10,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000128-003,TKT-2026-000128,EMP-000193,employee,follow_up,2026-03-20T13:00:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000128-004,TKT-2026-000128,EMP-000030,hr_er_specialist,resolution_note,2026-03-20T15:02:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000129-001,TKT-2026-000129,EMP-000012,employee,employee_question,2026-03-20T10:02:29,Access to email account not working. Please help.
 MSG-TKT-2026-000129-002,TKT-2026-000129,EMP-000023,it_ops_partner,hr_answer,2026-03-23T11:15:00,Under the IT Equipment and Access Provisioning (version 1): access setup hours is 72; laptop delivery days is 7.
 MSG-TKT-2026-000129-003,TKT-2026-000129,EMP-000012,employee,follow_up,2026-03-23T17:08:00,Thanks. I have one more question about this.
@@ -529,17 +529,17 @@ MSG-TKT-2026-000133-002,TKT-2026-000133,EMP-000138,it_ops_partner,hr_answer,2026
 MSG-TKT-2026-000133-003,TKT-2026-000133,EMP-000049,employee,follow_up,2026-03-25T12:11:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000133-004,TKT-2026-000133,EMP-000138,it_ops_partner,resolution_note,2026-03-25T15:56:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000134-001,TKT-2026-000134,EMP-000008,employee,employee_question,2026-03-24T10:21:22,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000134-002,TKT-2026-000134,EMP-000152,hr_er_specialist,hr_answer,2026-03-24T17:41:22,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10. Contract staff have exactly the same entitlement as permanent staff.
-MSG-TKT-2026-000134-003,TKT-2026-000134,EMP-000008,employee,follow_up,2026-03-25T10:03:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000134-004,TKT-2026-000134,EMP-000152,hr_er_specialist,resolution_note,2026-03-25T12:35:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000134-002,TKT-2026-000134,EMP-000152,hr_er_specialist,hr_answer,2026-03-24T12:17:22,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10. Contract staff have exactly the same entitlement as permanent staff.
+MSG-TKT-2026-000134-003,TKT-2026-000134,EMP-000008,employee,follow_up,2026-03-24T13:08:22,Thanks. I have one more question about this.
+MSG-TKT-2026-000134-004,TKT-2026-000134,EMP-000152,hr_er_specialist,resolution_note,2026-03-24T15:40:22,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000135-001,TKT-2026-000135,EMP-000091,employee,employee_question,2026-03-24T11:02:07,VPN access request for new joiner. Please help.
 MSG-TKT-2026-000135-002,TKT-2026-000135,EMP-000023,it_ops_partner,hr_answer,2026-03-24T17:24:07,Under the IT Equipment and Access Provisioning (version 1): access setup hours is 72; laptop delivery days is 7.
 MSG-TKT-2026-000135-003,TKT-2026-000135,EMP-000091,employee,follow_up,2026-03-25T16:49:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000135-004,TKT-2026-000135,EMP-000023,it_ops_partner,resolution_note,2026-03-26T10:01:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000136-001,TKT-2026-000136,EMP-000072,employee,employee_question,2026-03-24T12:07:30,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000136-002,TKT-2026-000136,EMP-000152,hr_er_specialist,hr_answer,2026-03-25T09:57:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000136-003,TKT-2026-000136,EMP-000072,employee,follow_up,2026-03-26T09:54:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000136-004,TKT-2026-000136,EMP-000152,hr_er_specialist,resolution_note,2026-03-26T13:41:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000136-002,TKT-2026-000136,EMP-000152,hr_er_specialist,hr_answer,2026-03-24T13:45:30,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000136-003,TKT-2026-000136,EMP-000072,employee,follow_up,2026-03-25T13:43:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000136-004,TKT-2026-000136,EMP-000152,hr_er_specialist,resolution_note,2026-03-25T17:30:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000137-001,TKT-2026-000137,EMP-000192,employee,employee_question,2026-03-24T16:51:17,Bonus payout date query. Please help.
 MSG-TKT-2026-000137-002,TKT-2026-000137,EMP-000171,hr_agent,hr_answer,2026-03-25T14:39:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000137-003,TKT-2026-000137,EMP-000192,employee,follow_up,2026-03-26T11:00:00,Thanks. I have one more question about this.
@@ -570,25 +570,25 @@ MSG-TKT-2026-000143-002,TKT-2026-000143,EMP-000171,hr_agent,hr_answer,2026-03-30
 MSG-TKT-2026-000143-003,TKT-2026-000143,EMP-000051,employee,follow_up,2026-03-31T09:39:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000143-004,TKT-2026-000143,EMP-000171,hr_agent,resolution_note,2026-03-31T12:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000144-001,TKT-2026-000144,EMP-000182,employee,employee_question,2026-03-27T17:25:48,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000144-002,TKT-2026-000144,EMP-000030,hr_er_specialist,hr_answer,2026-03-30T14:05:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90. Employees also receive 30 days of paid leave every year.
-MSG-TKT-2026-000144-003,TKT-2026-000144,EMP-000182,employee,follow_up,2026-03-31T11:06:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000144-004,TKT-2026-000144,EMP-000030,hr_er_specialist,resolution_note,2026-03-31T12:28:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000144-002,TKT-2026-000144,EMP-000030,hr_er_specialist,hr_answer,2026-03-30T10:19:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90. Employees also receive 30 days of paid leave every year.
+MSG-TKT-2026-000144-003,TKT-2026-000144,EMP-000182,employee,follow_up,2026-03-30T15:50:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000144-004,TKT-2026-000144,EMP-000030,hr_er_specialist,resolution_note,2026-03-30T17:12:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000145-001,TKT-2026-000145,EMP-000112,employee,employee_question,2026-03-27T17:56:38,Provident fund VPF contribution change. Please help.
 MSG-TKT-2026-000145-002,TKT-2026-000145,EMP-000195,hr_agent,hr_answer,2026-03-30T11:47:00,Under the Provident Fund Contribution Policy (version 3): vpf max percent is 30.
 MSG-TKT-2026-000145-003,TKT-2026-000145,EMP-000112,employee,follow_up,2026-03-31T11:24:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000145-004,TKT-2026-000145,EMP-000195,hr_agent,resolution_note,2026-03-31T14:19:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000146-001,TKT-2026-000146,EMP-000087,employee,employee_question,2026-03-27T18:39:40,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000146-002,TKT-2026-000146,EMP-000130,hr_er_specialist,hr_answer,2026-03-30T14:56:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000146-003,TKT-2026-000146,EMP-000087,employee,follow_up,2026-03-31T12:08:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000146-004,TKT-2026-000146,EMP-000130,hr_er_specialist,resolution_note,2026-03-31T13:43:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000146-002,TKT-2026-000146,EMP-000130,hr_er_specialist,hr_answer,2026-03-30T10:51:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000146-003,TKT-2026-000146,EMP-000087,employee,follow_up,2026-03-30T16:33:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000146-004,TKT-2026-000146,EMP-000130,hr_er_specialist,resolution_note,2026-03-31T09:38:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000147-001,TKT-2026-000147,EMP-000163,employee,employee_question,2026-03-28T13:27:58,Carry forward of unused leave to next year. Please help.
 MSG-TKT-2026-000147-002,TKT-2026-000147,EMP-000146,hr_agent,hr_answer,2026-03-30T14:05:00,Under the Annual Leave Policy (version 1): annual leave days is 18; carry forward days is 5.
 MSG-TKT-2026-000147-003,TKT-2026-000147,EMP-000163,employee,follow_up,2026-03-31T11:46:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000147-004,TKT-2026-000147,EMP-000146,hr_agent,resolution_note,2026-03-31T12:58:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000148-001,TKT-2026-000148,EMP-000078,employee,employee_question,2026-03-30T11:12:11,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000148-002,TKT-2026-000148,EMP-000152,hr_er_specialist,hr_answer,2026-03-30T17:37:11,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000148-003,TKT-2026-000148,EMP-000078,employee,follow_up,2026-03-31T12:17:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000148-004,TKT-2026-000148,EMP-000152,hr_er_specialist,resolution_note,2026-03-31T14:28:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000148-002,TKT-2026-000148,EMP-000152,hr_er_specialist,hr_answer,2026-03-30T12:50:11,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000148-003,TKT-2026-000148,EMP-000078,employee,follow_up,2026-03-30T15:59:11,Thanks. I have one more question about this.
+MSG-TKT-2026-000148-004,TKT-2026-000148,EMP-000152,hr_er_specialist,resolution_note,2026-03-31T09:41:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000149-001,TKT-2026-000149,EMP-000043,employee,employee_question,2026-03-31T13:11:31,Background verification status. Please help.
 MSG-TKT-2026-000149-002,TKT-2026-000149,EMP-000195,hr_agent,hr_answer,2026-04-01T13:21:00,Under the New Joiner Onboarding Checklist (version 3): joining formalities days is 5.
 MSG-TKT-2026-000149-003,TKT-2026-000149,EMP-000043,employee,follow_up,2026-04-01T15:06:00,Thanks. I have one more question about this.
@@ -657,9 +657,9 @@ MSG-TKT-2026-000164-003,TKT-2026-000164,EMP-000164,employee,employee_reply,2026-
 MSG-TKT-2026-000164-004,TKT-2026-000164,EMP-000171,hr_agent,hr_answer,2026-04-10T15:44:00,Under the New Joiner Onboarding Checklist (version 3): joining formalities days is 5.
 MSG-TKT-2026-000164-005,TKT-2026-000164,EMP-000171,hr_agent,resolution_note,2026-04-10T16:02:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000165-001,TKT-2026-000165,EMP-000012,employee,employee_question,2026-04-08T16:46:18,Grievance about my appraisal rating. Please help.
-MSG-TKT-2026-000165-002,TKT-2026-000165,EMP-000030,hr_er_specialist,hr_answer,2026-04-09T13:21:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000165-003,TKT-2026-000165,EMP-000012,employee,follow_up,2026-04-09T17:36:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000165-004,TKT-2026-000165,EMP-000030,hr_er_specialist,resolution_note,2026-04-10T11:59:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000165-002,TKT-2026-000165,EMP-000030,hr_er_specialist,hr_answer,2026-04-09T09:38:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000165-003,TKT-2026-000165,EMP-000012,employee,follow_up,2026-04-09T13:53:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000165-004,TKT-2026-000165,EMP-000030,hr_er_specialist,resolution_note,2026-04-09T16:46:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000166-001,TKT-2026-000166,EMP-000127,employee,employee_question,2026-04-09T13:52:28,My salary was short this month. Please help.
 MSG-TKT-2026-000166-002,TKT-2026-000166,EMP-000171,hr_agent,hr_answer,2026-04-10T09:42:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000166-003,TKT-2026-000166,EMP-000127,employee,follow_up,2026-04-10T12:27:00,Thanks. I have one more question about this.
@@ -722,8 +722,8 @@ MSG-TKT-2026-000179-004,TKT-2026-000179,EMP-000006,hr_agent,hr_answer,2026-04-22
 MSG-TKT-2026-000179-005,TKT-2026-000179,EMP-000158,employee,follow_up,2026-04-22T15:00:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000179-006,TKT-2026-000179,EMP-000006,hr_agent,resolution_note,2026-04-22T16:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000180-001,TKT-2026-000180,EMP-000185,employee,employee_question,2026-04-21T14:17:12,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000180-002,TKT-2026-000180,EMP-000152,hr_er_specialist,hr_answer,2026-04-22T10:20:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000180-003,TKT-2026-000180,EMP-000152,hr_er_specialist,resolution_note,2026-04-22T12:38:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000180-002,TKT-2026-000180,EMP-000152,hr_er_specialist,hr_answer,2026-04-21T15:28:12,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000180-003,TKT-2026-000180,EMP-000152,hr_er_specialist,resolution_note,2026-04-21T17:46:12,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000181-001,TKT-2026-000181,EMP-000088,employee,employee_question,2026-04-21T16:49:21,Payslip for last month not available. Please help.
 MSG-TKT-2026-000181-002,TKT-2026-000181,EMP-000171,hr_agent,hr_answer,2026-04-22T12:06:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000181-003,TKT-2026-000181,EMP-000088,employee,follow_up,2026-04-23T13:26:00,Thanks. I have one more question about this.
@@ -739,9 +739,9 @@ MSG-TKT-2026-000183-004,TKT-2026-000183,EMP-000171,hr_agent,resolution_note,2026
 MSG-TKT-2026-000184-001,TKT-2026-000184,EMP-000053,employee,employee_question,2026-04-24T10:08:55,My request was not approved. Please help.
 MSG-TKT-2026-000184-002,TKT-2026-000184,EMP-000195,hr_agent,clarification_request,2026-04-24T11:27:55,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000185-001,TKT-2026-000185,EMP-000009,employee,employee_question,2026-04-24T12:33:02,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000185-002,TKT-2026-000185,EMP-000130,hr_er_specialist,hr_answer,2026-04-27T12:50:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000185-003,TKT-2026-000185,EMP-000009,employee,follow_up,2026-04-27T15:41:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000185-004,TKT-2026-000185,EMP-000130,hr_er_specialist,resolution_note,2026-04-28T09:57:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000185-002,TKT-2026-000185,EMP-000130,hr_er_specialist,hr_answer,2026-04-24T14:48:02,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000185-003,TKT-2026-000185,EMP-000009,employee,follow_up,2026-04-24T17:39:02,Thanks. I have one more question about this.
+MSG-TKT-2026-000185-004,TKT-2026-000185,EMP-000130,hr_er_specialist,resolution_note,2026-04-27T11:56:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000186-001,TKT-2026-000186,EMP-000019,employee,employee_question,2026-04-24T13:29:44,Maternity leave eligibility and notice period. Please help.
 MSG-TKT-2026-000186-002,TKT-2026-000186,EMP-000146,hr_agent,hr_answer,2026-04-24T15:26:44,Under the Maternity Leave Policy (version 3): maternity leave weeks is 24; notice period days is 60.
 MSG-TKT-2026-000186-003,TKT-2026-000186,EMP-000019,employee,follow_up,2026-04-27T16:56:00,Thanks. I have one more question about this.
@@ -799,8 +799,8 @@ MSG-TKT-2026-000200-002,TKT-2026-000200,EMP-000166,hr_agent,hr_answer,2026-05-05
 MSG-TKT-2026-000200-003,TKT-2026-000200,EMP-000043,employee,follow_up,2026-05-06T13:58:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000200-004,TKT-2026-000200,EMP-000166,hr_agent,resolution_note,2026-05-06T15:49:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000201-001,TKT-2026-000201,EMP-000163,employee,employee_question,2026-05-05T15:04:12,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000201-002,TKT-2026-000201,EMP-000130,hr_er_specialist,hr_answer,2026-05-06T12:45:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000201-003,TKT-2026-000201,EMP-000130,hr_er_specialist,resolution_note,2026-05-06T16:04:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000201-002,TKT-2026-000201,EMP-000130,hr_er_specialist,hr_answer,2026-05-05T16:37:12,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000201-003,TKT-2026-000201,EMP-000130,hr_er_specialist,resolution_note,2026-05-06T11:27:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000202-001,TKT-2026-000202,EMP-000003,employee,employee_question,2026-05-05T15:36:26,Work from home days allowed per week. Please help.
 MSG-TKT-2026-000202-002,TKT-2026-000202,EMP-000006,hr_agent,hr_answer,2026-05-06T11:34:00,Under the Work From Home Policy (version 2): wfh days per week is 2.
 MSG-TKT-2026-000202-003,TKT-2026-000202,EMP-000006,hr_agent,resolution_note,2026-05-06T15:12:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -846,9 +846,9 @@ MSG-TKT-2026-000213-001,TKT-2026-000213,EMP-000007,employee,employee_question,20
 MSG-TKT-2026-000213-002,TKT-2026-000213,EMP-000171,hr_agent,hr_answer,2026-05-08T11:37:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000213-003,TKT-2026-000213,EMP-000171,hr_agent,resolution_note,2026-05-08T15:22:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000214-001,TKT-2026-000214,EMP-000050,employee,employee_question,2026-05-08T18:55:02,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000214-002,TKT-2026-000214,EMP-000152,hr_er_specialist,hr_answer,2026-05-11T16:55:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000214-003,TKT-2026-000214,EMP-000050,employee,follow_up,2026-05-12T11:59:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000214-004,TKT-2026-000214,EMP-000152,hr_er_specialist,resolution_note,2026-05-12T13:23:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000214-002,TKT-2026-000214,EMP-000152,hr_er_specialist,hr_answer,2026-05-11T11:20:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000214-003,TKT-2026-000214,EMP-000050,employee,follow_up,2026-05-11T14:54:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000214-004,TKT-2026-000214,EMP-000152,hr_er_specialist,resolution_note,2026-05-11T16:18:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000215-001,TKT-2026-000215,EMP-000016,employee,employee_question,2026-05-11T11:33:20,Induction schedule for first week. Please help.
 MSG-TKT-2026-000215-002,TKT-2026-000215,EMP-000166,hr_agent,hr_answer,2026-05-11T17:52:20,Under the New Joiner Onboarding Checklist (version 3): joining formalities days is 5.
 MSG-TKT-2026-000215-003,TKT-2026-000215,EMP-000016,employee,follow_up,2026-05-12T13:44:00,Thanks. I have one more question about this.
@@ -862,9 +862,9 @@ MSG-TKT-2026-000217-002,TKT-2026-000217,EMP-000195,hr_agent,hr_answer,2026-05-12
 MSG-TKT-2026-000217-003,TKT-2026-000217,EMP-000160,employee,follow_up,2026-05-13T14:06:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000217-004,TKT-2026-000217,EMP-000195,hr_agent,resolution_note,2026-05-13T17:56:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000218-001,TKT-2026-000218,EMP-000077,employee,employee_question,2026-05-12T11:27:09,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000218-002,TKT-2026-000218,EMP-000130,hr_er_specialist,hr_answer,2026-05-13T11:26:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000218-003,TKT-2026-000218,EMP-000077,employee,follow_up,2026-05-14T10:36:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000218-004,TKT-2026-000218,EMP-000130,hr_er_specialist,resolution_note,2026-05-14T12:41:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000218-002,TKT-2026-000218,EMP-000130,hr_er_specialist,hr_answer,2026-05-12T13:38:09,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000218-003,TKT-2026-000218,EMP-000077,employee,follow_up,2026-05-13T12:49:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000218-004,TKT-2026-000218,EMP-000130,hr_er_specialist,resolution_note,2026-05-13T14:54:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000219-001,TKT-2026-000219,EMP-000004,employee,employee_question,2026-05-12T13:51:40,How many annual leave days do I have left?. Please help.
 MSG-TKT-2026-000219-002,TKT-2026-000219,EMP-000171,hr_agent,hr_answer,2026-05-13T14:23:00,Under the Annual Leave Policy (version 2): annual leave days is 20; carry forward days is 6.
 MSG-TKT-2026-000219-003,TKT-2026-000219,EMP-000004,employee,follow_up,2026-05-14T12:03:00,Thanks. I have one more question about this.
@@ -874,12 +874,12 @@ MSG-TKT-2026-000220-002,TKT-2026-000220,EMP-000146,hr_agent,hr_answer,2026-05-13
 MSG-TKT-2026-000220-003,TKT-2026-000220,EMP-000022,employee,follow_up,2026-05-14T16:21:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000220-004,TKT-2026-000220,EMP-000146,hr_agent,resolution_note,2026-05-15T10:53:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000221-001,TKT-2026-000221,EMP-000115,employee,employee_question,2026-05-14T13:01:58,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000221-002,TKT-2026-000221,EMP-000130,hr_er_specialist,hr_answer,2026-05-15T10:31:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000221-003,TKT-2026-000221,EMP-000130,hr_er_specialist,resolution_note,2026-05-15T13:31:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000221-002,TKT-2026-000221,EMP-000130,hr_er_specialist,hr_answer,2026-05-14T14:32:58,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000221-003,TKT-2026-000221,EMP-000130,hr_er_specialist,resolution_note,2026-05-14T17:32:58,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000222-001,TKT-2026-000222,EMP-000081,employee,employee_question,2026-05-14T14:29:28,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000222-002,TKT-2026-000222,EMP-000152,hr_er_specialist,hr_answer,2026-05-15T13:20:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000222-003,TKT-2026-000222,EMP-000081,employee,follow_up,2026-05-15T16:16:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000222-004,TKT-2026-000222,EMP-000152,hr_er_specialist,resolution_note,2026-05-15T17:11:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000222-002,TKT-2026-000222,EMP-000152,hr_er_specialist,hr_answer,2026-05-14T16:23:28,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000222-003,TKT-2026-000222,EMP-000081,employee,follow_up,2026-05-15T10:50:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000222-004,TKT-2026-000222,EMP-000152,hr_er_specialist,resolution_note,2026-05-15T11:45:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000223-001,TKT-2026-000223,EMP-000174,employee,employee_question,2026-05-14T17:29:22,Tax declaration proof submission deadline. Please help.
 MSG-TKT-2026-000223-002,TKT-2026-000223,EMP-000006,hr_agent,hr_answer,2026-05-15T14:04:00,Under the Tax Declaration and TDS Policy (version 1): proof submission window days is 15.
 MSG-TKT-2026-000223-003,TKT-2026-000223,EMP-000174,employee,follow_up,2026-05-18T11:26:00,Thanks. I have one more question about this.
@@ -971,9 +971,9 @@ MSG-TKT-2026-000243-002,TKT-2026-000243,EMP-000195,hr_agent,hr_answer,2026-05-27
 MSG-TKT-2026-000243-003,TKT-2026-000243,EMP-000097,employee,follow_up,2026-05-28T12:24:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000243-004,TKT-2026-000243,EMP-000195,hr_agent,resolution_note,2026-05-28T15:12:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000244-001,TKT-2026-000244,EMP-000004,employee,employee_question,2026-05-27T09:04:26,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000244-002,TKT-2026-000244,EMP-000030,hr_er_specialist,hr_answer,2026-05-27T17:47:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000244-003,TKT-2026-000244,EMP-000004,employee,follow_up,2026-05-28T14:17:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000244-004,TKT-2026-000244,EMP-000030,hr_er_specialist,resolution_note,2026-05-28T17:34:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000244-002,TKT-2026-000244,EMP-000030,hr_er_specialist,hr_answer,2026-05-27T11:33:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000244-003,TKT-2026-000244,EMP-000004,employee,follow_up,2026-05-27T16:33:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000244-004,TKT-2026-000244,EMP-000030,hr_er_specialist,resolution_note,2026-05-28T11:20:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000245-001,TKT-2026-000245,EMP-000148,employee,employee_question,2026-05-27T16:42:08,Bonus payout date query. Please help.
 MSG-TKT-2026-000245-002,TKT-2026-000245,EMP-000195,hr_agent,hr_answer,2026-05-28T10:28:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000245-003,TKT-2026-000245,EMP-000148,employee,follow_up,2026-05-29T11:14:00,Thanks. I have one more question about this.
@@ -1045,9 +1045,9 @@ MSG-TKT-2026-000261-002,TKT-2026-000261,EMP-000006,hr_agent,hr_answer,2026-06-08
 MSG-TKT-2026-000261-003,TKT-2026-000261,EMP-000184,employee,follow_up,2026-06-09T13:15:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000261-004,TKT-2026-000261,EMP-000006,hr_agent,resolution_note,2026-06-09T13:41:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000262-001,TKT-2026-000262,EMP-000046,employee,employee_question,2026-06-08T18:18:42,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000262-002,TKT-2026-000262,EMP-000030,hr_er_specialist,hr_answer,2026-06-09T15:49:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000262-003,TKT-2026-000262,EMP-000046,employee,follow_up,2026-06-10T12:19:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000262-004,TKT-2026-000262,EMP-000030,hr_er_specialist,resolution_note,2026-06-10T15:14:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000262-002,TKT-2026-000262,EMP-000030,hr_er_specialist,hr_answer,2026-06-09T11:04:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000262-003,TKT-2026-000262,EMP-000046,employee,follow_up,2026-06-09T16:04:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000262-004,TKT-2026-000262,EMP-000030,hr_er_specialist,resolution_note,2026-06-10T10:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000263-001,TKT-2026-000263,EMP-000067,employee,employee_question,2026-06-09T19:49:14,Employee referral bonus query. Please help.
 MSG-TKT-2026-000263-002,TKT-2026-000263,EMP-000171,hr_agent,hr_answer,2026-06-10T16:48:00,Under the Work From Home Policy (version 2): wfh days per week is 2.
 MSG-TKT-2026-000263-003,TKT-2026-000263,EMP-000067,employee,follow_up,2026-06-11T09:31:00,Thanks. I have one more question about this.
@@ -1143,11 +1143,11 @@ MSG-TKT-2026-000288-001,TKT-2026-000288,EMP-000013,employee,employee_question,20
 MSG-TKT-2026-000288-002,TKT-2026-000288,EMP-000006,hr_agent,hr_answer,2026-06-29T11:55:00,Under the New Joiner Onboarding Checklist (version 4): joining formalities days is 3.
 MSG-TKT-2026-000288-003,TKT-2026-000288,EMP-000006,hr_agent,resolution_note,2026-06-29T12:12:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000289-001,TKT-2026-000289,EMP-000047,employee,employee_question,2026-06-29T09:14:57,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000289-002,TKT-2026-000289,EMP-000152,hr_er_specialist,hr_answer,2026-06-29T13:17:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000289-003,TKT-2026-000289,EMP-000152,hr_er_specialist,resolution_note,2026-06-29T16:27:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000289-002,TKT-2026-000289,EMP-000152,hr_er_specialist,hr_answer,2026-06-29T10:26:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000289-003,TKT-2026-000289,EMP-000152,hr_er_specialist,resolution_note,2026-06-29T13:36:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000290-001,TKT-2026-000290,EMP-000189,employee,employee_question,2026-06-29T17:14:34,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000290-002,TKT-2026-000290,EMP-000130,hr_er_specialist,hr_answer,2026-06-30T14:54:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000290-003,TKT-2026-000290,EMP-000130,hr_er_specialist,resolution_note,2026-06-30T15:28:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000290-002,TKT-2026-000290,EMP-000130,hr_er_specialist,hr_answer,2026-06-30T10:21:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000290-003,TKT-2026-000290,EMP-000130,hr_er_specialist,resolution_note,2026-06-30T10:55:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000291-001,TKT-2026-000291,EMP-000085,employee,employee_question,2026-06-30T09:43:38,Provident fund VPF contribution change. Please help.
 MSG-TKT-2026-000291-002,TKT-2026-000291,EMP-000166,hr_agent,hr_answer,2026-06-30T13:26:38,Under the Provident Fund Contribution Policy (version 4): vpf max percent is 35.
 MSG-TKT-2026-000291-003,TKT-2026-000291,EMP-000085,employee,follow_up,2026-06-30T16:04:38,Thanks. I have one more question about this.
@@ -1177,8 +1177,8 @@ MSG-TKT-2026-000297-002,TKT-2026-000297,EMP-000166,hr_agent,hr_answer,2026-07-03
 MSG-TKT-2026-000297-003,TKT-2026-000297,EMP-000097,employee,follow_up,2026-07-03T10:48:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000297-004,TKT-2026-000297,EMP-000166,hr_agent,resolution_note,2026-07-03T13:56:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000298-001,TKT-2026-000298,EMP-000107,employee,employee_question,2026-07-02T17:56:43,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000298-002,TKT-2026-000298,EMP-000030,hr_er_specialist,hr_answer,2026-07-03T16:14:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000298-003,TKT-2026-000298,EMP-000030,hr_er_specialist,resolution_note,2026-07-03T16:46:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000298-002,TKT-2026-000298,EMP-000030,hr_er_specialist,hr_answer,2026-07-03T11:08:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000298-003,TKT-2026-000298,EMP-000030,hr_er_specialist,resolution_note,2026-07-03T11:40:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000299-001,TKT-2026-000299,EMP-000101,employee,employee_question,2026-07-03T06:45:56,How many annual leave days do I have left?. Please help.
 MSG-TKT-2026-000299-002,TKT-2026-000299,EMP-000166,hr_agent,hr_answer,2026-07-03T12:29:00,Under the Annual Leave Policy (version 2): annual leave days is 20; carry forward days is 6.
 MSG-TKT-2026-000299-003,TKT-2026-000299,EMP-000101,employee,follow_up,2026-07-06T10:39:00,Thanks. I have one more question about this.
@@ -1207,9 +1207,9 @@ MSG-TKT-2026-000305-002,TKT-2026-000305,EMP-000146,hr_agent,hr_answer,2026-07-07
 MSG-TKT-2026-000305-003,TKT-2026-000305,EMP-000156,employee,follow_up,2026-07-08T13:19:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000305-004,TKT-2026-000305,EMP-000146,hr_agent,resolution_note,2026-07-08T16:36:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000306-001,TKT-2026-000306,EMP-000082,employee,employee_question,2026-07-07T11:06:27,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000306-002,TKT-2026-000306,EMP-000152,hr_er_specialist,hr_answer,2026-07-07T17:08:27,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000306-003,TKT-2026-000306,EMP-000082,employee,follow_up,2026-07-08T17:42:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000306-004,TKT-2026-000306,EMP-000152,hr_er_specialist,resolution_note,2026-07-09T12:29:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000306-002,TKT-2026-000306,EMP-000152,hr_er_specialist,hr_answer,2026-07-07T12:42:27,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000306-003,TKT-2026-000306,EMP-000082,employee,follow_up,2026-07-08T13:16:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000306-004,TKT-2026-000306,EMP-000152,hr_er_specialist,resolution_note,2026-07-08T16:33:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000307-001,TKT-2026-000307,EMP-000139,employee,employee_question,2026-07-07T12:35:45,Learning budget reimbursement process. Please help.
 MSG-TKT-2026-000307-002,TKT-2026-000307,EMP-000195,hr_agent,hr_answer,2026-07-07T16:59:45,Under the Expense Reimbursement Policy (version 2): claim window days is 45; receipt required above inr is 1000.
 MSG-TKT-2026-000307-003,TKT-2026-000307,EMP-000139,employee,follow_up,2026-07-08T16:48:00,Thanks. I have one more question about this.
@@ -1305,9 +1305,9 @@ MSG-TKT-2026-000327-002,TKT-2026-000327,EMP-000006,hr_agent,hr_answer,2026-07-21
 MSG-TKT-2026-000327-003,TKT-2026-000327,EMP-000186,employee,follow_up,2026-07-21T14:51:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000327-004,TKT-2026-000327,EMP-000006,hr_agent,resolution_note,2026-07-21T17:26:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000328-001,TKT-2026-000328,EMP-000099,employee,employee_question,2026-07-20T14:00:08,Grievance about my appraisal rating. Please help.
-MSG-TKT-2026-000328-002,TKT-2026-000328,EMP-000152,hr_er_specialist,hr_answer,2026-07-20T16:23:08,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
-MSG-TKT-2026-000328-003,TKT-2026-000328,EMP-000099,employee,follow_up,2026-07-21T10:22:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000328-004,TKT-2026-000328,EMP-000152,hr_er_specialist,resolution_note,2026-07-21T11:31:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000328-002,TKT-2026-000328,EMP-000152,hr_er_specialist,hr_answer,2026-07-20T14:36:08,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 3): complaint ack days is 3; inquiry completion days is 90.
+MSG-TKT-2026-000328-003,TKT-2026-000328,EMP-000099,employee,follow_up,2026-07-20T17:04:08,Thanks. I have one more question about this.
+MSG-TKT-2026-000328-004,TKT-2026-000328,EMP-000152,hr_er_specialist,resolution_note,2026-07-21T09:44:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000329-001,TKT-2026-000329,EMP-000050,employee,employee_question,2026-07-21T09:16:36,Work from home days allowed per week. Please help.
 MSG-TKT-2026-000329-002,TKT-2026-000329,EMP-000146,hr_agent,hr_answer,2026-07-21T14:25:00,Under the Work From Home Policy (version 2): wfh days per week is 2.
 MSG-TKT-2026-000329-003,TKT-2026-000329,EMP-000050,employee,follow_up,2026-07-21T15:31:00,Thanks. I have one more question about this.
@@ -1455,11 +1455,11 @@ MSG-TKT-2026-000367-002,TKT-2026-000367,EMP-000166,hr_agent,hr_answer,2026-08-11
 MSG-TKT-2026-000367-003,TKT-2026-000367,EMP-000165,employee,follow_up,2026-08-11T17:03:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000367-004,TKT-2026-000367,EMP-000166,hr_agent,resolution_note,2026-08-12T10:03:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000368-001,TKT-2026-000368,EMP-000148,employee,employee_question,2026-08-11T09:59:54,I need to discuss something confidential. Please help.
-MSG-TKT-2026-000368-002,TKT-2026-000368,EMP-000152,hr_er_specialist,clarification_request,2026-08-11T12:53:54,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
-MSG-TKT-2026-000368-003,TKT-2026-000368,EMP-000148,employee,employee_reply,2026-08-12T17:56:00,Here are the details you asked for. Thank you.
-MSG-TKT-2026-000368-004,TKT-2026-000368,EMP-000152,hr_er_specialist,hr_answer,2026-08-13T11:29:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000368-005,TKT-2026-000368,EMP-000148,employee,follow_up,2026-08-14T10:20:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000368-006,TKT-2026-000368,EMP-000152,hr_er_specialist,resolution_note,2026-08-14T11:42:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000368-002,TKT-2026-000368,EMP-000152,hr_er_specialist,clarification_request,2026-08-11T10:44:54,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
+MSG-TKT-2026-000368-003,TKT-2026-000368,EMP-000148,employee,employee_reply,2026-08-12T15:47:00,Here are the details you asked for. Thank you.
+MSG-TKT-2026-000368-004,TKT-2026-000368,EMP-000152,hr_er_specialist,hr_answer,2026-08-12T16:17:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000368-005,TKT-2026-000368,EMP-000148,employee,follow_up,2026-08-13T15:08:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000368-006,TKT-2026-000368,EMP-000152,hr_er_specialist,resolution_note,2026-08-13T16:30:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000369-001,TKT-2026-000369,EMP-000034,employee,employee_question,2026-08-11T12:08:21,Claiming my wellness allowance. Please help.
 MSG-TKT-2026-000369-002,TKT-2026-000369,EMP-000166,hr_agent,hr_answer,2026-08-11T13:42:21,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
 MSG-TKT-2026-000369-003,TKT-2026-000369,EMP-000034,employee,follow_up,2026-08-12T15:01:00,Thanks. I have one more question about this.
@@ -1508,15 +1508,15 @@ MSG-TKT-2026-000379-004,TKT-2026-000379,EMP-000006,hr_agent,hr_answer,2026-08-14
 MSG-TKT-2026-000379-005,TKT-2026-000379,EMP-000020,employee,follow_up,2026-08-14T16:06:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000379-006,TKT-2026-000379,EMP-000006,hr_agent,resolution_note,2026-08-14T17:07:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000380-001,TKT-2026-000380,EMP-000046,employee,employee_question,2026-08-13T18:42:45,Grievance about my appraisal rating. Please help.
-MSG-TKT-2026-000380-002,TKT-2026-000380,EMP-000130,hr_er_specialist,hr_answer,2026-08-14T12:08:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000380-003,TKT-2026-000380,EMP-000046,employee,follow_up,2026-08-14T14:04:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000380-004,TKT-2026-000380,EMP-000130,hr_er_specialist,resolution_note,2026-08-14T15:32:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000380-002,TKT-2026-000380,EMP-000130,hr_er_specialist,hr_answer,2026-08-14T10:08:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000380-003,TKT-2026-000380,EMP-000046,employee,follow_up,2026-08-14T12:04:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000380-004,TKT-2026-000380,EMP-000130,hr_er_specialist,resolution_note,2026-08-14T13:32:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000381-001,TKT-2026-000381,EMP-000113,employee,employee_question,2026-08-14T10:25:15,Meal card top-up not received. Please help.
 MSG-TKT-2026-000381-002,TKT-2026-000381,EMP-000052,hr_agent,hr_answer,2026-08-14T17:09:15,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
 MSG-TKT-2026-000381-003,TKT-2026-000381,EMP-000113,employee,follow_up,2026-08-17T12:42:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000381-004,TKT-2026-000381,EMP-000052,hr_agent,resolution_note,2026-08-17T15:03:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000382-001,TKT-2026-000382,EMP-000016,employee,employee_question,2026-08-14T14:39:32,I need to discuss something confidential. Please help.
-MSG-TKT-2026-000382-002,TKT-2026-000382,EMP-000030,hr_er_specialist,clarification_request,2026-08-14T17:45:32,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
+MSG-TKT-2026-000382-002,TKT-2026-000382,EMP-000030,hr_er_specialist,clarification_request,2026-08-14T15:29:32,"Could you share more details, such as dates, amounts or the policy you are asking about, so we can answer accurately?"
 MSG-TKT-2026-000383-001,TKT-2026-000383,EMP-000161,employee,employee_question,2026-08-14T14:41:37,My salary was short this month. Please help.
 MSG-TKT-2026-000383-002,TKT-2026-000383,EMP-000195,hr_agent,hr_answer,2026-08-17T14:19:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000383-003,TKT-2026-000383,EMP-000161,employee,follow_up,2026-08-18T15:41:00,Thanks. I have one more question about this.
@@ -1599,8 +1599,8 @@ MSG-TKT-2026-000401-002,TKT-2026-000401,EMP-000171,hr_agent,hr_answer,2026-08-21
 MSG-TKT-2026-000401-003,TKT-2026-000401,EMP-000010,employee,follow_up,2026-08-24T13:30:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000401-004,TKT-2026-000401,EMP-000171,hr_agent,resolution_note,2026-08-24T14:18:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000402-001,TKT-2026-000402,EMP-000082,employee,employee_question,2026-08-21T15:05:32,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000402-002,TKT-2026-000402,EMP-000152,hr_er_specialist,hr_answer,2026-08-24T13:33:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000402-003,TKT-2026-000402,EMP-000152,hr_er_specialist,resolution_note,2026-08-24T17:20:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000402-002,TKT-2026-000402,EMP-000152,hr_er_specialist,hr_answer,2026-08-21T16:51:32,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000402-003,TKT-2026-000402,EMP-000152,hr_er_specialist,resolution_note,2026-08-24T12:09:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000403-001,TKT-2026-000403,EMP-000131,employee,employee_question,2026-08-21T15:51:58,Payslip for last month not available. Please help.
 MSG-TKT-2026-000403-002,TKT-2026-000403,EMP-000166,hr_agent,hr_answer,2026-08-24T12:03:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000403-003,TKT-2026-000403,EMP-000166,hr_agent,resolution_note,2026-08-24T14:44:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -1609,8 +1609,8 @@ MSG-TKT-2026-000404-002,TKT-2026-000404,EMP-000171,hr_agent,hr_answer,2026-08-24
 MSG-TKT-2026-000404-003,TKT-2026-000404,EMP-000041,employee,follow_up,2026-08-25T15:44:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000404-004,TKT-2026-000404,EMP-000171,hr_agent,resolution_note,2026-08-26T10:15:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000405-001,TKT-2026-000405,EMP-000077,employee,employee_question,2026-08-24T10:38:28,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000405-002,TKT-2026-000405,EMP-000130,hr_er_specialist,hr_answer,2026-08-25T10:47:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000405-003,TKT-2026-000405,EMP-000130,hr_er_specialist,resolution_note,2026-08-25T13:36:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000405-002,TKT-2026-000405,EMP-000130,hr_er_specialist,hr_answer,2026-08-24T12:46:28,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000405-003,TKT-2026-000405,EMP-000130,hr_er_specialist,resolution_note,2026-08-24T15:35:28,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000406-001,TKT-2026-000406,EMP-000190,employee,employee_question,2026-08-24T16:14:21,Bonus payout date query. Please help.
 MSG-TKT-2026-000406-002,TKT-2026-000406,EMP-000052,hr_agent,hr_answer,2026-08-25T14:06:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000406-003,TKT-2026-000406,EMP-000052,hr_agent,resolution_note,2026-08-25T17:40:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -1626,9 +1626,9 @@ MSG-TKT-2026-000409-002,TKT-2026-000409,EMP-000166,hr_agent,hr_answer,2026-08-25
 MSG-TKT-2026-000409-003,TKT-2026-000409,EMP-000123,employee,follow_up,2026-08-25T15:12:45,Thanks. I have one more question about this.
 MSG-TKT-2026-000409-004,TKT-2026-000409,EMP-000166,hr_agent,resolution_note,2026-08-26T09:54:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000410-001,TKT-2026-000410,EMP-000050,employee,employee_question,2026-08-25T16:21:24,Request for medical accommodation at work. Please help.
-MSG-TKT-2026-000410-002,TKT-2026-000410,EMP-000152,hr_er_specialist,hr_answer,2026-08-26T15:50:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000410-003,TKT-2026-000410,EMP-000050,employee,follow_up,2026-08-27T17:10:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000410-004,TKT-2026-000410,EMP-000152,hr_er_specialist,resolution_note,2026-08-28T11:52:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000410-002,TKT-2026-000410,EMP-000152,hr_er_specialist,hr_answer,2026-08-26T09:56:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000410-003,TKT-2026-000410,EMP-000050,employee,follow_up,2026-08-27T11:16:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000410-004,TKT-2026-000410,EMP-000152,hr_er_specialist,resolution_note,2026-08-27T14:28:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000411-001,TKT-2026-000411,EMP-000115,employee,employee_question,2026-08-26T09:51:34,Adding a dependent to group health insurance. Please help.
 MSG-TKT-2026-000411-002,TKT-2026-000411,EMP-000052,hr_agent,hr_answer,2026-08-26T14:48:34,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
 MSG-TKT-2026-000411-003,TKT-2026-000411,EMP-000052,hr_agent,resolution_note,2026-08-26T16:19:34,Marking this ticket resolved. Please reopen if you need anything else.
@@ -1748,17 +1748,17 @@ MSG-TKT-2026-000438-004,TKT-2026-000438,EMP-000171,hr_agent,hr_answer,2026-09-09
 MSG-TKT-2026-000438-005,TKT-2026-000438,EMP-000150,employee,follow_up,2026-09-10T13:18:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000438-006,TKT-2026-000438,EMP-000171,hr_agent,resolution_note,2026-09-10T14:17:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000439-001,TKT-2026-000439,EMP-000139,employee,employee_question,2026-09-07T15:21:21,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000439-002,TKT-2026-000439,EMP-000130,hr_er_specialist,hr_answer,2026-09-08T13:10:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000439-003,TKT-2026-000439,EMP-000139,employee,follow_up,2026-09-09T10:08:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000439-004,TKT-2026-000439,EMP-000130,hr_er_specialist,resolution_note,2026-09-09T12:09:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000439-002,TKT-2026-000439,EMP-000130,hr_er_specialist,hr_answer,2026-09-07T16:59:21,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000439-003,TKT-2026-000439,EMP-000139,employee,follow_up,2026-09-08T13:58:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000439-004,TKT-2026-000439,EMP-000130,hr_er_specialist,resolution_note,2026-09-08T15:59:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000440-001,TKT-2026-000440,EMP-000094,employee,employee_question,2026-09-08T10:47:15,My salary was short this month. Please help.
 MSG-TKT-2026-000440-002,TKT-2026-000440,EMP-000166,hr_agent,hr_answer,2026-09-09T11:34:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000440-003,TKT-2026-000440,EMP-000094,employee,follow_up,2026-09-09T14:02:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000440-004,TKT-2026-000440,EMP-000166,hr_agent,resolution_note,2026-09-09T15:17:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000441-001,TKT-2026-000441,EMP-000154,employee,employee_question,2026-09-08T13:50:17,Grievance about my appraisal rating. Please help.
-MSG-TKT-2026-000441-002,TKT-2026-000441,EMP-000030,hr_er_specialist,hr_answer,2026-09-09T11:06:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000441-003,TKT-2026-000441,EMP-000154,employee,follow_up,2026-09-09T14:38:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000441-004,TKT-2026-000441,EMP-000030,hr_er_specialist,resolution_note,2026-09-09T15:13:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000441-002,TKT-2026-000441,EMP-000030,hr_er_specialist,hr_answer,2026-09-08T15:15:17,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000441-003,TKT-2026-000441,EMP-000154,employee,follow_up,2026-09-09T10:18:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000441-004,TKT-2026-000441,EMP-000030,hr_er_specialist,resolution_note,2026-09-09T10:53:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000442-001,TKT-2026-000442,EMP-000066,employee,employee_question,2026-09-08T14:35:46,Reimbursement claim still pending. Please help.
 MSG-TKT-2026-000442-002,TKT-2026-000442,EMP-000052,hr_agent,hr_answer,2026-09-08T17:12:46,Under the Expense Reimbursement Policy (version 3): claim window days is 60; receipt required above inr is 1500.
 MSG-TKT-2026-000442-003,TKT-2026-000442,EMP-000066,employee,follow_up,2026-09-09T10:59:00,Thanks. I have one more question about this.
@@ -1778,9 +1778,9 @@ MSG-TKT-2026-000445-002,TKT-2026-000445,EMP-000171,hr_agent,hr_answer,2026-09-09
 MSG-TKT-2026-000445-003,TKT-2026-000445,EMP-000149,employee,follow_up,2026-09-09T13:58:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000445-004,TKT-2026-000445,EMP-000171,hr_agent,resolution_note,2026-09-09T14:29:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000446-001,TKT-2026-000446,EMP-000105,employee,employee_question,2026-09-09T16:19:03,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000446-002,TKT-2026-000446,EMP-000130,hr_er_specialist,hr_answer,2026-09-10T14:40:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000446-003,TKT-2026-000446,EMP-000105,employee,follow_up,2026-09-11T11:30:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000446-004,TKT-2026-000446,EMP-000130,hr_er_specialist,resolution_note,2026-09-11T14:46:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000446-002,TKT-2026-000446,EMP-000130,hr_er_specialist,hr_answer,2026-09-10T09:36:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000446-003,TKT-2026-000446,EMP-000105,employee,follow_up,2026-09-10T14:56:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000446-004,TKT-2026-000446,EMP-000130,hr_er_specialist,resolution_note,2026-09-11T09:42:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000447-001,TKT-2026-000447,EMP-000016,employee,employee_question,2026-09-10T12:08:12,Adding a dependent to group health insurance. Please help.
 MSG-TKT-2026-000447-002,TKT-2026-000447,EMP-000146,hr_agent,hr_answer,2026-09-10T17:53:12,Under the Group Health Insurance Policy (version 3): dependents covered is 4; sum insured inr is 500000.
 MSG-TKT-2026-000447-003,TKT-2026-000447,EMP-000146,hr_agent,resolution_note,2026-09-11T12:10:00,Marking this ticket resolved. Please reopen if you need anything else.
@@ -1837,9 +1837,9 @@ MSG-TKT-2026-000460-001,TKT-2026-000460,EMP-000118,employee,employee_question,20
 MSG-TKT-2026-000460-002,TKT-2026-000460,EMP-000023,it_ops_partner,hr_answer,2026-09-18T15:02:00,Under the IT Equipment and Access Provisioning (version 1): access setup hours is 72; laptop delivery days is 7.
 MSG-TKT-2026-000460-003,TKT-2026-000460,EMP-000023,it_ops_partner,resolution_note,2026-09-18T17:28:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000461-001,TKT-2026-000461,EMP-000089,employee,employee_question,2026-09-18T09:05:39,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000461-002,TKT-2026-000461,EMP-000030,hr_er_specialist,hr_answer,2026-09-18T16:57:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000461-003,TKT-2026-000461,EMP-000089,employee,follow_up,2026-09-21T17:39:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000461-004,TKT-2026-000461,EMP-000030,hr_er_specialist,resolution_note,2026-09-21T17:59:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000461-002,TKT-2026-000461,EMP-000030,hr_er_specialist,hr_answer,2026-09-18T11:21:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000461-003,TKT-2026-000461,EMP-000089,employee,follow_up,2026-09-21T12:03:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000461-004,TKT-2026-000461,EMP-000030,hr_er_specialist,resolution_note,2026-09-21T12:23:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000462-001,TKT-2026-000462,EMP-000140,employee,employee_question,2026-09-18T16:58:10,My salary was short this month. Please help.
 MSG-TKT-2026-000462-002,TKT-2026-000462,EMP-000166,hr_agent,hr_answer,2026-09-21T12:17:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000462-003,TKT-2026-000462,EMP-000140,employee,follow_up,2026-09-22T12:34:00,Thanks. I have one more question about this.
@@ -1868,9 +1868,9 @@ MSG-TKT-2026-000469-002,TKT-2026-000469,EMP-000166,hr_agent,hr_answer,2026-09-24
 MSG-TKT-2026-000469-003,TKT-2026-000469,EMP-000049,employee,follow_up,2026-09-25T10:47:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000469-004,TKT-2026-000469,EMP-000166,hr_agent,resolution_note,2026-09-25T12:47:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000470-001,TKT-2026-000470,EMP-000016,employee,employee_question,2026-09-24T11:01:26,Misconduct report involving my team. Please help.
-MSG-TKT-2026-000470-002,TKT-2026-000470,EMP-000030,hr_er_specialist,hr_answer,2026-09-24T15:44:26,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000470-003,TKT-2026-000470,EMP-000016,employee,follow_up,2026-09-25T12:55:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000470-004,TKT-2026-000470,EMP-000030,hr_er_specialist,resolution_note,2026-09-25T16:18:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000470-002,TKT-2026-000470,EMP-000030,hr_er_specialist,hr_answer,2026-09-24T12:15:26,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000470-003,TKT-2026-000470,EMP-000016,employee,follow_up,2026-09-24T17:55:26,Thanks. I have one more question about this.
+MSG-TKT-2026-000470-004,TKT-2026-000470,EMP-000030,hr_er_specialist,resolution_note,2026-09-25T12:49:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000471-001,TKT-2026-000471,EMP-000136,employee,employee_question,2026-09-24T15:27:18,Sick leave balance for this year. Please help.
 MSG-TKT-2026-000471-002,TKT-2026-000471,EMP-000166,hr_agent,hr_answer,2026-09-25T13:49:00,Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
 MSG-TKT-2026-000471-003,TKT-2026-000471,EMP-000136,employee,follow_up,2026-09-28T14:05:00,Thanks. I have one more question about this.
@@ -1910,13 +1910,13 @@ MSG-TKT-2026-000479-002,TKT-2026-000479,EMP-000171,hr_agent,hr_answer,2026-10-01
 MSG-TKT-2026-000479-003,TKT-2026-000479,EMP-000163,employee,follow_up,2026-10-01T12:58:00,Thanks. I have one more question about this.
 MSG-TKT-2026-000479-004,TKT-2026-000479,EMP-000171,hr_agent,resolution_note,2026-10-01T15:53:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000480-001,TKT-2026-000480,EMP-000011,employee,employee_question,2026-09-30T13:35:44,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000480-002,TKT-2026-000480,EMP-000152,hr_er_specialist,hr_answer,2026-10-01T09:46:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000480-003,TKT-2026-000480,EMP-000011,employee,follow_up,2026-10-01T15:50:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000480-004,TKT-2026-000480,EMP-000152,hr_er_specialist,resolution_note,2026-10-05T11:07:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000480-002,TKT-2026-000480,EMP-000152,hr_er_specialist,hr_answer,2026-09-30T14:46:44,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000480-003,TKT-2026-000480,EMP-000011,employee,follow_up,2026-10-01T12:21:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000480-004,TKT-2026-000480,EMP-000152,hr_er_specialist,resolution_note,2026-10-01T16:08:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000481-001,TKT-2026-000481,EMP-000069,employee,employee_question,2026-10-01T10:34:08,Medical leave certificate requirement. Please help.
-MSG-TKT-2026-000481-002,TKT-2026-000481,EMP-000130,hr_er_specialist,hr_answer,2026-10-01T13:29:08,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
-MSG-TKT-2026-000481-003,TKT-2026-000481,EMP-000069,employee,follow_up,2026-10-01T17:09:08,Thanks. I have one more question about this.
-MSG-TKT-2026-000481-004,TKT-2026-000481,EMP-000130,hr_er_specialist,resolution_note,2026-10-05T11:47:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000481-002,TKT-2026-000481,EMP-000130,hr_er_specialist,hr_answer,2026-10-01T11:20:08,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Sick Leave Policy (version 2): medical certificate after days is 3; sick leave days is 10.
+MSG-TKT-2026-000481-003,TKT-2026-000481,EMP-000069,employee,follow_up,2026-10-01T15:00:08,Thanks. I have one more question about this.
+MSG-TKT-2026-000481-004,TKT-2026-000481,EMP-000130,hr_er_specialist,resolution_note,2026-10-05T09:38:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000482-001,TKT-2026-000482,EMP-000039,employee,employee_question,2026-10-01T11:09:11,Dress code for client days. Please help.
 MSG-TKT-2026-000482-002,TKT-2026-000482,EMP-000195,hr_agent,hr_answer,2026-10-01T15:44:11,Under the Work From Home Policy (version 2): wfh days per week is 2.
 MSG-TKT-2026-000482-003,TKT-2026-000482,EMP-000039,employee,follow_up,2026-10-05T11:11:00,Thanks. I have one more question about this.
@@ -1960,9 +1960,9 @@ MSG-TKT-2026-000491-001,TKT-2026-000491,EMP-000193,employee,employee_question,20
 MSG-TKT-2026-000491-002,TKT-2026-000491,EMP-000052,hr_agent,hr_answer,2026-10-08T13:14:06,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000491-003,TKT-2026-000491,EMP-000052,hr_agent,resolution_note,2026-10-08T15:41:06,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000492-001,TKT-2026-000492,EMP-000176,employee,employee_question,2026-10-08T16:12:23,Harassment complaint about a colleague. Please help.
-MSG-TKT-2026-000492-002,TKT-2026-000492,EMP-000152,hr_er_specialist,hr_answer,2026-10-09T12:54:00,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
-MSG-TKT-2026-000492-003,TKT-2026-000492,EMP-000176,employee,follow_up,2026-10-12T10:06:00,Thanks. I have one more question about this.
-MSG-TKT-2026-000492-004,TKT-2026-000492,EMP-000152,hr_er_specialist,resolution_note,2026-10-12T11:55:00,Marking this ticket resolved. Please reopen if you need anything else.
+MSG-TKT-2026-000492-002,TKT-2026-000492,EMP-000152,hr_er_specialist,hr_answer,2026-10-08T17:35:23,Thank you for reaching out. Your case is confidential and handled by the Employee Relations team. Under the Anti-Harassment and POSH Policy (version 4): complaint ack days is 2; inquiry completion days is 75.
+MSG-TKT-2026-000492-003,TKT-2026-000492,EMP-000176,employee,follow_up,2026-10-09T14:48:00,Thanks. I have one more question about this.
+MSG-TKT-2026-000492-004,TKT-2026-000492,EMP-000152,hr_er_specialist,resolution_note,2026-10-09T16:37:00,Marking this ticket resolved. Please reopen if you need anything else.
 MSG-TKT-2026-000493-001,TKT-2026-000493,EMP-000093,employee,employee_question,2026-10-09T01:17:14,Bonus payout date query. Please help.
 MSG-TKT-2026-000493-002,TKT-2026-000493,EMP-000006,hr_agent,hr_answer,2026-10-09T10:55:00,Under the Salary Payment Schedule (version 2): salary credit day is 28.
 MSG-TKT-2026-000493-003,TKT-2026-000493,EMP-000093,employee,follow_up,2026-10-09T17:34:00,Thanks. I have one more question about this.

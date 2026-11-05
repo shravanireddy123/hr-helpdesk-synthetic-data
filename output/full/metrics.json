@@ -6,15 +6,15 @@
     "UNSUPPORTED_CLAIM": 93
   },
   "business_hours_to_resolve": {
-    "median": 12.1,
-    "p90": 22.85
+    "median": 11.72,
+    "p90": 23.1
   },
   "citation_accuracy_pct": 98.31,
   "clarification_rate_pct": 19.7,
   "clarification_reply_rate_pct": 85.18,
-  "escalation_rate_pct": 11.24,
+  "escalation_rate_pct": 2.5,
   "first_response_sla_attainment_pct": {
-    "P1": 32.05,
+    "P1": 100.0,
     "P2": 92.04,
     "P3": 100.0
   },
@@ -28,7 +28,7 @@
   },
   "messages_total": 20000,
   "resolution_sla_attainment_pct": {
-    "P1": 84.03,
+    "P1": 100.0,
     "P2": 100.0,
     "P3": 100.0
   },

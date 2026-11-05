@@ -132,10 +132,10 @@
   "ticket_id": "TKT-2026-000011"
  },
  {
-  "business_minutes_to_first_response": 286,
-  "first_responded_at": "2026-01-14T11:38:00",
+  "business_minutes_to_first_response": 148,
+  "first_responded_at": "2026-01-13T17:49:03",
   "first_response_due": "2026-01-14T10:52:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-01-15T14:22:00",
@@ -144,8 +144,8 @@
   "ticket_id": "TKT-2026-000012"
  },
  {
-  "business_minutes_to_first_response": 255,
-  "first_responded_at": "2026-01-14T13:45:00",
+  "business_minutes_to_first_response": 240,
+  "first_responded_at": "2026-01-14T13:30:00",
   "first_response_due": "2026-01-15T17:00:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -156,8 +156,8 @@
   "ticket_id": "TKT-2026-000013"
  },
  {
-  "business_minutes_to_first_response": 220,
-  "first_responded_at": "2026-01-14T13:33:20",
+  "business_minutes_to_first_response": 391,
+  "first_responded_at": "2026-01-14T16:24:20",
   "first_response_due": "2026-01-15T17:24:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -168,8 +168,8 @@
   "ticket_id": "TKT-2026-000014"
  },
  {
-  "business_minutes_to_first_response": 223,
-  "first_responded_at": "2026-01-15T10:13:00",
+  "business_minutes_to_first_response": 487,
+  "first_responded_at": "2026-01-15T14:37:00",
   "first_response_due": "2026-01-16T14:00:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -180,8 +180,8 @@
   "ticket_id": "TKT-2026-000015"
  },
  {
-  "business_minutes_to_first_response": 307,
-  "first_responded_at": "2026-01-15T14:37:00",
+  "business_minutes_to_first_response": 257,
+  "first_responded_at": "2026-01-15T13:47:00",
   "first_response_due": "2026-01-16T17:00:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -372,10 +372,10 @@
   "ticket_id": "TKT-2026-000031"
  },
  {
-  "business_minutes_to_first_response": 327,
-  "first_responded_at": "2026-01-21T12:37:00",
+  "business_minutes_to_first_response": 85,
+  "first_responded_at": "2026-01-20T17:04:47",
   "first_response_due": "2026-01-21T11:10:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-01-22T14:40:00",
@@ -396,10 +396,10 @@
   "ticket_id": "TKT-2026-000033"
  },
  {
-  "business_minutes_to_first_response": 305,
-  "first_responded_at": "2026-01-22T15:24:44",
+  "business_minutes_to_first_response": 81,
+  "first_responded_at": "2026-01-22T11:40:44",
   "first_response_due": "2026-01-22T14:19:44",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-01-23T17:50:00",
@@ -480,10 +480,10 @@
   "ticket_id": "TKT-2026-000040"
  },
  {
-  "business_minutes_to_first_response": 296,
-  "first_responded_at": "2026-01-27T14:26:00",
+  "business_minutes_to_first_response": 73,
+  "first_responded_at": "2026-01-27T10:43:00",
   "first_response_due": "2026-01-27T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-01-28T17:00:00",
@@ -516,10 +516,10 @@
   "ticket_id": "TKT-2026-000043"
  },
  {
-  "business_minutes_to_first_response": 420,
-  "first_responded_at": "2026-01-30T10:40:00",
+  "business_minutes_to_first_response": 109,
+  "first_responded_at": "2026-01-29T13:58:07",
   "first_response_due": "2026-01-29T16:09:07",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-02-02T11:10:00",
@@ -696,10 +696,10 @@
   "ticket_id": "TKT-2026-000058"
  },
  {
-  "business_minutes_to_first_response": 369,
-  "first_responded_at": "2026-02-06T14:06:00",
+  "business_minutes_to_first_response": 94,
+  "first_responded_at": "2026-02-06T09:31:00",
   "first_response_due": "2026-02-06T11:57:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-02-09T15:27:00",
@@ -936,10 +936,10 @@
   "ticket_id": "TKT-2026-000078"
  },
  {
-  "business_minutes_to_first_response": 483,
-  "first_responded_at": "2026-02-20T17:33:00",
+  "business_minutes_to_first_response": 120,
+  "first_responded_at": "2026-02-20T11:30:00",
   "first_response_due": "2026-02-20T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-02-23T17:00:00",
@@ -972,8 +972,8 @@
   "ticket_id": "TKT-2026-000081"
  },
  {
-  "business_minutes_to_first_response": 226,
-  "first_responded_at": "2026-02-23T13:15:00",
+  "business_minutes_to_first_response": 56,
+  "first_responded_at": "2026-02-23T10:25:00",
   "first_response_due": "2026-02-23T13:29:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -1092,10 +1092,10 @@
   "ticket_id": "TKT-2026-000091"
  },
  {
-  "business_minutes_to_first_response": 538,
-  "first_responded_at": "2026-02-27T17:46:00",
+  "business_minutes_to_first_response": 139,
+  "first_responded_at": "2026-02-27T11:07:00",
   "first_response_due": "2026-02-27T12:48:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-02T16:18:00",
@@ -1260,10 +1260,10 @@
   "ticket_id": "TKT-2026-000105"
  },
  {
-  "business_minutes_to_first_response": 300,
-  "first_responded_at": "2026-03-11T10:43:00",
+  "business_minutes_to_first_response": 80,
+  "first_responded_at": "2026-03-10T15:32:18",
   "first_response_due": "2026-03-11T09:43:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-12T13:13:00",
@@ -1524,10 +1524,10 @@
   "ticket_id": "TKT-2026-000127"
  },
  {
-  "business_minutes_to_first_response": 412,
-  "first_responded_at": "2026-03-20T11:13:00",
+  "business_minutes_to_first_response": 102,
+  "first_responded_at": "2026-03-19T14:32:10",
   "first_response_due": "2026-03-19T16:50:10",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-23T11:51:00",
@@ -1596,10 +1596,10 @@
   "ticket_id": "TKT-2026-000133"
  },
  {
-  "business_minutes_to_first_response": 441,
-  "first_responded_at": "2026-03-24T17:41:22",
+  "business_minutes_to_first_response": 117,
+  "first_responded_at": "2026-03-24T12:17:22",
   "first_response_due": "2026-03-24T14:20:22",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-25T17:51:00",
@@ -1620,14 +1620,14 @@
   "ticket_id": "TKT-2026-000135"
  },
  {
-  "business_minutes_to_first_response": 380,
-  "first_responded_at": "2026-03-25T09:57:00",
+  "business_minutes_to_first_response": 99,
+  "first_responded_at": "2026-03-24T13:45:30",
   "first_response_due": "2026-03-24T16:06:30",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-26T11:07:00",
-  "resolution_met": false,
+  "resolution_met": true,
   "sla_id": "SLA-TKT-2026-000136",
   "ticket_id": "TKT-2026-000136"
  },
@@ -1716,10 +1716,10 @@
   "ticket_id": "TKT-2026-000143"
  },
  {
-  "business_minutes_to_first_response": 310,
-  "first_responded_at": "2026-03-30T14:05:00",
+  "business_minutes_to_first_response": 84,
+  "first_responded_at": "2026-03-30T10:19:00",
   "first_response_due": "2026-03-30T12:55:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-31T16:25:00",
@@ -1740,10 +1740,10 @@
   "ticket_id": "TKT-2026-000145"
  },
  {
-  "business_minutes_to_first_response": 326,
-  "first_responded_at": "2026-03-30T14:56:00",
+  "business_minutes_to_first_response": 81,
+  "first_responded_at": "2026-03-30T10:51:00",
   "first_response_due": "2026-03-30T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-03-31T17:00:00",
@@ -1764,10 +1764,10 @@
   "ticket_id": "TKT-2026-000147"
  },
  {
-  "business_minutes_to_first_response": 386,
-  "first_responded_at": "2026-03-30T17:37:11",
+  "business_minutes_to_first_response": 99,
+  "first_responded_at": "2026-03-30T12:50:11",
   "first_response_due": "2026-03-30T15:11:11",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-04-01T10:12:00",
@@ -1968,10 +1968,10 @@
   "ticket_id": "TKT-2026-000164"
  },
  {
-  "business_minutes_to_first_response": 305,
-  "first_responded_at": "2026-04-09T13:21:00",
+  "business_minutes_to_first_response": 82,
+  "first_responded_at": "2026-04-09T09:38:00",
   "first_response_due": "2026-04-09T12:16:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-04-10T15:46:00",
@@ -2148,10 +2148,10 @@
   "ticket_id": "TKT-2026-000179"
  },
  {
-  "business_minutes_to_first_response": 273,
-  "first_responded_at": "2026-04-22T10:20:00",
+  "business_minutes_to_first_response": 72,
+  "first_responded_at": "2026-04-21T15:28:12",
   "first_response_due": "2026-04-22T09:47:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-04-23T13:17:00",
@@ -2208,10 +2208,10 @@
   "ticket_id": "TKT-2026-000184"
  },
  {
-  "business_minutes_to_first_response": 527,
-  "first_responded_at": "2026-04-27T12:50:00",
+  "business_minutes_to_first_response": 136,
+  "first_responded_at": "2026-04-24T14:48:02",
   "first_response_due": "2026-04-24T16:32:02",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-04-28T11:33:00",
@@ -2400,10 +2400,10 @@
   "ticket_id": "TKT-2026-000200"
  },
  {
-  "business_minutes_to_first_response": 371,
-  "first_responded_at": "2026-05-06T12:45:00",
+  "business_minutes_to_first_response": 94,
+  "first_responded_at": "2026-05-05T16:37:12",
   "first_response_due": "2026-05-06T10:34:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-05-07T14:04:00",
@@ -2556,10 +2556,10 @@
   "ticket_id": "TKT-2026-000213"
  },
  {
-  "business_minutes_to_first_response": 445,
-  "first_responded_at": "2026-05-11T16:55:00",
+  "business_minutes_to_first_response": 110,
+  "first_responded_at": "2026-05-11T11:20:00",
   "first_response_due": "2026-05-11T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-05-12T17:00:00",
@@ -2604,14 +2604,14 @@
   "ticket_id": "TKT-2026-000217"
  },
  {
-  "business_minutes_to_first_response": 509,
-  "first_responded_at": "2026-05-13T11:26:00",
+  "business_minutes_to_first_response": 132,
+  "first_responded_at": "2026-05-12T13:38:09",
   "first_response_due": "2026-05-12T15:26:09",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-05-14T10:27:00",
-  "resolution_met": false,
+  "resolution_met": true,
   "sla_id": "SLA-TKT-2026-000218",
   "ticket_id": "TKT-2026-000218"
  },
@@ -2640,10 +2640,10 @@
   "ticket_id": "TKT-2026-000220"
  },
  {
-  "business_minutes_to_first_response": 360,
-  "first_responded_at": "2026-05-15T10:31:00",
+  "business_minutes_to_first_response": 92,
+  "first_responded_at": "2026-05-14T14:32:58",
   "first_response_due": "2026-05-14T17:00:58",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-05-18T12:01:00",
@@ -2652,10 +2652,10 @@
   "ticket_id": "TKT-2026-000221"
  },
  {
-  "business_minutes_to_first_response": 441,
-  "first_responded_at": "2026-05-15T13:20:00",
+  "business_minutes_to_first_response": 115,
+  "first_responded_at": "2026-05-14T16:23:28",
   "first_response_due": "2026-05-15T09:59:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-05-18T13:29:00",
@@ -2916,14 +2916,14 @@
   "ticket_id": "TKT-2026-000243"
  },
  {
-  "business_minutes_to_first_response": 497,
-  "first_responded_at": "2026-05-27T17:47:00",
+  "business_minutes_to_first_response": 123,
+  "first_responded_at": "2026-05-27T11:33:00",
   "first_response_due": "2026-05-27T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-05-28T17:00:00",
-  "resolution_met": false,
+  "resolution_met": true,
   "sla_id": "SLA-TKT-2026-000244",
   "ticket_id": "TKT-2026-000244"
  },
@@ -3132,10 +3132,10 @@
   "ticket_id": "TKT-2026-000261"
  },
  {
-  "business_minutes_to_first_response": 379,
-  "first_responded_at": "2026-06-09T15:49:00",
+  "business_minutes_to_first_response": 94,
+  "first_responded_at": "2026-06-09T11:04:00",
   "first_response_due": "2026-06-09T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-06-10T17:00:00",
@@ -3456,8 +3456,8 @@
   "ticket_id": "TKT-2026-000288"
  },
  {
-  "business_minutes_to_first_response": 227,
-  "first_responded_at": "2026-06-29T13:17:00",
+  "business_minutes_to_first_response": 56,
+  "first_responded_at": "2026-06-29T10:26:00",
   "first_response_due": "2026-06-29T13:30:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -3468,10 +3468,10 @@
   "ticket_id": "TKT-2026-000289"
  },
  {
-  "business_minutes_to_first_response": 370,
-  "first_responded_at": "2026-06-30T14:54:00",
+  "business_minutes_to_first_response": 97,
+  "first_responded_at": "2026-06-30T10:21:00",
   "first_response_due": "2026-06-30T12:44:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-07-01T16:14:00",
@@ -3564,10 +3564,10 @@
   "ticket_id": "TKT-2026-000297"
  },
  {
-  "business_minutes_to_first_response": 408,
-  "first_responded_at": "2026-07-03T16:14:00",
+  "business_minutes_to_first_response": 102,
+  "first_responded_at": "2026-07-03T11:08:00",
   "first_response_due": "2026-07-03T13:26:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-07-06T16:56:00",
@@ -3660,14 +3660,14 @@
   "ticket_id": "TKT-2026-000305"
  },
  {
-  "business_minutes_to_first_response": 363,
-  "first_responded_at": "2026-07-07T17:08:27",
+  "business_minutes_to_first_response": 97,
+  "first_responded_at": "2026-07-07T12:42:27",
   "first_response_due": "2026-07-07T15:05:27",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-07-09T10:06:00",
-  "resolution_met": false,
+  "resolution_met": true,
   "sla_id": "SLA-TKT-2026-000306",
   "ticket_id": "TKT-2026-000306"
  },
@@ -3924,8 +3924,8 @@
   "ticket_id": "TKT-2026-000327"
  },
  {
-  "business_minutes_to_first_response": 144,
-  "first_responded_at": "2026-07-20T16:23:08",
+  "business_minutes_to_first_response": 37,
+  "first_responded_at": "2026-07-20T14:36:08",
   "first_response_due": "2026-07-20T17:59:08",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -4404,8 +4404,8 @@
   "ticket_id": "TKT-2026-000367"
  },
  {
-  "business_minutes_to_first_response": 175,
-  "first_responded_at": "2026-08-11T12:53:54",
+  "business_minutes_to_first_response": 46,
+  "first_responded_at": "2026-08-11T10:44:54",
   "first_response_due": "2026-08-11T13:58:54",
   "first_response_met": true,
   "paused_minutes": 812,
@@ -4548,8 +4548,8 @@
   "ticket_id": "TKT-2026-000379"
  },
  {
-  "business_minutes_to_first_response": 158,
-  "first_responded_at": "2026-08-14T12:08:00",
+  "business_minutes_to_first_response": 38,
+  "first_responded_at": "2026-08-14T10:08:00",
   "first_response_due": "2026-08-14T13:30:00",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -4572,8 +4572,8 @@
   "ticket_id": "TKT-2026-000381"
  },
  {
-  "business_minutes_to_first_response": 187,
-  "first_responded_at": "2026-08-14T17:45:32",
+  "business_minutes_to_first_response": 51,
+  "first_responded_at": "2026-08-14T15:29:32",
   "first_response_due": "2026-08-17T10:09:00",
   "first_response_met": true,
   "paused_minutes": 2550,
@@ -4812,10 +4812,10 @@
   "ticket_id": "TKT-2026-000401"
  },
  {
-  "business_minutes_to_first_response": 418,
-  "first_responded_at": "2026-08-24T13:33:00",
+  "business_minutes_to_first_response": 107,
+  "first_responded_at": "2026-08-21T16:51:32",
   "first_response_due": "2026-08-24T10:35:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-08-25T14:05:00",
@@ -4848,10 +4848,10 @@
   "ticket_id": "TKT-2026-000404"
  },
  {
-  "business_minutes_to_first_response": 519,
-  "first_responded_at": "2026-08-25T10:47:00",
+  "business_minutes_to_first_response": 129,
+  "first_responded_at": "2026-08-24T12:46:28",
   "first_response_due": "2026-08-24T14:37:28",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-08-26T09:38:00",
@@ -4908,14 +4908,14 @@
   "ticket_id": "TKT-2026-000409"
  },
  {
-  "business_minutes_to_first_response": 479,
-  "first_responded_at": "2026-08-26T15:50:00",
+  "business_minutes_to_first_response": 125,
+  "first_responded_at": "2026-08-26T09:56:00",
   "first_response_due": "2026-08-26T11:51:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-08-27T15:21:00",
-  "resolution_met": false,
+  "resolution_met": true,
   "sla_id": "SLA-TKT-2026-000410",
   "ticket_id": "TKT-2026-000410"
  },
@@ -5256,10 +5256,10 @@
   "ticket_id": "TKT-2026-000438"
  },
  {
-  "business_minutes_to_first_response": 379,
-  "first_responded_at": "2026-09-08T13:10:00",
+  "business_minutes_to_first_response": 99,
+  "first_responded_at": "2026-09-07T16:59:21",
   "first_response_due": "2026-09-08T10:51:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-09-09T14:21:00",
@@ -5280,10 +5280,10 @@
   "ticket_id": "TKT-2026-000440"
  },
  {
-  "business_minutes_to_first_response": 346,
-  "first_responded_at": "2026-09-09T11:06:00",
+  "business_minutes_to_first_response": 86,
+  "first_responded_at": "2026-09-08T15:15:17",
   "first_response_due": "2026-09-08T17:49:17",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-09-10T12:50:00",
@@ -5340,10 +5340,10 @@
   "ticket_id": "TKT-2026-000445"
  },
  {
-  "business_minutes_to_first_response": 411,
-  "first_responded_at": "2026-09-10T14:40:00",
+  "business_minutes_to_first_response": 107,
+  "first_responded_at": "2026-09-10T09:36:00",
   "first_response_due": "2026-09-10T11:49:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-09-11T15:19:00",
@@ -5520,14 +5520,14 @@
   "ticket_id": "TKT-2026-000460"
  },
  {
-  "business_minutes_to_first_response": 447,
-  "first_responded_at": "2026-09-18T16:57:00",
+  "business_minutes_to_first_response": 111,
+  "first_responded_at": "2026-09-18T11:21:00",
   "first_response_due": "2026-09-18T13:30:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-09-21T17:00:00",
-  "resolution_met": false,
+  "resolution_met": true,
   "sla_id": "SLA-TKT-2026-000461",
   "ticket_id": "TKT-2026-000461"
  },
@@ -5628,10 +5628,10 @@
   "ticket_id": "TKT-2026-000469"
  },
  {
-  "business_minutes_to_first_response": 284,
-  "first_responded_at": "2026-09-24T15:44:26",
+  "business_minutes_to_first_response": 75,
+  "first_responded_at": "2026-09-24T12:15:26",
   "first_response_due": "2026-09-24T15:00:26",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-09-28T10:01:00",
@@ -5748,10 +5748,10 @@
   "ticket_id": "TKT-2026-000479"
  },
  {
-  "business_minutes_to_first_response": 281,
-  "first_responded_at": "2026-10-01T09:46:00",
+  "business_minutes_to_first_response": 72,
+  "first_responded_at": "2026-09-30T14:46:44",
   "first_response_due": "2026-09-30T17:34:44",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-10-05T12:35:00",
@@ -5760,8 +5760,8 @@
   "ticket_id": "TKT-2026-000480"
  },
  {
-  "business_minutes_to_first_response": 176,
-  "first_responded_at": "2026-10-01T13:29:08",
+  "business_minutes_to_first_response": 47,
+  "first_responded_at": "2026-10-01T11:20:08",
   "first_response_due": "2026-10-01T14:33:08",
   "first_response_met": true,
   "paused_minutes": 0,
@@ -5892,10 +5892,10 @@
   "ticket_id": "TKT-2026-000491"
  },
  {
-  "business_minutes_to_first_response": 312,
-  "first_responded_at": "2026-10-09T12:54:00",
+  "business_minutes_to_first_response": 84,
+  "first_responded_at": "2026-10-08T17:35:23",
   "first_response_due": "2026-10-09T11:42:00",
-  "first_response_met": false,
+  "first_response_met": true,
   "paused_minutes": 0,
   "priority": "P1",
   "resolution_due": "2026-10-12T15:12:00",
