@@ -1,0 +1,242 @@
+[
+ {
+  "body": "This article explains the Annual Leave Policy. Annual Leave Policy, version 2: annual leave days = 20, carry forward days = 6.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000001",
+  "published_at": "2026-05-10T14:35:00",
+  "status": "published",
+  "title": "FAQ: Annual Leave Policy"
+ },
+ {
+  "body": "This article explains the Sick Leave Policy. Sick Leave Policy, version 2: medical certificate after days = 3, sick leave days = 10.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000002",
+  "published_at": "2025-08-15T15:19:00",
+  "status": "published",
+  "title": "Sick Leave Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Maternity Leave Policy. Maternity Leave Policy, version 4: maternity leave weeks = 26, notice period days = 75.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000003",
+  "published_at": "2026-09-11T10:30:00",
+  "status": "published",
+  "title": "How the Maternity Leave Policy works"
+ },
+ {
+  "body": "This article explains the Group Health Insurance Policy. Group Health Insurance Policy, version 3: dependents covered = 4, sum insured inr = 500000.",
+  "category_id": "CAT-BENEFITS",
+  "kb_id": "KB-000004",
+  "published_at": "2026-01-13T10:55:00",
+  "status": "published",
+  "title": "Understanding the Group Health Insurance Policy"
+ },
+ {
+  "body": "This article explains the Provident Fund Contribution Policy. Provident Fund Contribution Policy, version 4: vpf max percent = 35.",
+  "category_id": "CAT-BENEFITS",
+  "kb_id": "KB-000005",
+  "published_at": "2026-06-15T14:26:00",
+  "status": "published",
+  "title": "Provident Fund Contribution Policy: quick guide"
+ },
+ {
+  "body": "This article explains the Salary Payment Schedule. Salary Payment Schedule, version 2: salary credit day = 28.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000006",
+  "published_at": "2025-11-13T11:27:00",
+  "status": "published",
+  "title": "FAQ: Salary Payment Schedule"
+ },
+ {
+  "body": "This article explains the Expense Reimbursement Policy. Expense Reimbursement Policy, version 3: claim window days = 60, receipt required above inr = 1500.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000007",
+  "published_at": "2026-09-04T13:08:00",
+  "status": "published",
+  "title": "FAQ: Expense Reimbursement Policy"
+ },
+ {
+  "body": "This article explains the Tax Declaration and TDS Policy. Tax Declaration and TDS Policy, version 2: proof submission window days = 20.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000008",
+  "published_at": "2026-03-07T09:16:00",
+  "status": "published",
+  "title": "Tax Declaration and TDS Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the New Joiner Onboarding Checklist. New Joiner Onboarding Checklist, version 4: joining formalities days = 3.",
+  "category_id": "CAT-ONBOARDING",
+  "kb_id": "KB-000009",
+  "published_at": "2026-07-03T17:04:00",
+  "status": "published",
+  "title": "New Joiner Onboarding Checklist: eligibility and rules"
+ },
+ {
+  "body": "This article explains the IT Equipment and Access Provisioning. IT Equipment and Access Provisioning, version 1: access setup hours = 72, laptop delivery days = 7.",
+  "category_id": "CAT-ONBOARDING",
+  "kb_id": "KB-000010",
+  "published_at": "2024-02-29T09:10:00",
+  "status": "published",
+  "title": "IT Equipment and Access Provisioning: quick guide"
+ },
+ {
+  "body": "This article explains the Anti-Harassment and POSH Policy. Anti-Harassment and POSH Policy, version 4: complaint ack days = 2, inquiry completion days = 75.",
+  "category_id": "CAT-ER",
+  "kb_id": "KB-000011",
+  "published_at": "2026-08-01T13:58:00",
+  "status": "published",
+  "title": "FAQ: Anti-Harassment and POSH Policy"
+ },
+ {
+  "body": "This article explains the Work From Home Policy. Work From Home Policy, version 2: wfh days per week = 2.",
+  "category_id": "CAT-GENERAL",
+  "kb_id": "KB-000012",
+  "published_at": "2025-09-08T11:08:00",
+  "status": "published",
+  "title": "Work From Home Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Annual Leave Policy. Annual Leave Policy, version 2: annual leave days = 20, carry forward days = 6.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000013",
+  "published_at": "2026-05-01T12:27:00",
+  "status": "published",
+  "title": "Annual Leave Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Sick Leave Policy. Sick Leave Policy, version 2: medical certificate after days = 3, sick leave days = 10.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000014",
+  "published_at": "2025-08-20T11:31:00",
+  "status": "published",
+  "title": "Sick Leave Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Maternity Leave Policy. Maternity Leave Policy, version 4: maternity leave weeks = 26, notice period days = 75.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000015",
+  "published_at": "2026-09-02T11:10:00",
+  "status": "published",
+  "title": "Maternity Leave Policy: quick guide"
+ },
+ {
+  "body": "This article explains the Group Health Insurance Policy. Group Health Insurance Policy, version 3: dependents covered = 4, sum insured inr = 500000.",
+  "category_id": "CAT-BENEFITS",
+  "kb_id": "KB-000016",
+  "published_at": "2026-01-17T14:57:00",
+  "status": "published",
+  "title": "FAQ: Group Health Insurance Policy"
+ },
+ {
+  "body": "This article explains the Provident Fund Contribution Policy. Provident Fund Contribution Policy, version 4: vpf max percent = 35.",
+  "category_id": "CAT-BENEFITS",
+  "kb_id": "KB-000017",
+  "published_at": "2026-06-07T14:56:00",
+  "status": "published",
+  "title": "How the Provident Fund Contribution Policy works"
+ },
+ {
+  "body": "This article explains the Salary Payment Schedule. Salary Payment Schedule, version 2: salary credit day = 28.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000018",
+  "published_at": "2025-11-05T13:37:00",
+  "status": "published",
+  "title": "Understanding the Salary Payment Schedule"
+ },
+ {
+  "body": "This article explains the Expense Reimbursement Policy. Expense Reimbursement Policy, version 3: claim window days = 60, receipt required above inr = 1500.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000019",
+  "published_at": "2026-09-10T14:48:00",
+  "status": "published",
+  "title": "How the Expense Reimbursement Policy works"
+ },
+ {
+  "body": "This article explains the Tax Declaration and TDS Policy. Tax Declaration and TDS Policy, version 2: proof submission window days = 20.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000020",
+  "published_at": "2026-03-10T14:32:00",
+  "status": "published",
+  "title": "Understanding the Tax Declaration and TDS Policy"
+ },
+ {
+  "body": "This article explains the New Joiner Onboarding Checklist. New Joiner Onboarding Checklist, version 4: joining formalities days = 3.",
+  "category_id": "CAT-ONBOARDING",
+  "kb_id": "KB-000021",
+  "published_at": "2026-06-28T10:40:00",
+  "status": "published",
+  "title": "How the New Joiner Onboarding Checklist works"
+ },
+ {
+  "body": "This article explains the IT Equipment and Access Provisioning. IT Equipment and Access Provisioning, version 1: access setup hours = 72, laptop delivery days = 7.",
+  "category_id": "CAT-ONBOARDING",
+  "kb_id": "KB-000022",
+  "published_at": "2024-03-13T13:45:00",
+  "status": "draft",
+  "title": "IT Equipment and Access Provisioning: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Anti-Harassment and POSH Policy. Anti-Harassment and POSH Policy, version 4: complaint ack days = 2, inquiry completion days = 75.",
+  "category_id": "CAT-ER",
+  "kb_id": "KB-000023",
+  "published_at": "2026-08-04T14:49:00",
+  "status": "published",
+  "title": "Anti-Harassment and POSH Policy: quick guide"
+ },
+ {
+  "body": "This article explains the Work From Home Policy. Work From Home Policy, version 2: wfh days per week = 2.",
+  "category_id": "CAT-GENERAL",
+  "kb_id": "KB-000024",
+  "published_at": "2025-09-13T14:53:00",
+  "status": "published",
+  "title": "Understanding the Work From Home Policy"
+ },
+ {
+  "body": "This article explains the Annual Leave Policy. Annual Leave Policy, version 2: annual leave days = 20, carry forward days = 6.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000025",
+  "published_at": "2026-05-08T09:35:00",
+  "status": "archived",
+  "title": "Annual Leave Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Sick Leave Policy. Sick Leave Policy, version 2: medical certificate after days = 3, sick leave days = 10.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000026",
+  "published_at": "2025-08-16T13:26:00",
+  "status": "published",
+  "title": "FAQ: Sick Leave Policy"
+ },
+ {
+  "body": "This article explains the Maternity Leave Policy. Maternity Leave Policy, version 4: maternity leave weeks = 26, notice period days = 75.",
+  "category_id": "CAT-LEAVE",
+  "kb_id": "KB-000027",
+  "published_at": "2026-09-11T13:27:00",
+  "status": "published",
+  "title": "How the Maternity Leave Policy works"
+ },
+ {
+  "body": "This article explains the Group Health Insurance Policy. Group Health Insurance Policy, version 3: dependents covered = 4, sum insured inr = 500000.",
+  "category_id": "CAT-BENEFITS",
+  "kb_id": "KB-000028",
+  "published_at": "2026-01-14T09:02:00",
+  "status": "draft",
+  "title": "How the Group Health Insurance Policy works"
+ },
+ {
+  "body": "This article explains the Provident Fund Contribution Policy. Provident Fund Contribution Policy, version 4: vpf max percent = 35.",
+  "category_id": "CAT-BENEFITS",
+  "kb_id": "KB-000029",
+  "published_at": "2026-05-28T12:38:00",
+  "status": "published",
+  "title": "Provident Fund Contribution Policy: eligibility and rules"
+ },
+ {
+  "body": "This article explains the Salary Payment Schedule. Salary Payment Schedule, version 2: salary credit day = 28.",
+  "category_id": "CAT-PAYROLL",
+  "kb_id": "KB-000030",
+  "published_at": "2025-11-15T14:30:00",
+  "status": "published",
+  "title": "Understanding the Salary Payment Schedule"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "department_id": "DEPT-001",
+  "location": "Delhi",
+  "name": "HR Operations"
+ },
+ {
+  "department_id": "DEPT-002",
+  "location": "Pune",
+  "name": "Employee Relations"
+ },
+ {
+  "department_id": "DEPT-003",
+  "location": "Mumbai",
+  "name": "Payroll and Compensation"
+ },
+ {
+  "department_id": "DEPT-004",
+  "location": "Pune",
+  "name": "Benefits Administration"
+ },
+ {
+  "department_id": "DEPT-005",
+  "location": "Bengaluru",
+  "name": "IT Operations"
+ },
+ {
+  "department_id": "DEPT-006",
+  "location": "Hyderabad",
+  "name": "Finance"
+ },
+ {
+  "department_id": "DEPT-007",
+  "location": "Bengaluru",
+  "name": "Engineering"
+ },
+ {
+  "department_id": "DEPT-008",
+  "location": "Bengaluru",
+  "name": "Sales"
+ },
+ {
+  "department_id": "DEPT-009",
+  "location": "Bengaluru",
+  "name": "Marketing"
+ },
+ {
+  "department_id": "DEPT-010",
+  "location": "Hyderabad",
+  "name": "Legal and Compliance"
+ },
+ {
+  "department_id": "DEPT-011",
+  "location": "Delhi",
+  "name": "Facilities"
+ },
+ {
+  "department_id": "DEPT-012",
+  "location": "Mumbai",
+  "name": "Customer Support"
+ }
+]

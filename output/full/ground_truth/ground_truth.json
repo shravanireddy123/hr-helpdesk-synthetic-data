@@ -1,0 +1,2832 @@
+[
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-02",
+  "issue_id": "ISS-0001",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-000114-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000114"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-02",
+  "issue_id": "ISS-0002",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-000153-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000153"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0003",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-022-01",
+  "record_id": "MSG-TKT-2026-000506-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000506"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0004",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-015-01",
+  "record_id": "MSG-TKT-2026-000582-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000582"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0005",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-015-01",
+  "record_id": "MSG-TKT-2026-000632-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000632"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-027-02",
+  "issue_id": "ISS-0006",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-027-01",
+  "record_id": "MSG-TKT-2026-000678-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000678"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0007",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-000687-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000687"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0008",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-015-01",
+  "record_id": "MSG-TKT-2026-000705-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000705"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-027-02",
+  "issue_id": "ISS-0009",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-027-01",
+  "record_id": "MSG-TKT-2026-000746-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000746"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0010",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-015-01",
+  "record_id": "MSG-TKT-2026-000926-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000926"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-02",
+  "issue_id": "ISS-0011",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-000936-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000936"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0012",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-01",
+  "record_id": "MSG-TKT-2026-000943-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000943"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0013",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-01",
+  "record_id": "MSG-TKT-2026-000981-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-000981"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-011-04",
+  "issue_id": "ISS-0014",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-011-01",
+  "record_id": "MSG-TKT-2026-001061-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001061"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0015",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-02",
+  "record_id": "MSG-TKT-2026-001115-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001115"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0016",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-022-01",
+  "record_id": "MSG-TKT-2026-001141-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001141"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0017",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-005-01",
+  "record_id": "MSG-TKT-2026-001164-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001164"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-02",
+  "issue_id": "ISS-0018",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-001184-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001184"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-02",
+  "issue_id": "ISS-0019",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-001185-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001185"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-02",
+  "issue_id": "ISS-0020",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-001210-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001210"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0021",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-001229-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001229"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0022",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-005-01",
+  "record_id": "MSG-TKT-2026-001259-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001259"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0023",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-015-01",
+  "record_id": "MSG-TKT-2026-001295-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001295"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0024",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-022-01",
+  "record_id": "MSG-TKT-2026-001317-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001317"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-02",
+  "issue_id": "ISS-0025",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-001369-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001369"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0026",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-02",
+  "record_id": "MSG-TKT-2026-001390-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001390"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0027",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-005-01",
+  "record_id": "MSG-TKT-2026-001427-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001427"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-037-02",
+  "issue_id": "ISS-0028",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-037-01",
+  "record_id": "MSG-TKT-2026-001493-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001493"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0029",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-001602-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001602"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0030",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-001612-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001612"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0031",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-001617-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001617"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0032",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-015-01",
+  "record_id": "MSG-TKT-2026-001618-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001618"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0033",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-021-03",
+  "record_id": "MSG-TKT-2026-001869-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001869"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-010-03",
+  "issue_id": "ISS-0034",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-010-01",
+  "record_id": "MSG-TKT-2026-001889-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001889"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0035",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-001898-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001898"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0036",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-022-01",
+  "record_id": "MSG-TKT-2026-001914-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-001914"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-02",
+  "issue_id": "ISS-0037",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-002103-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002103"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0038",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-02",
+  "record_id": "MSG-TKT-2026-002287-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002287"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-008-03",
+  "issue_id": "ISS-0039",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-008-01",
+  "record_id": "MSG-TKT-2026-002331-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002331"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0040",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-002338-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002338"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-008-04",
+  "issue_id": "ISS-0041",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-008-02",
+  "record_id": "MSG-TKT-2026-002580-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002580"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0042",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-022-01",
+  "record_id": "MSG-TKT-2026-002706-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002706"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0043",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-002724-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002724"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0044",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-01",
+  "record_id": "MSG-TKT-2026-002839-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002839"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-007-02",
+  "issue_id": "ISS-0045",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-007-01",
+  "record_id": "MSG-TKT-2026-002862-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002862"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-035-02",
+  "issue_id": "ISS-0046",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-035-01",
+  "record_id": "MSG-TKT-2026-002869-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-002869"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-008-04",
+  "issue_id": "ISS-0047",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-008-01",
+  "record_id": "MSG-TKT-2026-003147-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003147"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-010-04",
+  "issue_id": "ISS-0048",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-010-03",
+  "record_id": "MSG-TKT-2026-003160-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003160"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-03",
+  "issue_id": "ISS-0049",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-01",
+  "record_id": "MSG-TKT-2026-003222-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003222"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0050",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-003224-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003224"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0051",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-003308-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003308"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0052",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-01",
+  "record_id": "MSG-TKT-2026-003338-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003338"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0053",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-003505-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003505"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-011-04",
+  "issue_id": "ISS-0054",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-011-03",
+  "record_id": "MSG-TKT-2026-003539-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003539"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-039-04",
+  "issue_id": "ISS-0055",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-039-01",
+  "record_id": "MSG-TKT-2026-003584-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003584"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0056",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-003627-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003627"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0057",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-003721-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003721"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0058",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-02",
+  "record_id": "MSG-TKT-2026-003754-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003754"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0059",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-01",
+  "record_id": "MSG-TKT-2026-003787-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003787"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0060",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-021-01",
+  "record_id": "MSG-TKT-2026-003813-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003813"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0061",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-003867-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-003867"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0062",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-022-01",
+  "record_id": "MSG-TKT-2026-004004-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004004"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0063",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-021-01",
+  "record_id": "MSG-TKT-2026-004116-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004116"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-028-02",
+  "issue_id": "ISS-0064",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-028-01",
+  "record_id": "MSG-TKT-2026-004154-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004154"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0065",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-021-03",
+  "record_id": "MSG-TKT-2026-004181-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004181"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-027-03",
+  "issue_id": "ISS-0066",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-027-01",
+  "record_id": "MSG-TKT-2026-004224-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004224"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-010-04",
+  "issue_id": "ISS-0067",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-010-02",
+  "record_id": "MSG-TKT-2026-004227-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004227"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0068",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-004230-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004230"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0069",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-005-01",
+  "record_id": "MSG-TKT-2026-004410-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004410"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0070",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-004442-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004442"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-04",
+  "issue_id": "ISS-0071",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-02",
+  "record_id": "MSG-TKT-2026-004461-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004461"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-034-03",
+  "issue_id": "ISS-0072",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-034-01",
+  "record_id": "MSG-TKT-2026-004475-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004475"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0073",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-009-01",
+  "record_id": "MSG-TKT-2026-004497-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004497"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0074",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-005-01",
+  "record_id": "MSG-TKT-2026-004520-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004520"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-004-02",
+  "issue_id": "ISS-0075",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-004-01",
+  "record_id": "MSG-TKT-2026-004547-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004547"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0076",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-005-01",
+  "record_id": "MSG-TKT-2026-004574-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004574"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0077",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-001-01",
+  "record_id": "MSG-TKT-2026-004612-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004612"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-04",
+  "issue_id": "ISS-0078",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-03",
+  "record_id": "MSG-TKT-2026-004617-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004617"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0079",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-002-02",
+  "record_id": "MSG-TKT-2026-004671-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004671"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-006-04",
+  "issue_id": "ISS-0080",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-006-03",
+  "record_id": "MSG-TKT-2026-004755-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004755"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-004-02",
+  "issue_id": "ISS-0081",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-004-01",
+  "record_id": "MSG-TKT-2026-004805-004",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004805"
+ },
+ {
+  "entity": "message_citation",
+  "expected_value": "VER-POL-HR-2026-010-04",
+  "issue_id": "ISS-0082",
+  "issue_type": "OBSOLETE_CITATION",
+  "observed_value": "VER-POL-HR-2026-010-01",
+  "record_id": "MSG-TKT-2026-004970-002",
+  "rule_reference": "Citation rule: cite the PolicyVersion in force on ticket.created_at",
+  "ticket_id": "TKT-2026-004970"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0083",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-000296-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000296"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0084",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-000828-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000828"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0085",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-001066-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-001066"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0086",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-001215-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-001215"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0087",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-001397-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-001397"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0088",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-002569-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-002569"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0089",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-002657-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-002657"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0090",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-003282-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-003282"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0091",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-004059-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-004059"
+ },
+ {
+  "entity": "assignment",
+  "expected_value": "ER_CONFIDENTIAL",
+  "issue_id": "ISS-0092",
+  "issue_type": "SENSITIVE_MISROUTED",
+  "observed_value": "GENERAL",
+  "record_id": "ASG-TKT-2026-004796-01",
+  "rule_reference": "Routing rule: sensitive tickets go to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-004796"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-01-15T15:25:00",
+  "issue_id": "ISS-0093",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-10T09:54:02",
+  "record_id": "SLA-TKT-2026-000063",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000063"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-01-15T13:04:00",
+  "issue_id": "ISS-0094",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-10T07:33:10",
+  "record_id": "SLA-TKT-2026-000067",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000067"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-01-22T14:04:00",
+  "issue_id": "ISS-0095",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-17T08:34:00",
+  "record_id": "SLA-TKT-2026-000196",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000196"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-01-22T14:44:00",
+  "issue_id": "ISS-0096",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-17T09:13:26",
+  "record_id": "SLA-TKT-2026-000197",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000197"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-01-27T15:41:00",
+  "issue_id": "ISS-0097",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-22T17:10:30",
+  "record_id": "SLA-TKT-2026-000307",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000307"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-01-29T15:30:00",
+  "issue_id": "ISS-0098",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-23T10:00:04",
+  "record_id": "SLA-TKT-2026-000308",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000308"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-02-05T15:25:00",
+  "issue_id": "ISS-0099",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-30T02:54:28",
+  "record_id": "SLA-TKT-2026-000375",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000375"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-02-02T10:59:00",
+  "issue_id": "ISS-0100",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-01-29T12:28:30",
+  "record_id": "SLA-TKT-2026-000398",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000398"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-02-17T11:48:00",
+  "issue_id": "ISS-0101",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-02-12T06:17:38",
+  "record_id": "SLA-TKT-2026-000611",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000611"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-02-18T14:26:00",
+  "issue_id": "ISS-0102",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-02-13T08:55:46",
+  "record_id": "SLA-TKT-2026-000645",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000645"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-02-24T15:30:00",
+  "issue_id": "ISS-0103",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-02-19T10:23:32",
+  "record_id": "SLA-TKT-2026-000738",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000738"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-02-27T17:15:00",
+  "issue_id": "ISS-0104",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-02-25T03:14:45",
+  "record_id": "SLA-TKT-2026-000825",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000825"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-06T11:18:00",
+  "issue_id": "ISS-0105",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-02-28T05:47:51",
+  "record_id": "SLA-TKT-2026-000909",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000909"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-09T14:41:00",
+  "issue_id": "ISS-0106",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-01T09:10:53",
+  "record_id": "SLA-TKT-2026-000948",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000948"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-09T15:30:00",
+  "issue_id": "ISS-0107",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-04T01:01:50",
+  "record_id": "SLA-TKT-2026-000958",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000958"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-11T12:06:00",
+  "issue_id": "ISS-0108",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-05T06:35:02",
+  "record_id": "SLA-TKT-2026-000998",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-000998"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-12T12:44:00",
+  "issue_id": "ISS-0109",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-05T15:43:51",
+  "record_id": "SLA-TKT-2026-001000",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001000"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-06T14:31:00",
+  "issue_id": "ISS-0110",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-04T07:30:51",
+  "record_id": "SLA-TKT-2026-001005",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001005"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-13T11:08:00",
+  "issue_id": "ISS-0111",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-08T05:37:39",
+  "record_id": "SLA-TKT-2026-001075",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001075"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-18T10:08:00",
+  "issue_id": "ISS-0112",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-13T04:37:57",
+  "record_id": "SLA-TKT-2026-001137",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001137"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-16T14:38:00",
+  "issue_id": "ISS-0113",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-12T16:07:49",
+  "record_id": "SLA-TKT-2026-001139",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001139"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-19T11:52:00",
+  "issue_id": "ISS-0114",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-14T06:21:48",
+  "record_id": "SLA-TKT-2026-001160",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001160"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-23T11:57:00",
+  "issue_id": "ISS-0115",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-15T14:56:18",
+  "record_id": "SLA-TKT-2026-001177",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001177"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-30T17:48:00",
+  "issue_id": "ISS-0116",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-20T22:17:24",
+  "record_id": "SLA-TKT-2026-001214",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001214"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-24T15:43:00",
+  "issue_id": "ISS-0117",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-20T01:42:03",
+  "record_id": "SLA-TKT-2026-001246",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001246"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-25T14:01:00",
+  "issue_id": "ISS-0118",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-20T08:30:14",
+  "record_id": "SLA-TKT-2026-001254",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001254"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-24T10:40:00",
+  "issue_id": "ISS-0119",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-21T03:39:19",
+  "record_id": "SLA-TKT-2026-001284",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001284"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-27T15:30:00",
+  "issue_id": "ISS-0120",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-22T10:30:34",
+  "record_id": "SLA-TKT-2026-001301",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001301"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-03-30T13:04:00",
+  "issue_id": "ISS-0121",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-25T07:33:50",
+  "record_id": "SLA-TKT-2026-001328",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001328"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-02T11:25:00",
+  "issue_id": "ISS-0122",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-26T22:54:01",
+  "record_id": "SLA-TKT-2026-001348",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001348"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-01T14:50:00",
+  "issue_id": "ISS-0123",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-03-27T09:19:37",
+  "record_id": "SLA-TKT-2026-001386",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001386"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-02T15:58:00",
+  "issue_id": "ISS-0124",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-01T08:57:07",
+  "record_id": "SLA-TKT-2026-001478",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001478"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-08T15:30:00",
+  "issue_id": "ISS-0125",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-02T10:53:24",
+  "record_id": "SLA-TKT-2026-001482",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001482"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-15T15:30:00",
+  "issue_id": "ISS-0126",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-11T01:01:44",
+  "record_id": "SLA-TKT-2026-001586",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001586"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-13T17:09:00",
+  "issue_id": "ISS-0127",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-11T01:38:46",
+  "record_id": "SLA-TKT-2026-001613",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001613"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-17T10:36:00",
+  "issue_id": "ISS-0128",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-12T05:05:25",
+  "record_id": "SLA-TKT-2026-001615",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001615"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-16T17:21:00",
+  "issue_id": "ISS-0129",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-12T03:20:31",
+  "record_id": "SLA-TKT-2026-001619",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001619"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-14T13:23:00",
+  "issue_id": "ISS-0130",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-11T06:22:43",
+  "record_id": "SLA-TKT-2026-001629",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001629"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-17T15:30:00",
+  "issue_id": "ISS-0131",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-13T02:09:12",
+  "record_id": "SLA-TKT-2026-001643",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001643"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-17T11:50:00",
+  "issue_id": "ISS-0132",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-15T13:19:56",
+  "record_id": "SLA-TKT-2026-001684",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001684"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-24T14:34:00",
+  "issue_id": "ISS-0133",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-18T02:03:29",
+  "record_id": "SLA-TKT-2026-001696",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001696"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-20T16:30:00",
+  "issue_id": "ISS-0134",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-16T18:04:23",
+  "record_id": "SLA-TKT-2026-001719",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001719"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-21T15:24:00",
+  "issue_id": "ISS-0135",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-17T16:53:21",
+  "record_id": "SLA-TKT-2026-001745",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001745"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-29T17:13:00",
+  "issue_id": "ISS-0136",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-25T03:12:32",
+  "record_id": "SLA-TKT-2026-001870",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001870"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-27T11:34:00",
+  "issue_id": "ISS-0137",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-24T04:33:24",
+  "record_id": "SLA-TKT-2026-001877",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001877"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-04-29T10:16:00",
+  "issue_id": "ISS-0138",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-28T03:15:59",
+  "record_id": "SLA-TKT-2026-001931",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001931"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-04T17:38:00",
+  "issue_id": "ISS-0139",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-04-29T03:37:15",
+  "record_id": "SLA-TKT-2026-001932",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001932"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-08T17:02:00",
+  "issue_id": "ISS-0140",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-01T20:01:25",
+  "record_id": "SLA-TKT-2026-001984",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-001984"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-08T13:34:00",
+  "issue_id": "ISS-0141",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-02T08:03:07",
+  "record_id": "SLA-TKT-2026-002018",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002018"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-07T11:19:00",
+  "issue_id": "ISS-0142",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-05T12:48:25",
+  "record_id": "SLA-TKT-2026-002044",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002044"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-06T15:33:00",
+  "issue_id": "ISS-0143",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-05T08:32:39",
+  "record_id": "SLA-TKT-2026-002055",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002055"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-12T11:48:00",
+  "issue_id": "ISS-0144",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-07T06:17:51",
+  "record_id": "SLA-TKT-2026-002080",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002080"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-12T15:30:00",
+  "issue_id": "ISS-0145",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-07T10:34:58",
+  "record_id": "SLA-TKT-2026-002090",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002090"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-12T15:30:00",
+  "issue_id": "ISS-0146",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-08T01:06:01",
+  "record_id": "SLA-TKT-2026-002093",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002093"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-13T15:30:00",
+  "issue_id": "ISS-0147",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-08T10:06:47",
+  "record_id": "SLA-TKT-2026-002111",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002111"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-13T15:30:00",
+  "issue_id": "ISS-0148",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-08T13:20:44",
+  "record_id": "SLA-TKT-2026-002115",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002115"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-14T11:11:00",
+  "issue_id": "ISS-0149",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-09T05:40:52",
+  "record_id": "SLA-TKT-2026-002130",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002130"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-14T15:30:00",
+  "issue_id": "ISS-0150",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-10T00:19:59",
+  "record_id": "SLA-TKT-2026-002143",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002143"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-27T15:31:00",
+  "issue_id": "ISS-0151",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-18T11:30:55",
+  "record_id": "SLA-TKT-2026-002284",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002284"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-27T14:21:00",
+  "issue_id": "ISS-0152",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-22T08:50:18",
+  "record_id": "SLA-TKT-2026-002374",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002374"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-28T14:00:00",
+  "issue_id": "ISS-0153",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-23T08:29:10",
+  "record_id": "SLA-TKT-2026-002395",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002395"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-01T10:27:00",
+  "issue_id": "ISS-0154",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-24T13:26:55",
+  "record_id": "SLA-TKT-2026-002412",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002412"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-05-29T17:36:00",
+  "issue_id": "ISS-0155",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-27T03:35:57",
+  "record_id": "SLA-TKT-2026-002429",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002429"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-04T11:59:00",
+  "issue_id": "ISS-0156",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-30T06:28:05",
+  "record_id": "SLA-TKT-2026-002514",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002514"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-05T14:35:00",
+  "issue_id": "ISS-0157",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-05-31T09:04:56",
+  "record_id": "SLA-TKT-2026-002540",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002540"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-08T16:14:00",
+  "issue_id": "ISS-0158",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-04T17:43:35",
+  "record_id": "SLA-TKT-2026-002619",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002619"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-11T13:54:00",
+  "issue_id": "ISS-0159",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-09T15:23:27",
+  "record_id": "SLA-TKT-2026-002677",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002677"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-18T15:30:00",
+  "issue_id": "ISS-0160",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-14T01:26:09",
+  "record_id": "SLA-TKT-2026-002760",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002760"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-18T11:31:00",
+  "issue_id": "ISS-0161",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-16T13:00:38",
+  "record_id": "SLA-TKT-2026-002800",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002800"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-22T11:36:00",
+  "issue_id": "ISS-0162",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-18T13:05:56",
+  "record_id": "SLA-TKT-2026-002859",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002859"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-25T14:49:00",
+  "issue_id": "ISS-0163",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-20T09:18:17",
+  "record_id": "SLA-TKT-2026-002882",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002882"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-06-29T10:14:00",
+  "issue_id": "ISS-0164",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-24T04:43:38",
+  "record_id": "SLA-TKT-2026-002943",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002943"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-01T11:30:00",
+  "issue_id": "ISS-0165",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-06-26T05:59:09",
+  "record_id": "SLA-TKT-2026-002992",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-002992"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-09T13:15:00",
+  "issue_id": "ISS-0166",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-07-04T07:44:43",
+  "record_id": "SLA-TKT-2026-003151",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003151"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-08T11:02:00",
+  "issue_id": "ISS-0167",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-07-07T04:01:34",
+  "record_id": "SLA-TKT-2026-003200",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003200"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-16T12:11:00",
+  "issue_id": "ISS-0168",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-07-15T05:10:11",
+  "record_id": "SLA-TKT-2026-003367",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003367"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-22T15:30:00",
+  "issue_id": "ISS-0169",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-07-17T10:26:16",
+  "record_id": "SLA-TKT-2026-003424",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003424"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-23T17:08:00",
+  "issue_id": "ISS-0170",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-07-19T03:07:25",
+  "record_id": "SLA-TKT-2026-003454",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003454"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-07-29T16:05:00",
+  "issue_id": "ISS-0171",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-07-25T02:04:59",
+  "record_id": "SLA-TKT-2026-003557",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003557"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-07T15:30:00",
+  "issue_id": "ISS-0172",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-04T08:32:32",
+  "record_id": "SLA-TKT-2026-003717",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003717"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-10T13:02:00",
+  "issue_id": "ISS-0173",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-07T06:01:36",
+  "record_id": "SLA-TKT-2026-003795",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003795"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-18T14:54:00",
+  "issue_id": "ISS-0174",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-13T09:23:41",
+  "record_id": "SLA-TKT-2026-003875",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003875"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-18T15:30:00",
+  "issue_id": "ISS-0175",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-13T10:07:39",
+  "record_id": "SLA-TKT-2026-003879",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003879"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-19T17:26:00",
+  "issue_id": "ISS-0176",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-15T03:25:29",
+  "record_id": "SLA-TKT-2026-003912",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003912"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-20T12:31:00",
+  "issue_id": "ISS-0177",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-15T07:00:58",
+  "record_id": "SLA-TKT-2026-003920",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003920"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-20T15:10:00",
+  "issue_id": "ISS-0178",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-15T09:39:38",
+  "record_id": "SLA-TKT-2026-003925",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-003925"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-27T14:02:00",
+  "issue_id": "ISS-0179",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-22T08:31:30",
+  "record_id": "SLA-TKT-2026-004040",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004040"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-27T15:30:00",
+  "issue_id": "ISS-0180",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-23T01:21:40",
+  "record_id": "SLA-TKT-2026-004048",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004048"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-08-28T15:30:00",
+  "issue_id": "ISS-0181",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-23T10:56:17",
+  "record_id": "SLA-TKT-2026-004073",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004073"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-03T13:51:00",
+  "issue_id": "ISS-0182",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-29T08:20:30",
+  "record_id": "SLA-TKT-2026-004176",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004176"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-04T17:18:00",
+  "issue_id": "ISS-0183",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-08-31T10:07:58",
+  "record_id": "SLA-TKT-2026-004217",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004217"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-02T16:30:00",
+  "issue_id": "ISS-0184",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-09-01T04:47:08",
+  "record_id": "SLA-TKT-2026-004222",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004222"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-16T10:22:00",
+  "issue_id": "ISS-0185",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-09-06T21:51:43",
+  "record_id": "SLA-TKT-2026-004320",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004320"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-11T13:23:00",
+  "issue_id": "ISS-0186",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-09-06T07:52:19",
+  "record_id": "SLA-TKT-2026-004326",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004326"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-21T11:26:00",
+  "issue_id": "ISS-0187",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-09-13T05:55:59",
+  "record_id": "SLA-TKT-2026-004430",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004430"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-09-23T13:23:00",
+  "issue_id": "ISS-0188",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-09-17T16:22:21",
+  "record_id": "SLA-TKT-2026-004454",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004454"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-10-14T16:17:00",
+  "issue_id": "ISS-0189",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-10-09T10:46:23",
+  "record_id": "SLA-TKT-2026-004835",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004835"
+ },
+ {
+  "entity": "sla",
+  "expected_value": "2026-10-26T16:54:00",
+  "issue_id": "ISS-0190",
+  "issue_type": "SLA_BUSINESS_HOURS_ERROR",
+  "observed_value": "2026-10-17T04:23:33",
+  "record_id": "SLA-TKT-2026-004961",
+  "rule_reference": "SLA rule: due times use business hours (Mon-Fri 09:30-18:00 IST, minus holidays)",
+  "ticket_id": "TKT-2026-004961"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-006-01",
+  "issue_id": "ISS-0191",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-000032-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000032"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-027-02",
+  "issue_id": "ISS-0192",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-000033-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000033"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-010-03",
+  "issue_id": "ISS-0193",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-000123-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000123"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-008-02",
+  "issue_id": "ISS-0194",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-000172-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000172"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-02",
+  "issue_id": "ISS-0195",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-000192-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000192"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-020-02",
+  "issue_id": "ISS-0196",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-000225-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000225"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-010-03",
+  "issue_id": "ISS-0197",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-000264-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000264"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-003-01",
+  "issue_id": "ISS-0198",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-000272-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000272"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-02",
+  "issue_id": "ISS-0199",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-000305-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000305"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-02",
+  "issue_id": "ISS-0200",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-000306-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000306"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-003-01",
+  "issue_id": "ISS-0201",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-000322-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000322"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0202",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-000330-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000330"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-02",
+  "issue_id": "ISS-0203",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-000332-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000332"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-008-02",
+  "issue_id": "ISS-0204",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-000383-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000383"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-02",
+  "issue_id": "ISS-0205",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-000436-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000436"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-02",
+  "issue_id": "ISS-0206",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-000456-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000456"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-010-03",
+  "issue_id": "ISS-0207",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-000458-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000458"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0208",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-000565-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000565"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-027-02",
+  "issue_id": "ISS-0209",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-000584-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000584"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0210",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-000655-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000655"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-033-01",
+  "issue_id": "ISS-0211",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-000662-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000662"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-008-02",
+  "issue_id": "ISS-0212",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-000699-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000699"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0213",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-000970-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-000970"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-004-01",
+  "issue_id": "ISS-0214",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-001147-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001147"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0215",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-001171-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001171"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-027-02",
+  "issue_id": "ISS-0216",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-001236-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001236"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-020-02",
+  "issue_id": "ISS-0217",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-001293-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001293"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0218",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-001302-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001302"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0219",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-001503-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001503"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-034-03",
+  "issue_id": "ISS-0220",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-001530-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001530"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0221",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-001546-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001546"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0222",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-001630-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001630"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0223",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-001687-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001687"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0224",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-001934-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001934"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0225",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-001964-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001964"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0226",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-001985-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-001985"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0227",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-002021-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002021"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0228",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-002091-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002091"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-034-03",
+  "issue_id": "ISS-0229",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-002118-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002118"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-010-04",
+  "issue_id": "ISS-0230",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-002124-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002124"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0231",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-002158-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002158"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-004-01",
+  "issue_id": "ISS-0232",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-002330-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002330"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0233",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-002337-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002337"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-012-03",
+  "issue_id": "ISS-0234",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-002343-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002343"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0235",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-002488-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002488"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-020-02",
+  "issue_id": "ISS-0236",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-002496-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002496"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0237",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-002539-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002539"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-010-04",
+  "issue_id": "ISS-0238",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-002574-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002574"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-003-02",
+  "issue_id": "ISS-0239",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-002661-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002661"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-007-02",
+  "issue_id": "ISS-0240",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-002737-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002737"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-035-02",
+  "issue_id": "ISS-0241",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-002890-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002890"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-033-01",
+  "issue_id": "ISS-0242",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-002924-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002924"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-006-03",
+  "issue_id": "ISS-0243",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-002976-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-002976"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-020-02",
+  "issue_id": "ISS-0244",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-003041-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003041"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-004-01",
+  "issue_id": "ISS-0245",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003167-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003167"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-010-04",
+  "issue_id": "ISS-0246",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-003201-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003201"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-020-02",
+  "issue_id": "ISS-0247",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003315-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003315"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0248",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-003369-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003369"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-035-02",
+  "issue_id": "ISS-0249",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003395-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003395"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-006-03",
+  "issue_id": "ISS-0250",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003416-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003416"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-012-03",
+  "issue_id": "ISS-0251",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-003423-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003423"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0252",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003467-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003467"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0253",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-003496-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003496"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0254",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-003554-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003554"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0255",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-003719-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003719"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0256",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003723-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003723"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-020-02",
+  "issue_id": "ISS-0257",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003768-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003768"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-034-03",
+  "issue_id": "ISS-0258",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003794-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003794"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0259",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-003812-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003812"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0260",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-003817-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003817"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-008-04",
+  "issue_id": "ISS-0261",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-003871-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003871"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0262",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-003990-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-003990"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-006-03",
+  "issue_id": "ISS-0263",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-004036-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004036"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-005-02",
+  "issue_id": "ISS-0264",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-004155-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004155"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0265",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-004208-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004208"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0266",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-004240-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004240"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0267",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-004274-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004274"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-035-02",
+  "issue_id": "ISS-0268",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-004307-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004307"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-012-03",
+  "issue_id": "ISS-0269",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-004342-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004342"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-012-03",
+  "issue_id": "ISS-0270",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-004403-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004403"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-040-01",
+  "issue_id": "ISS-0271",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-004404-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004404"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-006-04",
+  "issue_id": "ISS-0272",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-004448-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004448"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-021-04",
+  "issue_id": "ISS-0273",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-004469-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004469"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-028-02",
+  "issue_id": "ISS-0274",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-004500-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004500"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0275",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-004505-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004505"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-022-02",
+  "issue_id": "ISS-0276",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-004546-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004546"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-001-03",
+  "issue_id": "ISS-0277",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "All reimbursement claims are paid within 24 hours.",
+  "record_id": "MSG-TKT-2026-004554-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004554"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0278",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-004569-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004569"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-002-03",
+  "issue_id": "ISS-0279",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Unused benefits are automatically converted to cash every March.",
+  "record_id": "MSG-TKT-2026-004647-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004647"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0280",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-004729-004",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004729"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0281",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "This policy applies retroactively to the last five years.",
+  "record_id": "MSG-TKT-2026-004781-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004781"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-009-02",
+  "issue_id": "ISS-0282",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Contract staff have exactly the same entitlement as permanent staff.",
+  "record_id": "MSG-TKT-2026-004824-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004824"
+ },
+ {
+  "entity": "message",
+  "expected_value": "only facts in key_rules of VER-POL-HR-2026-015-02",
+  "issue_id": "ISS-0283",
+  "issue_type": "UNSUPPORTED_CLAIM",
+  "observed_value": "Employees also receive 30 days of paid leave every year.",
+  "record_id": "MSG-TKT-2026-004955-002",
+  "rule_reference": "Supported-claims rule: answers state only facts present in the cited version's key_rules",
+  "ticket_id": "TKT-2026-004955"
+ }
+]

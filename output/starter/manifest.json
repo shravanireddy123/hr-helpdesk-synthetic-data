@@ -1,0 +1,198 @@
+{
+  "files": {
+    "assignment.csv": {
+      "bytes": 60045,
+      "rows": 556,
+      "sha256": "4f05dde1ae9d7a5f42e811e4217b949bcacc51a21e23de778c41f2a3f310b539"
+    },
+    "assignment.json": {
+      "bytes": 123927,
+      "rows": 556,
+      "sha256": "98e0e60a8ce7eff6d1d4f121098c0d46d9ad3c2412a40798902e1d24a3484b1d"
+    },
+    "category.csv": {
+      "bytes": 302,
+      "rows": 6,
+      "sha256": "4ee761735ea4503a44b1e985bf1e2684499c5e4c8d1228c8d5ac6ab0fe8f0205"
+    },
+    "category.json": {
+      "bytes": 874,
+      "rows": 6,
+      "sha256": "978b8da1e238a3ab5360b53ee000e758edcc548009b154ca75ede8d0175d9952"
+    },
+    "department.csv": {
+      "bytes": 285,
+      "rows": 8,
+      "sha256": "d0f68905cd40547aefb28de3391f0e256c01b3e9374b78cafd38a48fe9dcbb95"
+    },
+    "department.json": {
+      "bytes": 724,
+      "rows": 8,
+      "sha256": "ff36204afa7a644984c7f49285099c6caaa6594ff7b14fb062a47aef65c7d560"
+    },
+    "employee.csv": {
+      "bytes": 24464,
+      "rows": 200,
+      "sha256": "d9a563f671369506a562cfc2a681a9b40a2b625c7e62a7d418d30599e8289ace"
+    },
+    "employee.json": {
+      "bytes": 61569,
+      "rows": 200,
+      "sha256": "65687abb12c61814970dff531fb3acdcb9663cbd09fd4d300f2ad32bd981f511"
+    },
+    "ground_truth/expected_decisions.csv": {
+      "bytes": 26233,
+      "rows": 500,
+      "sha256": "285ad24a3168b8bb8df83dc450970b7c887fc64cd7232aac1058bf5d6c1416ca"
+    },
+    "ground_truth/expected_decisions.json": {
+      "bytes": 76709,
+      "rows": 500,
+      "sha256": "c9af46027341872728e195fa4c39884e18afca0bad7d9c5cca1b205d7bb5f819"
+    },
+    "ground_truth/ground_truth.csv": {
+      "bytes": 6578,
+      "rows": 30,
+      "sha256": "48bca2da6c48cd99d8b17eeb720f965aa71cca435ee73c1bff7e29d9e3e7bdd0"
+    },
+    "ground_truth/ground_truth.json": {
+      "bytes": 11329,
+      "rows": 30,
+      "sha256": "bcf2337b2f7ab3d3eb7a8d4523e5494f5f1b2f36ca72002c5e34f6d7b1885a00"
+    },
+    "kb_policy_version.csv": {
+      "bytes": 1370,
+      "rows": 41,
+      "sha256": "b707017f6563de9cfe52f3577a47fa7be928e885a60f28e665560fad4bc614eb"
+    },
+    "kb_policy_version.json": {
+      "bytes": 2955,
+      "rows": 41,
+      "sha256": "ffaf65f79757c5e45eed753fb8f655189660f7a58e1427a5d9df7b1f5a63b2f5"
+    },
+    "knowledge_article.csv": {
+      "bytes": 7000,
+      "rows": 30,
+      "sha256": "941a6850e046a645d48131a931f658c1c2e9daf3b4c567b27bbf242a52cea175"
+    },
+    "knowledge_article.json": {
+      "bytes": 9984,
+      "rows": 30,
+      "sha256": "2bde853921eb17141d6df62493459bd59b97413b48fbb8d5a179966faa44f8b0"
+    },
+    "message.csv": {
+      "bytes": 328984,
+      "rows": 2000,
+      "sha256": "bb09b5ed7f869bf56a82ba83f4e6953340c74115adaae31a089b9d75918324ff"
+    },
+    "message.json": {
+      "bytes": 590738,
+      "rows": 2000,
+      "sha256": "b111e8fc1679b2880ba356825a58b33c4aca3e2c75192433a946912174711f0f"
+    },
+    "message_citation.csv": {
+      "bytes": 47520,
+      "rows": 481,
+      "sha256": "973c9abe7cde9269fb833590127e738ee49dcd8fff55f278137012a9832e74e0"
+    },
+    "message_citation.json": {
+      "bytes": 83231,
+      "rows": 481,
+      "sha256": "437edd76f6b7a1d836de9b30839bf1cc64c8b6a0e83c0f347ac60ee479b9ed9d"
+    },
+    "metrics.json": {
+      "bytes": 992,
+      "rows": null,
+      "sha256": "42fac91ecea22e0e242e061825e056d1ba56bb49da8e195d20488ed87ebc4d1f"
+    },
+    "policy_document.csv": {
+      "bytes": 924,
+      "rows": 12,
+      "sha256": "b2b7cac1965d8bb9f23452bae9e886f048fdd224cc39902245d42f10add8a758"
+    },
+    "policy_document.json": {
+      "bytes": 2106,
+      "rows": 12,
+      "sha256": "619f340bae77d91bca70c04bb89cfd25f952c558bfb022ea0bfd74d1b165b7fe"
+    },
+    "policy_version.csv": {
+      "bytes": 6468,
+      "rows": 33,
+      "sha256": "57e08e7e90eaa1bf20b46881705997e54b74140e567d0c1c44355a80a50c61df"
+    },
+    "policy_version.json": {
+      "bytes": 10839,
+      "rows": 33,
+      "sha256": "c1e1e023e0e6ea0424233d537896401ee04924cfba3fbc93fda9609c9e1a5ce2"
+    },
+    "resolution.csv": {
+      "bytes": 46982,
+      "rows": 500,
+      "sha256": "39b81a799e00980ac29a2cc6e5260125c2750ab22c232c2e1e7ff8d5bffe063e"
+    },
+    "resolution.json": {
+      "bytes": 121426,
+      "rows": 500,
+      "sha256": "eb63985756aa11a0c0b627497b2adac89c1cef5b9921716319ddeaaf91378dc2"
+    },
+    "seed.sql": {
+      "bytes": 1227622,
+      "rows": null,
+      "sha256": "fb31b3842fd76ee37e00d406915dd0badcfd8c64623a4589bbded37c98968ddb"
+    },
+    "sla.csv": {
+      "bytes": 57839,
+      "rows": 500,
+      "sha256": "e86f5484ec8f3a060c8fa42a6dbff9f40f597deec095b5bd0e5d8b4dc8792626"
+    },
+    "sla.json": {
+      "bytes": 178255,
+      "rows": 500,
+      "sha256": "d1851c5b584c42ef87284ef2a4a6c7d691b7fdd624be111e867701fca9efa2e6"
+    },
+    "ticket.csv": {
+      "bytes": 57175,
+      "rows": 500,
+      "sha256": "fea63e38faabff3652b626dc89685d062bbf0ab270514294a421ab6e26b11f1e"
+    },
+    "ticket.json": {
+      "bytes": 145074,
+      "rows": 500,
+      "sha256": "f224805d3c8bed4eac7085cee679206227a15e35bbb9afb503c5a04e90544741"
+    },
+    "ticket_status_event.csv": {
+      "bytes": 229265,
+      "rows": 2664,
+      "sha256": "8b6348b9f38fe256d196cfbab1f6971924b4777bb4ee75f2bb12b5acb0d2583f"
+    },
+    "ticket_status_event.json": {
+      "bytes": 531241,
+      "rows": 2664,
+      "sha256": "85a5dd0a38b79830c489b12f6cd8be9ed36e9257e949104f483da99566346dd6"
+    }
+  },
+  "generator_command": "python -m hrgen --scale starter --seed 20261022",
+  "ground_truth_row_counts": {
+    "expected_decisions": 500,
+    "ground_truth": 30
+  },
+  "reference_date": "2026-10-31",
+  "row_counts": {
+    "assignment": 556,
+    "category": 6,
+    "department": 8,
+    "employee": 200,
+    "kb_policy_version": 41,
+    "knowledge_article": 30,
+    "message": 2000,
+    "message_citation": 481,
+    "policy_document": 12,
+    "policy_version": 33,
+    "resolution": 500,
+    "sla": 500,
+    "ticket": 500,
+    "ticket_status_event": 2664
+  },
+  "scale": "starter",
+  "seed": 20261022
+}

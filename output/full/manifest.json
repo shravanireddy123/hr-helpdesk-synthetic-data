@@ -1,0 +1,198 @@
+{
+  "files": {
+    "assignment.csv": {
+      "bytes": 601743,
+      "rows": 5562,
+      "sha256": "3def573b1f0fa466729c3c41efd6ad26f6395e5b9b9bc674de74fa2f1c9875c7"
+    },
+    "assignment.json": {
+      "bytes": 1241315,
+      "rows": 5562,
+      "sha256": "9ef5f5b50707bfd3270746bd3af61e5fc4f00f6b7bf20d6192b508ab06b0f5f4"
+    },
+    "category.csv": {
+      "bytes": 302,
+      "rows": 6,
+      "sha256": "4ee761735ea4503a44b1e985bf1e2684499c5e4c8d1228c8d5ac6ab0fe8f0205"
+    },
+    "category.json": {
+      "bytes": 874,
+      "rows": 6,
+      "sha256": "978b8da1e238a3ab5360b53ee000e758edcc548009b154ca75ede8d0175d9952"
+    },
+    "department.csv": {
+      "bytes": 413,
+      "rows": 12,
+      "sha256": "f195ad31ffa11c7fac4e8b190f82226b6bf1c46d3b2b367c0f95af8151669006"
+    },
+    "department.json": {
+      "bytes": 1084,
+      "rows": 12,
+      "sha256": "670569269957092b3b1eb897ecfee386962f06e5fcefdb4777f2bb235f127da2"
+    },
+    "employee.csv": {
+      "bytes": 146044,
+      "rows": 1200,
+      "sha256": "2a24986782bf576d5d0fa6af78b225e48d5ba2b87d60e2dbf0def6351c52cb97"
+    },
+    "employee.json": {
+      "bytes": 369149,
+      "rows": 1200,
+      "sha256": "b97f61f89506be3f2dad8e44ac9b898b9e0733847466f028541a69aedaeea7a7"
+    },
+    "ground_truth/expected_decisions.csv": {
+      "bytes": 263037,
+      "rows": 5000,
+      "sha256": "f13a1928f7b5400401d82d4f44ec3ab4e107f6275437fa87b0d128851c941fe3"
+    },
+    "ground_truth/expected_decisions.json": {
+      "bytes": 768267,
+      "rows": 5000,
+      "sha256": "ed67252cb5d5f7248333dcc5ea824744e330d90e99e40529b8f1b469fc550095"
+    },
+    "ground_truth/ground_truth.csv": {
+      "bytes": 62625,
+      "rows": 283,
+      "sha256": "8f0045e0efd638603c4f3bf3f18d9ae75ef101646777993c91931ba431e77fd9"
+    },
+    "ground_truth/ground_truth.json": {
+      "bytes": 108186,
+      "rows": 283,
+      "sha256": "785ca01031df419d7f8bdbf08fdb671b7f6a64f08fccca75e50ed475654b359d"
+    },
+    "kb_policy_version.csv": {
+      "bytes": 6584,
+      "rows": 199,
+      "sha256": "42c9cd449224ad5aaaebeb7bc5e76b10eff418418d3fa183dfcb789e4d6d611e"
+    },
+    "kb_policy_version.json": {
+      "bytes": 14331,
+      "rows": 199,
+      "sha256": "7e30b2ed9ffc03e944a4d5c82a3be76a22584d03195352130ae503eecadc0a64"
+    },
+    "knowledge_article.csv": {
+      "bytes": 34233,
+      "rows": 150,
+      "sha256": "60a80f4cb2b50cb644e73398ff05508b15ddd34e046abfe94187123a10ba8bf3"
+    },
+    "knowledge_article.json": {
+      "bytes": 49337,
+      "rows": 150,
+      "sha256": "4ce2a3f2001913cc59c0745551dd4c31c806d2c3358195299f5473a73dba71ce"
+    },
+    "message.csv": {
+      "bytes": 3297205,
+      "rows": 20000,
+      "sha256": "4ca1833502ff7a80d358af5074b4fb1d76fcf548fecd76fbff3822a836164777"
+    },
+    "message.json": {
+      "bytes": 5915169,
+      "rows": 20000,
+      "sha256": "e7fce60fc4c52a92cff041c44e937daac438905d6b4d9cf46df6328990376f5e"
+    },
+    "message_citation.csv": {
+      "bytes": 466854,
+      "rows": 4854,
+      "sha256": "e055af7e20e93bb906a56d054d3a68dbbf23a706c4f8b551244c3c3e3967b2c8"
+    },
+    "message_citation.json": {
+      "bytes": 827193,
+      "rows": 4854,
+      "sha256": "a0d89cbb3b3789a562a8f446e37a0584f56196665516807a254310d588ac42cd"
+    },
+    "metrics.json": {
+      "bytes": 1008,
+      "rows": null,
+      "sha256": "7511c0b69ecb16cf006cbc2137c33ca6b169b7203721bb61083a619b24249dca"
+    },
+    "policy_document.csv": {
+      "bytes": 2983,
+      "rows": 40,
+      "sha256": "ea7415e7f9d3ef76a3d6dc4f8b7645bb4a41399f94387d9b46b5979ab17802cc"
+    },
+    "policy_document.json": {
+      "bytes": 7049,
+      "rows": 40,
+      "sha256": "b94a189134f3d9ec661117d5dc4303ad892db5657d225b6349ede9c48fb4fd9a"
+    },
+    "policy_version.csv": {
+      "bytes": 18829,
+      "rows": 105,
+      "sha256": "4a84839c77e9d258b7bf4816a934c7b6c948d255d51f92ad4b251a8d6f3bb056"
+    },
+    "policy_version.json": {
+      "bytes": 32904,
+      "rows": 105,
+      "sha256": "ea5eeba93a4eab8cdbc6dbf5ef3b67a70fdd126e99469b68aebc3609f1d12c33"
+    },
+    "resolution.csv": {
+      "bytes": 470533,
+      "rows": 5000,
+      "sha256": "00469b740d1ac1262997afa4e3ad1c3484a1ec6c09c84cf4dedb2b46ba23f07c"
+    },
+    "resolution.json": {
+      "bytes": 1215731,
+      "rows": 5000,
+      "sha256": "c11a6b37d02e1b78e4ba7724f99c4aa4a716ff65096b36608e161c8f93bb8b65"
+    },
+    "seed.sql": {
+      "bytes": 12001658,
+      "rows": null,
+      "sha256": "7ffd9b09678762765f609e47c2f17eb649a4b90ca6f8c607e5b91ba2c177a96f"
+    },
+    "sla.csv": {
+      "bytes": 577194,
+      "rows": 5000,
+      "sha256": "f7e6301b0d0c38e4784eec5179f05306703797e29ddc06335025dd7008a04337"
+    },
+    "sla.json": {
+      "bytes": 1782618,
+      "rows": 5000,
+      "sha256": "5f2cd454145ff4bc73d0e4428b3c0eecd5d8afd847c78f75825dd90441dbaa2c"
+    },
+    "ticket.csv": {
+      "bytes": 570051,
+      "rows": 5000,
+      "sha256": "9e3dddbaf5e688ff6014dd61eabeeb933b0c141f31820be975e2faf1e843c058"
+    },
+    "ticket.json": {
+      "bytes": 1449950,
+      "rows": 5000,
+      "sha256": "d83394a5ab4de9ce48aac500717be4fd6132b04f5fdff64e25d7bf0379c13281"
+    },
+    "ticket_status_event.csv": {
+      "bytes": 2309335,
+      "rows": 26817,
+      "sha256": "5879675b996bb51ba4e91257916f0fb91c2d719f4d0b2744ab399ab8b0565905"
+    },
+    "ticket_status_event.json": {
+      "bytes": 5349600,
+      "rows": 26817,
+      "sha256": "c7151f661d4a6c362783b0e57babc80ed9504a21fb0faf4714ddb94cac6bf5e3"
+    }
+  },
+  "generator_command": "python -m hrgen --scale full --seed 20261022",
+  "ground_truth_row_counts": {
+    "expected_decisions": 5000,
+    "ground_truth": 283
+  },
+  "reference_date": "2026-10-31",
+  "row_counts": {
+    "assignment": 5562,
+    "category": 6,
+    "department": 12,
+    "employee": 1200,
+    "kb_policy_version": 199,
+    "knowledge_article": 150,
+    "message": 20000,
+    "message_citation": 4854,
+    "policy_document": 40,
+    "policy_version": 105,
+    "resolution": 5000,
+    "sla": 5000,
+    "ticket": 5000,
+    "ticket_status_event": 26817
+  },
+  "scale": "full",
+  "seed": 20261022
+}

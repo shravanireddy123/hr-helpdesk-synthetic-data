@@ -1,0 +1,4450 @@
+[
+ {
+  "assigned_at": "2026-01-05T16:04:45",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000001-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000001"
+ },
+ {
+  "assigned_at": "2026-01-05T16:56:01",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000002-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000002"
+ },
+ {
+  "assigned_at": "2026-01-07T14:31:15",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000003-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000003"
+ },
+ {
+  "assigned_at": "2026-01-08T10:22:40",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000004-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000004"
+ },
+ {
+  "assigned_at": "2026-01-08T14:27:34",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000005-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000005"
+ },
+ {
+  "assigned_at": "2026-01-09T10:14:36",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000006-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000006"
+ },
+ {
+  "assigned_at": "2026-01-09T12:30:26",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000007-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000007"
+ },
+ {
+  "assigned_at": "2026-01-12T12:25:02",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000008-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000008"
+ },
+ {
+  "assigned_at": "2026-01-12T14:58:23",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000009-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000009"
+ },
+ {
+  "assigned_at": "2026-01-13T10:12:33",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000010-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000010"
+ },
+ {
+  "assigned_at": "2026-01-13T10:25:34",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000011-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000011"
+ },
+ {
+  "assigned_at": "2026-01-13T15:23:03",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000012-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000012"
+ },
+ {
+  "assigned_at": "2026-01-14T09:53:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000012-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000012"
+ },
+ {
+  "assigned_at": "2026-01-13T19:00:24",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000013-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000013"
+ },
+ {
+  "assigned_at": "2026-01-14T09:55:20",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000014-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000014"
+ },
+ {
+  "assigned_at": "2026-01-14T15:05:48",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000015-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000015"
+ },
+ {
+  "assigned_at": "2026-01-14T19:05:32",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000016-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000016"
+ },
+ {
+  "assigned_at": "2026-01-15T09:07:30",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000017-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000017"
+ },
+ {
+  "assigned_at": "2026-01-15T10:21:22",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000018-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000018"
+ },
+ {
+  "assigned_at": "2026-01-15T13:32:39",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000019-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000019"
+ },
+ {
+  "assigned_at": "2026-01-15T15:02:54",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000020-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000020"
+ },
+ {
+  "assigned_at": "2026-01-15T18:24:13",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000021-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000021"
+ },
+ {
+  "assigned_at": "2026-01-16T14:29:57",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000022-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000022"
+ },
+ {
+  "assigned_at": "2026-01-16T21:07:53",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000023-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000023"
+ },
+ {
+  "assigned_at": "2026-01-18T13:48:19",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000024-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000024"
+ },
+ {
+  "assigned_at": "2026-01-19T09:58:31",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000025-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000025"
+ },
+ {
+  "assigned_at": "2026-01-19T14:06:42",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000026-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000026"
+ },
+ {
+  "assigned_at": "2026-01-19T16:32:59",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000027-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000027"
+ },
+ {
+  "assigned_at": "2026-01-19T17:40:06",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000028-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000028"
+ },
+ {
+  "assigned_at": "2026-01-19T18:00:58",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000029-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000029"
+ },
+ {
+  "assigned_at": "2026-01-20T09:27:29",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000030-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000030"
+ },
+ {
+  "assigned_at": "2026-01-20T10:14:47",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000031-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000031"
+ },
+ {
+  "assigned_at": "2026-01-20T15:45:47",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000032-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000032"
+ },
+ {
+  "assigned_at": "2026-01-20T17:39:47",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000032-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000032"
+ },
+ {
+  "assigned_at": "2026-01-21T13:33:03",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000033-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000033"
+ },
+ {
+  "assigned_at": "2026-01-22T10:27:44",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000034-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000034"
+ },
+ {
+  "assigned_at": "2026-01-22T12:32:44",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000034-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000034"
+ },
+ {
+  "assigned_at": "2026-01-22T13:01:59",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000035-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000035"
+ },
+ {
+  "assigned_at": "2026-01-22T14:41:51",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000036-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000036"
+ },
+ {
+  "assigned_at": "2026-01-23T09:51:55",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000037-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000037"
+ },
+ {
+  "assigned_at": "2026-01-23T10:54:47",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000038-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000038"
+ },
+ {
+  "assigned_at": "2026-01-23T17:31:09",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000039-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000039"
+ },
+ {
+  "assigned_at": "2026-01-24T14:35:51",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000040-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000040"
+ },
+ {
+  "assigned_at": "2026-01-25T13:45:34",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000041-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000041"
+ },
+ {
+  "assigned_at": "2026-01-27T11:30:00",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000041-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000041"
+ },
+ {
+  "assigned_at": "2026-01-27T15:58:35",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000042-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000042"
+ },
+ {
+  "assigned_at": "2026-01-28T12:24:05",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000043-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000043"
+ },
+ {
+  "assigned_at": "2026-01-29T12:16:07",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000044-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000044"
+ },
+ {
+  "assigned_at": "2026-01-29T14:09:07",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000044-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000044"
+ },
+ {
+  "assigned_at": "2026-01-29T14:01:21",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000045-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000045"
+ },
+ {
+  "assigned_at": "2026-01-29T14:39:26",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000046-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000046"
+ },
+ {
+  "assigned_at": "2026-01-29T15:46:39",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000047-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000047"
+ },
+ {
+  "assigned_at": "2026-01-29T17:48:21",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000048-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000048"
+ },
+ {
+  "assigned_at": "2026-01-29T18:20:28",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000049-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000049"
+ },
+ {
+  "assigned_at": "2026-01-30T14:04:38",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000050-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000050"
+ },
+ {
+  "assigned_at": "2026-01-30T18:30:54",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000051-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000051"
+ },
+ {
+  "assigned_at": "2026-01-31T17:44:33",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000052-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000052"
+ },
+ {
+  "assigned_at": "2026-02-02T10:51:54",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000053-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000053"
+ },
+ {
+  "assigned_at": "2026-02-02T11:47:04",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000054-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000054"
+ },
+ {
+  "assigned_at": "2026-02-02T13:37:29",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000055-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000055"
+ },
+ {
+  "assigned_at": "2026-02-02T15:22:01",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000056-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000056"
+ },
+ {
+  "assigned_at": "2026-02-03T17:53:19",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000057-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000057"
+ },
+ {
+  "assigned_at": "2026-02-05T13:36:16",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000058-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000058"
+ },
+ {
+  "assigned_at": "2026-02-05T16:31:07",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000059-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000059"
+ },
+ {
+  "assigned_at": "2026-02-06T09:57:00",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000059-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000059"
+ },
+ {
+  "assigned_at": "2026-02-06T09:48:53",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000060-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000060"
+ },
+ {
+  "assigned_at": "2026-02-08T15:17:25",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000061-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000061"
+ },
+ {
+  "assigned_at": "2026-02-09T15:43:45",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000062-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000062"
+ },
+ {
+  "assigned_at": "2026-02-10T18:27:39",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000063-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000063"
+ },
+ {
+  "assigned_at": "2026-02-11T18:34:38",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000064-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000064"
+ },
+ {
+  "assigned_at": "2026-02-12T12:03:18",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000065-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000065"
+ },
+ {
+  "assigned_at": "2026-02-12T16:42:25",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000066-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000066"
+ },
+ {
+  "assigned_at": "2026-02-12T17:09:06",
+  "assignee_id": "EMP-000138",
+  "assignment_id": "ASG-TKT-2026-000067-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000067"
+ },
+ {
+  "assigned_at": "2026-02-12T18:38:56",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000068-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000068"
+ },
+ {
+  "assigned_at": "2026-02-13T16:19:59",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000069-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000069"
+ },
+ {
+  "assigned_at": "2026-02-16T15:48:00",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000069-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000069"
+ },
+ {
+  "assigned_at": "2026-02-15T18:02:51",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000070-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000070"
+ },
+ {
+  "assigned_at": "2026-02-16T09:11:25",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000071-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000071"
+ },
+ {
+  "assigned_at": "2026-02-16T17:22:11",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000072-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000072"
+ },
+ {
+  "assigned_at": "2026-02-16T18:02:48",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000073-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000073"
+ },
+ {
+  "assigned_at": "2026-02-17T12:41:29",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000074-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000074"
+ },
+ {
+  "assigned_at": "2026-02-17T14:55:17",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000075-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000075"
+ },
+ {
+  "assigned_at": "2026-02-17T16:51:50",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000076-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000076"
+ },
+ {
+  "assigned_at": "2026-02-18T12:27:06",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000077-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000077"
+ },
+ {
+  "assigned_at": "2026-02-19T14:40:58",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000078-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000078"
+ },
+ {
+  "assigned_at": "2026-02-19T18:25:22",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000079-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000079"
+ },
+ {
+  "assigned_at": "2026-02-20T13:07:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000079-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000079"
+ },
+ {
+  "assigned_at": "2026-02-20T05:28:30",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000080-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000080"
+ },
+ {
+  "assigned_at": "2026-02-20T09:32:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000081-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000081"
+ },
+ {
+  "assigned_at": "2026-02-20T18:00:21",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000082-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000082"
+ },
+ {
+  "assigned_at": "2026-02-23T12:18:00",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000082-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000082"
+ },
+ {
+  "assigned_at": "2026-02-22T17:31:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000083-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000083"
+ },
+ {
+  "assigned_at": "2026-02-23T17:09:43",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000084-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000084"
+ },
+ {
+  "assigned_at": "2026-02-25T11:13:02",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000085-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000085"
+ },
+ {
+  "assigned_at": "2026-02-25T12:00:08",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000086-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000086"
+ },
+ {
+  "assigned_at": "2026-02-25T16:24:29",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000087-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000087"
+ },
+ {
+  "assigned_at": "2026-02-25T17:12:13",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000088-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000088"
+ },
+ {
+  "assigned_at": "2026-02-25T18:04:09",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000089-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000089"
+ },
+ {
+  "assigned_at": "2026-02-26T10:29:47",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000090-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000090"
+ },
+ {
+  "assigned_at": "2026-02-27T09:53:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000090-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000090"
+ },
+ {
+  "assigned_at": "2026-02-26T16:46:37",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000091-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000091"
+ },
+ {
+  "assigned_at": "2026-02-26T17:24:14",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000092-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000092"
+ },
+ {
+  "assigned_at": "2026-02-27T11:48:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000092-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000092"
+ },
+ {
+  "assigned_at": "2026-02-27T10:33:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000093-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000093"
+ },
+ {
+  "assigned_at": "2026-02-27T14:34:01",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000094-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000094"
+ },
+ {
+  "assigned_at": "2026-02-28T15:37:15",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000095-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000095"
+ },
+ {
+  "assigned_at": "2026-03-02T10:05:23",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000096-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000096"
+ },
+ {
+  "assigned_at": "2026-03-02T17:56:23",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000096-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000096"
+ },
+ {
+  "assigned_at": "2026-03-02T15:27:21",
+  "assignee_id": "EMP-000138",
+  "assignment_id": "ASG-TKT-2026-000097-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000097"
+ },
+ {
+  "assigned_at": "2026-03-03T10:25:31",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000098-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000098"
+ },
+ {
+  "assigned_at": "2026-03-05T09:13:17",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000099-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000099"
+ },
+ {
+  "assigned_at": "2026-03-05T11:02:28",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000100-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000100"
+ },
+ {
+  "assigned_at": "2026-03-05T12:32:19",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000101-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000101"
+ },
+ {
+  "assigned_at": "2026-03-06T14:35:20",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000102-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000102"
+ },
+ {
+  "assigned_at": "2026-03-06T16:58:11",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000103-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000103"
+ },
+ {
+  "assigned_at": "2026-03-09T23:31:15",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000104-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000104"
+ },
+ {
+  "assigned_at": "2026-03-10T09:23:03",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000105-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000105"
+ },
+ {
+  "assigned_at": "2026-03-10T14:21:18",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000106-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000106"
+ },
+ {
+  "assigned_at": "2026-03-10T16:36:18",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000106-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000106"
+ },
+ {
+  "assigned_at": "2026-03-10T15:03:53",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000107-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000107"
+ },
+ {
+  "assigned_at": "2026-03-11T08:16:39",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000108-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000108"
+ },
+ {
+  "assigned_at": "2026-03-11T12:17:47",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000109-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000109"
+ },
+ {
+  "assigned_at": "2026-03-11T13:36:44",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000110-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000110"
+ },
+ {
+  "assigned_at": "2026-03-12T03:47:59",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000111-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000111"
+ },
+ {
+  "assigned_at": "2026-03-12T12:48:15",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000112-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000112"
+ },
+ {
+  "assigned_at": "2026-03-12T16:24:39",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000113-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000113"
+ },
+ {
+  "assigned_at": "2026-03-12T17:58:16",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000114-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000114"
+ },
+ {
+  "assigned_at": "2026-03-13T11:25:06",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000115-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000115"
+ },
+ {
+  "assigned_at": "2026-03-13T11:48:55",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000116-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000116"
+ },
+ {
+  "assigned_at": "2026-03-13T12:32:05",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000117-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000117"
+ },
+ {
+  "assigned_at": "2026-03-13T13:08:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000118-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000118"
+ },
+ {
+  "assigned_at": "2026-03-13T14:27:56",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000119-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000119"
+ },
+ {
+  "assigned_at": "2026-03-13T18:36:55",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000120-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000120"
+ },
+ {
+  "assigned_at": "2026-03-13T21:52:54",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000121-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000121"
+ },
+ {
+  "assigned_at": "2026-03-16T10:32:07",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000122-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000122"
+ },
+ {
+  "assigned_at": "2026-03-16T10:28:09",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000123-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000123"
+ },
+ {
+  "assigned_at": "2026-03-16T12:36:43",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000124-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000124"
+ },
+ {
+  "assigned_at": "2026-03-17T16:51:11",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000125-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000125"
+ },
+ {
+  "assigned_at": "2026-03-18T16:01:47",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000126-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000126"
+ },
+ {
+  "assigned_at": "2026-03-19T11:24:41",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000127-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000127"
+ },
+ {
+  "assigned_at": "2026-03-19T12:51:10",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000128-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000128"
+ },
+ {
+  "assigned_at": "2026-03-19T14:50:10",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000128-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000128"
+ },
+ {
+  "assigned_at": "2026-03-20T10:09:29",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000129-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000129"
+ },
+ {
+  "assigned_at": "2026-03-23T11:58:38",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000130-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000130"
+ },
+ {
+  "assigned_at": "2026-03-23T12:48:21",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000131-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000131"
+ },
+ {
+  "assigned_at": "2026-03-23T13:45:42",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000132-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000132"
+ },
+ {
+  "assigned_at": "2026-03-23T14:53:39",
+  "assignee_id": "EMP-000138",
+  "assignment_id": "ASG-TKT-2026-000133-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000133"
+ },
+ {
+  "assigned_at": "2026-03-24T10:30:22",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000134-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000134"
+ },
+ {
+  "assigned_at": "2026-03-24T12:20:22",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000134-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000134"
+ },
+ {
+  "assigned_at": "2026-03-24T11:11:07",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000135-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000135"
+ },
+ {
+  "assigned_at": "2026-03-24T12:13:30",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000136-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000136"
+ },
+ {
+  "assigned_at": "2026-03-24T14:06:30",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000136-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000136"
+ },
+ {
+  "assigned_at": "2026-03-24T16:57:17",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000137-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000137"
+ },
+ {
+  "assigned_at": "2026-03-25T15:04:39",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000138-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000138"
+ },
+ {
+  "assigned_at": "2026-03-26T14:28:08",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000139-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000139"
+ },
+ {
+  "assigned_at": "2026-03-26T15:37:49",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000140-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000140"
+ },
+ {
+  "assigned_at": "2026-03-26T23:56:09",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000141-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000141"
+ },
+ {
+  "assigned_at": "2026-03-27T09:13:46",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000142-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000142"
+ },
+ {
+  "assigned_at": "2026-03-27T13:23:46",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000143-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000143"
+ },
+ {
+  "assigned_at": "2026-03-30T12:52:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000143-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000143"
+ },
+ {
+  "assigned_at": "2026-03-27T17:34:48",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000144-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000144"
+ },
+ {
+  "assigned_at": "2026-03-30T10:55:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000144-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000144"
+ },
+ {
+  "assigned_at": "2026-03-27T18:02:38",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000145-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000145"
+ },
+ {
+  "assigned_at": "2026-03-27T18:47:40",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000146-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000146"
+ },
+ {
+  "assigned_at": "2026-03-30T11:30:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000146-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000146"
+ },
+ {
+  "assigned_at": "2026-03-28T13:30:58",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000147-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000147"
+ },
+ {
+  "assigned_at": "2026-03-30T11:16:11",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000148-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000148"
+ },
+ {
+  "assigned_at": "2026-03-30T13:43:11",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000148-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000148"
+ },
+ {
+  "assigned_at": "2026-03-31T13:12:31",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000149-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000149"
+ },
+ {
+  "assigned_at": "2026-03-31T16:19:45",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000150-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000150"
+ },
+ {
+  "assigned_at": "2026-04-01T12:36:01",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000151-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000151"
+ },
+ {
+  "assigned_at": "2026-04-01T12:45:40",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000152-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000152"
+ },
+ {
+  "assigned_at": "2026-04-01T15:19:59",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000153-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000153"
+ },
+ {
+  "assigned_at": "2026-04-01T17:05:16",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000154-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000154"
+ },
+ {
+  "assigned_at": "2026-04-01T18:55:23",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000155-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000155"
+ },
+ {
+  "assigned_at": "2026-04-02T09:36:40",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000156-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000156"
+ },
+ {
+  "assigned_at": "2026-04-02T10:39:47",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000157-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000157"
+ },
+ {
+  "assigned_at": "2026-04-02T18:02:25",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000158-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000158"
+ },
+ {
+  "assigned_at": "2026-04-06T15:48:23",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000159-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000159"
+ },
+ {
+  "assigned_at": "2026-04-06T17:43:39",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000160-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000160"
+ },
+ {
+  "assigned_at": "2026-04-07T13:13:29",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000161-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000161"
+ },
+ {
+  "assigned_at": "2026-04-08T11:24:10",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000162-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000162"
+ },
+ {
+  "assigned_at": "2026-04-08T13:12:26",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000163-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000163"
+ },
+ {
+  "assigned_at": "2026-04-08T13:29:03",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000164-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000164"
+ },
+ {
+  "assigned_at": "2026-04-08T16:55:18",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000165-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000165"
+ },
+ {
+  "assigned_at": "2026-04-09T11:21:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000165-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000165"
+ },
+ {
+  "assigned_at": "2026-04-09T14:01:28",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000166-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000166"
+ },
+ {
+  "assigned_at": "2026-04-09T18:37:01",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000167-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000167"
+ },
+ {
+  "assigned_at": "2026-04-10T10:03:55",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000168-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000168"
+ },
+ {
+  "assigned_at": "2026-04-10T10:17:39",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000169-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000169"
+ },
+ {
+  "assigned_at": "2026-04-13T07:27:40",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000170-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000170"
+ },
+ {
+  "assigned_at": "2026-04-14T17:18:36",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000171-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000171"
+ },
+ {
+  "assigned_at": "2026-04-16T14:50:03",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000172-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000172"
+ },
+ {
+  "assigned_at": "2026-04-16T18:53:29",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000173-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000173"
+ },
+ {
+  "assigned_at": "2026-04-17T10:51:29",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000174-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000174"
+ },
+ {
+  "assigned_at": "2026-04-17T18:17:19",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000175-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000175"
+ },
+ {
+  "assigned_at": "2026-04-19T17:45:24",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000176-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000176"
+ },
+ {
+  "assigned_at": "2026-04-20T11:44:27",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000177-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000177"
+ },
+ {
+  "assigned_at": "2026-04-20T13:41:32",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000178-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000178"
+ },
+ {
+  "assigned_at": "2026-04-21T09:34:44",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000179-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000179"
+ },
+ {
+  "assigned_at": "2026-04-21T14:22:12",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000180-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000180"
+ },
+ {
+  "assigned_at": "2026-04-21T18:00:12",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000180-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000180"
+ },
+ {
+  "assigned_at": "2026-04-21T16:58:21",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000181-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000181"
+ },
+ {
+  "assigned_at": "2026-04-22T15:22:27",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000182-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000182"
+ },
+ {
+  "assigned_at": "2026-04-23T05:10:27",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000183-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000183"
+ },
+ {
+  "assigned_at": "2026-04-24T10:10:55",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000184-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000184"
+ },
+ {
+  "assigned_at": "2026-04-24T12:39:02",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000185-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000185"
+ },
+ {
+  "assigned_at": "2026-04-24T15:20:02",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000185-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000185"
+ },
+ {
+  "assigned_at": "2026-04-24T13:37:44",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000186-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000186"
+ },
+ {
+  "assigned_at": "2026-04-27T14:43:52",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000187-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000187"
+ },
+ {
+  "assigned_at": "2026-04-27T15:19:17",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000188-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000188"
+ },
+ {
+  "assigned_at": "2026-04-28T10:02:11",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000189-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000189"
+ },
+ {
+  "assigned_at": "2026-04-28T16:09:51",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000190-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000190"
+ },
+ {
+  "assigned_at": "2026-04-28T16:26:35",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000191-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000191"
+ },
+ {
+  "assigned_at": "2026-04-28T18:18:58",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000192-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000192"
+ },
+ {
+  "assigned_at": "2026-04-28T18:43:23",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000193-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000193"
+ },
+ {
+  "assigned_at": "2026-04-29T15:42:54",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000194-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000194"
+ },
+ {
+  "assigned_at": "2026-04-30T04:34:37",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000195-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000195"
+ },
+ {
+  "assigned_at": "2026-04-30T09:17:49",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000196-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000196"
+ },
+ {
+  "assigned_at": "2026-05-03T18:12:51",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000197-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000197"
+ },
+ {
+  "assigned_at": "2026-05-04T11:16:20",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000198-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000198"
+ },
+ {
+  "assigned_at": "2026-05-05T10:49:17",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000199-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000199"
+ },
+ {
+  "assigned_at": "2026-05-05T13:00:53",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000200-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000200"
+ },
+ {
+  "assigned_at": "2026-05-05T15:07:12",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000201-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000201"
+ },
+ {
+  "assigned_at": "2026-05-05T17:03:12",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000201-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000201"
+ },
+ {
+  "assigned_at": "2026-05-05T15:43:26",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000202-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000202"
+ },
+ {
+  "assigned_at": "2026-05-05T22:34:02",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000203-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000203"
+ },
+ {
+  "assigned_at": "2026-05-06T13:08:47",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000204-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000204"
+ },
+ {
+  "assigned_at": "2026-05-06T13:09:33",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000205-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000205"
+ },
+ {
+  "assigned_at": "2026-05-06T13:45:18",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000206-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000206"
+ },
+ {
+  "assigned_at": "2026-05-06T16:54:02",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000207-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000207"
+ },
+ {
+  "assigned_at": "2026-05-07T13:37:52",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000208-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000208"
+ },
+ {
+  "assigned_at": "2026-05-07T13:54:40",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000209-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000209"
+ },
+ {
+  "assigned_at": "2026-05-07T14:25:46",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000210-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000210"
+ },
+ {
+  "assigned_at": "2026-05-07T15:57:13",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000211-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000211"
+ },
+ {
+  "assigned_at": "2026-05-07T16:13:33",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000212-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000212"
+ },
+ {
+  "assigned_at": "2026-05-07T17:19:03",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000213-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000213"
+ },
+ {
+  "assigned_at": "2026-05-08T18:59:02",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000214-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000214"
+ },
+ {
+  "assigned_at": "2026-05-11T11:30:00",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000214-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000214"
+ },
+ {
+  "assigned_at": "2026-05-11T11:37:20",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000215-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000215"
+ },
+ {
+  "assigned_at": "2026-05-11T13:17:09",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000216-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000216"
+ },
+ {
+  "assigned_at": "2026-05-11T18:54:59",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000217-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000217"
+ },
+ {
+  "assigned_at": "2026-05-12T11:35:09",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000218-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000218"
+ },
+ {
+  "assigned_at": "2026-05-12T15:31:09",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000218-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000218"
+ },
+ {
+  "assigned_at": "2026-05-12T13:56:40",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000219-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000219"
+ },
+ {
+  "assigned_at": "2026-05-12T16:44:26",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000220-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000220"
+ },
+ {
+  "assigned_at": "2026-05-14T13:04:58",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000221-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000221"
+ },
+ {
+  "assigned_at": "2026-05-14T15:00:58",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000221-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000221"
+ },
+ {
+  "assigned_at": "2026-05-14T14:36:28",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000222-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000222"
+ },
+ {
+  "assigned_at": "2026-05-14T16:42:28",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000222-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000222"
+ },
+ {
+  "assigned_at": "2026-05-14T17:30:22",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000223-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000223"
+ },
+ {
+  "assigned_at": "2026-05-14T19:50:20",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000224-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000224"
+ },
+ {
+  "assigned_at": "2026-05-15T09:42:57",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000225-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000225"
+ },
+ {
+  "assigned_at": "2026-05-15T12:35:05",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000226-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000226"
+ },
+ {
+  "assigned_at": "2026-05-15T12:39:46",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000227-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000227"
+ },
+ {
+  "assigned_at": "2026-05-15T13:17:06",
+  "assignee_id": "EMP-000138",
+  "assignment_id": "ASG-TKT-2026-000228-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000228"
+ },
+ {
+  "assigned_at": "2026-05-15T15:23:25",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000229-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000229"
+ },
+ {
+  "assigned_at": "2026-05-18T12:22:43",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000230-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000230"
+ },
+ {
+  "assigned_at": "2026-05-19T11:50:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000230-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000230"
+ },
+ {
+  "assigned_at": "2026-05-19T10:31:05",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000231-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000231"
+ },
+ {
+  "assigned_at": "2026-05-20T15:57:55",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000232-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000232"
+ },
+ {
+  "assigned_at": "2026-05-20T17:43:31",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000233-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000233"
+ },
+ {
+  "assigned_at": "2026-05-21T15:08:14",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000234-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000234"
+ },
+ {
+  "assigned_at": "2026-05-21T15:25:54",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000235-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000235"
+ },
+ {
+  "assigned_at": "2026-05-21T18:24:51",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000236-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000236"
+ },
+ {
+  "assigned_at": "2026-05-21T18:36:19",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000237-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000237"
+ },
+ {
+  "assigned_at": "2026-05-22T13:55:09",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000238-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000238"
+ },
+ {
+  "assigned_at": "2026-05-25T10:56:20",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000239-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000239"
+ },
+ {
+  "assigned_at": "2026-05-25T13:15:47",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000240-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000240"
+ },
+ {
+  "assigned_at": "2026-05-26T12:40:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000240-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000240"
+ },
+ {
+  "assigned_at": "2026-05-26T12:02:09",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000241-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000241"
+ },
+ {
+  "assigned_at": "2026-05-26T15:47:10",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000242-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000242"
+ },
+ {
+  "assigned_at": "2026-05-26T17:54:54",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000243-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000243"
+ },
+ {
+  "assigned_at": "2026-05-27T09:13:26",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000244-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000244"
+ },
+ {
+  "assigned_at": "2026-05-27T12:23:00",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000244-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000244"
+ },
+ {
+  "assigned_at": "2026-05-27T16:42:08",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000245-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000245"
+ },
+ {
+  "assigned_at": "2026-05-28T17:43:20",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000246-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000246"
+ },
+ {
+  "assigned_at": "2026-05-28T17:51:57",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000247-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000247"
+ },
+ {
+  "assigned_at": "2026-05-29T10:01:53",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000248-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000248"
+ },
+ {
+  "assigned_at": "2026-05-29T12:59:02",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000249-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000249"
+ },
+ {
+  "assigned_at": "2026-06-01T09:24:47",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000250-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000250"
+ },
+ {
+  "assigned_at": "2026-06-01T19:40:33",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000251-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000251"
+ },
+ {
+  "assigned_at": "2026-06-02T17:29:54",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000252-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000252"
+ },
+ {
+  "assigned_at": "2026-06-03T11:20:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000253-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000253"
+ },
+ {
+  "assigned_at": "2026-06-03T14:12:06",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000254-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000254"
+ },
+ {
+  "assigned_at": "2026-06-03T15:07:23",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000255-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000255"
+ },
+ {
+  "assigned_at": "2026-06-03T15:25:35",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000256-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000256"
+ },
+ {
+  "assigned_at": "2026-06-04T09:05:57",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000257-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000257"
+ },
+ {
+  "assigned_at": "2026-06-04T16:55:08",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000258-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000258"
+ },
+ {
+  "assigned_at": "2026-06-04T23:07:01",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000259-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000259"
+ },
+ {
+  "assigned_at": "2026-06-06T09:26:09",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000260-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000260"
+ },
+ {
+  "assigned_at": "2026-06-08T09:28:40",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000261-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000261"
+ },
+ {
+  "assigned_at": "2026-06-08T18:21:42",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000262-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000262"
+ },
+ {
+  "assigned_at": "2026-06-09T12:28:00",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000262-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000262"
+ },
+ {
+  "assigned_at": "2026-06-09T19:57:14",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000263-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000263"
+ },
+ {
+  "assigned_at": "2026-06-10T16:37:26",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000264-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000264"
+ },
+ {
+  "assigned_at": "2026-06-11T12:03:46",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000265-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000265"
+ },
+ {
+  "assigned_at": "2026-06-12T13:50:11",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000266-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000266"
+ },
+ {
+  "assigned_at": "2026-06-12T22:42:21",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000267-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000267"
+ },
+ {
+  "assigned_at": "2026-06-15T10:23:12",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000268-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000268"
+ },
+ {
+  "assigned_at": "2026-06-15T12:22:25",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000269-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000269"
+ },
+ {
+  "assigned_at": "2026-06-15T17:12:40",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000270-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000270"
+ },
+ {
+  "assigned_at": "2026-06-16T10:00:25",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000271-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000271"
+ },
+ {
+  "assigned_at": "2026-06-16T10:20:25",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000272-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000272"
+ },
+ {
+  "assigned_at": "2026-06-16T11:36:13",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000273-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000273"
+ },
+ {
+  "assigned_at": "2026-06-17T14:50:07",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000274-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000274"
+ },
+ {
+  "assigned_at": "2026-06-18T10:41:58",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000275-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000275"
+ },
+ {
+  "assigned_at": "2026-06-18T15:32:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000276-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000276"
+ },
+ {
+  "assigned_at": "2026-06-18T17:18:27",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000277-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000277"
+ },
+ {
+  "assigned_at": "2026-06-19T10:24:30",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000278-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000278"
+ },
+ {
+  "assigned_at": "2026-06-19T12:39:31",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000279-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000279"
+ },
+ {
+  "assigned_at": "2026-06-22T14:19:13",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000280-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000280"
+ },
+ {
+  "assigned_at": "2026-06-24T05:29:18",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000281-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000281"
+ },
+ {
+  "assigned_at": "2026-06-24T09:09:19",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000282-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000282"
+ },
+ {
+  "assigned_at": "2026-06-24T15:45:36",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000283-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000283"
+ },
+ {
+  "assigned_at": "2026-06-24T18:44:33",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000284-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000284"
+ },
+ {
+  "assigned_at": "2026-06-25T15:30:33",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000285-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000285"
+ },
+ {
+  "assigned_at": "2026-06-26T18:25:13",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000286-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000286"
+ },
+ {
+  "assigned_at": "2026-06-28T17:44:59",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000287-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000287"
+ },
+ {
+  "assigned_at": "2026-06-29T03:56:54",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000288-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000288"
+ },
+ {
+  "assigned_at": "2026-06-29T09:14:57",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000289-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000289"
+ },
+ {
+  "assigned_at": "2026-06-29T11:30:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000289-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000289"
+ },
+ {
+  "assigned_at": "2026-06-29T17:21:34",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000290-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000290"
+ },
+ {
+  "assigned_at": "2026-06-30T10:48:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000290-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000290"
+ },
+ {
+  "assigned_at": "2026-06-30T09:49:38",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000291-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000291"
+ },
+ {
+  "assigned_at": "2026-06-30T17:45:04",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000292-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000292"
+ },
+ {
+  "assigned_at": "2026-07-01T10:43:27",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000293-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000293"
+ },
+ {
+  "assigned_at": "2026-07-01T16:55:31",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000294-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000294"
+ },
+ {
+  "assigned_at": "2026-07-01T18:23:14",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000295-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000295"
+ },
+ {
+  "assigned_at": "2026-07-02T13:50:42",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000296-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000296"
+ },
+ {
+  "assigned_at": "2026-07-02T14:17:29",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000297-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000297"
+ },
+ {
+  "assigned_at": "2026-07-02T17:57:43",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000298-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000298"
+ },
+ {
+  "assigned_at": "2026-07-03T11:26:00",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000298-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000298"
+ },
+ {
+  "assigned_at": "2026-07-03T06:45:56",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000299-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000299"
+ },
+ {
+  "assigned_at": "2026-07-03T09:53:13",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000300-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000300"
+ },
+ {
+  "assigned_at": "2026-07-03T15:44:50",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000301-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000301"
+ },
+ {
+  "assigned_at": "2026-07-03T17:29:16",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000302-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000302"
+ },
+ {
+  "assigned_at": "2026-07-03T17:41:15",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000303-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000303"
+ },
+ {
+  "assigned_at": "2026-07-04T21:49:54",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000304-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000304"
+ },
+ {
+  "assigned_at": "2026-07-06T18:18:19",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000305-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000305"
+ },
+ {
+  "assigned_at": "2026-07-07T11:14:27",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000306-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000306"
+ },
+ {
+  "assigned_at": "2026-07-07T13:31:27",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000306-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000306"
+ },
+ {
+  "assigned_at": "2026-07-07T12:40:45",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000307-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000307"
+ },
+ {
+  "assigned_at": "2026-07-07T12:41:46",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000308-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000308"
+ },
+ {
+  "assigned_at": "2026-07-07T18:22:46",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000309-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000309"
+ },
+ {
+  "assigned_at": "2026-07-08T14:50:09",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000310-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000310"
+ },
+ {
+  "assigned_at": "2026-07-08T15:00:41",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000311-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000311"
+ },
+ {
+  "assigned_at": "2026-07-08T16:59:48",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000312-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000312"
+ },
+ {
+  "assigned_at": "2026-07-09T11:31:13",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000313-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000313"
+ },
+ {
+  "assigned_at": "2026-07-10T10:42:05",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000314-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000314"
+ },
+ {
+  "assigned_at": "2026-07-10T13:32:08",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000315-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000315"
+ },
+ {
+  "assigned_at": "2026-07-13T09:44:26",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000316-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000316"
+ },
+ {
+  "assigned_at": "2026-07-13T11:10:40",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000317-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000317"
+ },
+ {
+  "assigned_at": "2026-07-13T15:35:07",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000318-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000318"
+ },
+ {
+  "assigned_at": "2026-07-14T10:22:53",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000319-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000319"
+ },
+ {
+  "assigned_at": "2026-07-15T09:51:00",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000319-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000319"
+ },
+ {
+  "assigned_at": "2026-07-15T15:38:16",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000320-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000320"
+ },
+ {
+  "assigned_at": "2026-07-16T18:51:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000321-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000321"
+ },
+ {
+  "assigned_at": "2026-07-17T10:53:13",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000322-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000322"
+ },
+ {
+  "assigned_at": "2026-07-17T11:25:54",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000323-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000323"
+ },
+ {
+  "assigned_at": "2026-07-17T18:59:15",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000324-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000324"
+ },
+ {
+  "assigned_at": "2026-07-19T09:34:10",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000325-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000325"
+ },
+ {
+  "assigned_at": "2026-07-20T10:39:56",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000326-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000326"
+ },
+ {
+  "assigned_at": "2026-07-20T13:57:08",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000327-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000327"
+ },
+ {
+  "assigned_at": "2026-07-20T14:03:08",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000328-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000328"
+ },
+ {
+  "assigned_at": "2026-07-20T15:59:08",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000328-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000328"
+ },
+ {
+  "assigned_at": "2026-07-21T09:23:36",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000329-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000329"
+ },
+ {
+  "assigned_at": "2026-07-21T09:41:39",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000330-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000330"
+ },
+ {
+  "assigned_at": "2026-07-21T17:04:31",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000331-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000331"
+ },
+ {
+  "assigned_at": "2026-07-22T08:06:49",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000332-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000332"
+ },
+ {
+  "assigned_at": "2026-07-22T11:54:05",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000333-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000333"
+ },
+ {
+  "assigned_at": "2026-07-22T18:19:13",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000334-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000334"
+ },
+ {
+  "assigned_at": "2026-07-23T09:04:47",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000335-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000335"
+ },
+ {
+  "assigned_at": "2026-07-24T12:52:22",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000336-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000336"
+ },
+ {
+  "assigned_at": "2026-07-24T16:38:55",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000337-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000337"
+ },
+ {
+  "assigned_at": "2026-07-27T11:27:10",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000338-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000338"
+ },
+ {
+  "assigned_at": "2026-07-27T16:38:04",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000339-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000339"
+ },
+ {
+  "assigned_at": "2026-07-27T18:42:09",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000340-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000340"
+ },
+ {
+  "assigned_at": "2026-07-28T09:08:45",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000341-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000341"
+ },
+ {
+  "assigned_at": "2026-07-28T09:15:47",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000342-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000342"
+ },
+ {
+  "assigned_at": "2026-07-28T16:24:18",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000343-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000343"
+ },
+ {
+  "assigned_at": "2026-07-29T15:53:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000343-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000343"
+ },
+ {
+  "assigned_at": "2026-07-28T20:36:58",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000344-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000344"
+ },
+ {
+  "assigned_at": "2026-07-29T10:46:42",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000345-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000345"
+ },
+ {
+  "assigned_at": "2026-07-29T12:08:37",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000346-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000346"
+ },
+ {
+  "assigned_at": "2026-07-30T12:52:38",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000347-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000347"
+ },
+ {
+  "assigned_at": "2026-07-30T14:10:49",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000348-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000348"
+ },
+ {
+  "assigned_at": "2026-07-30T15:16:15",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000349-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000349"
+ },
+ {
+  "assigned_at": "2026-07-31T09:42:03",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000350-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000350"
+ },
+ {
+  "assigned_at": "2026-07-31T12:05:26",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000351-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000351"
+ },
+ {
+  "assigned_at": "2026-08-03T11:33:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000351-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000351"
+ },
+ {
+  "assigned_at": "2026-07-31T12:51:22",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000352-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000352"
+ },
+ {
+  "assigned_at": "2026-08-03T12:12:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000352-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000352"
+ },
+ {
+  "assigned_at": "2026-08-03T10:54:13",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000353-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000353"
+ },
+ {
+  "assigned_at": "2026-08-03T13:08:16",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000354-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000354"
+ },
+ {
+  "assigned_at": "2026-08-03T13:16:23",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000355-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000355"
+ },
+ {
+  "assigned_at": "2026-08-03T14:03:11",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000356-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000356"
+ },
+ {
+  "assigned_at": "2026-08-03T16:51:30",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000357-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000357"
+ },
+ {
+  "assigned_at": "2026-08-04T18:30:21",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000358-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000358"
+ },
+ {
+  "assigned_at": "2026-08-05T11:13:52",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000359-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000359"
+ },
+ {
+  "assigned_at": "2026-08-05T17:03:19",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000360-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000360"
+ },
+ {
+  "assigned_at": "2026-08-06T16:33:22",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000361-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000361"
+ },
+ {
+  "assigned_at": "2026-08-07T14:11:48",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000362-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000362"
+ },
+ {
+  "assigned_at": "2026-08-07T14:16:30",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000363-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000363"
+ },
+ {
+  "assigned_at": "2026-08-07T15:26:40",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000364-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000364"
+ },
+ {
+  "assigned_at": "2026-08-10T04:16:55",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000365-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000365"
+ },
+ {
+  "assigned_at": "2026-08-10T10:47:40",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000366-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000366"
+ },
+ {
+  "assigned_at": "2026-08-11T05:27:40",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000367-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000367"
+ },
+ {
+  "assigned_at": "2026-08-11T10:02:54",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000368-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000368"
+ },
+ {
+  "assigned_at": "2026-08-12T17:57:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000368-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000368"
+ },
+ {
+  "assigned_at": "2026-08-11T12:10:21",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000369-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000369"
+ },
+ {
+  "assigned_at": "2026-08-11T15:42:17",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000370-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000370"
+ },
+ {
+  "assigned_at": "2026-08-11T16:28:37",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000371-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000371"
+ },
+ {
+  "assigned_at": "2026-08-11T18:04:23",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000372-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000372"
+ },
+ {
+  "assigned_at": "2026-08-11T18:27:06",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000373-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000373"
+ },
+ {
+  "assigned_at": "2026-08-12T09:09:48",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000374-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000374"
+ },
+ {
+  "assigned_at": "2026-08-12T10:44:02",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000375-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000375"
+ },
+ {
+  "assigned_at": "2026-08-12T12:18:29",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000376-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000376"
+ },
+ {
+  "assigned_at": "2026-08-12T13:44:58",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000377-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000377"
+ },
+ {
+  "assigned_at": "2026-08-13T11:58:30",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000378-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000378"
+ },
+ {
+  "assigned_at": "2026-08-13T12:15:58",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000379-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000379"
+ },
+ {
+  "assigned_at": "2026-08-13T18:44:45",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000380-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000380"
+ },
+ {
+  "assigned_at": "2026-08-14T11:30:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000380-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000380"
+ },
+ {
+  "assigned_at": "2026-08-14T10:34:15",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000381-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000381"
+ },
+ {
+  "assigned_at": "2026-08-14T14:45:32",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000382-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000382"
+ },
+ {
+  "assigned_at": "2026-08-14T14:45:37",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000383-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000383"
+ },
+ {
+  "assigned_at": "2026-08-17T14:11:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000383-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000383"
+ },
+ {
+  "assigned_at": "2026-08-14T15:29:57",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000384-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000384"
+ },
+ {
+  "assigned_at": "2026-08-14T17:30:54",
+  "assignee_id": "EMP-000138",
+  "assignment_id": "ASG-TKT-2026-000385-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000385"
+ },
+ {
+  "assigned_at": "2026-08-15T17:07:25",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000386-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000386"
+ },
+ {
+  "assigned_at": "2026-08-17T15:32:45",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000387-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000387"
+ },
+ {
+  "assigned_at": "2026-08-18T10:40:54",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000388-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000388"
+ },
+ {
+  "assigned_at": "2026-08-18T10:49:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000389-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000389"
+ },
+ {
+  "assigned_at": "2026-08-18T12:57:26",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000390-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000390"
+ },
+ {
+  "assigned_at": "2026-08-18T15:20:56",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000391-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000391"
+ },
+ {
+  "assigned_at": "2026-08-18T16:24:03",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000392-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000392"
+ },
+ {
+  "assigned_at": "2026-08-18T16:33:29",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000393-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000393"
+ },
+ {
+  "assigned_at": "2026-08-18T16:47:03",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000394-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000394"
+ },
+ {
+  "assigned_at": "2026-08-18T19:06:44",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000395-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000395"
+ },
+ {
+  "assigned_at": "2026-08-19T10:09:58",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000396-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000396"
+ },
+ {
+  "assigned_at": "2026-08-19T12:28:32",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000397-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000397"
+ },
+ {
+  "assigned_at": "2026-08-19T13:59:55",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000398-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000398"
+ },
+ {
+  "assigned_at": "2026-08-20T16:33:45",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000399-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000399"
+ },
+ {
+  "assigned_at": "2026-08-20T18:24:19",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000400-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000400"
+ },
+ {
+  "assigned_at": "2026-08-20T18:54:22",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000401-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000401"
+ },
+ {
+  "assigned_at": "2026-08-21T15:10:32",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000402-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000402"
+ },
+ {
+  "assigned_at": "2026-08-24T10:41:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000402-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000402"
+ },
+ {
+  "assigned_at": "2026-08-21T15:53:58",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000403-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000403"
+ },
+ {
+  "assigned_at": "2026-08-23T14:09:00",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000404-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000404"
+ },
+ {
+  "assigned_at": "2026-08-24T10:38:28",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000405-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000405"
+ },
+ {
+  "assigned_at": "2026-08-24T14:36:28",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000405-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000405"
+ },
+ {
+  "assigned_at": "2026-08-24T16:14:21",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000406-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000406"
+ },
+ {
+  "assigned_at": "2026-08-24T16:42:30",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000407-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000407"
+ },
+ {
+  "assigned_at": "2026-08-25T00:48:51",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000408-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000408"
+ },
+ {
+  "assigned_at": "2026-08-25T11:39:45",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000409-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000409"
+ },
+ {
+  "assigned_at": "2026-08-25T16:28:24",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000410-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000410"
+ },
+ {
+  "assigned_at": "2026-08-26T11:36:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000410-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000410"
+ },
+ {
+  "assigned_at": "2026-08-26T09:57:34",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000411-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000411"
+ },
+ {
+  "assigned_at": "2026-08-26T10:02:33",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000412-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000412"
+ },
+ {
+  "assigned_at": "2026-08-26T10:11:32",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000413-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000413"
+ },
+ {
+  "assigned_at": "2026-08-26T10:53:40",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000414-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000414"
+ },
+ {
+  "assigned_at": "2026-08-27T09:48:25",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000415-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000415"
+ },
+ {
+  "assigned_at": "2026-08-27T11:22:58",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000416-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000416"
+ },
+ {
+  "assigned_at": "2026-08-27T12:31:12",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000417-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000417"
+ },
+ {
+  "assigned_at": "2026-08-27T14:22:47",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000418-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000418"
+ },
+ {
+  "assigned_at": "2026-08-27T15:06:42",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000419-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000419"
+ },
+ {
+  "assigned_at": "2026-08-27T15:15:36",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000420-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000420"
+ },
+ {
+  "assigned_at": "2026-08-28T16:58:45",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000421-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000421"
+ },
+ {
+  "assigned_at": "2026-08-28T18:20:09",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000422-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000422"
+ },
+ {
+  "assigned_at": "2026-08-29T12:09:50",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000423-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000423"
+ },
+ {
+  "assigned_at": "2026-08-29T13:08:32",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000424-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000424"
+ },
+ {
+  "assigned_at": "2026-08-31T07:54:52",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000425-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000425"
+ },
+ {
+  "assigned_at": "2026-08-31T12:34:52",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000426-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000426"
+ },
+ {
+  "assigned_at": "2026-08-31T13:15:09",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000427-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000427"
+ },
+ {
+  "assigned_at": "2026-08-31T18:02:10",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000428-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000428"
+ },
+ {
+  "assigned_at": "2026-09-01T12:38:52",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000429-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000429"
+ },
+ {
+  "assigned_at": "2026-09-01T18:41:16",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000430-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000430"
+ },
+ {
+  "assigned_at": "2026-09-03T15:59:23",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000431-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000431"
+ },
+ {
+  "assigned_at": "2026-09-04T09:34:24",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000432-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000432"
+ },
+ {
+  "assigned_at": "2026-09-04T09:47:47",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000433-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000433"
+ },
+ {
+  "assigned_at": "2026-09-04T10:30:21",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000434-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000434"
+ },
+ {
+  "assigned_at": "2026-09-07T06:09:22",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000435-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000435"
+ },
+ {
+  "assigned_at": "2026-09-07T09:44:15",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000436-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000436"
+ },
+ {
+  "assigned_at": "2026-09-07T12:46:59",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000437-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000437"
+ },
+ {
+  "assigned_at": "2026-09-07T14:41:24",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000438-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000438"
+ },
+ {
+  "assigned_at": "2026-09-07T15:27:21",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000439-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000439"
+ },
+ {
+  "assigned_at": "2026-09-08T10:13:00",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000439-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000439"
+ },
+ {
+  "assigned_at": "2026-09-08T10:52:15",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000440-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000440"
+ },
+ {
+  "assigned_at": "2026-09-09T10:17:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000440-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: first-response SLA breached",
+  "ticket_id": "TKT-2026-000440"
+ },
+ {
+  "assigned_at": "2026-09-08T13:50:17",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000441-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000441"
+ },
+ {
+  "assigned_at": "2026-09-08T15:49:17",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000441-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000441"
+ },
+ {
+  "assigned_at": "2026-09-08T14:41:46",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000442-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000442"
+ },
+ {
+  "assigned_at": "2026-09-08T15:13:38",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000443-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000443"
+ },
+ {
+  "assigned_at": "2026-09-08T18:13:06",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000444-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000444"
+ },
+ {
+  "assigned_at": "2026-09-08T18:43:12",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000445-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000445"
+ },
+ {
+  "assigned_at": "2026-09-09T16:26:03",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000446-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000446"
+ },
+ {
+  "assigned_at": "2026-09-10T11:32:00",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000446-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000446"
+ },
+ {
+  "assigned_at": "2026-09-10T12:13:12",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000447-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000447"
+ },
+ {
+  "assigned_at": "2026-09-10T17:46:55",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000448-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000448"
+ },
+ {
+  "assigned_at": "2026-09-10T19:00:30",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000449-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000449"
+ },
+ {
+  "assigned_at": "2026-09-11T15:54:18",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000450-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000450"
+ },
+ {
+  "assigned_at": "2026-09-11T16:36:20",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000451-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000451"
+ },
+ {
+  "assigned_at": "2026-09-15T10:11:41",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000452-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000452"
+ },
+ {
+  "assigned_at": "2026-09-15T17:27:50",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000453-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000453"
+ },
+ {
+  "assigned_at": "2026-09-15T17:59:32",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000454-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000454"
+ },
+ {
+  "assigned_at": "2026-09-15T19:00:47",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000455-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000455"
+ },
+ {
+  "assigned_at": "2026-09-16T12:39:02",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000456-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000456"
+ },
+ {
+  "assigned_at": "2026-09-16T13:38:12",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000457-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000457"
+ },
+ {
+  "assigned_at": "2026-09-16T18:18:31",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000458-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000458"
+ },
+ {
+  "assigned_at": "2026-09-17T14:42:06",
+  "assignee_id": "EMP-000119",
+  "assignment_id": "ASG-TKT-2026-000459-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000459"
+ },
+ {
+  "assigned_at": "2026-09-18T04:40:13",
+  "assignee_id": "EMP-000023",
+  "assignment_id": "ASG-TKT-2026-000460-01",
+  "queue": "IT_OPS",
+  "reason": "initial routing to IT_OPS",
+  "ticket_id": "TKT-2026-000460"
+ },
+ {
+  "assigned_at": "2026-09-18T09:13:39",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000461-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000461"
+ },
+ {
+  "assigned_at": "2026-09-18T13:27:00",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000461-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000461"
+ },
+ {
+  "assigned_at": "2026-09-18T17:07:10",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000462-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000462"
+ },
+ {
+  "assigned_at": "2026-09-18T18:18:34",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000463-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000463"
+ },
+ {
+  "assigned_at": "2026-09-21T14:38:00",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000464-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000464"
+ },
+ {
+  "assigned_at": "2026-09-21T15:42:07",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000465-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000465"
+ },
+ {
+  "assigned_at": "2026-09-22T13:12:24",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000466-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000466"
+ },
+ {
+  "assigned_at": "2026-09-23T15:43:29",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000467-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000467"
+ },
+ {
+  "assigned_at": "2026-09-23T18:29:23",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000468-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000468"
+ },
+ {
+  "assigned_at": "2026-09-24T10:50:01",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000469-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000469"
+ },
+ {
+  "assigned_at": "2026-09-24T11:07:26",
+  "assignee_id": "EMP-000030",
+  "assignment_id": "ASG-TKT-2026-000470-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000470"
+ },
+ {
+  "assigned_at": "2026-09-24T13:41:26",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000470-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000470"
+ },
+ {
+  "assigned_at": "2026-09-24T15:31:18",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000471-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000471"
+ },
+ {
+  "assigned_at": "2026-09-24T18:15:29",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000472-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000472"
+ },
+ {
+  "assigned_at": "2026-09-24T18:19:12",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000473-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000473"
+ },
+ {
+  "assigned_at": "2026-09-25T12:22:44",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000474-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000474"
+ },
+ {
+  "assigned_at": "2026-09-28T09:48:08",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000475-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000475"
+ },
+ {
+  "assigned_at": "2026-09-28T12:40:13",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000476-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000476"
+ },
+ {
+  "assigned_at": "2026-09-28T15:36:07",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000477-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000477"
+ },
+ {
+  "assigned_at": "2026-09-29T19:37:25",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000478-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000478"
+ },
+ {
+  "assigned_at": "2026-09-30T11:02:18",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000479-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000479"
+ },
+ {
+  "assigned_at": "2026-09-30T13:38:44",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000480-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000480"
+ },
+ {
+  "assigned_at": "2026-09-30T15:34:44",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000480-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000480"
+ },
+ {
+  "assigned_at": "2026-10-01T10:39:08",
+  "assignee_id": "EMP-000130",
+  "assignment_id": "ASG-TKT-2026-000481-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000481"
+ },
+ {
+  "assigned_at": "2026-10-01T12:33:08",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000481-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000481"
+ },
+ {
+  "assigned_at": "2026-10-01T11:14:11",
+  "assignee_id": "EMP-000195",
+  "assignment_id": "ASG-TKT-2026-000482-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000482"
+ },
+ {
+  "assigned_at": "2026-10-05T09:31:22",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000483-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000483"
+ },
+ {
+  "assigned_at": "2026-10-05T10:06:23",
+  "assignee_id": "EMP-000166",
+  "assignment_id": "ASG-TKT-2026-000484-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000484"
+ },
+ {
+  "assigned_at": "2026-10-05T10:26:41",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000485-01",
+  "queue": "GENERAL",
+  "reason": "initial routing to GENERAL",
+  "ticket_id": "TKT-2026-000485"
+ },
+ {
+  "assigned_at": "2026-10-05T10:51:07",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000486-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000486"
+ },
+ {
+  "assigned_at": "2026-10-06T14:21:10",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000487-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000487"
+ },
+ {
+  "assigned_at": "2026-10-06T15:01:33",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000488-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000488"
+ },
+ {
+  "assigned_at": "2026-10-06T18:39:02",
+  "assignee_id": "EMP-000146",
+  "assignment_id": "ASG-TKT-2026-000489-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000489"
+ },
+ {
+  "assigned_at": "2026-10-07T14:55:39",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000490-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000490"
+ },
+ {
+  "assigned_at": "2026-10-08T09:55:06",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000491-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000491"
+ },
+ {
+  "assigned_at": "2026-10-08T16:21:23",
+  "assignee_id": "EMP-000152",
+  "assignment_id": "ASG-TKT-2026-000492-01",
+  "queue": "ER_CONFIDENTIAL",
+  "reason": "initial routing to ER_CONFIDENTIAL",
+  "ticket_id": "TKT-2026-000492"
+ },
+ {
+  "assigned_at": "2026-10-09T10:55:00",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000492-02",
+  "queue": "HR_LEAD",
+  "reason": "escalation: P1 ticket untouched for 2 business hours",
+  "ticket_id": "TKT-2026-000492"
+ },
+ {
+  "assigned_at": "2026-10-09T01:25:14",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000493-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000493"
+ },
+ {
+  "assigned_at": "2026-10-09T16:52:27",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000494-01",
+  "queue": "BENEFITS",
+  "reason": "initial routing to BENEFITS",
+  "ticket_id": "TKT-2026-000494"
+ },
+ {
+  "assigned_at": "2026-10-09T23:14:21",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000495-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000495"
+ },
+ {
+  "assigned_at": "2026-10-13T14:52:48",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000496-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000496"
+ },
+ {
+  "assigned_at": "2026-10-13T16:20:13",
+  "assignee_id": "EMP-000006",
+  "assignment_id": "ASG-TKT-2026-000497-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000497"
+ },
+ {
+  "assigned_at": "2026-10-14T04:31:16",
+  "assignee_id": "EMP-000052",
+  "assignment_id": "ASG-TKT-2026-000498-01",
+  "queue": "PAYROLL",
+  "reason": "initial routing to PAYROLL",
+  "ticket_id": "TKT-2026-000498"
+ },
+ {
+  "assigned_at": "2026-10-14T16:07:04",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000499-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000499"
+ },
+ {
+  "assigned_at": "2026-10-15T17:26:56",
+  "assignee_id": "EMP-000171",
+  "assignment_id": "ASG-TKT-2026-000500-01",
+  "queue": "LEAVE",
+  "reason": "initial routing to LEAVE",
+  "ticket_id": "TKT-2026-000500"
+ }
+]

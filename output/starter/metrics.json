@@ -1,0 +1,45 @@
+{
+  "anomaly_counts": {
+    "OBSOLETE_CITATION": 8,
+    "SENSITIVE_MISROUTED": 3,
+    "SLA_BUSINESS_HOURS_ERROR": 10,
+    "UNSUPPORTED_CLAIM": 9
+  },
+  "business_hours_to_resolve": {
+    "median": 12.57,
+    "p90": 20.32
+  },
+  "citation_accuracy_pct": 98.34,
+  "clarification_rate_pct": 18.0,
+  "clarification_reply_rate_pct": 78.89,
+  "escalation_rate_pct": 11.2,
+  "first_response_sla_attainment_pct": {
+    "P1": 15.56,
+    "P2": 89.57,
+    "P3": 100.0
+  },
+  "messages_per_category": {
+    "CAT-BENEFITS": 414,
+    "CAT-ER": 106,
+    "CAT-GENERAL": 110,
+    "CAT-LEAVE": 604,
+    "CAT-ONBOARDING": 320,
+    "CAT-PAYROLL": 446
+  },
+  "messages_total": 2000,
+  "resolution_sla_attainment_pct": {
+    "P1": 86.36,
+    "P2": 100.0,
+    "P3": 100.0
+  },
+  "sensitive_routing_accuracy_pct": 93.33,
+  "tickets_per_category": {
+    "CAT-BENEFITS": 104,
+    "CAT-ER": 28,
+    "CAT-GENERAL": 28,
+    "CAT-LEAVE": 145,
+    "CAT-ONBOARDING": 80,
+    "CAT-PAYROLL": 115
+  },
+  "tickets_total": 500
+}

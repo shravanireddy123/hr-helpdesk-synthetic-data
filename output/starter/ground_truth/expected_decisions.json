@@ -1,0 +1,3002 @@
+[
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000001"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000002"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000003"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000004"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000005"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000006"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000007"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000008"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000009"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000010"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000011"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000012"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000013"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000014"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000015"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000016"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000017"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000018"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000019"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000020"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000021"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000022"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000023"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000024"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000025"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000026"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000027"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000028"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000029"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000030"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000031"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000032"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000033"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000034"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000035"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000036"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000037"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000038"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000039"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000040"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000041"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000042"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000043"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000044"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000045"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000046"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000047"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000048"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000049"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000050"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000051"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000052"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000053"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000054"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000055"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000056"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000057"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000058"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000059"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000060"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000061"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000062"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000063"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000064"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000065"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000066"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000067"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000068"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000069"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000070"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000071"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000072"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000073"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000074"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000075"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000076"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000077"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000078"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000079"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000080"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000081"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000082"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000083"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000084"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000085"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000086"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000087"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000088"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000089"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000090"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000091"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000092"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000093"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000094"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000095"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000096"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000097"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000098"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000099"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000100"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000101"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000102"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000103"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000104"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000105"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000106"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000107"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000108"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000109"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000110"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000111"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000112"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000113"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000114"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000115"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000116"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000117"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000118"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000119"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000120"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000121"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000122"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000123"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000124"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000125"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000126"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000127"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000128"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000129"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000130"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000131"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000132"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000133"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000134"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000135"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000136"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000137"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000138"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000139"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000140"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000141"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000142"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000143"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000144"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000145"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000146"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000147"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000148"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000149"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000150"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000151"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000152"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000153"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000154"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000155"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000156"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000157"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000158"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000159"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000160"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000161"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000162"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000163"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000164"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000165"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000166"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000167"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000168"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000169"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000170"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000171"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000172"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000173"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000174"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000175"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000176"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000177"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000178"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000179"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000180"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000181"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000182"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000183"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000184"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000185"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000186"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000187"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000188"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000189"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000190"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000191"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000192"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000193"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000194"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000195"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000196"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000197"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000198"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000199"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000200"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000201"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000202"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000203"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000204"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000205"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000206"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000207"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000208"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000209"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000210"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000211"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000212"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000213"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000214"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000215"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000216"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000217"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000218"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000219"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000220"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000221"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000222"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000223"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000224"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000225"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000226"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000227"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000228"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000229"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000230"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000231"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000232"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000233"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000234"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000235"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000236"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000237"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000238"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000239"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000240"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000241"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000242"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000243"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000244"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000245"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000246"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000247"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000248"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000249"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000250"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000251"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000252"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000253"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000254"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000255"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000256"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000257"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000258"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000259"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000260"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000261"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000262"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000263"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000264"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000265"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000266"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000267"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000268"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000269"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000270"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000271"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000272"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000273"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000274"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000275"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000276"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000277"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000278"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000279"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000280"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000281"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000282"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000283"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000284"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000285"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000286"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000287"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000288"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000289"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000290"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000291"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000292"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000293"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000294"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000295"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000296"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000297"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000298"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000299"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000300"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000301"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000302"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000303"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000304"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000305"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000306"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000307"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000308"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000309"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000310"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000311"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000312"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000313"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000314"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000315"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000316"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000317"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000318"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000319"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000320"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000321"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000322"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000323"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000324"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000325"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000326"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000327"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000328"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000329"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000330"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000331"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000332"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000333"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000334"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000335"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000336"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000337"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000338"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000339"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000340"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000341"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000342"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000343"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000344"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000345"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000346"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000347"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000348"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000349"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000350"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000351"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000352"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000353"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000354"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000355"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000356"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000357"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000358"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000359"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000360"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000361"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000362"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000363"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000364"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000365"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000366"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000367"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000368"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000369"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000370"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000371"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000372"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000373"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000374"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000375"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000376"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000377"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000378"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000379"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000380"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000381"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000382"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000383"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000384"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000385"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000386"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000387"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000388"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000389"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000390"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000391"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000392"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000393"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000394"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000395"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000396"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000397"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000398"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000399"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000400"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000401"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000402"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000403"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000404"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000405"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000406"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000407"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000408"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000409"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000410"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000411"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000412"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000413"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000414"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000415"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000416"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000417"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000418"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000419"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000420"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000421"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000422"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000423"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000424"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000425"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000426"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000427"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000428"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000429"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000430"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000431"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000432"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000433"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000434"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000435"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000436"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000437"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000438"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000439"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000440"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000441"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000442"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000443"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000444"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000445"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000446"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000447"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000448"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000449"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000450"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000451"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000452"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000453"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000454"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000455"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000456"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000457"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000458"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000459"
+ },
+ {
+  "expected_queue": "IT_OPS",
+  "expected_version_id": "VER-POL-HR-2026-010-01",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000460"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000461"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000462"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000463"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000464"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000465"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000466"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000467"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": null,
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000468"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000469"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000470"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000471"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000472"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000473"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000474"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000475"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000476"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-007-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000477"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000478"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-009-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000479"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000480"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-002-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000481"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000482"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-007-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000483"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000484"
+ },
+ {
+  "expected_queue": "GENERAL",
+  "expected_version_id": "VER-POL-HR-2026-012-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000485"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000486"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000487"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000488"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-005-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000489"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000490"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000491"
+ },
+ {
+  "expected_queue": "ER_CONFIDENTIAL",
+  "expected_version_id": "VER-POL-HR-2026-011-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000492"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-006-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000493"
+ },
+ {
+  "expected_queue": "BENEFITS",
+  "expected_version_id": "VER-POL-HR-2026-004-03",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000494"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000495"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000496"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000497"
+ },
+ {
+  "expected_queue": "PAYROLL",
+  "expected_version_id": "VER-POL-HR-2026-008-02",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000498"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-001-02",
+  "needs_clarification": true,
+  "ticket_id": "TKT-2026-000499"
+ },
+ {
+  "expected_queue": "LEAVE",
+  "expected_version_id": "VER-POL-HR-2026-003-04",
+  "needs_clarification": false,
+  "ticket_id": "TKT-2026-000500"
+ }
+]

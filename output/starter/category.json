@@ -1,0 +1,44 @@
+[
+ {
+  "category_id": "CAT-BENEFITS",
+  "default_priority": "P3",
+  "default_queue": "BENEFITS",
+  "is_sensitive": false,
+  "name": "Benefits"
+ },
+ {
+  "category_id": "CAT-ER",
+  "default_priority": "P1",
+  "default_queue": "ER_CONFIDENTIAL",
+  "is_sensitive": true,
+  "name": "Employee Relations"
+ },
+ {
+  "category_id": "CAT-GENERAL",
+  "default_priority": "P3",
+  "default_queue": "GENERAL",
+  "is_sensitive": false,
+  "name": "General HR"
+ },
+ {
+  "category_id": "CAT-LEAVE",
+  "default_priority": "P3",
+  "default_queue": "LEAVE",
+  "is_sensitive": false,
+  "name": "Leave"
+ },
+ {
+  "category_id": "CAT-ONBOARDING",
+  "default_priority": "P3",
+  "default_queue": "GENERAL",
+  "is_sensitive": false,
+  "name": "Onboarding"
+ },
+ {
+  "category_id": "CAT-PAYROLL",
+  "default_priority": "P2",
+  "default_queue": "PAYROLL",
+  "is_sensitive": false,
+  "name": "Payroll"
+ }
+]

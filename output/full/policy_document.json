@@ -1,0 +1,282 @@
+[
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-001",
+  "title": "Annual Leave Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-002",
+  "title": "Sick Leave Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-003",
+  "title": "Maternity Leave Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-004",
+  "title": "Group Health Insurance Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-005",
+  "title": "Provident Fund Contribution Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-006",
+  "title": "Salary Payment Schedule"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-007",
+  "title": "Expense Reimbursement Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-008",
+  "title": "Tax Declaration and TDS Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ONBOARDING",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-009",
+  "title": "New Joiner Onboarding Checklist"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ONBOARDING",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-010",
+  "title": "IT Equipment and Access Provisioning"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ER",
+  "owner_department_id": "DEPT-002",
+  "policy_id": "POL-HR-2026-011",
+  "title": "Anti-Harassment and POSH Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-GENERAL",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-012",
+  "title": "Work From Home Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-013",
+  "title": "Paternity Leave Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-014",
+  "title": "Leave Encashment Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-015",
+  "title": "Compensatory Off Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-016",
+  "title": "Bereavement Leave Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-017",
+  "title": "Unpaid Leave and Sabbatical Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-LEAVE",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-018",
+  "title": "Public and Optional Holiday Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-019",
+  "title": "Gratuity Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-020",
+  "title": "Wellness Allowance Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-021",
+  "title": "Meal Card Benefit"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-022",
+  "title": "Learning and Development Reimbursement"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-023",
+  "title": "Relocation Assistance Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-BENEFITS",
+  "owner_department_id": "DEPT-004",
+  "policy_id": "POL-HR-2026-024",
+  "title": "Employee Assistance Programme"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-025",
+  "title": "Overtime and Shift Allowance Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-026",
+  "title": "Salary Advance Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-027",
+  "title": "Bonus and Incentive Payout Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-028",
+  "title": "Payslip and Form 16 Access"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-PAYROLL",
+  "owner_department_id": "DEPT-003",
+  "policy_id": "POL-HR-2026-029",
+  "title": "Full and Final Settlement Policy"
+ },
+ {
+  "audience": "candidate",
+  "category_id": "CAT-ONBOARDING",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-030",
+  "title": "Background Verification Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-ONBOARDING",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-031",
+  "title": "Probation and Confirmation Policy"
+ },
+ {
+  "audience": "candidate",
+  "category_id": "CAT-ONBOARDING",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-032",
+  "title": "Offer Letter and Documentation Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ONBOARDING",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-033",
+  "title": "Buddy and Induction Programme"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ER",
+  "owner_department_id": "DEPT-002",
+  "policy_id": "POL-HR-2026-034",
+  "title": "Grievance Redressal Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ER",
+  "owner_department_id": "DEPT-002",
+  "policy_id": "POL-HR-2026-035",
+  "title": "Code of Conduct and Disciplinary Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ER",
+  "owner_department_id": "DEPT-002",
+  "policy_id": "POL-HR-2026-036",
+  "title": "Whistleblower Protection Policy"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-ER",
+  "owner_department_id": "DEPT-002",
+  "policy_id": "POL-HR-2026-037",
+  "title": "Medical Accommodation Policy"
+ },
+ {
+  "audience": "employee",
+  "category_id": "CAT-GENERAL",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-038",
+  "title": "Employee Referral Programme"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-GENERAL",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-039",
+  "title": "Dress Code and Office Conduct"
+ },
+ {
+  "audience": "all",
+  "category_id": "CAT-GENERAL",
+  "owner_department_id": "DEPT-001",
+  "policy_id": "POL-HR-2026-040",
+  "title": "Office Access and Visitor Policy"
+ }
+]

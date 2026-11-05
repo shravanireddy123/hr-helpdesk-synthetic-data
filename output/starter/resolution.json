@@ -1,0 +1,4002 @@
+[
+ {
+  "business_minutes_to_resolve": 501,
+  "cited_version_id": "VER-POL-HR-2026-003-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000001",
+  "resolved_at": "2026-01-06T15:55:00",
+  "ticket_id": "TKT-2026-000001"
+ },
+ {
+  "business_minutes_to_resolve": 1020,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000002",
+  "resolved_at": "2026-01-07T16:52:00",
+  "ticket_id": "TKT-2026-000002"
+ },
+ {
+  "business_minutes_to_resolve": 2840,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000003",
+  "resolved_at": "2026-01-15T10:49:00",
+  "ticket_id": "TKT-2026-000003"
+ },
+ {
+  "business_minutes_to_resolve": 369,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000004",
+  "resolved_at": "2026-01-08T16:29:40",
+  "ticket_id": "TKT-2026-000004"
+ },
+ {
+  "business_minutes_to_resolve": 842,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000005",
+  "resolved_at": "2026-01-12T11:29:00",
+  "ticket_id": "TKT-2026-000005"
+ },
+ {
+  "business_minutes_to_resolve": 468,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000006",
+  "resolved_at": "2026-01-09T17:59:36",
+  "ticket_id": "TKT-2026-000006"
+ },
+ {
+  "business_minutes_to_resolve": 471,
+  "cited_version_id": "VER-POL-HR-2026-008-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000007",
+  "resolved_at": "2026-01-12T11:46:00",
+  "ticket_id": "TKT-2026-000007"
+ },
+ {
+  "business_minutes_to_resolve": 721,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000008",
+  "resolved_at": "2026-01-13T15:49:00",
+  "ticket_id": "TKT-2026-000008"
+ },
+ {
+  "business_minutes_to_resolve": 417,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000009",
+  "resolved_at": "2026-01-13T13:17:00",
+  "ticket_id": "TKT-2026-000009"
+ },
+ {
+  "business_minutes_to_resolve": 449,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000010",
+  "resolved_at": "2026-01-13T17:37:33",
+  "ticket_id": "TKT-2026-000010"
+ },
+ {
+  "business_minutes_to_resolve": 649,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000011",
+  "resolved_at": "2026-01-14T12:38:00",
+  "ticket_id": "TKT-2026-000011"
+ },
+ {
+  "business_minutes_to_resolve": 632,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000012",
+  "resolved_at": "2026-01-14T17:24:00",
+  "ticket_id": "TKT-2026-000012"
+ },
+ {
+  "business_minutes_to_resolve": 530,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000013",
+  "resolved_at": "2026-01-15T09:50:00",
+  "ticket_id": "TKT-2026-000013"
+ },
+ {
+  "business_minutes_to_resolve": 600,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000014",
+  "resolved_at": "2026-01-15T11:24:00",
+  "ticket_id": "TKT-2026-000014"
+ },
+ {
+  "business_minutes_to_resolve": 617,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000015",
+  "resolved_at": "2026-01-15T16:47:00",
+  "ticket_id": "TKT-2026-000015"
+ },
+ {
+  "business_minutes_to_resolve": 859,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000016",
+  "resolved_at": "2026-01-16T15:19:00",
+  "ticket_id": "TKT-2026-000016"
+ },
+ {
+  "business_minutes_to_resolve": 779,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000017",
+  "resolved_at": "2026-01-16T13:59:00",
+  "ticket_id": "TKT-2026-000017"
+ },
+ {
+  "business_minutes_to_resolve": 1014,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000018",
+  "resolved_at": "2026-01-19T10:10:00",
+  "ticket_id": "TKT-2026-000018"
+ },
+ {
+  "business_minutes_to_resolve": 360,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000019",
+  "resolved_at": "2026-01-16T10:53:00",
+  "ticket_id": "TKT-2026-000019"
+ },
+ {
+  "business_minutes_to_resolve": 1093,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000020",
+  "resolved_at": "2026-01-19T16:11:00",
+  "ticket_id": "TKT-2026-000020"
+ },
+ {
+  "business_minutes_to_resolve": 479,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000021",
+  "resolved_at": "2026-01-16T17:29:00",
+  "ticket_id": "TKT-2026-000021"
+ },
+ {
+  "business_minutes_to_resolve": 522,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000022",
+  "resolved_at": "2026-01-19T14:40:00",
+  "ticket_id": "TKT-2026-000022"
+ },
+ {
+  "business_minutes_to_resolve": 358,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000023",
+  "resolved_at": "2026-01-19T15:28:00",
+  "ticket_id": "TKT-2026-000023"
+ },
+ {
+  "business_minutes_to_resolve": 501,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000024",
+  "resolved_at": "2026-01-19T17:51:00",
+  "ticket_id": "TKT-2026-000024"
+ },
+ {
+  "business_minutes_to_resolve": 837,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000025",
+  "resolved_at": "2026-01-20T15:19:00",
+  "ticket_id": "TKT-2026-000025"
+ },
+ {
+  "business_minutes_to_resolve": 659,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000026",
+  "resolved_at": "2026-01-20T16:31:00",
+  "ticket_id": "TKT-2026-000026"
+ },
+ {
+  "business_minutes_to_resolve": 443,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000027",
+  "resolved_at": "2026-01-20T15:16:00",
+  "ticket_id": "TKT-2026-000027"
+ },
+ {
+  "business_minutes_to_resolve": 1296,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000028",
+  "resolved_at": "2026-01-22T13:42:00",
+  "ticket_id": "TKT-2026-000028"
+ },
+ {
+  "business_minutes_to_resolve": 398,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000029",
+  "resolved_at": "2026-01-20T16:02:00",
+  "ticket_id": "TKT-2026-000029"
+ },
+ {
+  "business_minutes_to_resolve": 575,
+  "cited_version_id": "VER-POL-HR-2026-003-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000030",
+  "resolved_at": "2026-01-21T10:35:00",
+  "ticket_id": "TKT-2026-000030"
+ },
+ {
+  "business_minutes_to_resolve": 803,
+  "cited_version_id": "VER-POL-HR-2026-008-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000031",
+  "resolved_at": "2026-01-21T15:00:00",
+  "ticket_id": "TKT-2026-000031"
+ },
+ {
+  "business_minutes_to_resolve": 504,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000032",
+  "resolved_at": "2026-01-21T15:34:00",
+  "ticket_id": "TKT-2026-000032"
+ },
+ {
+  "business_minutes_to_resolve": 763,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000033",
+  "resolved_at": "2026-01-22T17:44:00",
+  "ticket_id": "TKT-2026-000033"
+ },
+ {
+  "business_minutes_to_resolve": 354,
+  "cited_version_id": "VER-POL-HR-2026-002-01",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000034",
+  "resolved_at": "2026-01-22T16:13:44",
+  "ticket_id": "TKT-2026-000034"
+ },
+ {
+  "business_minutes_to_resolve": 834,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000035",
+  "resolved_at": "2026-01-27T09:52:00",
+  "ticket_id": "TKT-2026-000035"
+ },
+ {
+  "business_minutes_to_resolve": 1724,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000036",
+  "resolved_at": "2026-01-28T17:51:00",
+  "ticket_id": "TKT-2026-000036"
+ },
+ {
+  "business_minutes_to_resolve": 439,
+  "cited_version_id": "VER-POL-HR-2026-007-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000037",
+  "resolved_at": "2026-01-23T17:00:55",
+  "ticket_id": "TKT-2026-000037"
+ },
+ {
+  "business_minutes_to_resolve": 739,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000038",
+  "resolved_at": "2026-01-27T14:36:00",
+  "ticket_id": "TKT-2026-000038"
+ },
+ {
+  "business_minutes_to_resolve": 824,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000039",
+  "resolved_at": "2026-01-28T14:08:00",
+  "ticket_id": "TKT-2026-000039"
+ },
+ {
+  "business_minutes_to_resolve": 424,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000040",
+  "resolved_at": "2026-01-27T16:34:00",
+  "ticket_id": "TKT-2026-000040"
+ },
+ {
+  "business_minutes_to_resolve": 878,
+  "cited_version_id": "VER-POL-HR-2026-011-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000041",
+  "resolved_at": "2026-01-28T15:38:00",
+  "ticket_id": "TKT-2026-000041"
+ },
+ {
+  "business_minutes_to_resolve": 294,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000042",
+  "resolved_at": "2026-01-28T12:20:00",
+  "ticket_id": "TKT-2026-000042"
+ },
+ {
+  "business_minutes_to_resolve": 507,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000043",
+  "resolved_at": "2026-01-29T12:21:00",
+  "ticket_id": "TKT-2026-000043"
+ },
+ {
+  "business_minutes_to_resolve": 939,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000044",
+  "resolved_at": "2026-02-02T10:49:00",
+  "ticket_id": "TKT-2026-000044"
+ },
+ {
+  "business_minutes_to_resolve": 2710,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000045",
+  "resolved_at": "2026-02-05T16:36:00",
+  "ticket_id": "TKT-2026-000045"
+ },
+ {
+  "business_minutes_to_resolve": 953,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000046",
+  "resolved_at": "2026-02-02T13:25:00",
+  "ticket_id": "TKT-2026-000046"
+ },
+ {
+  "business_minutes_to_resolve": 943,
+  "cited_version_id": "VER-POL-HR-2026-003-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000047",
+  "resolved_at": "2026-02-02T14:22:00",
+  "ticket_id": "TKT-2026-000047"
+ },
+ {
+  "business_minutes_to_resolve": 1863,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000048",
+  "resolved_at": "2026-02-04T14:46:00",
+  "ticket_id": "TKT-2026-000048"
+ },
+ {
+  "business_minutes_to_resolve": 637,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000049",
+  "resolved_at": "2026-02-02T11:37:00",
+  "ticket_id": "TKT-2026-000049"
+ },
+ {
+  "business_minutes_to_resolve": 552,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000050",
+  "resolved_at": "2026-02-02T14:39:00",
+  "ticket_id": "TKT-2026-000050"
+ },
+ {
+  "business_minutes_to_resolve": 524,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000051",
+  "resolved_at": "2026-02-03T09:44:00",
+  "ticket_id": "TKT-2026-000051"
+ },
+ {
+  "business_minutes_to_resolve": 655,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000052",
+  "resolved_at": "2026-02-03T11:55:00",
+  "ticket_id": "TKT-2026-000052"
+ },
+ {
+  "business_minutes_to_resolve": 1866,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000053",
+  "resolved_at": "2026-02-05T16:20:00",
+  "ticket_id": "TKT-2026-000053"
+ },
+ {
+  "business_minutes_to_resolve": 665,
+  "cited_version_id": "VER-POL-HR-2026-005-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000054",
+  "resolved_at": "2026-02-03T14:14:00",
+  "ticket_id": "TKT-2026-000054"
+ },
+ {
+  "business_minutes_to_resolve": 698,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000055",
+  "resolved_at": "2026-02-03T16:42:00",
+  "ticket_id": "TKT-2026-000055"
+ },
+ {
+  "business_minutes_to_resolve": 344,
+  "cited_version_id": "VER-POL-HR-2026-003-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000056",
+  "resolved_at": "2026-02-03T12:32:00",
+  "ticket_id": "TKT-2026-000056"
+ },
+ {
+  "business_minutes_to_resolve": 2830,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000057",
+  "resolved_at": "2026-02-11T13:56:00",
+  "ticket_id": "TKT-2026-000057"
+ },
+ {
+  "business_minutes_to_resolve": 932,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000058",
+  "resolved_at": "2026-02-09T12:06:00",
+  "ticket_id": "TKT-2026-000058"
+ },
+ {
+  "business_minutes_to_resolve": 649,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000059",
+  "resolved_at": "2026-02-09T10:16:00",
+  "ticket_id": "TKT-2026-000059"
+ },
+ {
+  "business_minutes_to_resolve": 985,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000060",
+  "resolved_at": "2026-02-09T17:35:00",
+  "ticket_id": "TKT-2026-000060"
+ },
+ {
+  "business_minutes_to_resolve": 1794,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000061",
+  "resolved_at": "2026-02-12T13:54:00",
+  "ticket_id": "TKT-2026-000061"
+ },
+ {
+  "business_minutes_to_resolve": 340,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000062",
+  "resolved_at": "2026-02-10T12:46:00",
+  "ticket_id": "TKT-2026-000062"
+ },
+ {
+  "business_minutes_to_resolve": 582,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000063",
+  "resolved_at": "2026-02-12T10:42:00",
+  "ticket_id": "TKT-2026-000063"
+ },
+ {
+  "business_minutes_to_resolve": 251,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000064",
+  "resolved_at": "2026-02-12T13:41:00",
+  "ticket_id": "TKT-2026-000064"
+ },
+ {
+  "business_minutes_to_resolve": 757,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000065",
+  "resolved_at": "2026-02-13T16:08:00",
+  "ticket_id": "TKT-2026-000065"
+ },
+ {
+  "business_minutes_to_resolve": 1698,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000066",
+  "resolved_at": "2026-02-18T10:52:00",
+  "ticket_id": "TKT-2026-000066"
+ },
+ {
+  "business_minutes_to_resolve": 420,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000067",
+  "resolved_at": "2026-02-13T15:32:00",
+  "ticket_id": "TKT-2026-000067"
+ },
+ {
+  "business_minutes_to_resolve": 1578,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000068",
+  "resolved_at": "2026-02-18T10:18:00",
+  "ticket_id": "TKT-2026-000068"
+ },
+ {
+  "business_minutes_to_resolve": 619,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000069",
+  "resolved_at": "2026-02-17T09:37:00",
+  "ticket_id": "TKT-2026-000069"
+ },
+ {
+  "business_minutes_to_resolve": 740,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000070",
+  "resolved_at": "2026-02-17T13:20:00",
+  "ticket_id": "TKT-2026-000070"
+ },
+ {
+  "business_minutes_to_resolve": 682,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000071",
+  "resolved_at": "2026-02-17T12:22:00",
+  "ticket_id": "TKT-2026-000071"
+ },
+ {
+  "business_minutes_to_resolve": 766,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000072",
+  "resolved_at": "2026-02-18T13:01:00",
+  "ticket_id": "TKT-2026-000072"
+ },
+ {
+  "business_minutes_to_resolve": 1088,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000073",
+  "resolved_at": "2026-02-19T10:34:00",
+  "ticket_id": "TKT-2026-000073"
+ },
+ {
+  "business_minutes_to_resolve": 895,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000074",
+  "resolved_at": "2026-02-19T10:32:00",
+  "ticket_id": "TKT-2026-000074"
+ },
+ {
+  "business_minutes_to_resolve": 2597,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000075",
+  "resolved_at": "2026-02-24T15:41:00",
+  "ticket_id": "TKT-2026-000075"
+ },
+ {
+  "business_minutes_to_resolve": 729,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000076",
+  "resolved_at": "2026-02-19T11:51:00",
+  "ticket_id": "TKT-2026-000076"
+ },
+ {
+  "business_minutes_to_resolve": 352,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000077",
+  "resolved_at": "2026-02-19T09:42:00",
+  "ticket_id": "TKT-2026-000077"
+ },
+ {
+  "business_minutes_to_resolve": 871,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000078",
+  "resolved_at": "2026-02-23T12:08:00",
+  "ticket_id": "TKT-2026-000078"
+ },
+ {
+  "business_minutes_to_resolve": 827,
+  "cited_version_id": "VER-POL-HR-2026-011-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000079",
+  "resolved_at": "2026-02-23T14:47:00",
+  "ticket_id": "TKT-2026-000079"
+ },
+ {
+  "business_minutes_to_resolve": 634,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000080",
+  "resolved_at": "2026-02-23T11:34:00",
+  "ticket_id": "TKT-2026-000080"
+ },
+ {
+  "business_minutes_to_resolve": 305,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000081",
+  "resolved_at": "2026-02-20T14:35:00",
+  "ticket_id": "TKT-2026-000081"
+ },
+ {
+  "business_minutes_to_resolve": 678,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000082",
+  "resolved_at": "2026-02-24T12:17:00",
+  "ticket_id": "TKT-2026-000082"
+ },
+ {
+  "business_minutes_to_resolve": 361,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000083",
+  "resolved_at": "2026-02-23T15:31:00",
+  "ticket_id": "TKT-2026-000083"
+ },
+ {
+  "business_minutes_to_resolve": 809,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000084",
+  "resolved_at": "2026-02-25T13:38:00",
+  "ticket_id": "TKT-2026-000084"
+ },
+ {
+  "business_minutes_to_resolve": 589,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000085",
+  "resolved_at": "2026-02-26T12:31:00",
+  "ticket_id": "TKT-2026-000085"
+ },
+ {
+  "business_minutes_to_resolve": 2858,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000086",
+  "resolved_at": "2026-03-05T16:59:00",
+  "ticket_id": "TKT-2026-000086"
+ },
+ {
+  "business_minutes_to_resolve": 641,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000087",
+  "resolved_at": "2026-02-27T10:00:00",
+  "ticket_id": "TKT-2026-000087"
+ },
+ {
+  "business_minutes_to_resolve": 555,
+  "cited_version_id": "VER-POL-HR-2026-008-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000088",
+  "resolved_at": "2026-02-26T17:51:00",
+  "ticket_id": "TKT-2026-000088"
+ },
+ {
+  "business_minutes_to_resolve": 670,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000089",
+  "resolved_at": "2026-02-27T12:10:00",
+  "ticket_id": "TKT-2026-000089"
+ },
+ {
+  "business_minutes_to_resolve": 846,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000090",
+  "resolved_at": "2026-02-27T15:59:00",
+  "ticket_id": "TKT-2026-000090"
+ },
+ {
+  "business_minutes_to_resolve": 754,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000091",
+  "resolved_at": "2026-03-02T12:11:00",
+  "ticket_id": "TKT-2026-000091"
+ },
+ {
+  "business_minutes_to_resolve": 672,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000092",
+  "resolved_at": "2026-03-02T11:30:00",
+  "ticket_id": "TKT-2026-000092"
+ },
+ {
+  "business_minutes_to_resolve": 1008,
+  "cited_version_id": "VER-POL-HR-2026-005-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000093",
+  "resolved_at": "2026-03-03T10:15:00",
+  "ticket_id": "TKT-2026-000093"
+ },
+ {
+  "business_minutes_to_resolve": 548,
+  "cited_version_id": "VER-POL-HR-2026-005-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000094",
+  "resolved_at": "2026-03-02T15:10:00",
+  "ticket_id": "TKT-2026-000094"
+ },
+ {
+  "business_minutes_to_resolve": 1771,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000095",
+  "resolved_at": "2026-03-06T13:31:00",
+  "ticket_id": "TKT-2026-000095"
+ },
+ {
+  "business_minutes_to_resolve": 1055,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000096",
+  "resolved_at": "2026-03-05T10:32:00",
+  "ticket_id": "TKT-2026-000096"
+ },
+ {
+  "business_minutes_to_resolve": 963,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000097",
+  "resolved_at": "2026-03-05T14:30:00",
+  "ticket_id": "TKT-2026-000097"
+ },
+ {
+  "business_minutes_to_resolve": 660,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000098",
+  "resolved_at": "2026-03-05T12:46:00",
+  "ticket_id": "TKT-2026-000098"
+ },
+ {
+  "business_minutes_to_resolve": 998,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000099",
+  "resolved_at": "2026-03-06T17:38:00",
+  "ticket_id": "TKT-2026-000099"
+ },
+ {
+  "business_minutes_to_resolve": 960,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000100",
+  "resolved_at": "2026-03-09T09:58:00",
+  "ticket_id": "TKT-2026-000100"
+ },
+ {
+  "business_minutes_to_resolve": 2142,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000101",
+  "resolved_at": "2026-03-11T14:05:00",
+  "ticket_id": "TKT-2026-000101"
+ },
+ {
+  "business_minutes_to_resolve": 875,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000102",
+  "resolved_at": "2026-03-10T12:07:00",
+  "ticket_id": "TKT-2026-000102"
+ },
+ {
+  "business_minutes_to_resolve": 732,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000103",
+  "resolved_at": "2026-03-10T12:06:00",
+  "ticket_id": "TKT-2026-000103"
+ },
+ {
+  "business_minutes_to_resolve": 739,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000104",
+  "resolved_at": "2026-03-11T13:19:00",
+  "ticket_id": "TKT-2026-000104"
+ },
+ {
+  "business_minutes_to_resolve": 708,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000105",
+  "resolved_at": "2026-03-11T12:48:00",
+  "ticket_id": "TKT-2026-000105"
+ },
+ {
+  "business_minutes_to_resolve": 813,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000106",
+  "resolved_at": "2026-03-12T10:46:00",
+  "ticket_id": "TKT-2026-000106"
+ },
+ {
+  "business_minutes_to_resolve": 964,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000107",
+  "resolved_at": "2026-03-12T14:04:00",
+  "ticket_id": "TKT-2026-000107"
+ },
+ {
+  "business_minutes_to_resolve": 1381,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000108",
+  "resolved_at": "2026-03-13T15:31:00",
+  "ticket_id": "TKT-2026-000108"
+ },
+ {
+  "business_minutes_to_resolve": 530,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000109",
+  "resolved_at": "2026-03-12T12:28:00",
+  "ticket_id": "TKT-2026-000109"
+ },
+ {
+  "business_minutes_to_resolve": 909,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000110",
+  "resolved_at": "2026-03-13T11:45:00",
+  "ticket_id": "TKT-2026-000110"
+ },
+ {
+  "business_minutes_to_resolve": 568,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000111",
+  "resolved_at": "2026-03-13T10:28:00",
+  "ticket_id": "TKT-2026-000111"
+ },
+ {
+  "business_minutes_to_resolve": 1565,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000112",
+  "resolved_at": "2026-03-17T13:17:00",
+  "ticket_id": "TKT-2026-000112"
+ },
+ {
+  "business_minutes_to_resolve": 328,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000113",
+  "resolved_at": "2026-03-13T13:20:00",
+  "ticket_id": "TKT-2026-000113"
+ },
+ {
+  "business_minutes_to_resolve": 707,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000114",
+  "resolved_at": "2026-03-16T12:41:00",
+  "ticket_id": "TKT-2026-000114"
+ },
+ {
+  "business_minutes_to_resolve": 667,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000115",
+  "resolved_at": "2026-03-16T13:58:00",
+  "ticket_id": "TKT-2026-000115"
+ },
+ {
+  "business_minutes_to_resolve": 707,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000116",
+  "resolved_at": "2026-03-16T15:00:00",
+  "ticket_id": "TKT-2026-000116"
+ },
+ {
+  "business_minutes_to_resolve": 931,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000117",
+  "resolved_at": "2026-03-17T11:01:00",
+  "ticket_id": "TKT-2026-000117"
+ },
+ {
+  "business_minutes_to_resolve": 648,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000118",
+  "resolved_at": "2026-03-16T15:18:00",
+  "ticket_id": "TKT-2026-000118"
+ },
+ {
+  "business_minutes_to_resolve": 2613,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000119",
+  "resolved_at": "2026-03-20T15:27:00",
+  "ticket_id": "TKT-2026-000119"
+ },
+ {
+  "business_minutes_to_resolve": 719,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000120",
+  "resolved_at": "2026-03-17T12:59:00",
+  "ticket_id": "TKT-2026-000120"
+ },
+ {
+  "business_minutes_to_resolve": 987,
+  "cited_version_id": "VER-POL-HR-2026-005-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000121",
+  "resolved_at": "2026-03-17T17:27:00",
+  "ticket_id": "TKT-2026-000121"
+ },
+ {
+  "business_minutes_to_resolve": 1951,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000122",
+  "resolved_at": "2026-03-19T17:24:00",
+  "ticket_id": "TKT-2026-000122"
+ },
+ {
+  "business_minutes_to_resolve": 1121,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000123",
+  "resolved_at": "2026-03-18T12:07:00",
+  "ticket_id": "TKT-2026-000123"
+ },
+ {
+  "business_minutes_to_resolve": 1060,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000124",
+  "resolved_at": "2026-03-18T13:10:00",
+  "ticket_id": "TKT-2026-000124"
+ },
+ {
+  "business_minutes_to_resolve": 789,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000125",
+  "resolved_at": "2026-03-19T12:58:00",
+  "ticket_id": "TKT-2026-000125"
+ },
+ {
+  "business_minutes_to_resolve": 702,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000126",
+  "resolved_at": "2026-03-20T10:43:00",
+  "ticket_id": "TKT-2026-000126"
+ },
+ {
+  "business_minutes_to_resolve": 540,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000127",
+  "resolved_at": "2026-03-20T11:53:00",
+  "ticket_id": "TKT-2026-000127"
+ },
+ {
+  "business_minutes_to_resolve": 951,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000128",
+  "resolved_at": "2026-03-23T11:42:00",
+  "ticket_id": "TKT-2026-000128"
+ },
+ {
+  "business_minutes_to_resolve": 1154,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000129",
+  "resolved_at": "2026-03-24T12:16:00",
+  "ticket_id": "TKT-2026-000129"
+ },
+ {
+  "business_minutes_to_resolve": 423,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000130",
+  "resolved_at": "2026-03-24T10:24:00",
+  "ticket_id": "TKT-2026-000130"
+ },
+ {
+  "business_minutes_to_resolve": 2585,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000131",
+  "resolved_at": "2026-03-30T13:19:00",
+  "ticket_id": "TKT-2026-000131"
+ },
+ {
+  "business_minutes_to_resolve": 857,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000132",
+  "resolved_at": "2026-03-25T10:53:00",
+  "ticket_id": "TKT-2026-000132"
+ },
+ {
+  "business_minutes_to_resolve": 1091,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000133",
+  "resolved_at": "2026-03-25T15:56:00",
+  "ticket_id": "TKT-2026-000133"
+ },
+ {
+  "business_minutes_to_resolve": 644,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000134",
+  "resolved_at": "2026-03-25T12:35:00",
+  "ticket_id": "TKT-2026-000134"
+ },
+ {
+  "business_minutes_to_resolve": 959,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000135",
+  "resolved_at": "2026-03-26T10:01:00",
+  "ticket_id": "TKT-2026-000135"
+ },
+ {
+  "business_minutes_to_resolve": 1114,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000136",
+  "resolved_at": "2026-03-26T13:41:00",
+  "ticket_id": "TKT-2026-000136"
+ },
+ {
+  "business_minutes_to_resolve": 786,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000137",
+  "resolved_at": "2026-03-26T12:57:00",
+  "ticket_id": "TKT-2026-000137"
+ },
+ {
+  "business_minutes_to_resolve": 746,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000138",
+  "resolved_at": "2026-03-27T10:25:00",
+  "ticket_id": "TKT-2026-000138"
+ },
+ {
+  "business_minutes_to_resolve": 631,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000139",
+  "resolved_at": "2026-03-27T16:21:00",
+  "ticket_id": "TKT-2026-000139"
+ },
+ {
+  "business_minutes_to_resolve": 266,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000140",
+  "resolved_at": "2026-03-27T11:24:00",
+  "ticket_id": "TKT-2026-000140"
+ },
+ {
+  "business_minutes_to_resolve": 1170,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000141",
+  "resolved_at": "2026-03-31T12:00:00",
+  "ticket_id": "TKT-2026-000141"
+ },
+ {
+  "business_minutes_to_resolve": 554,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000142",
+  "resolved_at": "2026-03-30T10:14:00",
+  "ticket_id": "TKT-2026-000142"
+ },
+ {
+  "business_minutes_to_resolve": 967,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000143",
+  "resolved_at": "2026-03-31T12:29:00",
+  "ticket_id": "TKT-2026-000143"
+ },
+ {
+  "business_minutes_to_resolve": 723,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000144",
+  "resolved_at": "2026-03-31T12:28:00",
+  "ticket_id": "TKT-2026-000144"
+ },
+ {
+  "business_minutes_to_resolve": 803,
+  "cited_version_id": "VER-POL-HR-2026-005-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000145",
+  "resolved_at": "2026-03-31T14:19:00",
+  "ticket_id": "TKT-2026-000145"
+ },
+ {
+  "business_minutes_to_resolve": 763,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000146",
+  "resolved_at": "2026-03-31T13:43:00",
+  "ticket_id": "TKT-2026-000146"
+ },
+ {
+  "business_minutes_to_resolve": 718,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000147",
+  "resolved_at": "2026-03-31T12:58:00",
+  "ticket_id": "TKT-2026-000147"
+ },
+ {
+  "business_minutes_to_resolve": 706,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000148",
+  "resolved_at": "2026-03-31T14:28:00",
+  "ticket_id": "TKT-2026-000148"
+ },
+ {
+  "business_minutes_to_resolve": 798,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000149",
+  "resolved_at": "2026-04-01T17:59:00",
+  "ticket_id": "TKT-2026-000149"
+ },
+ {
+  "business_minutes_to_resolve": 178,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000150",
+  "resolved_at": "2026-04-01T10:38:00",
+  "ticket_id": "TKT-2026-000150"
+ },
+ {
+  "business_minutes_to_resolve": 1026,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000151",
+  "resolved_at": "2026-04-06T12:36:00",
+  "ticket_id": "TKT-2026-000151"
+ },
+ {
+  "business_minutes_to_resolve": 2781,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000152",
+  "resolved_at": "2026-04-09T16:36:00",
+  "ticket_id": "TKT-2026-000152"
+ },
+ {
+  "business_minutes_to_resolve": 1321,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000153",
+  "resolved_at": "2026-04-07T11:41:00",
+  "ticket_id": "TKT-2026-000153"
+ },
+ {
+  "business_minutes_to_resolve": 2471,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000154",
+  "resolved_at": "2026-04-09T15:42:00",
+  "ticket_id": "TKT-2026-000154"
+ },
+ {
+  "business_minutes_to_resolve": 239,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000155",
+  "resolved_at": "2026-04-02T13:29:00",
+  "ticket_id": "TKT-2026-000155"
+ },
+ {
+  "business_minutes_to_resolve": 489,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000156",
+  "resolved_at": "2026-04-02T17:41:40",
+  "ticket_id": "TKT-2026-000156"
+ },
+ {
+  "business_minutes_to_resolve": 877,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000157",
+  "resolved_at": "2026-04-06T16:44:00",
+  "ticket_id": "TKT-2026-000157"
+ },
+ {
+  "business_minutes_to_resolve": 1129,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000158",
+  "resolved_at": "2026-04-08T11:13:00",
+  "ticket_id": "TKT-2026-000158"
+ },
+ {
+  "business_minutes_to_resolve": 915,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000159",
+  "resolved_at": "2026-04-08T13:58:00",
+  "ticket_id": "TKT-2026-000159"
+ },
+ {
+  "business_minutes_to_resolve": 333,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000160",
+  "resolved_at": "2026-04-07T14:46:00",
+  "ticket_id": "TKT-2026-000160"
+ },
+ {
+  "business_minutes_to_resolve": 1809,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000161",
+  "resolved_at": "2026-04-10T17:52:00",
+  "ticket_id": "TKT-2026-000161"
+ },
+ {
+  "business_minutes_to_resolve": 1219,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000162",
+  "resolved_at": "2026-04-10T14:38:00",
+  "ticket_id": "TKT-2026-000162"
+ },
+ {
+  "business_minutes_to_resolve": 598,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000163",
+  "resolved_at": "2026-04-09T14:35:00",
+  "ticket_id": "TKT-2026-000163"
+ },
+ {
+  "business_minutes_to_resolve": 1173,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000164",
+  "resolved_at": "2026-04-10T16:02:00",
+  "ticket_id": "TKT-2026-000164"
+ },
+ {
+  "business_minutes_to_resolve": 733,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000165",
+  "resolved_at": "2026-04-10T11:59:00",
+  "ticket_id": "TKT-2026-000165"
+ },
+ {
+  "business_minutes_to_resolve": 449,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000166",
+  "resolved_at": "2026-04-10T12:51:00",
+  "ticket_id": "TKT-2026-000166"
+ },
+ {
+  "business_minutes_to_resolve": 434,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000167",
+  "resolved_at": "2026-04-10T16:44:00",
+  "ticket_id": "TKT-2026-000167"
+ },
+ {
+  "business_minutes_to_resolve": 1754,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000168",
+  "resolved_at": "2026-04-15T13:38:00",
+  "ticket_id": "TKT-2026-000168"
+ },
+ {
+  "business_minutes_to_resolve": 515,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000169",
+  "resolved_at": "2026-04-13T10:16:00",
+  "ticket_id": "TKT-2026-000169"
+ },
+ {
+  "business_minutes_to_resolve": 1049,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000170",
+  "resolved_at": "2026-04-15T09:59:00",
+  "ticket_id": "TKT-2026-000170"
+ },
+ {
+  "business_minutes_to_resolve": 1955,
+  "cited_version_id": "VER-POL-HR-2026-004-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000171",
+  "resolved_at": "2026-04-20T15:46:00",
+  "ticket_id": "TKT-2026-000171"
+ },
+ {
+  "business_minutes_to_resolve": 708,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000172",
+  "resolved_at": "2026-04-20T09:31:00",
+  "ticket_id": "TKT-2026-000172"
+ },
+ {
+  "business_minutes_to_resolve": 651,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000173",
+  "resolved_at": "2026-04-20T11:51:00",
+  "ticket_id": "TKT-2026-000173"
+ },
+ {
+  "business_minutes_to_resolve": 1018,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000174",
+  "resolved_at": "2026-04-21T10:40:00",
+  "ticket_id": "TKT-2026-000174"
+ },
+ {
+  "business_minutes_to_resolve": 746,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000175",
+  "resolved_at": "2026-04-21T13:26:00",
+  "ticket_id": "TKT-2026-000175"
+ },
+ {
+  "business_minutes_to_resolve": 501,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000176",
+  "resolved_at": "2026-04-20T17:51:00",
+  "ticket_id": "TKT-2026-000176"
+ },
+ {
+  "business_minutes_to_resolve": 579,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000177",
+  "resolved_at": "2026-04-21T12:49:00",
+  "ticket_id": "TKT-2026-000177"
+ },
+ {
+  "business_minutes_to_resolve": 855,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000178",
+  "resolved_at": "2026-04-22T10:54:00",
+  "ticket_id": "TKT-2026-000178"
+ },
+ {
+  "business_minutes_to_resolve": 928,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000179",
+  "resolved_at": "2026-04-22T16:29:00",
+  "ticket_id": "TKT-2026-000179"
+ },
+ {
+  "business_minutes_to_resolve": 411,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000180",
+  "resolved_at": "2026-04-22T12:38:00",
+  "ticket_id": "TKT-2026-000180"
+ },
+ {
+  "business_minutes_to_resolve": 1014,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000181",
+  "resolved_at": "2026-04-23T16:43:00",
+  "ticket_id": "TKT-2026-000181"
+ },
+ {
+  "business_minutes_to_resolve": 746,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000182",
+  "resolved_at": "2026-04-24T10:45:00",
+  "ticket_id": "TKT-2026-000182"
+ },
+ {
+  "business_minutes_to_resolve": 793,
+  "cited_version_id": "VER-POL-HR-2026-001-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000183",
+  "resolved_at": "2026-04-24T14:13:00",
+  "ticket_id": "TKT-2026-000183"
+ },
+ {
+  "business_minutes_to_resolve": 2630,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000184",
+  "resolved_at": "2026-05-04T11:28:00",
+  "ticket_id": "TKT-2026-000184"
+ },
+ {
+  "business_minutes_to_resolve": 864,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000185",
+  "resolved_at": "2026-04-28T09:57:00",
+  "ticket_id": "TKT-2026-000185"
+ },
+ {
+  "business_minutes_to_resolve": 795,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000186",
+  "resolved_at": "2026-04-28T09:44:00",
+  "ticket_id": "TKT-2026-000186"
+ },
+ {
+  "business_minutes_to_resolve": 811,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000187",
+  "resolved_at": "2026-04-29T11:08:00",
+  "ticket_id": "TKT-2026-000187"
+ },
+ {
+  "business_minutes_to_resolve": 2850,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000188",
+  "resolved_at": "2026-05-06T11:43:00",
+  "ticket_id": "TKT-2026-000188"
+ },
+ {
+  "business_minutes_to_resolve": 436,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000189",
+  "resolved_at": "2026-04-28T17:14:11",
+  "ticket_id": "TKT-2026-000189"
+ },
+ {
+  "business_minutes_to_resolve": 544,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000190",
+  "resolved_at": "2026-04-29T16:37:00",
+  "ticket_id": "TKT-2026-000190"
+ },
+ {
+  "business_minutes_to_resolve": 1299,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000191",
+  "resolved_at": "2026-05-04T12:30:00",
+  "ticket_id": "TKT-2026-000191"
+ },
+ {
+  "business_minutes_to_resolve": 312,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000192",
+  "resolved_at": "2026-04-29T14:42:00",
+  "ticket_id": "TKT-2026-000192"
+ },
+ {
+  "business_minutes_to_resolve": 396,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000193",
+  "resolved_at": "2026-04-29T16:06:00",
+  "ticket_id": "TKT-2026-000193"
+ },
+ {
+  "business_minutes_to_resolve": 1081,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000194",
+  "resolved_at": "2026-05-04T16:41:00",
+  "ticket_id": "TKT-2026-000194"
+ },
+ {
+  "business_minutes_to_resolve": 1755,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000195",
+  "resolved_at": "2026-05-06T13:15:00",
+  "ticket_id": "TKT-2026-000195"
+ },
+ {
+  "business_minutes_to_resolve": 540,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000196",
+  "resolved_at": "2026-05-04T10:00:00",
+  "ticket_id": "TKT-2026-000196"
+ },
+ {
+  "business_minutes_to_resolve": 611,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000197",
+  "resolved_at": "2026-05-05T11:11:00",
+  "ticket_id": "TKT-2026-000197"
+ },
+ {
+  "business_minutes_to_resolve": 279,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000198",
+  "resolved_at": "2026-05-04T15:48:20",
+  "ticket_id": "TKT-2026-000198"
+ },
+ {
+  "business_minutes_to_resolve": 467,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000199",
+  "resolved_at": "2026-05-06T09:57:00",
+  "ticket_id": "TKT-2026-000199"
+ },
+ {
+  "business_minutes_to_resolve": 688,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000200",
+  "resolved_at": "2026-05-06T15:49:00",
+  "ticket_id": "TKT-2026-000200"
+ },
+ {
+  "business_minutes_to_resolve": 570,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000201",
+  "resolved_at": "2026-05-06T16:04:00",
+  "ticket_id": "TKT-2026-000201"
+ },
+ {
+  "business_minutes_to_resolve": 486,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000202",
+  "resolved_at": "2026-05-06T15:12:00",
+  "ticket_id": "TKT-2026-000202"
+ },
+ {
+  "business_minutes_to_resolve": 601,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000203",
+  "resolved_at": "2026-05-07T11:01:00",
+  "ticket_id": "TKT-2026-000203"
+ },
+ {
+  "business_minutes_to_resolve": 711,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000204",
+  "resolved_at": "2026-05-07T16:22:00",
+  "ticket_id": "TKT-2026-000204"
+ },
+ {
+  "business_minutes_to_resolve": 1009,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000205",
+  "resolved_at": "2026-05-08T12:56:00",
+  "ticket_id": "TKT-2026-000205"
+ },
+ {
+  "business_minutes_to_resolve": 698,
+  "cited_version_id": "VER-POL-HR-2026-005-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000206",
+  "resolved_at": "2026-05-07T16:53:00",
+  "ticket_id": "TKT-2026-000206"
+ },
+ {
+  "business_minutes_to_resolve": 1406,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000207",
+  "resolved_at": "2026-05-11T14:43:00",
+  "ticket_id": "TKT-2026-000207"
+ },
+ {
+  "business_minutes_to_resolve": 1096,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000208",
+  "resolved_at": "2026-05-11T14:48:00",
+  "ticket_id": "TKT-2026-000208"
+ },
+ {
+  "business_minutes_to_resolve": 2670,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000209",
+  "resolved_at": "2026-05-14T15:52:00",
+  "ticket_id": "TKT-2026-000209"
+ },
+ {
+  "business_minutes_to_resolve": 662,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000210",
+  "resolved_at": "2026-05-08T16:52:00",
+  "ticket_id": "TKT-2026-000210"
+ },
+ {
+  "business_minutes_to_resolve": 387,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000211",
+  "resolved_at": "2026-05-08T13:45:00",
+  "ticket_id": "TKT-2026-000211"
+ },
+ {
+  "business_minutes_to_resolve": 279,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000212",
+  "resolved_at": "2026-05-08T12:15:00",
+  "ticket_id": "TKT-2026-000212"
+ },
+ {
+  "business_minutes_to_resolve": 398,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000213",
+  "resolved_at": "2026-05-08T15:22:00",
+  "ticket_id": "TKT-2026-000213"
+ },
+ {
+  "business_minutes_to_resolve": 743,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000214",
+  "resolved_at": "2026-05-12T13:23:00",
+  "ticket_id": "TKT-2026-000214"
+ },
+ {
+  "business_minutes_to_resolve": 725,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000215",
+  "resolved_at": "2026-05-12T15:08:00",
+  "ticket_id": "TKT-2026-000215"
+ },
+ {
+  "business_minutes_to_resolve": 1031,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000216",
+  "resolved_at": "2026-05-13T13:19:00",
+  "ticket_id": "TKT-2026-000216"
+ },
+ {
+  "business_minutes_to_resolve": 1016,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000217",
+  "resolved_at": "2026-05-13T17:56:00",
+  "ticket_id": "TKT-2026-000217"
+ },
+ {
+  "business_minutes_to_resolve": 1094,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000218",
+  "resolved_at": "2026-05-14T12:41:00",
+  "ticket_id": "TKT-2026-000218"
+ },
+ {
+  "business_minutes_to_resolve": 1137,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000219",
+  "resolved_at": "2026-05-14T15:48:00",
+  "ticket_id": "TKT-2026-000219"
+ },
+ {
+  "business_minutes_to_resolve": 1188,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000220",
+  "resolved_at": "2026-05-15T10:53:00",
+  "ticket_id": "TKT-2026-000220"
+ },
+ {
+  "business_minutes_to_resolve": 540,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000221",
+  "resolved_at": "2026-05-15T13:31:00",
+  "ticket_id": "TKT-2026-000221"
+ },
+ {
+  "business_minutes_to_resolve": 672,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000222",
+  "resolved_at": "2026-05-15T17:11:00",
+  "ticket_id": "TKT-2026-000222"
+ },
+ {
+  "business_minutes_to_resolve": 683,
+  "cited_version_id": "VER-POL-HR-2026-008-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000223",
+  "resolved_at": "2026-05-18T11:52:00",
+  "ticket_id": "TKT-2026-000223"
+ },
+ {
+  "business_minutes_to_resolve": 527,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000224",
+  "resolved_at": "2026-05-18T09:47:00",
+  "ticket_id": "TKT-2026-000224"
+ },
+ {
+  "business_minutes_to_resolve": 999,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000225",
+  "resolved_at": "2026-05-18T17:47:00",
+  "ticket_id": "TKT-2026-000225"
+ },
+ {
+  "business_minutes_to_resolve": 366,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000226",
+  "resolved_at": "2026-05-18T10:05:00",
+  "ticket_id": "TKT-2026-000226"
+ },
+ {
+  "business_minutes_to_resolve": 1977,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000227",
+  "resolved_at": "2026-05-21T11:35:00",
+  "ticket_id": "TKT-2026-000227"
+ },
+ {
+  "business_minutes_to_resolve": 648,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000228",
+  "resolved_at": "2026-05-18T15:33:00",
+  "ticket_id": "TKT-2026-000228"
+ },
+ {
+  "business_minutes_to_resolve": 572,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000229",
+  "resolved_at": "2026-05-18T16:21:00",
+  "ticket_id": "TKT-2026-000229"
+ },
+ {
+  "business_minutes_to_resolve": 1000,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000230",
+  "resolved_at": "2026-05-20T12:00:00",
+  "ticket_id": "TKT-2026-000230"
+ },
+ {
+  "business_minutes_to_resolve": 548,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000231",
+  "resolved_at": "2026-05-20T11:07:00",
+  "ticket_id": "TKT-2026-000231"
+ },
+ {
+  "business_minutes_to_resolve": 531,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000232",
+  "resolved_at": "2026-05-21T16:12:00",
+  "ticket_id": "TKT-2026-000232"
+ },
+ {
+  "business_minutes_to_resolve": 982,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000233",
+  "resolved_at": "2026-05-22T17:02:00",
+  "ticket_id": "TKT-2026-000233"
+ },
+ {
+  "business_minutes_to_resolve": 2222,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000234",
+  "resolved_at": "2026-05-28T09:31:00",
+  "ticket_id": "TKT-2026-000234"
+ },
+ {
+  "business_minutes_to_resolve": 964,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000235",
+  "resolved_at": "2026-05-25T14:22:00",
+  "ticket_id": "TKT-2026-000235"
+ },
+ {
+  "business_minutes_to_resolve": 765,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000236",
+  "resolved_at": "2026-05-25T13:45:00",
+  "ticket_id": "TKT-2026-000236"
+ },
+ {
+  "business_minutes_to_resolve": 1708,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000237",
+  "resolved_at": "2026-05-27T12:28:00",
+  "ticket_id": "TKT-2026-000237"
+ },
+ {
+  "business_minutes_to_resolve": 664,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000238",
+  "resolved_at": "2026-05-25T16:28:00",
+  "ticket_id": "TKT-2026-000238"
+ },
+ {
+  "business_minutes_to_resolve": 879,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000239",
+  "resolved_at": "2026-05-26T17:01:00",
+  "ticket_id": "TKT-2026-000239"
+ },
+ {
+  "business_minutes_to_resolve": 1040,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000240",
+  "resolved_at": "2026-05-27T13:30:00",
+  "ticket_id": "TKT-2026-000240"
+ },
+ {
+  "business_minutes_to_resolve": 835,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000241",
+  "resolved_at": "2026-05-27T17:23:00",
+  "ticket_id": "TKT-2026-000241"
+ },
+ {
+  "business_minutes_to_resolve": 735,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000242",
+  "resolved_at": "2026-05-28T11:02:00",
+  "ticket_id": "TKT-2026-000242"
+ },
+ {
+  "business_minutes_to_resolve": 864,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000243",
+  "resolved_at": "2026-05-28T15:12:00",
+  "ticket_id": "TKT-2026-000243"
+ },
+ {
+  "business_minutes_to_resolve": 994,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000244",
+  "resolved_at": "2026-05-28T17:34:00",
+  "ticket_id": "TKT-2026-000244"
+ },
+ {
+  "business_minutes_to_resolve": 765,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000245",
+  "resolved_at": "2026-05-29T12:27:00",
+  "ticket_id": "TKT-2026-000245"
+ },
+ {
+  "business_minutes_to_resolve": 896,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000246",
+  "resolved_at": "2026-06-01T15:30:00",
+  "ticket_id": "TKT-2026-000246"
+ },
+ {
+  "business_minutes_to_resolve": 616,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000247",
+  "resolved_at": "2026-06-01T10:59:00",
+  "ticket_id": "TKT-2026-000247"
+ },
+ {
+  "business_minutes_to_resolve": 728,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000248",
+  "resolved_at": "2026-06-01T13:37:00",
+  "ticket_id": "TKT-2026-000248"
+ },
+ {
+  "business_minutes_to_resolve": 376,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000249",
+  "resolved_at": "2026-06-01T10:39:00",
+  "ticket_id": "TKT-2026-000249"
+ },
+ {
+  "business_minutes_to_resolve": 1830,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000250",
+  "resolved_at": "2026-06-04T14:30:00",
+  "ticket_id": "TKT-2026-000250"
+ },
+ {
+  "business_minutes_to_resolve": 379,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000251",
+  "resolved_at": "2026-06-02T15:49:00",
+  "ticket_id": "TKT-2026-000251"
+ },
+ {
+  "business_minutes_to_resolve": 756,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000252",
+  "resolved_at": "2026-06-04T12:57:00",
+  "ticket_id": "TKT-2026-000252"
+ },
+ {
+  "business_minutes_to_resolve": 760,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000253",
+  "resolved_at": "2026-06-04T15:27:00",
+  "ticket_id": "TKT-2026-000253"
+ },
+ {
+  "business_minutes_to_resolve": 606,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000254",
+  "resolved_at": "2026-06-04T15:44:00",
+  "ticket_id": "TKT-2026-000254"
+ },
+ {
+  "business_minutes_to_resolve": 938,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000255",
+  "resolved_at": "2026-06-05T13:39:00",
+  "ticket_id": "TKT-2026-000255"
+ },
+ {
+  "business_minutes_to_resolve": 1191,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000256",
+  "resolved_at": "2026-06-08T09:46:00",
+  "ticket_id": "TKT-2026-000256"
+ },
+ {
+  "business_minutes_to_resolve": 844,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000257",
+  "resolved_at": "2026-06-05T15:04:00",
+  "ticket_id": "TKT-2026-000257"
+ },
+ {
+  "business_minutes_to_resolve": 1058,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000258",
+  "resolved_at": "2026-06-08T17:31:00",
+  "ticket_id": "TKT-2026-000258"
+ },
+ {
+  "business_minutes_to_resolve": 860,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000259",
+  "resolved_at": "2026-06-08T15:20:00",
+  "ticket_id": "TKT-2026-000259"
+ },
+ {
+  "business_minutes_to_resolve": 1126,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000260",
+  "resolved_at": "2026-06-10T11:16:00",
+  "ticket_id": "TKT-2026-000260"
+ },
+ {
+  "business_minutes_to_resolve": 761,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000261",
+  "resolved_at": "2026-06-09T13:41:00",
+  "ticket_id": "TKT-2026-000261"
+ },
+ {
+  "business_minutes_to_resolve": 854,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000262",
+  "resolved_at": "2026-06-10T15:14:00",
+  "ticket_id": "TKT-2026-000262"
+ },
+ {
+  "business_minutes_to_resolve": 559,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000263",
+  "resolved_at": "2026-06-11T10:19:00",
+  "ticket_id": "TKT-2026-000263"
+ },
+ {
+  "business_minutes_to_resolve": 347,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000264",
+  "resolved_at": "2026-06-11T13:48:00",
+  "ticket_id": "TKT-2026-000264"
+ },
+ {
+  "business_minutes_to_resolve": 648,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000265",
+  "resolved_at": "2026-06-12T14:19:00",
+  "ticket_id": "TKT-2026-000265"
+ },
+ {
+  "business_minutes_to_resolve": 776,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000266",
+  "resolved_at": "2026-06-16T09:44:00",
+  "ticket_id": "TKT-2026-000266"
+ },
+ {
+  "business_minutes_to_resolve": 1023,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000267",
+  "resolved_at": "2026-06-17T09:33:00",
+  "ticket_id": "TKT-2026-000267"
+ },
+ {
+  "business_minutes_to_resolve": 827,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000268",
+  "resolved_at": "2026-06-16T15:36:00",
+  "ticket_id": "TKT-2026-000268"
+ },
+ {
+  "business_minutes_to_resolve": 639,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000269",
+  "resolved_at": "2026-06-16T14:24:00",
+  "ticket_id": "TKT-2026-000269"
+ },
+ {
+  "business_minutes_to_resolve": 854,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000270",
+  "resolved_at": "2026-06-17T14:21:00",
+  "ticket_id": "TKT-2026-000270"
+ },
+ {
+  "business_minutes_to_resolve": 286,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000271",
+  "resolved_at": "2026-06-16T14:40:25",
+  "ticket_id": "TKT-2026-000271"
+ },
+ {
+  "business_minutes_to_resolve": 694,
+  "cited_version_id": "VER-POL-HR-2026-009-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000272",
+  "resolved_at": "2026-06-17T13:19:00",
+  "ticket_id": "TKT-2026-000272"
+ },
+ {
+  "business_minutes_to_resolve": 452,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000273",
+  "resolved_at": "2026-06-17T10:33:00",
+  "ticket_id": "TKT-2026-000273"
+ },
+ {
+  "business_minutes_to_resolve": 1722,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000274",
+  "resolved_at": "2026-06-22T17:57:00",
+  "ticket_id": "TKT-2026-000274"
+ },
+ {
+  "business_minutes_to_resolve": 2707,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000275",
+  "resolved_at": "2026-06-25T13:11:00",
+  "ticket_id": "TKT-2026-000275"
+ },
+ {
+  "business_minutes_to_resolve": 274,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000276",
+  "resolved_at": "2026-06-19T11:29:00",
+  "ticket_id": "TKT-2026-000276"
+ },
+ {
+  "business_minutes_to_resolve": 671,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000277",
+  "resolved_at": "2026-06-22T11:21:00",
+  "ticket_id": "TKT-2026-000277"
+ },
+ {
+  "business_minutes_to_resolve": 2647,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000278",
+  "resolved_at": "2026-06-26T11:55:00",
+  "ticket_id": "TKT-2026-000278"
+ },
+ {
+  "business_minutes_to_resolve": 793,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000279",
+  "resolved_at": "2026-06-22T17:21:00",
+  "ticket_id": "TKT-2026-000279"
+ },
+ {
+  "business_minutes_to_resolve": 2663,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000280",
+  "resolved_at": "2026-06-29T16:05:00",
+  "ticket_id": "TKT-2026-000280"
+ },
+ {
+  "business_minutes_to_resolve": 532,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000281",
+  "resolved_at": "2026-06-25T09:52:00",
+  "ticket_id": "TKT-2026-000281"
+ },
+ {
+  "business_minutes_to_resolve": 632,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000282",
+  "resolved_at": "2026-06-25T11:32:00",
+  "ticket_id": "TKT-2026-000282"
+ },
+ {
+  "business_minutes_to_resolve": 1105,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000283",
+  "resolved_at": "2026-06-26T17:09:00",
+  "ticket_id": "TKT-2026-000283"
+ },
+ {
+  "business_minutes_to_resolve": 257,
+  "cited_version_id": "VER-POL-HR-2026-009-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000284",
+  "resolved_at": "2026-06-25T13:47:00",
+  "ticket_id": "TKT-2026-000284"
+ },
+ {
+  "business_minutes_to_resolve": 888,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000285",
+  "resolved_at": "2026-06-29T13:13:00",
+  "ticket_id": "TKT-2026-000285"
+ },
+ {
+  "business_minutes_to_resolve": 526,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000286",
+  "resolved_at": "2026-06-30T09:46:00",
+  "ticket_id": "TKT-2026-000286"
+ },
+ {
+  "business_minutes_to_resolve": 630,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000287",
+  "resolved_at": "2026-06-30T11:30:00",
+  "ticket_id": "TKT-2026-000287"
+ },
+ {
+  "business_minutes_to_resolve": 162,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000288",
+  "resolved_at": "2026-06-29T12:12:00",
+  "ticket_id": "TKT-2026-000288"
+ },
+ {
+  "business_minutes_to_resolve": 417,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000289",
+  "resolved_at": "2026-06-29T16:27:00",
+  "ticket_id": "TKT-2026-000289"
+ },
+ {
+  "business_minutes_to_resolve": 404,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000290",
+  "resolved_at": "2026-06-30T15:28:00",
+  "ticket_id": "TKT-2026-000290"
+ },
+ {
+  "business_minutes_to_resolve": 577,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000291",
+  "resolved_at": "2026-07-01T10:50:00",
+  "ticket_id": "TKT-2026-000291"
+ },
+ {
+  "business_minutes_to_resolve": 855,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000292",
+  "resolved_at": "2026-07-02T14:58:00",
+  "ticket_id": "TKT-2026-000292"
+ },
+ {
+  "business_minutes_to_resolve": 1047,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000293",
+  "resolved_at": "2026-07-03T11:09:00",
+  "ticket_id": "TKT-2026-000293"
+ },
+ {
+  "business_minutes_to_resolve": 668,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000294",
+  "resolved_at": "2026-07-03T10:56:00",
+  "ticket_id": "TKT-2026-000294"
+ },
+ {
+  "business_minutes_to_resolve": 776,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000295",
+  "resolved_at": "2026-07-03T13:56:00",
+  "ticket_id": "TKT-2026-000295"
+ },
+ {
+  "business_minutes_to_resolve": 577,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000296",
+  "resolved_at": "2026-07-03T14:53:00",
+  "ticket_id": "TKT-2026-000296"
+ },
+ {
+  "business_minutes_to_resolve": 498,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000297",
+  "resolved_at": "2026-07-03T13:56:00",
+  "ticket_id": "TKT-2026-000297"
+ },
+ {
+  "business_minutes_to_resolve": 440,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000298",
+  "resolved_at": "2026-07-03T16:46:00",
+  "ticket_id": "TKT-2026-000298"
+ },
+ {
+  "business_minutes_to_resolve": 800,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000299",
+  "resolved_at": "2026-07-06T14:20:00",
+  "ticket_id": "TKT-2026-000299"
+ },
+ {
+  "business_minutes_to_resolve": 983,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000300",
+  "resolved_at": "2026-07-06T17:38:00",
+  "ticket_id": "TKT-2026-000300"
+ },
+ {
+  "business_minutes_to_resolve": 713,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000301",
+  "resolved_at": "2026-07-07T10:34:00",
+  "ticket_id": "TKT-2026-000301"
+ },
+ {
+  "business_minutes_to_resolve": 900,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000302",
+  "resolved_at": "2026-07-07T15:24:00",
+  "ticket_id": "TKT-2026-000302"
+ },
+ {
+  "business_minutes_to_resolve": 501,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000303",
+  "resolved_at": "2026-07-06T17:26:00",
+  "ticket_id": "TKT-2026-000303"
+ },
+ {
+  "business_minutes_to_resolve": 618,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000304",
+  "resolved_at": "2026-07-07T11:18:00",
+  "ticket_id": "TKT-2026-000304"
+ },
+ {
+  "business_minutes_to_resolve": 936,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000305",
+  "resolved_at": "2026-07-08T16:36:00",
+  "ticket_id": "TKT-2026-000305"
+ },
+ {
+  "business_minutes_to_resolve": 1103,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000306",
+  "resolved_at": "2026-07-09T12:29:00",
+  "ticket_id": "TKT-2026-000306"
+ },
+ {
+  "business_minutes_to_resolve": 992,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000307",
+  "resolved_at": "2026-07-09T12:07:00",
+  "ticket_id": "TKT-2026-000307"
+ },
+ {
+  "business_minutes_to_resolve": 359,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000308",
+  "resolved_at": "2026-07-08T10:09:00",
+  "ticket_id": "TKT-2026-000308"
+ },
+ {
+  "business_minutes_to_resolve": 989,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000309",
+  "resolved_at": "2026-07-09T17:29:00",
+  "ticket_id": "TKT-2026-000309"
+ },
+ {
+  "business_minutes_to_resolve": 2329,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000310",
+  "resolved_at": "2026-07-15T11:06:00",
+  "ticket_id": "TKT-2026-000310"
+ },
+ {
+  "business_minutes_to_resolve": 864,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000311",
+  "resolved_at": "2026-07-10T12:17:00",
+  "ticket_id": "TKT-2026-000311"
+ },
+ {
+  "business_minutes_to_resolve": 859,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000312",
+  "resolved_at": "2026-07-10T14:18:00",
+  "ticket_id": "TKT-2026-000312"
+ },
+ {
+  "business_minutes_to_resolve": 480,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000313",
+  "resolved_at": "2026-07-10T10:58:00",
+  "ticket_id": "TKT-2026-000313"
+ },
+ {
+  "business_minutes_to_resolve": 1108,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000314",
+  "resolved_at": "2026-07-14T12:09:00",
+  "ticket_id": "TKT-2026-000314"
+ },
+ {
+  "business_minutes_to_resolve": 2776,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000315",
+  "resolved_at": "2026-07-17T17:12:00",
+  "ticket_id": "TKT-2026-000315"
+ },
+ {
+  "business_minutes_to_resolve": 1485,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000316",
+  "resolved_at": "2026-07-15T17:22:00",
+  "ticket_id": "TKT-2026-000316"
+ },
+ {
+  "business_minutes_to_resolve": 1954,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000317",
+  "resolved_at": "2026-07-17T09:44:00",
+  "ticket_id": "TKT-2026-000317"
+ },
+ {
+  "business_minutes_to_resolve": 2272,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000318",
+  "resolved_at": "2026-07-20T10:51:00",
+  "ticket_id": "TKT-2026-000318"
+ },
+ {
+  "business_minutes_to_resolve": 939,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000319",
+  "resolved_at": "2026-07-15T17:30:00",
+  "ticket_id": "TKT-2026-000319"
+ },
+ {
+  "business_minutes_to_resolve": 1001,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000320",
+  "resolved_at": "2026-07-17T15:13:00",
+  "ticket_id": "TKT-2026-000320"
+ },
+ {
+  "business_minutes_to_resolve": 1770,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000321",
+  "resolved_at": "2026-07-22T13:30:00",
+  "ticket_id": "TKT-2026-000321"
+ },
+ {
+  "business_minutes_to_resolve": 769,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000322",
+  "resolved_at": "2026-07-20T15:10:00",
+  "ticket_id": "TKT-2026-000322"
+ },
+ {
+  "business_minutes_to_resolve": 1091,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000323",
+  "resolved_at": "2026-07-21T12:35:00",
+  "ticket_id": "TKT-2026-000323"
+ },
+ {
+  "business_minutes_to_resolve": 541,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000324",
+  "resolved_at": "2026-07-21T10:01:00",
+  "ticket_id": "TKT-2026-000324"
+ },
+ {
+  "business_minutes_to_resolve": 612,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000325",
+  "resolved_at": "2026-07-21T11:12:00",
+  "ticket_id": "TKT-2026-000325"
+ },
+ {
+  "business_minutes_to_resolve": 615,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000326",
+  "resolved_at": "2026-07-21T12:20:00",
+  "ticket_id": "TKT-2026-000326"
+ },
+ {
+  "business_minutes_to_resolve": 721,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000327",
+  "resolved_at": "2026-07-21T17:26:00",
+  "ticket_id": "TKT-2026-000327"
+ },
+ {
+  "business_minutes_to_resolve": 361,
+  "cited_version_id": "VER-POL-HR-2026-011-03",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000328",
+  "resolved_at": "2026-07-21T11:31:00",
+  "ticket_id": "TKT-2026-000328"
+ },
+ {
+  "business_minutes_to_resolve": 465,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000329",
+  "resolved_at": "2026-07-21T17:15:00",
+  "ticket_id": "TKT-2026-000329"
+ },
+ {
+  "business_minutes_to_resolve": 468,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000330",
+  "resolved_at": "2026-07-21T17:28:39",
+  "ticket_id": "TKT-2026-000330"
+ },
+ {
+  "business_minutes_to_resolve": 607,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000331",
+  "resolved_at": "2026-07-23T10:02:00",
+  "ticket_id": "TKT-2026-000331"
+ },
+ {
+  "business_minutes_to_resolve": 727,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000332",
+  "resolved_at": "2026-07-23T13:07:00",
+  "ticket_id": "TKT-2026-000332"
+ },
+ {
+  "business_minutes_to_resolve": 1040,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000333",
+  "resolved_at": "2026-07-24T12:09:00",
+  "ticket_id": "TKT-2026-000333"
+ },
+ {
+  "business_minutes_to_resolve": 970,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000334",
+  "resolved_at": "2026-07-24T17:10:00",
+  "ticket_id": "TKT-2026-000334"
+ },
+ {
+  "business_minutes_to_resolve": 909,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000335",
+  "resolved_at": "2026-07-24T16:09:00",
+  "ticket_id": "TKT-2026-000335"
+ },
+ {
+  "business_minutes_to_resolve": 582,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000336",
+  "resolved_at": "2026-07-27T14:01:00",
+  "ticket_id": "TKT-2026-000336"
+ },
+ {
+  "business_minutes_to_resolve": 974,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000337",
+  "resolved_at": "2026-07-28T15:51:00",
+  "ticket_id": "TKT-2026-000337"
+ },
+ {
+  "business_minutes_to_resolve": 352,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000338",
+  "resolved_at": "2026-07-27T17:17:10",
+  "ticket_id": "TKT-2026-000338"
+ },
+ {
+  "business_minutes_to_resolve": 1173,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000339",
+  "resolved_at": "2026-07-30T10:39:00",
+  "ticket_id": "TKT-2026-000339"
+ },
+ {
+  "business_minutes_to_resolve": 2199,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000340",
+  "resolved_at": "2026-08-03T12:09:00",
+  "ticket_id": "TKT-2026-000340"
+ },
+ {
+  "business_minutes_to_resolve": 736,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000341",
+  "resolved_at": "2026-07-29T13:16:00",
+  "ticket_id": "TKT-2026-000341"
+ },
+ {
+  "business_minutes_to_resolve": 506,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000342",
+  "resolved_at": "2026-07-28T17:56:00",
+  "ticket_id": "TKT-2026-000342"
+ },
+ {
+  "business_minutes_to_resolve": 570,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000343",
+  "resolved_at": "2026-07-29T17:23:00",
+  "ticket_id": "TKT-2026-000343"
+ },
+ {
+  "business_minutes_to_resolve": 357,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000344",
+  "resolved_at": "2026-07-29T15:27:00",
+  "ticket_id": "TKT-2026-000344"
+ },
+ {
+  "business_minutes_to_resolve": 614,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000345",
+  "resolved_at": "2026-07-30T12:22:00",
+  "ticket_id": "TKT-2026-000345"
+ },
+ {
+  "business_minutes_to_resolve": 291,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000346",
+  "resolved_at": "2026-07-29T16:53:37",
+  "ticket_id": "TKT-2026-000346"
+ },
+ {
+  "business_minutes_to_resolve": 950,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000347",
+  "resolved_at": "2026-08-03T11:42:00",
+  "ticket_id": "TKT-2026-000347"
+ },
+ {
+  "business_minutes_to_resolve": 1154,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000348",
+  "resolved_at": "2026-08-03T16:23:00",
+  "ticket_id": "TKT-2026-000348"
+ },
+ {
+  "business_minutes_to_resolve": 862,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000349",
+  "resolved_at": "2026-08-03T12:30:00",
+  "ticket_id": "TKT-2026-000349"
+ },
+ {
+  "business_minutes_to_resolve": 634,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000350",
+  "resolved_at": "2026-08-03T11:41:00",
+  "ticket_id": "TKT-2026-000350"
+ },
+ {
+  "business_minutes_to_resolve": 831,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000351",
+  "resolved_at": "2026-08-03T17:24:00",
+  "ticket_id": "TKT-2026-000351"
+ },
+ {
+  "business_minutes_to_resolve": 668,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000352",
+  "resolved_at": "2026-08-03T15:20:00",
+  "ticket_id": "TKT-2026-000352"
+ },
+ {
+  "business_minutes_to_resolve": 172,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000353",
+  "resolved_at": "2026-08-03T13:44:13",
+  "ticket_id": "TKT-2026-000353"
+ },
+ {
+  "business_minutes_to_resolve": 1076,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000354",
+  "resolved_at": "2026-08-05T14:00:00",
+  "ticket_id": "TKT-2026-000354"
+ },
+ {
+  "business_minutes_to_resolve": 2641,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000355",
+  "resolved_at": "2026-08-10T14:47:00",
+  "ticket_id": "TKT-2026-000355"
+ },
+ {
+  "business_minutes_to_resolve": 561,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000356",
+  "resolved_at": "2026-08-04T14:48:00",
+  "ticket_id": "TKT-2026-000356"
+ },
+ {
+  "business_minutes_to_resolve": 948,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000357",
+  "resolved_at": "2026-08-05T15:33:00",
+  "ticket_id": "TKT-2026-000357"
+ },
+ {
+  "business_minutes_to_resolve": 835,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000358",
+  "resolved_at": "2026-08-06T14:55:00",
+  "ticket_id": "TKT-2026-000358"
+ },
+ {
+  "business_minutes_to_resolve": 898,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000359",
+  "resolved_at": "2026-08-06T17:39:00",
+  "ticket_id": "TKT-2026-000359"
+ },
+ {
+  "business_minutes_to_resolve": 538,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000360",
+  "resolved_at": "2026-08-06T17:28:00",
+  "ticket_id": "TKT-2026-000360"
+ },
+ {
+  "business_minutes_to_resolve": 756,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000361",
+  "resolved_at": "2026-08-10T12:00:00",
+  "ticket_id": "TKT-2026-000361"
+ },
+ {
+  "business_minutes_to_resolve": 1103,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000362",
+  "resolved_at": "2026-08-11T15:26:00",
+  "ticket_id": "TKT-2026-000362"
+ },
+ {
+  "business_minutes_to_resolve": 385,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000363",
+  "resolved_at": "2026-08-10T12:09:00",
+  "ticket_id": "TKT-2026-000363"
+ },
+ {
+  "business_minutes_to_resolve": 1075,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000364",
+  "resolved_at": "2026-08-11T16:12:00",
+  "ticket_id": "TKT-2026-000364"
+ },
+ {
+  "business_minutes_to_resolve": 2763,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000365",
+  "resolved_at": "2026-08-17T13:03:00",
+  "ticket_id": "TKT-2026-000365"
+ },
+ {
+  "business_minutes_to_resolve": 279,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000366",
+  "resolved_at": "2026-08-10T15:16:40",
+  "ticket_id": "TKT-2026-000366"
+ },
+ {
+  "business_minutes_to_resolve": 543,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000367",
+  "resolved_at": "2026-08-12T10:03:00",
+  "ticket_id": "TKT-2026-000367"
+ },
+ {
+  "business_minutes_to_resolve": 1633,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000368",
+  "resolved_at": "2026-08-14T11:42:00",
+  "ticket_id": "TKT-2026-000368"
+ },
+ {
+  "business_minutes_to_resolve": 782,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000369",
+  "resolved_at": "2026-08-12T16:40:00",
+  "ticket_id": "TKT-2026-000369"
+ },
+ {
+  "business_minutes_to_resolve": 1188,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000370",
+  "resolved_at": "2026-08-14T09:56:00",
+  "ticket_id": "TKT-2026-000370"
+ },
+ {
+  "business_minutes_to_resolve": 863,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000371",
+  "resolved_at": "2026-08-13T13:48:00",
+  "ticket_id": "TKT-2026-000371"
+ },
+ {
+  "business_minutes_to_resolve": 938,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000372",
+  "resolved_at": "2026-08-13T16:38:00",
+  "ticket_id": "TKT-2026-000372"
+ },
+ {
+  "business_minutes_to_resolve": 593,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000373",
+  "resolved_at": "2026-08-13T10:53:00",
+  "ticket_id": "TKT-2026-000373"
+ },
+ {
+  "business_minutes_to_resolve": 375,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000374",
+  "resolved_at": "2026-08-12T15:45:00",
+  "ticket_id": "TKT-2026-000374"
+ },
+ {
+  "business_minutes_to_resolve": 928,
+  "cited_version_id": "VER-POL-HR-2026-007-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000375",
+  "resolved_at": "2026-08-13T17:40:00",
+  "ticket_id": "TKT-2026-000375"
+ },
+ {
+  "business_minutes_to_resolve": 719,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000376",
+  "resolved_at": "2026-08-13T15:45:00",
+  "ticket_id": "TKT-2026-000376"
+ },
+ {
+  "business_minutes_to_resolve": 477,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000377",
+  "resolved_at": "2026-08-13T13:11:00",
+  "ticket_id": "TKT-2026-000377"
+ },
+ {
+  "business_minutes_to_resolve": 559,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000378",
+  "resolved_at": "2026-08-14T12:40:00",
+  "ticket_id": "TKT-2026-000378"
+ },
+ {
+  "business_minutes_to_resolve": 810,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000379",
+  "resolved_at": "2026-08-14T17:07:00",
+  "ticket_id": "TKT-2026-000379"
+ },
+ {
+  "business_minutes_to_resolve": 362,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000380",
+  "resolved_at": "2026-08-14T15:32:00",
+  "ticket_id": "TKT-2026-000380"
+ },
+ {
+  "business_minutes_to_resolve": 788,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000381",
+  "resolved_at": "2026-08-17T15:03:00",
+  "ticket_id": "TKT-2026-000381"
+ },
+ {
+  "business_minutes_to_resolve": 2737,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000382",
+  "resolved_at": "2026-08-21T17:46:00",
+  "ticket_id": "TKT-2026-000382"
+ },
+ {
+  "business_minutes_to_resolve": 1114,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000383",
+  "resolved_at": "2026-08-18T16:15:00",
+  "ticket_id": "TKT-2026-000383"
+ },
+ {
+  "business_minutes_to_resolve": 1034,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000384",
+  "resolved_at": "2026-08-18T15:34:00",
+  "ticket_id": "TKT-2026-000384"
+ },
+ {
+  "business_minutes_to_resolve": 1256,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000385",
+  "resolved_at": "2026-08-19T12:56:00",
+  "ticket_id": "TKT-2026-000385"
+ },
+ {
+  "business_minutes_to_resolve": 585,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000386",
+  "resolved_at": "2026-08-18T10:45:00",
+  "ticket_id": "TKT-2026-000386"
+ },
+ {
+  "business_minutes_to_resolve": 201,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000387",
+  "resolved_at": "2026-08-18T10:16:00",
+  "ticket_id": "TKT-2026-000387"
+ },
+ {
+  "business_minutes_to_resolve": 624,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000388",
+  "resolved_at": "2026-08-19T12:31:00",
+  "ticket_id": "TKT-2026-000388"
+ },
+ {
+  "business_minutes_to_resolve": 1192,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000389",
+  "resolved_at": "2026-08-20T13:34:00",
+  "ticket_id": "TKT-2026-000389"
+ },
+ {
+  "business_minutes_to_resolve": 1718,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000390",
+  "resolved_at": "2026-08-21T16:00:00",
+  "ticket_id": "TKT-2026-000390"
+ },
+ {
+  "business_minutes_to_resolve": 687,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000391",
+  "resolved_at": "2026-08-20T09:40:00",
+  "ticket_id": "TKT-2026-000391"
+ },
+ {
+  "business_minutes_to_resolve": 576,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000392",
+  "resolved_at": "2026-08-19T17:27:00",
+  "ticket_id": "TKT-2026-000392"
+ },
+ {
+  "business_minutes_to_resolve": 779,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000393",
+  "resolved_at": "2026-08-20T12:24:00",
+  "ticket_id": "TKT-2026-000393"
+ },
+ {
+  "business_minutes_to_resolve": 2157,
+  "cited_version_id": "VER-POL-HR-2026-012-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000394",
+  "resolved_at": "2026-08-25T10:11:00",
+  "ticket_id": "TKT-2026-000394"
+ },
+ {
+  "business_minutes_to_resolve": 442,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000395",
+  "resolved_at": "2026-08-19T16:52:00",
+  "ticket_id": "TKT-2026-000395"
+ },
+ {
+  "business_minutes_to_resolve": 722,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000396",
+  "resolved_at": "2026-08-20T13:39:00",
+  "ticket_id": "TKT-2026-000396"
+ },
+ {
+  "business_minutes_to_resolve": 777,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000397",
+  "resolved_at": "2026-08-20T16:48:00",
+  "ticket_id": "TKT-2026-000397"
+ },
+ {
+  "business_minutes_to_resolve": 1766,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000398",
+  "resolved_at": "2026-08-24T17:46:00",
+  "ticket_id": "TKT-2026-000398"
+ },
+ {
+  "business_minutes_to_resolve": 978,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000399",
+  "resolved_at": "2026-08-24T15:43:00",
+  "ticket_id": "TKT-2026-000399"
+ },
+ {
+  "business_minutes_to_resolve": 786,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000400",
+  "resolved_at": "2026-08-24T14:06:00",
+  "ticket_id": "TKT-2026-000400"
+ },
+ {
+  "business_minutes_to_resolve": 798,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000401",
+  "resolved_at": "2026-08-24T14:18:00",
+  "ticket_id": "TKT-2026-000401"
+ },
+ {
+  "business_minutes_to_resolve": 645,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000402",
+  "resolved_at": "2026-08-24T17:20:00",
+  "ticket_id": "TKT-2026-000402"
+ },
+ {
+  "business_minutes_to_resolve": 443,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000403",
+  "resolved_at": "2026-08-24T14:44:00",
+  "ticket_id": "TKT-2026-000403"
+ },
+ {
+  "business_minutes_to_resolve": 1065,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000404",
+  "resolved_at": "2026-08-26T10:15:00",
+  "ticket_id": "TKT-2026-000404"
+ },
+ {
+  "business_minutes_to_resolve": 688,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000405",
+  "resolved_at": "2026-08-25T13:36:00",
+  "ticket_id": "TKT-2026-000405"
+ },
+ {
+  "business_minutes_to_resolve": 596,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000406",
+  "resolved_at": "2026-08-25T17:40:00",
+  "ticket_id": "TKT-2026-000406"
+ },
+ {
+  "business_minutes_to_resolve": 962,
+  "cited_version_id": "VER-POL-HR-2026-003-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000407",
+  "resolved_at": "2026-08-26T15:41:00",
+  "ticket_id": "TKT-2026-000407"
+ },
+ {
+  "business_minutes_to_resolve": 614,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000408",
+  "resolved_at": "2026-08-26T11:14:00",
+  "ticket_id": "TKT-2026-000408"
+ },
+ {
+  "business_minutes_to_resolve": 413,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000409",
+  "resolved_at": "2026-08-26T09:54:00",
+  "ticket_id": "TKT-2026-000409"
+ },
+ {
+  "business_minutes_to_resolve": 1261,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000410",
+  "resolved_at": "2026-08-28T11:52:00",
+  "ticket_id": "TKT-2026-000410"
+ },
+ {
+  "business_minutes_to_resolve": 389,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000411",
+  "resolved_at": "2026-08-26T16:19:34",
+  "ticket_id": "TKT-2026-000411"
+ },
+ {
+  "business_minutes_to_resolve": 537,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000412",
+  "resolved_at": "2026-08-27T10:27:00",
+  "ticket_id": "TKT-2026-000412"
+ },
+ {
+  "business_minutes_to_resolve": 1608,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000413",
+  "resolved_at": "2026-08-31T11:27:00",
+  "ticket_id": "TKT-2026-000413"
+ },
+ {
+  "business_minutes_to_resolve": 906,
+  "cited_version_id": "VER-POL-HR-2026-007-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000414",
+  "resolved_at": "2026-08-27T17:20:00",
+  "ticket_id": "TKT-2026-000414"
+ },
+ {
+  "business_minutes_to_resolve": 852,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000415",
+  "resolved_at": "2026-08-28T15:24:00",
+  "ticket_id": "TKT-2026-000415"
+ },
+ {
+  "business_minutes_to_resolve": 883,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000416",
+  "resolved_at": "2026-08-28T17:30:00",
+  "ticket_id": "TKT-2026-000416"
+ },
+ {
+  "business_minutes_to_resolve": 803,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000417",
+  "resolved_at": "2026-08-28T17:18:00",
+  "ticket_id": "TKT-2026-000417"
+ },
+ {
+  "business_minutes_to_resolve": 768,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000418",
+  "resolved_at": "2026-08-31T10:07:00",
+  "ticket_id": "TKT-2026-000418"
+ },
+ {
+  "business_minutes_to_resolve": 856,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000419",
+  "resolved_at": "2026-08-31T12:19:00",
+  "ticket_id": "TKT-2026-000419"
+ },
+ {
+  "business_minutes_to_resolve": 496,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000420",
+  "resolved_at": "2026-08-28T14:52:00",
+  "ticket_id": "TKT-2026-000420"
+ },
+ {
+  "business_minutes_to_resolve": 1058,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000421",
+  "resolved_at": "2026-09-01T17:31:00",
+  "ticket_id": "TKT-2026-000421"
+ },
+ {
+  "business_minutes_to_resolve": 718,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000422",
+  "resolved_at": "2026-09-01T12:58:00",
+  "ticket_id": "TKT-2026-000422"
+ },
+ {
+  "business_minutes_to_resolve": 1044,
+  "cited_version_id": "VER-POL-HR-2026-007-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000423",
+  "resolved_at": "2026-09-02T09:54:00",
+  "ticket_id": "TKT-2026-000423"
+ },
+ {
+  "business_minutes_to_resolve": 460,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000424",
+  "resolved_at": "2026-08-31T17:10:00",
+  "ticket_id": "TKT-2026-000424"
+ },
+ {
+  "business_minutes_to_resolve": 279,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000425",
+  "resolved_at": "2026-08-31T14:09:00",
+  "ticket_id": "TKT-2026-000425"
+ },
+ {
+  "business_minutes_to_resolve": 1547,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000426",
+  "resolved_at": "2026-09-03T12:51:00",
+  "ticket_id": "TKT-2026-000426"
+ },
+ {
+  "business_minutes_to_resolve": 754,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000427",
+  "resolved_at": "2026-09-01T17:18:00",
+  "ticket_id": "TKT-2026-000427"
+ },
+ {
+  "business_minutes_to_resolve": 1613,
+  "cited_version_id": "VER-POL-HR-2026-006-01",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000428",
+  "resolved_at": "2026-09-04T10:50:00",
+  "ticket_id": "TKT-2026-000428"
+ },
+ {
+  "business_minutes_to_resolve": 1067,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000429",
+  "resolved_at": "2026-09-03T13:21:00",
+  "ticket_id": "TKT-2026-000429"
+ },
+ {
+  "business_minutes_to_resolve": 557,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000430",
+  "resolved_at": "2026-09-03T10:17:00",
+  "ticket_id": "TKT-2026-000430"
+ },
+ {
+  "business_minutes_to_resolve": 901,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000431",
+  "resolved_at": "2026-09-07T13:58:00",
+  "ticket_id": "TKT-2026-000431"
+ },
+ {
+  "business_minutes_to_resolve": 813,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000432",
+  "resolved_at": "2026-09-07T14:33:00",
+  "ticket_id": "TKT-2026-000432"
+ },
+ {
+  "business_minutes_to_resolve": 399,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000433",
+  "resolved_at": "2026-09-04T16:17:47",
+  "ticket_id": "TKT-2026-000433"
+ },
+ {
+  "business_minutes_to_resolve": 676,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000434",
+  "resolved_at": "2026-09-07T13:10:00",
+  "ticket_id": "TKT-2026-000434"
+ },
+ {
+  "business_minutes_to_resolve": 977,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000435",
+  "resolved_at": "2026-09-08T17:17:00",
+  "ticket_id": "TKT-2026-000435"
+ },
+ {
+  "business_minutes_to_resolve": 619,
+  "cited_version_id": "VER-POL-HR-2026-007-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000436",
+  "resolved_at": "2026-09-08T11:27:00",
+  "ticket_id": "TKT-2026-000436"
+ },
+ {
+  "business_minutes_to_resolve": 1028,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000437",
+  "resolved_at": "2026-09-09T12:50:00",
+  "ticket_id": "TKT-2026-000437"
+ },
+ {
+  "business_minutes_to_resolve": 1508,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000438",
+  "resolved_at": "2026-09-10T14:17:00",
+  "ticket_id": "TKT-2026-000438"
+ },
+ {
+  "business_minutes_to_resolve": 828,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000439",
+  "resolved_at": "2026-09-09T12:09:00",
+  "ticket_id": "TKT-2026-000439"
+ },
+ {
+  "business_minutes_to_resolve": 780,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000440",
+  "resolved_at": "2026-09-09T15:17:00",
+  "ticket_id": "TKT-2026-000440"
+ },
+ {
+  "business_minutes_to_resolve": 593,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000441",
+  "resolved_at": "2026-09-09T15:13:00",
+  "ticket_id": "TKT-2026-000441"
+ },
+ {
+  "business_minutes_to_resolve": 408,
+  "cited_version_id": "VER-POL-HR-2026-007-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000442",
+  "resolved_at": "2026-09-09T12:53:00",
+  "ticket_id": "TKT-2026-000442"
+ },
+ {
+  "business_minutes_to_resolve": 757,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000443",
+  "resolved_at": "2026-09-10T10:44:00",
+  "ticket_id": "TKT-2026-000443"
+ },
+ {
+  "business_minutes_to_resolve": 1256,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000444",
+  "resolved_at": "2026-09-11T13:26:00",
+  "ticket_id": "TKT-2026-000444"
+ },
+ {
+  "business_minutes_to_resolve": 299,
+  "cited_version_id": "VER-POL-HR-2026-008-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000445",
+  "resolved_at": "2026-09-09T14:29:00",
+  "ticket_id": "TKT-2026-000445"
+ },
+ {
+  "business_minutes_to_resolve": 927,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000446",
+  "resolved_at": "2026-09-11T14:46:00",
+  "ticket_id": "TKT-2026-000446"
+ },
+ {
+  "business_minutes_to_resolve": 512,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000447",
+  "resolved_at": "2026-09-11T12:10:00",
+  "ticket_id": "TKT-2026-000447"
+ },
+ {
+  "business_minutes_to_resolve": 308,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000448",
+  "resolved_at": "2026-09-11T14:23:00",
+  "ticket_id": "TKT-2026-000448"
+ },
+ {
+  "business_minutes_to_resolve": 905,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000449",
+  "resolved_at": "2026-09-15T16:05:00",
+  "ticket_id": "TKT-2026-000449"
+ },
+ {
+  "business_minutes_to_resolve": 984,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000450",
+  "resolved_at": "2026-09-16T15:17:00",
+  "ticket_id": "TKT-2026-000450"
+ },
+ {
+  "business_minutes_to_resolve": 917,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000451",
+  "resolved_at": "2026-09-16T14:46:00",
+  "ticket_id": "TKT-2026-000451"
+ },
+ {
+  "business_minutes_to_resolve": 644,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000452",
+  "resolved_at": "2026-09-16T12:18:00",
+  "ticket_id": "TKT-2026-000452"
+ },
+ {
+  "business_minutes_to_resolve": 2099,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000453",
+  "resolved_at": "2026-09-22T09:55:00",
+  "ticket_id": "TKT-2026-000453"
+ },
+ {
+  "business_minutes_to_resolve": 352,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000454",
+  "resolved_at": "2026-09-16T15:14:00",
+  "ticket_id": "TKT-2026-000454"
+ },
+ {
+  "business_minutes_to_resolve": 612,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000455",
+  "resolved_at": "2026-09-17T11:12:00",
+  "ticket_id": "TKT-2026-000455"
+ },
+ {
+  "business_minutes_to_resolve": 458,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000456",
+  "resolved_at": "2026-09-17T11:45:00",
+  "ticket_id": "TKT-2026-000456"
+ },
+ {
+  "business_minutes_to_resolve": 1711,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000457",
+  "resolved_at": "2026-09-21T16:37:00",
+  "ticket_id": "TKT-2026-000457"
+ },
+ {
+  "business_minutes_to_resolve": 897,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000458",
+  "resolved_at": "2026-09-18T15:57:00",
+  "ticket_id": "TKT-2026-000458"
+ },
+ {
+  "business_minutes_to_resolve": 858,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000459",
+  "resolved_at": "2026-09-21T11:57:00",
+  "ticket_id": "TKT-2026-000459"
+ },
+ {
+  "business_minutes_to_resolve": 478,
+  "cited_version_id": "VER-POL-HR-2026-010-01",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000460",
+  "resolved_at": "2026-09-18T17:28:00",
+  "ticket_id": "TKT-2026-000460"
+ },
+ {
+  "business_minutes_to_resolve": 1019,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000461",
+  "resolved_at": "2026-09-21T17:59:00",
+  "ticket_id": "TKT-2026-000461"
+ },
+ {
+  "business_minutes_to_resolve": 930,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000462",
+  "resolved_at": "2026-09-22T15:28:00",
+  "ticket_id": "TKT-2026-000462"
+ },
+ {
+  "business_minutes_to_resolve": 491,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000463",
+  "resolved_at": "2026-09-21T17:41:00",
+  "ticket_id": "TKT-2026-000463"
+ },
+ {
+  "business_minutes_to_resolve": 687,
+  "cited_version_id": "VER-POL-HR-2026-003-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000464",
+  "resolved_at": "2026-09-22T17:33:00",
+  "ticket_id": "TKT-2026-000464"
+ },
+ {
+  "business_minutes_to_resolve": 765,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000465",
+  "resolved_at": "2026-09-23T11:19:00",
+  "ticket_id": "TKT-2026-000465"
+ },
+ {
+  "business_minutes_to_resolve": 430,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000466",
+  "resolved_at": "2026-09-23T11:52:00",
+  "ticket_id": "TKT-2026-000466"
+ },
+ {
+  "business_minutes_to_resolve": 332,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000467",
+  "resolved_at": "2026-09-24T12:38:00",
+  "ticket_id": "TKT-2026-000467"
+ },
+ {
+  "business_minutes_to_resolve": 2772,
+  "cited_version_id": null,
+  "resolution_code": "no_response",
+  "resolution_id": "RES-TKT-2026-000468",
+  "resolved_at": "2026-10-01T13:12:00",
+  "ticket_id": "TKT-2026-000468"
+ },
+ {
+  "business_minutes_to_resolve": 631,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000469",
+  "resolved_at": "2026-09-25T12:47:00",
+  "ticket_id": "TKT-2026-000469"
+ },
+ {
+  "business_minutes_to_resolve": 827,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000470",
+  "resolved_at": "2026-09-25T16:18:00",
+  "ticket_id": "TKT-2026-000470"
+ },
+ {
+  "business_minutes_to_resolve": 1097,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000471",
+  "resolved_at": "2026-09-28T16:44:00",
+  "ticket_id": "TKT-2026-000471"
+ },
+ {
+  "business_minutes_to_resolve": 574,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000472",
+  "resolved_at": "2026-09-28T10:34:00",
+  "ticket_id": "TKT-2026-000472"
+ },
+ {
+  "business_minutes_to_resolve": 640,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000473",
+  "resolved_at": "2026-09-28T11:40:00",
+  "ticket_id": "TKT-2026-000473"
+ },
+ {
+  "business_minutes_to_resolve": 729,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000474",
+  "resolved_at": "2026-09-28T16:01:00",
+  "ticket_id": "TKT-2026-000474"
+ },
+ {
+  "business_minutes_to_resolve": 1035,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000475",
+  "resolved_at": "2026-09-30T10:01:00",
+  "ticket_id": "TKT-2026-000475"
+ },
+ {
+  "business_minutes_to_resolve": 449,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000476",
+  "resolved_at": "2026-09-29T11:39:00",
+  "ticket_id": "TKT-2026-000476"
+ },
+ {
+  "business_minutes_to_resolve": 861,
+  "cited_version_id": "VER-POL-HR-2026-007-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000477",
+  "resolved_at": "2026-09-30T12:55:00",
+  "ticket_id": "TKT-2026-000477"
+ },
+ {
+  "business_minutes_to_resolve": 984,
+  "cited_version_id": "VER-POL-HR-2026-003-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000478",
+  "resolved_at": "2026-10-01T17:24:00",
+  "ticket_id": "TKT-2026-000478"
+ },
+ {
+  "business_minutes_to_resolve": 808,
+  "cited_version_id": "VER-POL-HR-2026-009-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000479",
+  "resolved_at": "2026-10-01T15:53:00",
+  "ticket_id": "TKT-2026-000479"
+ },
+ {
+  "business_minutes_to_resolve": 872,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000480",
+  "resolved_at": "2026-10-05T11:07:00",
+  "ticket_id": "TKT-2026-000480"
+ },
+ {
+  "business_minutes_to_resolve": 583,
+  "cited_version_id": "VER-POL-HR-2026-002-02",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000481",
+  "resolved_at": "2026-10-05T11:47:00",
+  "ticket_id": "TKT-2026-000481"
+ },
+ {
+  "business_minutes_to_resolve": 731,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000482",
+  "resolved_at": "2026-10-05T14:50:00",
+  "ticket_id": "TKT-2026-000482"
+ },
+ {
+  "business_minutes_to_resolve": 666,
+  "cited_version_id": "VER-POL-HR-2026-007-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000483",
+  "resolved_at": "2026-10-06T12:06:00",
+  "ticket_id": "TKT-2026-000483"
+ },
+ {
+  "business_minutes_to_resolve": 518,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000484",
+  "resolved_at": "2026-10-06T10:11:00",
+  "ticket_id": "TKT-2026-000484"
+ },
+ {
+  "business_minutes_to_resolve": 1728,
+  "cited_version_id": "VER-POL-HR-2026-012-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000485",
+  "resolved_at": "2026-10-08T13:36:00",
+  "ticket_id": "TKT-2026-000485"
+ },
+ {
+  "business_minutes_to_resolve": 1038,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000486",
+  "resolved_at": "2026-10-07T11:00:00",
+  "ticket_id": "TKT-2026-000486"
+ },
+ {
+  "business_minutes_to_resolve": 2388,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000487",
+  "resolved_at": "2026-10-13T11:39:00",
+  "ticket_id": "TKT-2026-000487"
+ },
+ {
+  "business_minutes_to_resolve": 753,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000488",
+  "resolved_at": "2026-10-08T10:25:00",
+  "ticket_id": "TKT-2026-000488"
+ },
+ {
+  "business_minutes_to_resolve": 656,
+  "cited_version_id": "VER-POL-HR-2026-005-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000489",
+  "resolved_at": "2026-10-08T11:56:00",
+  "ticket_id": "TKT-2026-000489"
+ },
+ {
+  "business_minutes_to_resolve": 271,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000490",
+  "resolved_at": "2026-10-08T10:48:00",
+  "ticket_id": "TKT-2026-000490"
+ },
+ {
+  "business_minutes_to_resolve": 351,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000491",
+  "resolved_at": "2026-10-08T15:41:06",
+  "ticket_id": "TKT-2026-000491"
+ },
+ {
+  "business_minutes_to_resolve": 763,
+  "cited_version_id": "VER-POL-HR-2026-011-04",
+  "resolution_code": "escalated_resolved",
+  "resolution_id": "RES-TKT-2026-000492",
+  "resolved_at": "2026-10-12T11:55:00",
+  "ticket_id": "TKT-2026-000492"
+ },
+ {
+  "business_minutes_to_resolve": 511,
+  "cited_version_id": "VER-POL-HR-2026-006-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000493",
+  "resolved_at": "2026-10-12T09:31:00",
+  "ticket_id": "TKT-2026-000493"
+ },
+ {
+  "business_minutes_to_resolve": 1336,
+  "cited_version_id": "VER-POL-HR-2026-004-03",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000494",
+  "resolved_at": "2026-10-14T13:30:00",
+  "ticket_id": "TKT-2026-000494"
+ },
+ {
+  "business_minutes_to_resolve": 863,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000495",
+  "resolved_at": "2026-10-13T15:23:00",
+  "ticket_id": "TKT-2026-000495"
+ },
+ {
+  "business_minutes_to_resolve": 668,
+  "cited_version_id": "VER-POL-HR-2026-003-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000496",
+  "resolved_at": "2026-10-14T17:27:00",
+  "ticket_id": "TKT-2026-000496"
+ },
+ {
+  "business_minutes_to_resolve": 1059,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000497",
+  "resolved_at": "2026-10-15T16:50:00",
+  "ticket_id": "TKT-2026-000497"
+ },
+ {
+  "business_minutes_to_resolve": 802,
+  "cited_version_id": "VER-POL-HR-2026-008-02",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000498",
+  "resolved_at": "2026-10-15T14:22:00",
+  "ticket_id": "TKT-2026-000498"
+ },
+ {
+  "business_minutes_to_resolve": 2302,
+  "cited_version_id": "VER-POL-HR-2026-001-02",
+  "resolution_code": "policy_clarified",
+  "resolution_id": "RES-TKT-2026-000499",
+  "resolved_at": "2026-10-22T11:53:00",
+  "ticket_id": "TKT-2026-000499"
+ },
+ {
+  "business_minutes_to_resolve": 820,
+  "cited_version_id": "VER-POL-HR-2026-003-04",
+  "resolution_code": "answered",
+  "resolution_id": "RES-TKT-2026-000500",
+  "resolved_at": "2026-10-19T14:04:00",
+  "ticket_id": "TKT-2026-000500"
+ }
+]

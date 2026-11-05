@@ -1,0 +1,798 @@
+[
+ {
+  "kb_id": "KB-000001",
+  "version_id": "VER-POL-HR-2026-001-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "version_id": "VER-POL-HR-2026-002-03"
+ },
+ {
+  "kb_id": "KB-000003",
+  "version_id": "VER-POL-HR-2026-003-01"
+ },
+ {
+  "kb_id": "KB-000003",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "version_id": "VER-POL-HR-2026-004-02"
+ },
+ {
+  "kb_id": "KB-000005",
+  "version_id": "VER-POL-HR-2026-005-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "version_id": "VER-POL-HR-2026-006-04"
+ },
+ {
+  "kb_id": "KB-000007",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "version_id": "VER-POL-HR-2026-008-04"
+ },
+ {
+  "kb_id": "KB-000009",
+  "version_id": "VER-POL-HR-2026-009-01"
+ },
+ {
+  "kb_id": "KB-000009",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "version_id": "VER-POL-HR-2026-010-04"
+ },
+ {
+  "kb_id": "KB-000011",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000012",
+  "version_id": "VER-POL-HR-2026-012-03"
+ },
+ {
+  "kb_id": "KB-000013",
+  "version_id": "VER-POL-HR-2026-013-01"
+ },
+ {
+  "kb_id": "KB-000013",
+  "version_id": "VER-POL-HR-2026-013-02"
+ },
+ {
+  "kb_id": "KB-000014",
+  "version_id": "VER-POL-HR-2026-014-03"
+ },
+ {
+  "kb_id": "KB-000014",
+  "version_id": "VER-POL-HR-2026-014-04"
+ },
+ {
+  "kb_id": "KB-000015",
+  "version_id": "VER-POL-HR-2026-015-02"
+ },
+ {
+  "kb_id": "KB-000016",
+  "version_id": "VER-POL-HR-2026-016-04"
+ },
+ {
+  "kb_id": "KB-000017",
+  "version_id": "VER-POL-HR-2026-017-03"
+ },
+ {
+  "kb_id": "KB-000018",
+  "version_id": "VER-POL-HR-2026-018-01"
+ },
+ {
+  "kb_id": "KB-000019",
+  "version_id": "VER-POL-HR-2026-019-01"
+ },
+ {
+  "kb_id": "KB-000019",
+  "version_id": "VER-POL-HR-2026-019-04"
+ },
+ {
+  "kb_id": "KB-000020",
+  "version_id": "VER-POL-HR-2026-020-02"
+ },
+ {
+  "kb_id": "KB-000021",
+  "version_id": "VER-POL-HR-2026-021-04"
+ },
+ {
+  "kb_id": "KB-000022",
+  "version_id": "VER-POL-HR-2026-022-01"
+ },
+ {
+  "kb_id": "KB-000022",
+  "version_id": "VER-POL-HR-2026-022-02"
+ },
+ {
+  "kb_id": "KB-000023",
+  "version_id": "VER-POL-HR-2026-023-01"
+ },
+ {
+  "kb_id": "KB-000023",
+  "version_id": "VER-POL-HR-2026-023-02"
+ },
+ {
+  "kb_id": "KB-000024",
+  "version_id": "VER-POL-HR-2026-024-01"
+ },
+ {
+  "kb_id": "KB-000024",
+  "version_id": "VER-POL-HR-2026-024-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "version_id": "VER-POL-HR-2026-025-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "version_id": "VER-POL-HR-2026-025-03"
+ },
+ {
+  "kb_id": "KB-000026",
+  "version_id": "VER-POL-HR-2026-026-03"
+ },
+ {
+  "kb_id": "KB-000027",
+  "version_id": "VER-POL-HR-2026-027-02"
+ },
+ {
+  "kb_id": "KB-000027",
+  "version_id": "VER-POL-HR-2026-027-03"
+ },
+ {
+  "kb_id": "KB-000028",
+  "version_id": "VER-POL-HR-2026-028-02"
+ },
+ {
+  "kb_id": "KB-000029",
+  "version_id": "VER-POL-HR-2026-029-01"
+ },
+ {
+  "kb_id": "KB-000030",
+  "version_id": "VER-POL-HR-2026-030-02"
+ },
+ {
+  "kb_id": "KB-000031",
+  "version_id": "VER-POL-HR-2026-031-02"
+ },
+ {
+  "kb_id": "KB-000032",
+  "version_id": "VER-POL-HR-2026-032-03"
+ },
+ {
+  "kb_id": "KB-000033",
+  "version_id": "VER-POL-HR-2026-033-01"
+ },
+ {
+  "kb_id": "KB-000034",
+  "version_id": "VER-POL-HR-2026-034-02"
+ },
+ {
+  "kb_id": "KB-000034",
+  "version_id": "VER-POL-HR-2026-034-03"
+ },
+ {
+  "kb_id": "KB-000035",
+  "version_id": "VER-POL-HR-2026-035-01"
+ },
+ {
+  "kb_id": "KB-000035",
+  "version_id": "VER-POL-HR-2026-035-02"
+ },
+ {
+  "kb_id": "KB-000036",
+  "version_id": "VER-POL-HR-2026-036-03"
+ },
+ {
+  "kb_id": "KB-000037",
+  "version_id": "VER-POL-HR-2026-037-02"
+ },
+ {
+  "kb_id": "KB-000038",
+  "version_id": "VER-POL-HR-2026-038-02"
+ },
+ {
+  "kb_id": "KB-000039",
+  "version_id": "VER-POL-HR-2026-039-01"
+ },
+ {
+  "kb_id": "KB-000039",
+  "version_id": "VER-POL-HR-2026-039-04"
+ },
+ {
+  "kb_id": "KB-000040",
+  "version_id": "VER-POL-HR-2026-040-01"
+ },
+ {
+  "kb_id": "KB-000041",
+  "version_id": "VER-POL-HR-2026-001-03"
+ },
+ {
+  "kb_id": "KB-000042",
+  "version_id": "VER-POL-HR-2026-002-03"
+ },
+ {
+  "kb_id": "KB-000043",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": "KB-000044",
+  "version_id": "VER-POL-HR-2026-004-02"
+ },
+ {
+  "kb_id": "KB-000045",
+  "version_id": "VER-POL-HR-2026-005-02"
+ },
+ {
+  "kb_id": "KB-000046",
+  "version_id": "VER-POL-HR-2026-006-04"
+ },
+ {
+  "kb_id": "KB-000047",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000048",
+  "version_id": "VER-POL-HR-2026-008-04"
+ },
+ {
+  "kb_id": "KB-000049",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000050",
+  "version_id": "VER-POL-HR-2026-010-04"
+ },
+ {
+  "kb_id": "KB-000051",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000052",
+  "version_id": "VER-POL-HR-2026-012-03"
+ },
+ {
+  "kb_id": "KB-000053",
+  "version_id": "VER-POL-HR-2026-013-01"
+ },
+ {
+  "kb_id": "KB-000053",
+  "version_id": "VER-POL-HR-2026-013-02"
+ },
+ {
+  "kb_id": "KB-000054",
+  "version_id": "VER-POL-HR-2026-014-04"
+ },
+ {
+  "kb_id": "KB-000055",
+  "version_id": "VER-POL-HR-2026-015-02"
+ },
+ {
+  "kb_id": "KB-000056",
+  "version_id": "VER-POL-HR-2026-016-01"
+ },
+ {
+  "kb_id": "KB-000056",
+  "version_id": "VER-POL-HR-2026-016-04"
+ },
+ {
+  "kb_id": "KB-000057",
+  "version_id": "VER-POL-HR-2026-017-03"
+ },
+ {
+  "kb_id": "KB-000058",
+  "version_id": "VER-POL-HR-2026-018-01"
+ },
+ {
+  "kb_id": "KB-000059",
+  "version_id": "VER-POL-HR-2026-019-04"
+ },
+ {
+  "kb_id": "KB-000060",
+  "version_id": "VER-POL-HR-2026-020-01"
+ },
+ {
+  "kb_id": "KB-000060",
+  "version_id": "VER-POL-HR-2026-020-02"
+ },
+ {
+  "kb_id": "KB-000061",
+  "version_id": "VER-POL-HR-2026-021-04"
+ },
+ {
+  "kb_id": "KB-000062",
+  "version_id": "VER-POL-HR-2026-022-02"
+ },
+ {
+  "kb_id": "KB-000063",
+  "version_id": "VER-POL-HR-2026-023-01"
+ },
+ {
+  "kb_id": "KB-000063",
+  "version_id": "VER-POL-HR-2026-023-02"
+ },
+ {
+  "kb_id": "KB-000064",
+  "version_id": "VER-POL-HR-2026-024-01"
+ },
+ {
+  "kb_id": "KB-000064",
+  "version_id": "VER-POL-HR-2026-024-02"
+ },
+ {
+  "kb_id": "KB-000065",
+  "version_id": "VER-POL-HR-2026-025-03"
+ },
+ {
+  "kb_id": "KB-000066",
+  "version_id": "VER-POL-HR-2026-026-03"
+ },
+ {
+  "kb_id": "KB-000067",
+  "version_id": "VER-POL-HR-2026-027-02"
+ },
+ {
+  "kb_id": "KB-000067",
+  "version_id": "VER-POL-HR-2026-027-03"
+ },
+ {
+  "kb_id": "KB-000068",
+  "version_id": "VER-POL-HR-2026-028-01"
+ },
+ {
+  "kb_id": "KB-000068",
+  "version_id": "VER-POL-HR-2026-028-02"
+ },
+ {
+  "kb_id": "KB-000069",
+  "version_id": "VER-POL-HR-2026-029-01"
+ },
+ {
+  "kb_id": "KB-000070",
+  "version_id": "VER-POL-HR-2026-030-01"
+ },
+ {
+  "kb_id": "KB-000070",
+  "version_id": "VER-POL-HR-2026-030-02"
+ },
+ {
+  "kb_id": "KB-000071",
+  "version_id": "VER-POL-HR-2026-031-01"
+ },
+ {
+  "kb_id": "KB-000071",
+  "version_id": "VER-POL-HR-2026-031-02"
+ },
+ {
+  "kb_id": "KB-000072",
+  "version_id": "VER-POL-HR-2026-032-01"
+ },
+ {
+  "kb_id": "KB-000072",
+  "version_id": "VER-POL-HR-2026-032-03"
+ },
+ {
+  "kb_id": "KB-000073",
+  "version_id": "VER-POL-HR-2026-033-01"
+ },
+ {
+  "kb_id": "KB-000074",
+  "version_id": "VER-POL-HR-2026-034-01"
+ },
+ {
+  "kb_id": "KB-000074",
+  "version_id": "VER-POL-HR-2026-034-03"
+ },
+ {
+  "kb_id": "KB-000075",
+  "version_id": "VER-POL-HR-2026-035-01"
+ },
+ {
+  "kb_id": "KB-000075",
+  "version_id": "VER-POL-HR-2026-035-02"
+ },
+ {
+  "kb_id": "KB-000076",
+  "version_id": "VER-POL-HR-2026-036-01"
+ },
+ {
+  "kb_id": "KB-000076",
+  "version_id": "VER-POL-HR-2026-036-03"
+ },
+ {
+  "kb_id": "KB-000077",
+  "version_id": "VER-POL-HR-2026-037-02"
+ },
+ {
+  "kb_id": "KB-000078",
+  "version_id": "VER-POL-HR-2026-038-02"
+ },
+ {
+  "kb_id": "KB-000079",
+  "version_id": "VER-POL-HR-2026-039-04"
+ },
+ {
+  "kb_id": "KB-000080",
+  "version_id": "VER-POL-HR-2026-040-01"
+ },
+ {
+  "kb_id": "KB-000081",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000081",
+  "version_id": "VER-POL-HR-2026-001-03"
+ },
+ {
+  "kb_id": "KB-000082",
+  "version_id": "VER-POL-HR-2026-002-03"
+ },
+ {
+  "kb_id": "KB-000083",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": "KB-000084",
+  "version_id": "VER-POL-HR-2026-004-02"
+ },
+ {
+  "kb_id": "KB-000085",
+  "version_id": "VER-POL-HR-2026-005-02"
+ },
+ {
+  "kb_id": "KB-000086",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000086",
+  "version_id": "VER-POL-HR-2026-006-04"
+ },
+ {
+  "kb_id": "KB-000087",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000088",
+  "version_id": "VER-POL-HR-2026-008-04"
+ },
+ {
+  "kb_id": "KB-000089",
+  "version_id": "VER-POL-HR-2026-009-01"
+ },
+ {
+  "kb_id": "KB-000089",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000090",
+  "version_id": "VER-POL-HR-2026-010-04"
+ },
+ {
+  "kb_id": "KB-000091",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000092",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000092",
+  "version_id": "VER-POL-HR-2026-012-03"
+ },
+ {
+  "kb_id": "KB-000093",
+  "version_id": "VER-POL-HR-2026-013-01"
+ },
+ {
+  "kb_id": "KB-000093",
+  "version_id": "VER-POL-HR-2026-013-02"
+ },
+ {
+  "kb_id": "KB-000094",
+  "version_id": "VER-POL-HR-2026-014-04"
+ },
+ {
+  "kb_id": "KB-000095",
+  "version_id": "VER-POL-HR-2026-015-02"
+ },
+ {
+  "kb_id": "KB-000096",
+  "version_id": "VER-POL-HR-2026-016-04"
+ },
+ {
+  "kb_id": "KB-000097",
+  "version_id": "VER-POL-HR-2026-017-01"
+ },
+ {
+  "kb_id": "KB-000097",
+  "version_id": "VER-POL-HR-2026-017-03"
+ },
+ {
+  "kb_id": "KB-000098",
+  "version_id": "VER-POL-HR-2026-018-01"
+ },
+ {
+  "kb_id": "KB-000099",
+  "version_id": "VER-POL-HR-2026-019-04"
+ },
+ {
+  "kb_id": "KB-000100",
+  "version_id": "VER-POL-HR-2026-020-02"
+ },
+ {
+  "kb_id": "KB-000101",
+  "version_id": "VER-POL-HR-2026-021-04"
+ },
+ {
+  "kb_id": "KB-000102",
+  "version_id": "VER-POL-HR-2026-022-01"
+ },
+ {
+  "kb_id": "KB-000102",
+  "version_id": "VER-POL-HR-2026-022-02"
+ },
+ {
+  "kb_id": "KB-000103",
+  "version_id": "VER-POL-HR-2026-023-02"
+ },
+ {
+  "kb_id": "KB-000104",
+  "version_id": "VER-POL-HR-2026-024-01"
+ },
+ {
+  "kb_id": "KB-000104",
+  "version_id": "VER-POL-HR-2026-024-02"
+ },
+ {
+  "kb_id": "KB-000105",
+  "version_id": "VER-POL-HR-2026-025-03"
+ },
+ {
+  "kb_id": "KB-000106",
+  "version_id": "VER-POL-HR-2026-026-03"
+ },
+ {
+  "kb_id": "KB-000107",
+  "version_id": "VER-POL-HR-2026-027-03"
+ },
+ {
+  "kb_id": "KB-000108",
+  "version_id": "VER-POL-HR-2026-028-01"
+ },
+ {
+  "kb_id": "KB-000108",
+  "version_id": "VER-POL-HR-2026-028-02"
+ },
+ {
+  "kb_id": "KB-000109",
+  "version_id": "VER-POL-HR-2026-029-01"
+ },
+ {
+  "kb_id": "KB-000110",
+  "version_id": "VER-POL-HR-2026-030-02"
+ },
+ {
+  "kb_id": "KB-000111",
+  "version_id": "VER-POL-HR-2026-031-01"
+ },
+ {
+  "kb_id": "KB-000111",
+  "version_id": "VER-POL-HR-2026-031-02"
+ },
+ {
+  "kb_id": "KB-000112",
+  "version_id": "VER-POL-HR-2026-032-03"
+ },
+ {
+  "kb_id": "KB-000113",
+  "version_id": "VER-POL-HR-2026-033-01"
+ },
+ {
+  "kb_id": "KB-000114",
+  "version_id": "VER-POL-HR-2026-034-03"
+ },
+ {
+  "kb_id": "KB-000115",
+  "version_id": "VER-POL-HR-2026-035-01"
+ },
+ {
+  "kb_id": "KB-000115",
+  "version_id": "VER-POL-HR-2026-035-02"
+ },
+ {
+  "kb_id": "KB-000116",
+  "version_id": "VER-POL-HR-2026-036-03"
+ },
+ {
+  "kb_id": "KB-000117",
+  "version_id": "VER-POL-HR-2026-037-02"
+ },
+ {
+  "kb_id": "KB-000118",
+  "version_id": "VER-POL-HR-2026-038-01"
+ },
+ {
+  "kb_id": "KB-000118",
+  "version_id": "VER-POL-HR-2026-038-02"
+ },
+ {
+  "kb_id": "KB-000119",
+  "version_id": "VER-POL-HR-2026-039-03"
+ },
+ {
+  "kb_id": "KB-000119",
+  "version_id": "VER-POL-HR-2026-039-04"
+ },
+ {
+  "kb_id": "KB-000120",
+  "version_id": "VER-POL-HR-2026-040-01"
+ },
+ {
+  "kb_id": "KB-000121",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000121",
+  "version_id": "VER-POL-HR-2026-001-03"
+ },
+ {
+  "kb_id": "KB-000122",
+  "version_id": "VER-POL-HR-2026-002-03"
+ },
+ {
+  "kb_id": "KB-000123",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": "KB-000124",
+  "version_id": "VER-POL-HR-2026-004-02"
+ },
+ {
+  "kb_id": "KB-000125",
+  "version_id": "VER-POL-HR-2026-005-01"
+ },
+ {
+  "kb_id": "KB-000125",
+  "version_id": "VER-POL-HR-2026-005-02"
+ },
+ {
+  "kb_id": "KB-000126",
+  "version_id": "VER-POL-HR-2026-006-01"
+ },
+ {
+  "kb_id": "KB-000126",
+  "version_id": "VER-POL-HR-2026-006-04"
+ },
+ {
+  "kb_id": "KB-000127",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000128",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000128",
+  "version_id": "VER-POL-HR-2026-008-04"
+ },
+ {
+  "kb_id": "KB-000129",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000130",
+  "version_id": "VER-POL-HR-2026-010-03"
+ },
+ {
+  "kb_id": "KB-000130",
+  "version_id": "VER-POL-HR-2026-010-04"
+ },
+ {
+  "kb_id": "KB-000131",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000132",
+  "version_id": "VER-POL-HR-2026-012-03"
+ },
+ {
+  "kb_id": "KB-000133",
+  "version_id": "VER-POL-HR-2026-013-02"
+ },
+ {
+  "kb_id": "KB-000134",
+  "version_id": "VER-POL-HR-2026-014-04"
+ },
+ {
+  "kb_id": "KB-000135",
+  "version_id": "VER-POL-HR-2026-015-02"
+ },
+ {
+  "kb_id": "KB-000136",
+  "version_id": "VER-POL-HR-2026-016-04"
+ },
+ {
+  "kb_id": "KB-000137",
+  "version_id": "VER-POL-HR-2026-017-03"
+ },
+ {
+  "kb_id": "KB-000138",
+  "version_id": "VER-POL-HR-2026-018-01"
+ },
+ {
+  "kb_id": "KB-000139",
+  "version_id": "VER-POL-HR-2026-019-03"
+ },
+ {
+  "kb_id": "KB-000139",
+  "version_id": "VER-POL-HR-2026-019-04"
+ },
+ {
+  "kb_id": "KB-000140",
+  "version_id": "VER-POL-HR-2026-020-02"
+ },
+ {
+  "kb_id": "KB-000141",
+  "version_id": "VER-POL-HR-2026-021-04"
+ },
+ {
+  "kb_id": "KB-000142",
+  "version_id": "VER-POL-HR-2026-022-01"
+ },
+ {
+  "kb_id": "KB-000142",
+  "version_id": "VER-POL-HR-2026-022-02"
+ },
+ {
+  "kb_id": "KB-000143",
+  "version_id": "VER-POL-HR-2026-023-02"
+ },
+ {
+  "kb_id": "KB-000144",
+  "version_id": "VER-POL-HR-2026-024-01"
+ },
+ {
+  "kb_id": "KB-000144",
+  "version_id": "VER-POL-HR-2026-024-02"
+ },
+ {
+  "kb_id": "KB-000145",
+  "version_id": "VER-POL-HR-2026-025-03"
+ },
+ {
+  "kb_id": "KB-000146",
+  "version_id": "VER-POL-HR-2026-026-03"
+ },
+ {
+  "kb_id": "KB-000147",
+  "version_id": "VER-POL-HR-2026-027-03"
+ },
+ {
+  "kb_id": "KB-000148",
+  "version_id": "VER-POL-HR-2026-028-02"
+ },
+ {
+  "kb_id": "KB-000149",
+  "version_id": "VER-POL-HR-2026-029-01"
+ },
+ {
+  "kb_id": "KB-000150",
+  "version_id": "VER-POL-HR-2026-030-02"
+ }
+]

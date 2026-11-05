@@ -1,0 +1,2888 @@
+[
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000001-002",
+  "snippet": "maternity leave weeks is 18; notice period days is 45",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000002-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000004-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000005-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000006-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000007-002",
+  "snippet": "proof submission window days is 15",
+  "version_id": "VER-POL-HR-2026-008-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000008-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000009-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000010-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000011-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000012-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000013-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000014-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000015-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000016-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000017-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000018-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000019-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000020-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000021-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000022-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000023-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000024-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000025-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000026-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000027-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000028-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000029-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000030-002",
+  "snippet": "maternity leave weeks is 18; notice period days is 45",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000031-002",
+  "snippet": "proof submission window days is 15",
+  "version_id": "VER-POL-HR-2026-008-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000032-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000033-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000014",
+  "message_id": "MSG-TKT-2026-000034-002",
+  "snippet": "medical certificate after days is 4; sick leave days is 8",
+  "version_id": "VER-POL-HR-2026-002-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000035-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000036-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000037-002",
+  "snippet": "claim window days is 30; receipt required above inr is 500",
+  "version_id": "VER-POL-HR-2026-007-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000038-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000039-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000040-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000041-002",
+  "snippet": "complaint ack days is 5; inquiry completion days is 100",
+  "version_id": "VER-POL-HR-2026-011-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000042-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000043-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000044-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000046-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000047-002",
+  "snippet": "maternity leave weeks is 18; notice period days is 45",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000048-004",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000049-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000050-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000051-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000052-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000053-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000054-002",
+  "snippet": "vpf max percent is 30",
+  "version_id": "VER-POL-HR-2026-005-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000055-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000056-002",
+  "snippet": "maternity leave weeks is 18; notice period days is 45",
+  "version_id": "VER-POL-HR-2026-003-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000058-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000059-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000060-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000061-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000062-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000063-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000064-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000065-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000066-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000067-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000068-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000069-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000070-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000071-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000072-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000073-004",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000074-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000076-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000077-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000078-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000079-002",
+  "snippet": "complaint ack days is 5; inquiry completion days is 100",
+  "version_id": "VER-POL-HR-2026-011-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000080-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000081-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000082-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000083-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000084-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000085-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000087-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000088-002",
+  "snippet": "proof submission window days is 15",
+  "version_id": "VER-POL-HR-2026-008-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000089-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000090-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000091-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000092-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000093-002",
+  "snippet": "vpf max percent is 30",
+  "version_id": "VER-POL-HR-2026-005-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000094-002",
+  "snippet": "vpf max percent is 30",
+  "version_id": "VER-POL-HR-2026-005-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000095-004",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000096-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000097-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000098-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000099-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000100-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000101-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000102-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000103-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000104-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000105-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000106-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000107-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000108-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000109-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000110-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000111-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000112-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000113-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000114-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000115-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000116-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000117-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000118-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000120-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000121-002",
+  "snippet": "vpf max percent is 30",
+  "version_id": "VER-POL-HR-2026-005-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000122-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000123-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000124-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000125-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000126-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000127-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000128-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000129-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000130-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000132-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000133-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000134-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000135-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000136-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000137-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000138-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000139-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000140-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000141-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000142-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000143-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000144-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000145-002",
+  "snippet": "vpf max percent is 30",
+  "version_id": "VER-POL-HR-2026-005-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000146-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000147-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000148-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000149-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000150-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000151-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000153-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000154-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000155-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000156-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000157-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000158-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000159-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000160-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000161-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000162-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000163-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000164-004",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000165-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000166-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000167-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000168-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000169-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000170-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000028",
+  "message_id": "MSG-TKT-2026-000171-004",
+  "snippet": "dependents covered is 3; sum insured inr is 400000",
+  "version_id": "VER-POL-HR-2026-004-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000172-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000173-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000174-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000175-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000176-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000177-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000178-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000179-004",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000180-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000181-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000182-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000025",
+  "message_id": "MSG-TKT-2026-000183-002",
+  "snippet": "annual leave days is 18; carry forward days is 5",
+  "version_id": "VER-POL-HR-2026-001-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000185-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000186-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000187-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000189-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000190-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000191-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000192-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000193-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000194-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000195-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000196-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000197-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000198-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000199-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000200-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000201-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000202-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000203-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000204-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000205-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000206-002",
+  "snippet": "vpf max percent is 30",
+  "version_id": "VER-POL-HR-2026-005-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000207-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000208-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000210-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000211-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000212-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000213-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000214-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000215-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000216-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000217-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000218-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000219-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000220-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000221-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000222-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000223-002",
+  "snippet": "proof submission window days is 15",
+  "version_id": "VER-POL-HR-2026-008-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000224-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000225-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000226-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000227-004",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000228-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000229-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000230-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000231-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000232-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000233-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000234-004",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000235-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000236-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000237-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000238-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000239-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000240-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000241-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000242-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000243-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000244-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000245-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000246-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000247-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000248-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000249-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000250-004",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000251-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000252-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000253-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000254-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000255-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000256-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000257-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000258-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000259-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000260-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000261-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000262-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000263-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000264-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000265-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000266-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000267-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000268-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000269-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000270-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000271-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000272-002",
+  "snippet": "joining formalities days is 7",
+  "version_id": "VER-POL-HR-2026-009-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000273-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000274-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000276-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000277-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000279-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000281-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000282-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000283-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000284-002",
+  "snippet": "joining formalities days is 5",
+  "version_id": "VER-POL-HR-2026-009-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000285-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000286-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000287-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000288-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000289-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000290-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000291-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000292-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000293-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000294-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000295-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000296-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000297-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000298-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000299-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000300-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000301-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000302-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000303-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000304-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000305-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000306-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000307-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000308-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000309-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000310-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000311-004",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000312-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000313-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000314-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000316-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000317-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000318-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000319-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000320-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000321-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000322-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000323-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000324-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000325-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000326-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000327-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000328-002",
+  "snippet": "complaint ack days is 3; inquiry completion days is 90",
+  "version_id": "VER-POL-HR-2026-011-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000329-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000330-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000331-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000332-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000333-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000334-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000335-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000336-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000337-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000338-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000339-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000340-004",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000341-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000342-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000343-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000344-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000345-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000346-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000347-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000348-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000349-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000350-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000351-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000352-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000353-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000354-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000356-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000357-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000358-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000359-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000360-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000361-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000362-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000363-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000364-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000366-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000367-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000368-004",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000369-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000370-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000371-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000372-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000373-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000374-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000375-002",
+  "snippet": "claim window days is 45; receipt required above inr is 1000",
+  "version_id": "VER-POL-HR-2026-007-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000376-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000377-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000378-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000379-004",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000380-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000381-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000383-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000384-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000385-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000386-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000387-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000388-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000389-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000390-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000391-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000392-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000393-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000024",
+  "message_id": "MSG-TKT-2026-000394-004",
+  "snippet": "wfh days per week is 1",
+  "version_id": "VER-POL-HR-2026-012-01"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000395-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000396-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000397-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000398-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000399-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000400-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000401-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000402-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000403-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000404-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000405-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000406-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000407-002",
+  "snippet": "maternity leave weeks is 24; notice period days is 60",
+  "version_id": "VER-POL-HR-2026-003-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000408-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000409-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000410-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000411-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000412-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000413-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000414-002",
+  "snippet": "claim window days is 60; receipt required above inr is 1500",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000415-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000416-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000417-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000418-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000419-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000420-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000421-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000422-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000423-002",
+  "snippet": "claim window days is 60; receipt required above inr is 1500",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000424-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000425-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000426-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000427-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000428-004",
+  "snippet": "salary credit day is 30",
+  "version_id": "VER-POL-HR-2026-006-01"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000429-004",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000430-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000431-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000432-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000433-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000434-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000435-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000436-002",
+  "snippet": "claim window days is 60; receipt required above inr is 1500",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000437-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000438-004",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000439-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000440-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000441-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000442-002",
+  "snippet": "claim window days is 60; receipt required above inr is 1500",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000443-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000444-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": null,
+  "message_id": "MSG-TKT-2026-000445-002",
+  "snippet": "proof submission window days is 15",
+  "version_id": "VER-POL-HR-2026-008-01"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000446-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000447-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000448-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000449-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000450-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000451-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000452-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000453-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000454-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000455-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000456-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000457-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000458-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000459-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000010",
+  "message_id": "MSG-TKT-2026-000460-002",
+  "snippet": "access setup hours is 72; laptop delivery days is 7",
+  "version_id": "VER-POL-HR-2026-010-01"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000461-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000462-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000463-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000003",
+  "message_id": "MSG-TKT-2026-000464-002",
+  "snippet": "maternity leave weeks is 26; notice period days is 75",
+  "version_id": "VER-POL-HR-2026-003-04"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000465-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000466-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000467-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000469-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000470-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000471-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000472-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000473-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000474-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000475-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000476-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000477-002",
+  "snippet": "claim window days is 60; receipt required above inr is 1500",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000003",
+  "message_id": "MSG-TKT-2026-000478-002",
+  "snippet": "maternity leave weeks is 26; notice period days is 75",
+  "version_id": "VER-POL-HR-2026-003-04"
+ },
+ {
+  "kb_id": "KB-000009",
+  "message_id": "MSG-TKT-2026-000479-002",
+  "snippet": "joining formalities days is 3",
+  "version_id": "VER-POL-HR-2026-009-04"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000480-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000002",
+  "message_id": "MSG-TKT-2026-000481-002",
+  "snippet": "medical certificate after days is 3; sick leave days is 10",
+  "version_id": "VER-POL-HR-2026-002-02"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000482-002",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000007",
+  "message_id": "MSG-TKT-2026-000483-002",
+  "snippet": "claim window days is 60; receipt required above inr is 1500",
+  "version_id": "VER-POL-HR-2026-007-03"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000484-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000012",
+  "message_id": "MSG-TKT-2026-000485-004",
+  "snippet": "wfh days per week is 2",
+  "version_id": "VER-POL-HR-2026-012-02"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000486-004",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000487-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000488-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000005",
+  "message_id": "MSG-TKT-2026-000489-002",
+  "snippet": "vpf max percent is 35",
+  "version_id": "VER-POL-HR-2026-005-04"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000490-002",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000491-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000011",
+  "message_id": "MSG-TKT-2026-000492-002",
+  "snippet": "complaint ack days is 2; inquiry completion days is 75",
+  "version_id": "VER-POL-HR-2026-011-04"
+ },
+ {
+  "kb_id": "KB-000006",
+  "message_id": "MSG-TKT-2026-000493-002",
+  "snippet": "salary credit day is 28",
+  "version_id": "VER-POL-HR-2026-006-02"
+ },
+ {
+  "kb_id": "KB-000004",
+  "message_id": "MSG-TKT-2026-000494-004",
+  "snippet": "dependents covered is 4; sum insured inr is 500000",
+  "version_id": "VER-POL-HR-2026-004-03"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000495-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000003",
+  "message_id": "MSG-TKT-2026-000496-002",
+  "snippet": "maternity leave weeks is 26; notice period days is 75",
+  "version_id": "VER-POL-HR-2026-003-04"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000497-002",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000008",
+  "message_id": "MSG-TKT-2026-000498-002",
+  "snippet": "proof submission window days is 20",
+  "version_id": "VER-POL-HR-2026-008-02"
+ },
+ {
+  "kb_id": "KB-000001",
+  "message_id": "MSG-TKT-2026-000499-004",
+  "snippet": "annual leave days is 20; carry forward days is 6",
+  "version_id": "VER-POL-HR-2026-001-02"
+ },
+ {
+  "kb_id": "KB-000003",
+  "message_id": "MSG-TKT-2026-000500-002",
+  "snippet": "maternity leave weeks is 26; notice period days is 75",
+  "version_id": "VER-POL-HR-2026-003-04"
+ }
+]

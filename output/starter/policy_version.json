@@ -1,0 +1,299 @@
+[
+ {
+  "effective_from": "2024-09-28",
+  "effective_to": "2026-04-26",
+  "key_rules": "{\"annual_leave_days\": 18, \"carry_forward_days\": 5}",
+  "policy_id": "POL-HR-2026-001",
+  "summary": "Annual Leave Policy, version 1: annual leave days = 18, carry forward days = 5.",
+  "version_id": "VER-POL-HR-2026-001-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2026-04-27",
+  "effective_to": null,
+  "key_rules": "{\"annual_leave_days\": 20, \"carry_forward_days\": 6}",
+  "policy_id": "POL-HR-2026-001",
+  "summary": "Annual Leave Policy, version 2: annual leave days = 20, carry forward days = 6.",
+  "version_id": "VER-POL-HR-2026-001-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2024-01-20",
+  "effective_to": "2025-07-30",
+  "key_rules": "{\"medical_certificate_after_days\": 4, \"sick_leave_days\": 8}",
+  "policy_id": "POL-HR-2026-002",
+  "summary": "Sick Leave Policy, version 1: medical certificate after days = 4, sick leave days = 8.",
+  "version_id": "VER-POL-HR-2026-002-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-07-31",
+  "effective_to": null,
+  "key_rules": "{\"medical_certificate_after_days\": 3, \"sick_leave_days\": 10}",
+  "policy_id": "POL-HR-2026-002",
+  "summary": "Sick Leave Policy, version 2: medical certificate after days = 3, sick leave days = 10.",
+  "version_id": "VER-POL-HR-2026-002-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2024-05-26",
+  "effective_to": "2025-12-27",
+  "key_rules": "{\"maternity_leave_weeks\": 12, \"notice_period_days\": 30}",
+  "policy_id": "POL-HR-2026-003",
+  "summary": "Maternity Leave Policy, version 1: maternity leave weeks = 12, notice period days = 30.",
+  "version_id": "VER-POL-HR-2026-003-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-12-28",
+  "effective_to": "2026-02-25",
+  "key_rules": "{\"maternity_leave_weeks\": 18, \"notice_period_days\": 45}",
+  "policy_id": "POL-HR-2026-003",
+  "summary": "Maternity Leave Policy, version 2: maternity leave weeks = 18, notice period days = 45.",
+  "version_id": "VER-POL-HR-2026-003-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2026-02-26",
+  "effective_to": "2026-08-24",
+  "key_rules": "{\"maternity_leave_weeks\": 24, \"notice_period_days\": 60}",
+  "policy_id": "POL-HR-2026-003",
+  "summary": "Maternity Leave Policy, version 3: maternity leave weeks = 24, notice period days = 60.",
+  "version_id": "VER-POL-HR-2026-003-03",
+  "version_no": 3
+ },
+ {
+  "effective_from": "2026-08-25",
+  "effective_to": null,
+  "key_rules": "{\"maternity_leave_weeks\": 26, \"notice_period_days\": 75}",
+  "policy_id": "POL-HR-2026-003",
+  "summary": "Maternity Leave Policy, version 4: maternity leave weeks = 26, notice period days = 75.",
+  "version_id": "VER-POL-HR-2026-003-04",
+  "version_no": 4
+ },
+ {
+  "effective_from": "2024-02-18",
+  "effective_to": "2025-09-28",
+  "key_rules": "{\"dependents_covered\": 2, \"sum_insured_inr\": 300000}",
+  "policy_id": "POL-HR-2026-004",
+  "summary": "Group Health Insurance Policy, version 1: dependents covered = 2, sum insured inr = 300000.",
+  "version_id": "VER-POL-HR-2026-004-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-09-29",
+  "effective_to": "2025-12-27",
+  "key_rules": "{\"dependents_covered\": 3, \"sum_insured_inr\": 400000}",
+  "policy_id": "POL-HR-2026-004",
+  "summary": "Group Health Insurance Policy, version 2: dependents covered = 3, sum insured inr = 400000.",
+  "version_id": "VER-POL-HR-2026-004-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2025-12-28",
+  "effective_to": null,
+  "key_rules": "{\"dependents_covered\": 4, \"sum_insured_inr\": 500000}",
+  "policy_id": "POL-HR-2026-004",
+  "summary": "Group Health Insurance Policy, version 3: dependents covered = 4, sum insured inr = 500000.",
+  "version_id": "VER-POL-HR-2026-004-03",
+  "version_no": 3
+ },
+ {
+  "effective_from": "2024-09-26",
+  "effective_to": "2025-08-29",
+  "key_rules": "{\"vpf_max_percent\": 20}",
+  "policy_id": "POL-HR-2026-005",
+  "summary": "Provident Fund Contribution Policy, version 1: vpf max percent = 20.",
+  "version_id": "VER-POL-HR-2026-005-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-08-30",
+  "effective_to": "2025-12-27",
+  "key_rules": "{\"vpf_max_percent\": 25}",
+  "policy_id": "POL-HR-2026-005",
+  "summary": "Provident Fund Contribution Policy, version 2: vpf max percent = 25.",
+  "version_id": "VER-POL-HR-2026-005-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2025-12-28",
+  "effective_to": "2026-05-26",
+  "key_rules": "{\"vpf_max_percent\": 30}",
+  "policy_id": "POL-HR-2026-005",
+  "summary": "Provident Fund Contribution Policy, version 3: vpf max percent = 30.",
+  "version_id": "VER-POL-HR-2026-005-03",
+  "version_no": 3
+ },
+ {
+  "effective_from": "2026-05-27",
+  "effective_to": null,
+  "key_rules": "{\"vpf_max_percent\": 35}",
+  "policy_id": "POL-HR-2026-005",
+  "summary": "Provident Fund Contribution Policy, version 4: vpf max percent = 35.",
+  "version_id": "VER-POL-HR-2026-005-04",
+  "version_no": 4
+ },
+ {
+  "effective_from": "2024-02-16",
+  "effective_to": "2025-10-28",
+  "key_rules": "{\"salary_credit_day\": 30}",
+  "policy_id": "POL-HR-2026-006",
+  "summary": "Salary Payment Schedule, version 1: salary credit day = 30.",
+  "version_id": "VER-POL-HR-2026-006-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-10-29",
+  "effective_to": null,
+  "key_rules": "{\"salary_credit_day\": 28}",
+  "policy_id": "POL-HR-2026-006",
+  "summary": "Salary Payment Schedule, version 2: salary credit day = 28.",
+  "version_id": "VER-POL-HR-2026-006-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2024-06-30",
+  "effective_to": "2025-07-30",
+  "key_rules": "{\"claim_window_days\": 30, \"receipt_required_above_inr\": 500}",
+  "policy_id": "POL-HR-2026-007",
+  "summary": "Expense Reimbursement Policy, version 1: claim window days = 30, receipt required above inr = 500.",
+  "version_id": "VER-POL-HR-2026-007-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-07-31",
+  "effective_to": "2026-08-24",
+  "key_rules": "{\"claim_window_days\": 45, \"receipt_required_above_inr\": 1000}",
+  "policy_id": "POL-HR-2026-007",
+  "summary": "Expense Reimbursement Policy, version 2: claim window days = 45, receipt required above inr = 1000.",
+  "version_id": "VER-POL-HR-2026-007-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2026-08-25",
+  "effective_to": null,
+  "key_rules": "{\"claim_window_days\": 60, \"receipt_required_above_inr\": 1500}",
+  "policy_id": "POL-HR-2026-007",
+  "summary": "Expense Reimbursement Policy, version 3: claim window days = 60, receipt required above inr = 1500.",
+  "version_id": "VER-POL-HR-2026-007-03",
+  "version_no": 3
+ },
+ {
+  "effective_from": "2024-09-17",
+  "effective_to": "2026-02-25",
+  "key_rules": "{\"proof_submission_window_days\": 15}",
+  "policy_id": "POL-HR-2026-008",
+  "summary": "Tax Declaration and TDS Policy, version 1: proof submission window days = 15.",
+  "version_id": "VER-POL-HR-2026-008-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2026-02-26",
+  "effective_to": null,
+  "key_rules": "{\"proof_submission_window_days\": 20}",
+  "policy_id": "POL-HR-2026-008",
+  "summary": "Tax Declaration and TDS Policy, version 2: proof submission window days = 20.",
+  "version_id": "VER-POL-HR-2026-008-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2024-05-26",
+  "effective_to": "2025-11-27",
+  "key_rules": "{\"joining_formalities_days\": 10}",
+  "policy_id": "POL-HR-2026-009",
+  "summary": "New Joiner Onboarding Checklist, version 1: joining formalities days = 10.",
+  "version_id": "VER-POL-HR-2026-009-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-11-28",
+  "effective_to": "2026-02-25",
+  "key_rules": "{\"joining_formalities_days\": 7}",
+  "policy_id": "POL-HR-2026-009",
+  "summary": "New Joiner Onboarding Checklist, version 2: joining formalities days = 7.",
+  "version_id": "VER-POL-HR-2026-009-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2026-02-26",
+  "effective_to": "2026-06-25",
+  "key_rules": "{\"joining_formalities_days\": 5}",
+  "policy_id": "POL-HR-2026-009",
+  "summary": "New Joiner Onboarding Checklist, version 3: joining formalities days = 5.",
+  "version_id": "VER-POL-HR-2026-009-03",
+  "version_no": 3
+ },
+ {
+  "effective_from": "2026-06-26",
+  "effective_to": null,
+  "key_rules": "{\"joining_formalities_days\": 3}",
+  "policy_id": "POL-HR-2026-009",
+  "summary": "New Joiner Onboarding Checklist, version 4: joining formalities days = 3.",
+  "version_id": "VER-POL-HR-2026-009-04",
+  "version_no": 4
+ },
+ {
+  "effective_from": "2024-02-27",
+  "effective_to": null,
+  "key_rules": "{\"access_setup_hours\": 72, \"laptop_delivery_days\": 7}",
+  "policy_id": "POL-HR-2026-010",
+  "summary": "IT Equipment and Access Provisioning, version 1: access setup hours = 72, laptop delivery days = 7.",
+  "version_id": "VER-POL-HR-2026-010-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2024-03-17",
+  "effective_to": "2025-07-30",
+  "key_rules": "{\"complaint_ack_days\": 7, \"inquiry_completion_days\": 120}",
+  "policy_id": "POL-HR-2026-011",
+  "summary": "Anti-Harassment and POSH Policy, version 1: complaint ack days = 7, inquiry completion days = 120.",
+  "version_id": "VER-POL-HR-2026-011-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-07-31",
+  "effective_to": "2026-02-25",
+  "key_rules": "{\"complaint_ack_days\": 5, \"inquiry_completion_days\": 100}",
+  "policy_id": "POL-HR-2026-011",
+  "summary": "Anti-Harassment and POSH Policy, version 2: complaint ack days = 5, inquiry completion days = 100.",
+  "version_id": "VER-POL-HR-2026-011-02",
+  "version_no": 2
+ },
+ {
+  "effective_from": "2026-02-26",
+  "effective_to": "2026-07-25",
+  "key_rules": "{\"complaint_ack_days\": 3, \"inquiry_completion_days\": 90}",
+  "policy_id": "POL-HR-2026-011",
+  "summary": "Anti-Harassment and POSH Policy, version 3: complaint ack days = 3, inquiry completion days = 90.",
+  "version_id": "VER-POL-HR-2026-011-03",
+  "version_no": 3
+ },
+ {
+  "effective_from": "2026-07-26",
+  "effective_to": null,
+  "key_rules": "{\"complaint_ack_days\": 2, \"inquiry_completion_days\": 75}",
+  "policy_id": "POL-HR-2026-011",
+  "summary": "Anti-Harassment and POSH Policy, version 4: complaint ack days = 2, inquiry completion days = 75.",
+  "version_id": "VER-POL-HR-2026-011-04",
+  "version_no": 4
+ },
+ {
+  "effective_from": "2024-08-23",
+  "effective_to": "2025-08-29",
+  "key_rules": "{\"wfh_days_per_week\": 1}",
+  "policy_id": "POL-HR-2026-012",
+  "summary": "Work From Home Policy, version 1: wfh days per week = 1.",
+  "version_id": "VER-POL-HR-2026-012-01",
+  "version_no": 1
+ },
+ {
+  "effective_from": "2025-08-30",
+  "effective_to": null,
+  "key_rules": "{\"wfh_days_per_week\": 2}",
+  "policy_id": "POL-HR-2026-012",
+  "summary": "Work From Home Policy, version 2: wfh days per week = 2.",
+  "version_id": "VER-POL-HR-2026-012-02",
+  "version_no": 2
+ }
+]
