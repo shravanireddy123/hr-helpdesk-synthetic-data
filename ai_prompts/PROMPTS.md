@@ -61,11 +61,7 @@ the original conversations.
     datasets, pytest results and validation summaries before submission?
 12. How can I confirm that all my changes are pushed to GitHub and that
     my working tree is clean?
-The following original ChatGPT messages were available in the
-conversation history:
-- "write code for this project"
-- "the file is not opening in vs code"
-- "how to make github private account to public"
+
 I also ran pytest and reviewed the results, generated both starter and
 full datasets, compared row counts with expected counts, reviewed
 validation and ground-truth checks, checked reproducibility, followed
